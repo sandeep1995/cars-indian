@@ -10,78 +10,17 @@ type Props = {
 const { cityName, citySlug, count, imageUrl, hrefBase = '/pre-owned-luxury-cars' } = Astro.props as Props;
 ---
 
-<a class="cityCard" href={`${hrefBase}/${citySlug}`}>
-	<div class="media" aria-hidden="true">
+<a class="relative block no-underline rounded-2xl overflow-hidden border border-border bg-[rgba(255,255,255,0.06)] min-h-[140px] hover:border-[rgba(255,255,255,0.18)] hover:bg-[rgba(255,255,255,0.08)]" href={`${hrefBase}/${citySlug}`}>
+	<div class="absolute inset-0">
 		{imageUrl ? (
-			<img src={imageUrl} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+			<img src={imageUrl} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" class="w-full h-full object-cover saturate-[1.05] contrast-[1.05] scale-[1.02]" />
 		) : (
-			<div class="placeholder"></div>
+			<div class="w-full h-full bg-[radial-gradient(1200px_600px_at_10%_10%,rgba(214,178,94,0.2),rgba(0,0,0,0)),radial-gradient(1200px_600px_at_90%_20%,rgba(99,102,241,0.12),rgba(0,0,0,0)),rgba(255,255,255,0.06)]"></div>
 		)}
-		<div class="fade"></div>
+		<div class="absolute inset-0 bg-gradient-to-b from-[rgba(0,0,0,0.05)] via-[rgba(0,0,0,0.58)] to-[rgba(0,0,0,0.82)]"></div>
 	</div>
-	<div class="content">
-		<div class="name">{cityName}</div>
-		<div class="meta">{count} dealers</div>
+	<div class="relative z-[1] p-4 flex flex-col gap-1.5 justify-end min-h-[140px]">
+		<div class="font-[780] text-lg tracking-[-0.02em]">{cityName}</div>
+		<div class="text-[rgba(238,242,255,0.78)] text-[13px]">{count} dealers</div>
 	</div>
 </a>
-
-<style>
-	.cityCard {
-		position: relative;
-		display: block;
-		text-decoration: none;
-		border-radius: 16px;
-		overflow: hidden;
-		border: 1px solid rgba(255, 255, 255, 0.12);
-		background: rgba(255, 255, 255, 0.06);
-		min-height: 140px;
-	}
-	.cityCard:hover {
-		border-color: rgba(255, 255, 255, 0.18);
-		background: rgba(255, 255, 255, 0.08);
-	}
-	.media {
-		position: absolute;
-		inset: 0;
-	}
-	img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-		filter: saturate(1.05) contrast(1.05);
-		transform: scale(1.02);
-	}
-	.placeholder {
-		width: 100%;
-		height: 100%;
-		background: radial-gradient(1200px 600px at 10% 10%, rgba(214, 178, 94, 0.2), rgba(0, 0, 0, 0)),
-			radial-gradient(1200px 600px at 90% 20%, rgba(99, 102, 241, 0.12), rgba(0, 0, 0, 0)),
-			rgba(255, 255, 255, 0.06);
-	}
-	.fade {
-		position: absolute;
-		inset: 0;
-		background: linear-gradient(180deg, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.58) 55%, rgba(0, 0, 0, 0.82) 100%);
-	}
-	.content {
-		position: relative;
-		z-index: 1;
-		padding: 16px;
-		display: flex;
-		flex-direction: column;
-		gap: 6px;
-		justify-content: flex-end;
-		min-height: 140px;
-	}
-	.name {
-		font-weight: 780;
-		font-size: 18px;
-		letter-spacing: -0.02em;
-	}
-	.meta {
-		color: rgba(238, 242, 255, 0.78);
-		font-size: 13px;
-	}
-</style>
-
-

@@ -7,143 +7,53 @@ const nav: NavItem[] = [
 ];
 ---
 
-<header class="site-header">
-	<div class="container inner">
-		<a class="brand" href="/" aria-label="Home">
-			<span class="mark" aria-hidden="true">ILC</span>
-			<span class="brandText">
-				<span class="brandMain">IndianLuxuryCars</span>
-				<span class="brandDomain">.com</span>
+<header class="sticky top-0 z-[100] border-b border-[rgba(255,255,255,0.08)] bg-[rgba(5,6,10,0.85)] backdrop-blur-[20px] backdrop-saturate-[180%] shadow-[0_1px_0_rgba(255,255,255,0.05)_inset,0_8px_32px_rgba(0,0,0,0.4)] transition-[background,border-color] duration-300 ease-in-out">
+	<div class="container flex items-center justify-between gap-3 p-3 max-w-full relative sm:p-[14px] sm:px-5 sm:gap-4 sm:p-[18px] sm:px-6 sm:gap-5 lg:p-5 lg:px-7">
+		<a class="group inline-flex items-center gap-[10px] no-underline transition-transform duration-200 ease-in-out shrink-0 hover:-translate-y-px" href="/" aria-label="Home">
+			<span class="w-9 h-9 inline-flex items-center justify-center rounded-[10px] bg-[linear-gradient(135deg,rgba(214,178,94,1),rgba(241,212,138,0.95),rgba(169,124,43,0.9))] border border-[rgba(255,255,255,0.2)] shadow-[0_4px_12px_rgba(214,178,94,0.3),0_0_0_1px_rgba(0,0,0,0.1)_inset] font-black text-[13px] tracking-[-0.02em] text-[rgba(18,12,2,0.95)] transition-[transform,box-shadow] duration-200 ease-in-out shrink-0 sm:w-10 sm:h-10 sm:text-sm group-hover:scale-105 group-hover:shadow-[0_6px_16px_rgba(214,178,94,0.4),0_0_0_1px_rgba(0,0,0,0.1)_inset]" aria-hidden="true">ILC</span>
+			<span class="flex flex-col leading-[1.1]">
+				<span class="font-extrabold text-sm tracking-[-0.03em] text-[rgba(250,251,255,0.98)] whitespace-nowrap sm:text-[15px] sm:text-base lg:text-[17px]">IndianLuxuryCars</span>
+				<span class="font-semibold text-[10px] tracking-[0.02em] text-[rgba(250,251,255,0.65)] -mt-0.5 sm:text-[11px]">.com</span>
 			</span>
 		</a>
 
-		<button class="mobileMenuBtn" aria-label="Toggle menu" aria-expanded="false" id="mobileMenuBtn">
-			<span></span>
-			<span></span>
-			<span></span>
+		<button class="flex flex-col gap-[5px] w-8 h-8 p-0 bg-transparent border-0 cursor-pointer z-[101] relative sm:hidden" aria-label="Toggle menu" aria-expanded="false" id="mobileMenuBtn">
+			<span class="block w-full h-0.5 bg-[rgba(250,251,255,0.9)] rounded-[2px] transition-all duration-300 ease-in-out"></span>
+			<span class="block w-full h-0.5 bg-[rgba(250,251,255,0.9)] rounded-[2px] transition-all duration-300 ease-in-out"></span>
+			<span class="block w-full h-0.5 bg-[rgba(250,251,255,0.9)] rounded-[2px] transition-all duration-300 ease-in-out"></span>
 		</button>
 
-		<nav class="nav" aria-label="Primary" id="mainNav">
+		<nav class="hidden gap-1 items-center sm:inline-flex" aria-label="Primary" id="mainNav">
 			{nav.map((i) => (
-				<a class="navLink" href={i.href}>{i.label}</a>
+				<a class="nav-link no-underline text-[rgba(250,251,255,0.82)] text-[15px] font-medium py-3 px-4 rounded-[10px] transition-all duration-200 ease-in-out relative block text-left hover:bg-[rgba(255,255,255,0.05)] hover:text-[rgba(250,251,255,0.98)]" href={i.href}>{i.label}</a>
 			))}
 		</nav>
 
-		<div class="actions">
-			<a class="btn ghost" href="/pre-owned-luxury-cars">Browse dealers</a>
-			<a class="btn primary" href="/contact">Get offers</a>
+		<div class="hidden items-center gap-2 sm:flex">
+			<a class="btn ghost text-[13px] py-[9px] px-3 whitespace-nowrap sm:text-sm sm:py-[11px] sm:px-[14px]" href="/pre-owned-luxury-cars">Browse dealers</a>
+			<a class="btn primary text-[13px] py-[9px] px-3 whitespace-nowrap sm:text-sm sm:py-[11px] sm:px-[14px]" href="/contact">Get offers</a>
 		</div>
 	</div>
 </header>
 
 <style>
-	.site-header {
-		position: sticky;
-		top: 0;
-		z-index: 100;
-		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-		background: rgba(5, 6, 10, 0.85);
-		backdrop-filter: blur(20px) saturate(180%);
-		-webkit-backdrop-filter: blur(20px) saturate(180%);
-		box-shadow: 0 1px 0 rgba(255, 255, 255, 0.05) inset, 0 8px 32px rgba(0, 0, 0, 0.4);
-		transition: background 0.3s ease, border-color 0.3s ease;
-	}
-	.inner {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		gap: 12px;
-		padding: 12px 16px;
-		max-width: 100%;
-		position: relative;
-	}
-	.brand {
-		display: inline-flex;
-		align-items: center;
-		gap: 10px;
-		text-decoration: none;
-		transition: transform 0.2s ease;
-		flex-shrink: 0;
-	}
-	.brand:hover {
-		transform: translateY(-1px);
-	}
-	.mark {
-		width: 36px;
-		height: 36px;
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		border-radius: 10px;
-		background: linear-gradient(135deg, rgba(214, 178, 94, 1), rgba(241, 212, 138, 0.95), rgba(169, 124, 43, 0.9));
-		border: 1px solid rgba(255, 255, 255, 0.2);
-		box-shadow: 0 4px 12px rgba(214, 178, 94, 0.3), 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
-		font-weight: 900;
-		font-size: 13px;
-		letter-spacing: -0.02em;
-		color: rgba(18, 12, 2, 0.95);
-		transition: transform 0.2s ease, box-shadow 0.2s ease;
-		flex-shrink: 0;
-	}
-	.brand:hover .mark {
-		transform: scale(1.05);
-		box-shadow: 0 6px 16px rgba(214, 178, 94, 0.4), 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
-	}
-	.brandText {
-		display: flex;
-		flex-direction: column;
-		line-height: 1.1;
-	}
-	.brandMain {
-		font-weight: 800;
-		font-size: 14px;
-		letter-spacing: -0.03em;
-		color: rgba(250, 251, 255, 0.98);
-		white-space: nowrap;
-	}
-	.brandDomain {
-		font-weight: 600;
-		font-size: 10px;
-		letter-spacing: 0.02em;
-		color: rgba(250, 251, 255, 0.65);
-		margin-top: -2px;
-	}
-	.mobileMenuBtn {
-		display: flex;
-		flex-direction: column;
-		gap: 5px;
-		width: 32px;
-		height: 32px;
-		padding: 0;
-		background: transparent;
-		border: none;
-		cursor: pointer;
-		z-index: 101;
-		position: relative;
-	}
-	.mobileMenuBtn span {
-		display: block;
-		width: 100%;
+	.nav-link::after {
+		content: '';
+		position: absolute;
+		bottom: 4px;
+		left: 14px;
+		right: 14px;
 		height: 2px;
-		background: rgba(250, 251, 255, 0.9);
-		border-radius: 2px;
-		transition: all 0.3s ease;
-	}
-	.mobileMenuBtn.menuOpen span:nth-child(1) {
-		transform: rotate(45deg) translate(7px, 7px);
-	}
-	.mobileMenuBtn.menuOpen span:nth-child(2) {
+		background: linear-gradient(90deg, rgba(214, 178, 94, 0.8), rgba(241, 212, 138, 0.6));
 		opacity: 0;
+		transform: scaleX(0);
+		transition: all 0.2s ease;
 	}
-	.mobileMenuBtn.menuOpen span:nth-child(3) {
-		transform: rotate(-45deg) translate(7px, -7px);
+	.nav-link:hover::after {
+		opacity: 1;
+		transform: scaleX(1);
 	}
-	.nav {
-		display: none;
-		gap: 4px;
-		align-items: center;
-	}
-	.nav.navOpen {
+	#mainNav.navOpen {
 		display: flex;
 		position: absolute;
 		top: 100%;
@@ -158,97 +68,17 @@ const nav: NavItem[] = [
 		gap: 8px;
 		box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
 	}
-	.navLink {
-		text-decoration: none;
-		color: rgba(250, 251, 255, 0.82);
-		font-size: 15px;
-		font-weight: 500;
-		padding: 12px 16px;
-		border-radius: 10px;
-		transition: all 0.2s ease;
-		position: relative;
-		display: block;
-		text-align: left;
-	}
-	.nav.navOpen .navLink::after {
+	#mainNav.navOpen .nav-link::after {
 		display: none;
 	}
-	.navLink::after {
-		content: '';
-		position: absolute;
-		bottom: 4px;
-		left: 14px;
-		right: 14px;
-		height: 2px;
-		background: linear-gradient(90deg, rgba(214, 178, 94, 0.8), rgba(241, 212, 138, 0.6));
+	#mobileMenuBtn.menuOpen span:nth-child(1) {
+		transform: rotate(45deg) translate(7px, 7px);
+	}
+	#mobileMenuBtn.menuOpen span:nth-child(2) {
 		opacity: 0;
-		transform: scaleX(0);
-		transition: all 0.2s ease;
 	}
-	.navLink:hover {
-		background: rgba(255, 255, 255, 0.05);
-		color: rgba(250, 251, 255, 0.98);
-	}
-	.navLink:hover::after {
-		opacity: 1;
-		transform: scaleX(1);
-	}
-	.actions {
-		display: none;
-		align-items: center;
-		gap: 8px;
-	}
-	.actions .btn {
-		font-size: 13px;
-		padding: 9px 12px;
-		white-space: nowrap;
-	}
-	@media (min-width: 640px) {
-		.inner {
-			padding: 14px 20px;
-			gap: 16px;
-		}
-		.mark {
-			width: 40px;
-			height: 40px;
-			font-size: 14px;
-		}
-		.brandMain {
-			font-size: 15px;
-		}
-		.brandDomain {
-			font-size: 11px;
-		}
-		.actions {
-			display: flex;
-		}
-		.mobileMenuBtn {
-			display: none;
-		}
-	}
-	@media (min-width: 720px) {
-		.inner {
-			padding: 18px 24px;
-			gap: 20px;
-		}
-		.nav {
-			display: inline-flex;
-		}
-		.brandMain {
-			font-size: 16px;
-		}
-		.actions .btn {
-			font-size: 14px;
-			padding: 11px 14px;
-		}
-	}
-	@media (min-width: 1024px) {
-		.inner {
-			padding: 20px 28px;
-		}
-		.brandMain {
-			font-size: 17px;
-		}
+	#mobileMenuBtn.menuOpen span:nth-child(3) {
+		transform: rotate(-45deg) translate(7px, -7px);
 	}
 </style>
 
@@ -264,5 +94,3 @@ const nav: NavItem[] = [
 		});
 	}
 </script>
-
-

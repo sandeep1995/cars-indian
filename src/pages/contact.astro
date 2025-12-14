@@ -6,28 +6,28 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 ---
 
 <Layout title={title} description={description}>
-	<div class="container">
-		<header class="pageHero">
-			<div class="pageHeroBody">
-				<div class="kicker">Luxury Car Concierge</div>
-				<h1>Get offers from trusted dealers</h1>
-				<p class="muted">
-					Share your requirements and we’ll connect you with matching pre-owned luxury car dealers.
+	<div class="max-w-[1180px] mx-auto px-4 py-5 sm:px-5 sm:py-6 lg:px-6 lg:py-[26px]">
+		<header class="flex flex-col gap-4 mb-5 p-5 rounded-[20px] border border-border bg-[radial-gradient(1100px_520px_at_12%_10%,rgba(214,178,94,0.18),rgba(0,0,0,0)),rgba(255,255,255,0.05)] sm:p-6 sm:rounded-[22px] sm:flex-row sm:items-end sm:p-7">
+			<div>
+				<div class="text-[11px] tracking-widest uppercase text-[rgba(250,251,255,0.78)] mb-2">Luxury Car Concierge</div>
+				<h1 class="m-0 text-[28px] tracking-[-0.03em] leading-[1.1] sm:text-[32px] sm:text-[40px]">Get offers from trusted dealers</h1>
+				<p class="text-muted">
+					Share your requirements and we'll connect you with matching pre-owned luxury car dealers.
 				</p>
 			</div>
-			<div class="pageHeroActions">
-				<a class="btn ghost" href="/pre-owned-luxury-cars">Browse dealers</a>
-				<a class="btn primary" href="#form">Fill the form</a>
+			<div class="flex flex-wrap gap-[10px]">
+				<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-border bg-[rgba(255,255,255,0.06)] text-text no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] hover:bg-[rgba(255,255,255,0.09)] hover:border-border2 hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)] sm:py-[11px] sm:gap-[10px]" href="/pre-owned-luxury-cars">Browse dealers</a>
+				<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] hover:brightness-[1.04] hover:saturate-[1.02] sm:py-[11px] sm:gap-[10px]" href="#form">Fill the form</a>
 			</div>
 		</header>
 
-		<section id="form" class="card formCard">
-			<div class="formHead">
-				<h2>Contact form</h2>
-				<p class="muted">Fill this once. We’ll reply with relevant options.</p>
+		<section id="form" class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-border rounded-custom shadow-custom-sm p-4 sm:p-5">
+			<div class="mb-[14px]">
+				<h2 class="m-0 text-xl">Contact form</h2>
+				<p class="text-muted mt-1.5 mb-0 text-sm">Fill this once. We'll reply with relevant options.</p>
 			</div>
 
-			<div class="embedWrap">
+			<div class="rounded-[14px] overflow-hidden border border-border bg-[rgba(0,0,0,0.18)]">
 				<iframe
 					data-tally-src="https://tally.so/embed/Gx6kWe?hideTitle=1&transparentBackground=1&dynamicHeight=1&formEventsForwarding=1"
 					loading="lazy"
@@ -37,11 +37,12 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 					marginheight="0"
 					marginwidth="0"
 					title="Contact"
+					class="block w-full border-0 min-h-[500px] sm:min-h-[560px]"
 				></iframe>
 			</div>
 
-			<div class="muted small footerNote">
-				If the form doesn’t load, open it here:
+			<div class="text-muted text-xs mt-3">
+				If the form doesn't load, open it here:
 				<a href="https://tally.so/embed/Gx6kWe" rel="nofollow noopener noreferrer" target="_blank">
 					Contact form
 				</a>
@@ -50,95 +51,4 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 	</div>
 
 	<script async src="https://tally.so/widgets/embed.js"></script>
-
-	<style>
-		.pageHero {
-			display: flex;
-			flex-direction: column;
-			gap: 16px;
-			justify-content: space-between;
-			margin-bottom: 20px;
-			padding: 20px;
-			border-radius: 20px;
-			border: 1px solid rgba(255, 255, 255, 0.12);
-			background: radial-gradient(1100px 520px at 12% 10%, rgba(214, 178, 94, 0.18), rgba(0, 0, 0, 0)),
-				rgba(255, 255, 255, 0.05);
-		}
-		.kicker {
-			font-size: 11px;
-			letter-spacing: 0.1em;
-			text-transform: uppercase;
-			color: rgba(250, 251, 255, 0.78);
-			margin-bottom: 8px;
-		}
-		h1 {
-			margin: 0;
-			font-size: 28px;
-			letter-spacing: -0.03em;
-			line-height: 1.1;
-		}
-		.pageHeroActions {
-			display: flex;
-			flex-wrap: wrap;
-			gap: 10px;
-		}
-		.formCard {
-			padding: 16px;
-		}
-		.formHead {
-			margin-bottom: 14px;
-		}
-		.formHead h2 {
-			margin: 0;
-			font-size: 20px;
-		}
-		.formHead p {
-			margin: 6px 0 0;
-			font-size: 14px;
-		}
-		.embedWrap {
-			border-radius: 14px;
-			overflow: hidden;
-			border: 1px solid rgba(255, 255, 255, 0.12);
-			background: rgba(0, 0, 0, 0.18);
-		}
-		iframe {
-			display: block;
-			width: 100%;
-			border: 0;
-			min-height: 500px;
-		}
-		.footerNote {
-			margin-top: 12px;
-			font-size: 12px;
-		}
-		.small {
-			font-size: 13px;
-		}
-		@media (min-width: 640px) {
-			.pageHero {
-				padding: 24px;
-				border-radius: 22px;
-			}
-			h1 {
-				font-size: 32px;
-			}
-			.formCard {
-				padding: 20px;
-			}
-			iframe {
-				min-height: 560px;
-			}
-		}
-		@media (min-width: 720px) {
-			.pageHero {
-				flex-direction: row;
-				align-items: flex-end;
-				padding: 28px;
-			}
-			h1 {
-				font-size: 40px;
-			}
-		}
-	</style>
 </Layout>
