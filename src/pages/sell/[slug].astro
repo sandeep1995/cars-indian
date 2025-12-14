@@ -1,0 +1,42 @@
+---
+import SellCarCityPage from '../../components/SellCarCityPage.astro';
+import { getCities } from '../../lib/dealers';
+import { slugify } from '../../lib/slug';
+import brands from '../../data/luxury-brands.json';
+
+export async function getStaticPaths() {
+  const cities = getCities().sort((a, b) => b.count - a.count).slice(0, 80); // Top 80 cities
+
+  const paths = [];
+
+  for (const city of cities) {
+    // Generic "Sell Luxury Cars" page
+    // URL: /sell/luxury-cars-in-[city]
+    paths.push({
+      params: { slug: `luxury-cars-in-${city.citySlug}` },
+      props: { 
+        city: city.cityName,
+        brand: undefined 
+      }
+    });
+
+    // Brand specific pages
+    // URL: /sell/[brand]-in-[city]
+    for (const brand of brands) {
+       const brandSlug = slugify(brand);
+       paths.push({
+         params: { slug: `${brandSlug}-in-${city.citySlug}` },
+         props: {
+           city: city.cityName,
+           brand: brand
+         }
+       });
+    }
+  }
+  return paths;
+}
+
+const { city, brand } = Astro.props;
+---
+
+<SellCarCityPage city={city} brand={brand} />

@@ -1,5 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getAllDealers, getCities } from '../lib/dealers';
+import { slugify } from '../lib/slug';
+import brands from '../data/luxury-brands.json';
 
 function xmlEscape(s: string): string {
   return s
@@ -30,6 +32,23 @@ export const GET: APIRoute = ({ site }) => {
     urls.push(
       absolute(site, `/pre-owned-luxury-cars/${d.citySlug}/${d.dealerSlug}`)
     );
+  }
+
+  // Sell Car Pages
+  urls.push(absolute(site, '/sell'));
+
+  const topCities = getCities()
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 80);
+  for (const c of topCities) {
+    // Generic Sell Page
+    urls.push(absolute(site, `/sell/luxury-cars-in-${c.citySlug}`));
+
+    // Brand Specific Sell Pages
+    for (const brand of brands) {
+      const brandSlug = slugify(brand);
+      urls.push(absolute(site, `/sell/${brandSlug}-in-${c.citySlug}`));
+    }
   }
 
   const body =
