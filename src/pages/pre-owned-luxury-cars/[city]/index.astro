@@ -2,6 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import { getCities, getDealersByCitySlug, isLikelyUsedLuxuryDealer } from '../../../lib/dealers';
 import DealerCard from '../../../components/DealerCard.astro';
+import cityCovers from '../../../data/city-covers.json';
 
 export function getStaticPaths() {
 	return getCities().map((c) => ({
@@ -25,7 +26,9 @@ const jsonLd = {
 	description,
 };
 
-const heroImage = dealers.find((d) => !!d.imageUrl)?.imageUrl;
+const rawCover = (cityCovers as any)?.[citySlug] as any;
+const coverUrl = (typeof rawCover === 'string' ? rawCover : rawCover?.url) as string | undefined;
+const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 ---
 
 <Layout title={title} description={description} jsonLd={jsonLd}>

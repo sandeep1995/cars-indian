@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCities, getDealersByCitySlug } from '../../lib/dealers';
 import CityCard from '../../components/CityCard.astro';
+import cityCovers from '../../data/city-covers.json';
 
 const cities = getCities();
 const jsonLd = {
@@ -13,6 +14,12 @@ const jsonLd = {
 
 const previews = new Map<string, string | undefined>();
 for (const c of cities) {
+	const rawCover = (cityCovers as any)?.[c.citySlug] as any;
+	const cover = (typeof rawCover === 'string' ? rawCover : rawCover?.url) as string | undefined;
+	if (cover) {
+		previews.set(c.citySlug, cover);
+		continue;
+	}
 	const d = getDealersByCitySlug(c.citySlug).find((x) => !!x.imageUrl);
 	previews.set(c.citySlug, d?.imageUrl);
 }
