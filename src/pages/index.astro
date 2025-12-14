@@ -6,66 +6,157 @@ const cities = getCities().slice(0, 24);
 ---
 
 <Layout
-	title="Pre-owned Luxury Cars Marketplace (India)"
-	description="Browse pre-owned luxury car dealers by city across India. Compare reviews, locations, and contact details."
+	title="IndianLuxuryCars.com | Pre-owned Luxury Cars (India)"
+	description="IndianLuxuryCars.com — browse pre-owned luxury car dealers by city across India. Compare reviews, locations, and contact details."
 >
 	<div class="container">
-		<header class="hero card">
-			<div>
-				<div class="kicker">Indian Luxury Cars</div>
-				<h1>Find pre-owned luxury cars</h1>
-				<p class="muted">
-					Browse dealers by city. Compare reviews, locations, and contact details.
-				</p>
+		<header class="heroLux">
+			<div class="heroMedia" aria-hidden="true">
+				<img src="/cars/luxury-showroom.jpg" alt="" loading="eager" decoding="async" />
+				<div class="fade"></div>
 			</div>
-			<div class="cta">
-				<a class="btn primary" href="/pre-owned-luxury-cars">Browse all cities</a>
+			<div class="heroBody">
+				<div class="kicker">Luxury Car Concierge • India</div>
+				<h1>Pre-owned luxury cars, without the guesswork.</h1>
+				<p class="muted">Get offers from trusted dealers, compare options, and close with confidence.</p>
+				<div class="cta">
+					<a class="btn primary" href="/contact">Get offers</a>
+					<a class="btn ghost" href="/pre-owned-luxury-cars">Browse dealers</a>
+				</div>
+				<div class="trust">
+					<span class="pill">Verified dealers</span>
+					<span class="pill">City-wise listings</span>
+					<span class="pill">Fast callback</span>
+				</div>
 			</div>
 		</header>
 
-		<section class="grid">
-			{cities.map((c) => (
-				<a class="card city" href={`/pre-owned-luxury-cars/${c.citySlug}`}>
-					<div class="name">{c.cityName}</div>
-					<div class="muted">{c.count} dealers</div>
-				</a>
-			))}
+		<section class="how section">
+			<div class="sectionHead">
+				<h2>How it works</h2>
+				<p class="muted">One form. Curated replies. Clear next steps.</p>
+			</div>
+			<div class="howGrid">
+				<div class="card step">
+					<div class="stepNum">01</div>
+					<div class="stepTitle">Tell us what you want</div>
+					<div class="muted small">Budget, brand preferences, city, and timeline.</div>
+				</div>
+				<div class="card step">
+					<div class="stepNum">02</div>
+					<div class="stepTitle">We share verified options</div>
+					<div class="muted small">We connect you with dealers that match your criteria.</div>
+				</div>
+				<div class="card step">
+					<div class="stepNum">03</div>
+					<div class="stepTitle">Shortlist & visit</div>
+					<div class="muted small">Compare, inspect, and finalize with confidence.</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section">
+			<div class="sectionHead">
+				<h2>Popular cities</h2>
+				<p class="muted">Browse dealers and reviews by city.</p>
+			</div>
+			<section class="grid">
+				{cities.map((c) => (
+					<a class="card city" href={`/pre-owned-luxury-cars/${c.citySlug}`}>
+						<div class="name">{c.cityName}</div>
+						<div class="muted">{c.count} dealers</div>
+					</a>
+				))}
+			</section>
+		</section>
+
+		<section class="ctaCard card section">
+			<div class="ctaText">
+				<h2>Ready to get offers?</h2>
+				<p class="muted">Tell us what you’re looking for. We’ll connect you with matching dealers.</p>
+			</div>
+			<div class="ctaActions">
+				<a class="btn primary" href="/contact">Fill the form</a>
+				<a class="btn ghost" href="/pre-owned-luxury-cars">Browse dealers</a>
+			</div>
 		</section>
 	</div>
 
 	<style>
-		.hero {
-			display: flex;
-			align-items: flex-start;
-			justify-content: space-between;
-			gap: 16px;
+		.heroLux {
+			position: relative;
+			border-radius: 22px;
+			overflow: hidden;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			background: rgba(255, 255, 255, 0.06);
+			box-shadow: 0 34px 90px rgba(0, 0, 0, 0.62);
 			margin-bottom: 18px;
-			padding: 18px;
-			background: radial-gradient(900px 500px at 15% 20%, rgba(99, 102, 241, 0.22), rgba(0, 0, 0, 0)),
-				radial-gradient(900px 500px at 85% 30%, rgba(168, 85, 247, 0.18), rgba(0, 0, 0, 0)),
-				rgba(255, 255, 255, 0.06);
+			min-height: 320px;
+		}
+		.heroMedia {
+			position: absolute;
+			inset: 0;
+		}
+		.heroMedia img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			filter: saturate(1.05) contrast(1.08);
+			transform: scale(1.04);
+		}
+		.fade {
+			position: absolute;
+			inset: 0;
+			background: radial-gradient(1200px 600px at 20% 10%, rgba(214, 178, 94, 0.22), rgba(0, 0, 0, 0)),
+				linear-gradient(180deg, rgba(0, 0, 0, 0.22) 0%, rgba(0, 0, 0, 0.72) 60%, rgba(0, 0, 0, 0.9) 100%);
+		}
+		.heroBody {
+			position: relative;
+			z-index: 1;
+			padding: 22px;
+			display: flex;
+			flex-direction: column;
+			gap: 12px;
+			justify-content: flex-end;
+			min-height: 320px;
 		}
 		.kicker {
 			font-size: 12px;
-			letter-spacing: 0.08em;
+			letter-spacing: 0.12em;
 			text-transform: uppercase;
-			color: rgba(238, 242, 255, 0.72);
-			margin-bottom: 8px;
+			color: rgba(250, 251, 255, 0.78);
+			margin-bottom: 2px;
 		}
 		h1 {
 			margin: 0;
-			font-size: 34px;
-			letter-spacing: -0.02em;
+			font-size: 40px;
+			letter-spacing: -0.03em;
+			line-height: 1.06;
 		}
 		.cta {
 			display: flex;
 			gap: 10px;
 			align-items: center;
+			flex-wrap: wrap;
 		}
-		.btn.primary {
-			background: linear-gradient(135deg, rgba(99, 102, 241, 0.95), rgba(168, 85, 247, 0.95));
-			border-color: rgba(255, 255, 255, 0.22);
+		.trust {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 10px;
+			margin-top: 2px;
 		}
+
+		.sectionHead {
+			display: flex;
+			flex-direction: column;
+			gap: 6px;
+			margin: 0 0 12px;
+		}
+		.sectionHead h2 {
+			margin: 0;
+			font-size: 22px;
+		}
+
 		.grid {
 			display: grid;
 			grid-template-columns: repeat(1, minmax(0, 1fr));
@@ -73,14 +164,97 @@ const cities = getCities().slice(0, 24);
 		}
 		.city {
 			text-decoration: none;
+			position: relative;
+			overflow: hidden;
+		}
+		.city::before {
+			content: '';
+			position: absolute;
+			inset: 0;
+			background: radial-gradient(800px 320px at 20% 10%, rgba(214, 178, 94, 0.12), rgba(0, 0, 0, 0)),
+				radial-gradient(800px 320px at 90% 30%, rgba(99, 102, 241, 0.1), rgba(0, 0, 0, 0));
+			opacity: 0;
+			transition: opacity 160ms ease;
+			pointer-events: none;
+		}
+		.city:hover::before {
+			opacity: 1;
 		}
 		.name {
 			font-weight: 650;
 			font-size: 18px;
+			position: relative;
 		}
+		.city .muted {
+			position: relative;
+		}
+
+		.howGrid {
+			display: grid;
+			grid-template-columns: repeat(1, minmax(0, 1fr));
+			gap: 12px;
+		}
+		.step {
+			padding: 16px;
+		}
+		.stepNum {
+			font-weight: 850;
+			letter-spacing: -0.03em;
+			font-size: 20px;
+			color: rgba(255, 243, 214, 0.95);
+			margin-bottom: 8px;
+		}
+		.stepTitle {
+			font-weight: 800;
+			letter-spacing: -0.02em;
+			margin-bottom: 6px;
+		}
+		.small {
+			font-size: 13px;
+		}
+
+		.ctaCard {
+			display: flex;
+			flex-direction: column;
+			gap: 14px;
+			align-items: flex-start;
+			justify-content: space-between;
+			background: radial-gradient(900px 420px at 15% 20%, rgba(214, 178, 94, 0.18), rgba(0, 0, 0, 0)),
+				rgba(255, 255, 255, 0.05);
+		}
+		.ctaCard h2 {
+			margin: 0;
+			font-size: 24px;
+		}
+		.ctaText p {
+			margin: 6px 0 0;
+		}
+		.ctaActions {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 10px;
+		}
+
 		@media (min-width: 720px) {
 			.grid {
 				grid-template-columns: repeat(3, minmax(0, 1fr));
+			}
+			.heroBody {
+				padding: 30px;
+				min-height: 360px;
+			}
+			.heroLux {
+				min-height: 360px;
+			}
+			.howGrid {
+				grid-template-columns: repeat(3, minmax(0, 1fr));
+			}
+			.ctaCard {
+				flex-direction: row;
+				align-items: center;
+			}
+			h1 {
+				font-size: 46px;
 			}
 		}
 		@media (min-width: 1024px) {

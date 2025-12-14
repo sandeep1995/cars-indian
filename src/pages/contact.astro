@@ -1,0 +1,125 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = 'Contact | IndianLuxuryCars.com';
+const description = 'Get offers for pre-owned luxury cars. Tell us what you want and we will connect you with matching dealers.';
+---
+
+<Layout title={title} description={description}>
+	<div class="container">
+		<header class="pageHero">
+			<div class="pageHeroBody">
+				<div class="kicker">Luxury Car Concierge</div>
+				<h1>Get offers from trusted dealers</h1>
+				<p class="muted">
+					Share your requirements and we’ll connect you with matching pre-owned luxury car dealers.
+				</p>
+			</div>
+			<div class="pageHeroActions">
+				<a class="btn ghost" href="/pre-owned-luxury-cars">Browse dealers</a>
+				<a class="btn primary" href="#form">Fill the form</a>
+			</div>
+		</header>
+
+		<section id="form" class="card formCard">
+			<div class="formHead">
+				<h2>Contact form</h2>
+				<p class="muted">Fill this once. We’ll reply with relevant options.</p>
+			</div>
+
+			<div class="embedWrap">
+				<iframe
+					data-tally-src="https://tally.so/embed/Gx6kWe?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+					loading="lazy"
+					width="100%"
+					height="560"
+					frameborder="0"
+					marginheight="0"
+					marginwidth="0"
+					title="Contact"
+				></iframe>
+			</div>
+
+			<div class="muted small footerNote">
+				If the form doesn’t load, open it here:
+				<a href="https://tally.so/embed/Gx6kWe?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" rel="nofollow noopener noreferrer" target="_blank">
+					Contact form
+				</a>
+			</div>
+		</section>
+	</div>
+
+	<script async src="https://tally.so/widgets/embed.js"></script>
+
+	<style>
+		.pageHero {
+			display: flex;
+			flex-direction: column;
+			gap: 14px;
+			justify-content: space-between;
+			margin-bottom: 16px;
+			padding: 18px;
+			border-radius: 22px;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			background: radial-gradient(1100px 520px at 12% 10%, rgba(214, 178, 94, 0.18), rgba(0, 0, 0, 0)),
+				rgba(255, 255, 255, 0.05);
+		}
+		.kicker {
+			font-size: 12px;
+			letter-spacing: 0.12em;
+			text-transform: uppercase;
+			color: rgba(250, 251, 255, 0.78);
+			margin-bottom: 6px;
+		}
+		h1 {
+			margin: 0;
+			font-size: 34px;
+			letter-spacing: -0.03em;
+			line-height: 1.08;
+		}
+		.pageHeroActions {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 10px;
+		}
+		.formCard {
+			padding: 18px;
+		}
+		.formHead {
+			margin-bottom: 12px;
+		}
+		.formHead h2 {
+			margin: 0;
+			font-size: 20px;
+		}
+		.formHead p {
+			margin: 6px 0 0;
+		}
+		.embedWrap {
+			border-radius: 16px;
+			overflow: hidden;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			background: rgba(0, 0, 0, 0.18);
+		}
+		iframe {
+			display: block;
+			width: 100%;
+			border: 0;
+		}
+		.footerNote {
+			margin-top: 12px;
+		}
+		.small {
+			font-size: 13px;
+		}
+		@media (min-width: 720px) {
+			.pageHero {
+				flex-direction: row;
+				align-items: flex-end;
+			}
+			h1 {
+				font-size: 40px;
+			}
+		}
+	</style>
+</Layout>

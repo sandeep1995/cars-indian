@@ -6,10 +6,14 @@ const year = new Date().getFullYear();
 	<div class="container">
 		<div class="top">
 			<div class="brand">
-				<div class="mark" aria-hidden="true">LC</div>
+				<div class="mark" aria-hidden="true">ILC</div>
 				<div>
-					<div class="title">Luxury Cars Marketplace</div>
+					<div class="title">Indian Luxury Cars</div>
 					<div class="muted small">Pre-owned luxury cars — dealers by city across India.</div>
+					<div class="ctaRow">
+						<a class="btn primary" href="/contact">Get offers</a>
+						<a class="btn ghost" href="/pre-owned-luxury-cars">Browse dealers</a>
+					</div>
 				</div>
 			</div>
 
@@ -17,16 +21,18 @@ const year = new Date().getFullYear();
 				<div class="col">
 					<div class="colTitle">Marketplace</div>
 					<a href="/pre-owned-luxury-cars">Browse cities</a>
+					<a href="/contact">Request offers</a>
 				</div>
 				<div class="col">
 					<div class="colTitle">Company</div>
 					<a href="/">Home</a>
+					<a href="/contact">Contact</a>
 				</div>
 			</div>
 		</div>
 
 		<div class="bottom">
-			<div class="muted small">© {year} Luxury Cars Marketplace</div>
+			<div class="muted small">© {year} IndianLuxuryCars.com</div>
 			<div class="muted small">India</div>
 		</div>
 	</div>
@@ -36,7 +42,7 @@ const year = new Date().getFullYear();
 	.site-footer {
 		margin-top: 34px;
 		border-top: 1px solid rgba(255, 255, 255, 0.1);
-		background: rgba(0, 0, 0, 0.18);
+		background: rgba(0, 0, 0, 0.22);
 	}
 	.top {
 		display: grid;
@@ -55,10 +61,11 @@ const year = new Date().getFullYear();
 		align-items: center;
 		justify-content: center;
 		border-radius: 12px;
-		background: rgba(255, 255, 255, 0.06);
-		border: 1px solid rgba(255, 255, 255, 0.12);
+		background: linear-gradient(135deg, rgba(214, 178, 94, 0.98), rgba(241, 212, 138, 0.92), rgba(169, 124, 43, 0.9));
+		border: 1px solid rgba(255, 255, 255, 0.18);
 		font-weight: 800;
 		letter-spacing: -0.04em;
+		color: rgba(18, 12, 2, 0.9);
 	}
 	.title {
 		font-weight: 750;
@@ -66,6 +73,12 @@ const year = new Date().getFullYear();
 	}
 	.small {
 		font-size: 13px;
+	}
+	.ctaRow {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		margin-top: 12px;
 	}
 	.links {
 		display: grid;
@@ -81,7 +94,7 @@ const year = new Date().getFullYear();
 	.col a {
 		display: block;
 		text-decoration: none;
-		color: rgba(238, 242, 255, 0.78);
+		color: rgba(250, 251, 255, 0.78);
 		padding: 6px 0;
 		font-size: 14px;
 	}

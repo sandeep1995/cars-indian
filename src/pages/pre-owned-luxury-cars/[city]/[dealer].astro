@@ -24,7 +24,7 @@ if (!dealer) {
 	throw new Error(`Dealer not found for city=${citySlug} dealer=${dealerSlug}`);
 }
 
-const title = `${safeText(dealer.title, 'Dealer')} - ${cityName} | Pre-owned Luxury Cars`;
+const title = `${safeText(dealer.title, 'Dealer')} - ${cityName} | IndianLuxuryCars.com`;
 const description = `Contact ${safeText(dealer.title, 'dealer')} in ${cityName}. Address, phone, website, reviews, and location.`;
 
 const mapLink =
@@ -90,9 +90,10 @@ const heroImage = dealer.imageUrl;
 				<h1>{dealer.title}</h1>
 				<p class="muted">{dealer.categoryName}</p>
 				<div class="heroActions">
-					<a class="btn" href={`/pre-owned-luxury-cars/${citySlug}`}>Back to {cityName}</a>
+					<a class="btn ghost" href={`/pre-owned-luxury-cars/${citySlug}`}>Back to {cityName}</a>
+					<a class="btn primary" href="/contact">Get offers</a>
 					{dealer.website ? (
-						<a class="btn primary" href={dealer.website} rel="nofollow noopener noreferrer" target="_blank">
+						<a class="btn" href={dealer.website} rel="nofollow noopener noreferrer" target="_blank">
 							Visit website
 						</a>
 					) : null}
@@ -197,8 +198,8 @@ const heroImage = dealer.imageUrl;
 		.placeholder {
 			width: 100%;
 			height: 100%;
-			background: radial-gradient(1000px 520px at 10% 10%, rgba(99, 102, 241, 0.35), rgba(0, 0, 0, 0)),
-				radial-gradient(1000px 520px at 90% 10%, rgba(168, 85, 247, 0.22), rgba(0, 0, 0, 0)),
+			background: radial-gradient(1100px 520px at 10% 10%, rgba(214, 178, 94, 0.22), rgba(0, 0, 0, 0)),
+				radial-gradient(1000px 520px at 90% 10%, rgba(99, 102, 241, 0.16), rgba(0, 0, 0, 0)),
 				rgba(255, 255, 255, 0.06);
 		}
 		.fade {
@@ -237,10 +238,6 @@ const heroImage = dealer.imageUrl;
 			flex-wrap: wrap;
 			gap: 10px;
 			margin-top: 6px;
-		}
-		.btn.primary {
-			background: linear-gradient(135deg, rgba(99, 102, 241, 0.95), rgba(168, 85, 247, 0.95));
-			border-color: rgba(255, 255, 255, 0.22);
 		}
 		h2 {
 			margin: 0 0 10px;

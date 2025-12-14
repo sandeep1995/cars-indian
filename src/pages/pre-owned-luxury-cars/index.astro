@@ -26,7 +26,7 @@ for (const c of cities) {
 ---
 
 <Layout
-	title="Pre-owned Luxury Cars by City (India)"
+	title="Pre-owned Luxury Cars by City (India) | IndianLuxuryCars.com"
 	description="Browse pre-owned luxury car dealers by city across India."
 	jsonLd={jsonLd}
 >
@@ -36,6 +36,10 @@ for (const c of cities) {
 				<div class="kicker">Indian Luxury Cars</div>
 				<h1>Browse cities</h1>
 				<p class="muted">Verified dealers, reviews, locations — all in one place.</p>
+				<div class="heroActions">
+					<a class="btn primary" href="/contact">Get offers</a>
+					<a class="btn ghost" href="/">Home</a>
+				</div>
 			</div>
 			<div class="heroStats">
 				<div class="stat">
@@ -65,9 +69,9 @@ for (const c of cities) {
 			gap: 16px;
 			margin-bottom: 16px;
 			padding: 18px;
-			background: radial-gradient(900px 500px at 15% 20%, rgba(99, 102, 241, 0.22), rgba(0, 0, 0, 0)),
-				radial-gradient(900px 500px at 85% 30%, rgba(168, 85, 247, 0.18), rgba(0, 0, 0, 0)),
-				rgba(255, 255, 255, 0.06);
+			background: radial-gradient(1000px 520px at 12% 10%, rgba(214, 178, 94, 0.18), rgba(0, 0, 0, 0)),
+				radial-gradient(900px 520px at 88% 10%, rgba(99, 102, 241, 0.14), rgba(0, 0, 0, 0)),
+				rgba(255, 255, 255, 0.05);
 		}
 		.kicker {
 			font-size: 12px;
@@ -80,6 +84,12 @@ for (const c of cities) {
 			margin: 0;
 			font-size: 32px;
 			letter-spacing: -0.02em;
+		}
+		.heroActions {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 10px;
+			margin-top: 12px;
 		}
 		.heroStats {
 			display: flex;
