@@ -11,11 +11,13 @@
     "r2:city-covers": "node scripts/city-covers-from-unsplash-to-r2.mjs"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^12.6.12",
     "@aws-sdk/client-s3": "^3.895.0",
     "astro": "^5.16.5"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.18",
-    "tailwindcss": "^4.1.18"
+    "tailwindcss": "^4.1.18",
+    "wrangler": "^4.54.0"
   }
 }
