@@ -67,8 +67,8 @@ const heroImage = dealer.imageUrl;
 ---
 
 <Layout title={title} description={description} jsonLd={jsonLd} ogImage={dealer.imageUrl}>
-	<div class="container">
-		<header class="relative rounded-2xl overflow-hidden border border-border bg-[rgba(255,255,255,0.06)] mb-4 min-h-[200px] sm:rounded-[18px] sm:min-h-[220px]">
+	<div class="max-w-[1180px] mx-auto px-4 py-5 sm:px-5 sm:py-6 lg:px-6 lg:py-[26px]">
+		<header class="relative rounded-2xl overflow-hidden border border-[rgba(255,255,255,0.12)] bg-[rgba(255,255,255,0.06)] mb-4 min-h-[200px] sm:rounded-[18px] sm:min-h-[220px]">
 			<div class="absolute inset-0" aria-hidden="true">
 				{heroImage ? (
 					<img src={heroImage} alt="" loading="eager" decoding="async" referrerpolicy="no-referrer" class="w-full h-full object-cover saturate-[1.05] contrast-[1.05]" />
@@ -80,20 +80,20 @@ const heroImage = dealer.imageUrl;
 			<div class="relative z-[1] p-4 flex flex-col gap-2 justify-end min-h-[200px] sm:p-5 sm:min-h-[220px]">
 				<nav class="flex gap-2 items-center flex-wrap mb-1.5 text-xs sm:text-[13px] sm:gap-2.5">
 					<a href="/" class="text-[rgba(238,242,255,0.88)] no-underline">Home</a>
-					<span class="text-muted text-[11px]">/</span>
+					<span class="text-[rgba(250,251,255,0.72)] text-[11px]">/</span>
 					<a href="/pre-owned-luxury-cars" class="text-[rgba(238,242,255,0.88)] no-underline">Cities</a>
-					<span class="text-muted text-[11px]">/</span>
+					<span class="text-[rgba(250,251,255,0.72)] text-[11px]">/</span>
 					<a href={`/pre-owned-luxury-cars/${citySlug}`} class="text-[rgba(238,242,255,0.88)] no-underline">{cityName}</a>
-					<span class="text-muted text-[11px]">/</span>
+					<span class="text-[rgba(250,251,255,0.72)] text-[11px]">/</span>
 					<span>{dealer.title}</span>
 				</nav>
 				<h1 class="m-0 text-2xl tracking-[-0.02em] leading-[1.2] sm:text-[28px]">{dealer.title}</h1>
-				<p class="text-muted">{dealer.categoryName}</p>
+				<p class="text-[rgba(250,251,255,0.72)]">{dealer.categoryName}</p>
 				<div class="mt-2 flex flex-wrap gap-2">
-					<a class="btn ghost text-[13px] py-[9px] px-3" href={`/pre-owned-luxury-cars/${citySlug}`}>Back to {cityName}</a>
-					<a class="btn primary text-[13px] py-[9px] px-3" href="/contact">Get offers</a>
+					<a class="inline-flex items-center justify-center gap-2 px-3 py-[9px] rounded-full border border-[rgba(255,255,255,0.14)] bg-transparent text-[rgba(250,251,255,0.96)] no-underline font-bold text-[13px] tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:bg-[rgba(255,255,255,0.06)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)]" href={`/pre-owned-luxury-cars/${citySlug}`}>Back to {cityName}</a>
+					<a class="inline-flex items-center justify-center gap-2 px-3 py-[9px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-[13px] tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:brightness-[1.04] hover:saturate-[1.02]" href="/contact">Get offers</a>
 					{dealer.website ? (
-						<a class="btn text-[13px] py-[9px] px-3" href={dealer.website} rel="nofollow noopener noreferrer" target="_blank">
+						<a class="inline-flex items-center justify-center gap-2 px-3 py-[9px] rounded-full border border-[rgba(255,255,255,0.12)] bg-[rgba(255,255,255,0.06)] text-[rgba(250,251,255,0.96)] no-underline font-bold text-[13px] tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:bg-[rgba(255,255,255,0.09)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)]" href={dealer.website} rel="nofollow noopener noreferrer" target="_blank">
 							Visit website
 						</a>
 					) : null}
@@ -102,7 +102,7 @@ const heroImage = dealer.imageUrl;
 		</header>
 
 		<div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
-			<section class="card">
+			<section class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-[18px]">
 				<h2 class="m-0 mb-3 text-lg">Contact</h2>
 				<div class="grid grid-cols-[80px_1fr] gap-3 py-2.5 border-t border-[rgba(255,255,255,0.08)] first:border-0 first:pt-0 sm:grid-cols-[90px_1fr]">
 					<div class="text-[rgba(238,242,255,0.7)] text-xs sm:text-[13px]">Address</div>
@@ -136,11 +136,11 @@ const heroImage = dealer.imageUrl;
 				</div>
 			</section>
 
-			<section class="card">
+			<section class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-[18px]">
 				<h2 class="m-0 mb-3 text-lg">Reviews</h2>
 				<div class="flex items-baseline justify-between gap-3 mb-3 flex-wrap">
 					{typeof dealer.totalScore === 'number' ? <div class="font-[750] text-xl sm:text-[22px]">{dealer.totalScore.toFixed(1)} ★</div> : <div class="font-[750] text-xl sm:text-[22px]">—</div>}
-					<div class="text-muted">
+					<div class="text-[rgba(250,251,255,0.72)]">
 						{typeof dealer.reviewsCount === 'number' ? `${dealer.reviewsCount} reviews` : 'No review count'}
 					</div>
 				</div>
@@ -159,17 +159,17 @@ const heroImage = dealer.imageUrl;
 						))}
 					</div>
 				) : (
-					<p class="text-muted text-[13px] mt-3">Opening hours not available.</p>
+					<p class="text-[rgba(250,251,255,0.72)] text-[13px] mt-3">Opening hours not available.</p>
 				)}
 			</section>
 
-			<section class="card">
+			<section class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-[18px]">
 				<h2 class="m-0 mb-3 text-lg">Categories</h2>
 				<div class="flex flex-wrap gap-2">
 					{(dealer.categories ?? []).slice(0, 24).map((c) => (
 						<span class="inline-flex items-center py-1.5 px-2.5 rounded-full border border-[rgba(255,255,255,0.14)] bg-[rgba(255,255,255,0.06)] text-xs">{c}</span>
 					))}
-					{!(dealer.categories ?? []).length ? <span class="text-muted">—</span> : null}
+					{!(dealer.categories ?? []).length ? <span class="text-[rgba(250,251,255,0.72)]">—</span> : null}
 				</div>
 			</section>
 		</div>

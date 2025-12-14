@@ -10,7 +10,7 @@ const { dealer, href } = Astro.props as Props;
 const rating = typeof dealer.totalScore === 'number' ? dealer.totalScore.toFixed(1) : undefined;
 ---
 
-<a class="grid grid-cols-[100px_1fr] gap-3 no-underline rounded-[14px] overflow-hidden border border-border bg-[rgba(0,0,0,0.18)] transition-all duration-200 ease-in-out hover:bg-[rgba(0,0,0,0.24)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px sm:grid-cols-[120px_1fr] sm:rounded-2xl md:grid-cols-[140px_1fr]" href={href}>
+<a class="grid grid-cols-[100px_1fr] gap-3 no-underline rounded-[14px] overflow-hidden border border-[rgba(255,255,255,0.12)] bg-[rgba(0,0,0,0.18)] transition-all duration-200 ease-in-out hover:bg-[rgba(0,0,0,0.24)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px sm:grid-cols-[120px_1fr] sm:rounded-2xl md:grid-cols-[140px_1fr]" href={href}>
 	<div class="h-full min-h-[100px] bg-[rgba(255,255,255,0.06)] sm:min-h-[110px] md:min-h-[120px]">
 		{dealer.imageUrl ? (
 			<img src={dealer.imageUrl} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" class="w-full h-full object-cover" />
@@ -21,17 +21,17 @@ const rating = typeof dealer.totalScore === 'number' ? dealer.totalScore.toFixed
 	<div class="p-3 flex flex-col gap-1.5 min-w-0">
 		<div class="flex items-start justify-between gap-2">
 			<div class="font-[780] tracking-[-0.02em] leading-tight text-[15px] flex-1 min-w-0 sm:text-base">{dealer.title}</div>
-			{rating ? <span class="pill inline-flex items-center py-[3px] px-[7px] rounded-full bg-[rgba(214,178,94,0.14)] border border-[rgba(214,178,94,0.26)] text-[rgba(255,243,214,0.92)] font-[750] text-[11px] whitespace-nowrap shrink-0 sm:text-xs sm:py-1 sm:px-2">{rating} ★</span> : null}
+			{rating ? <span class="inline-flex items-center py-[3px] px-[7px] rounded-full border border-[rgba(214,178,94,0.28)] bg-[rgba(214,178,94,0.12)] text-[rgba(255,243,214,0.92)] font-bold text-[11px] whitespace-nowrap shrink-0 sm:text-xs sm:py-1 sm:px-2">{rating} ★</span> : null}
 		</div>
-		<div class="text-muted text-xs sm:text-[13px]">{dealer.categoryName}</div>
+		<div class="text-[rgba(250,251,255,0.72)] text-xs sm:text-[13px]">{dealer.categoryName}</div>
 		{dealer.neighborhood || dealer.address ? (
-			<div class="text-muted text-xs line-clamp-2 leading-[1.4] sm:text-[13px]">{dealer.neighborhood ?? dealer.address}</div>
+			<div class="text-[rgba(250,251,255,0.72)] text-xs line-clamp-2 leading-[1.4] sm:text-[13px]">{dealer.neighborhood ?? dealer.address}</div>
 		) : null}
 		<div class="mt-auto pt-1.5">
 			{typeof dealer.reviewsCount === 'number' ? (
-				<span class="text-muted text-xs sm:text-[13px]">{dealer.reviewsCount} reviews</span>
+				<span class="text-[rgba(250,251,255,0.72)] text-xs sm:text-[13px]">{dealer.reviewsCount} reviews</span>
 			) : (
-				<span class="text-muted text-xs sm:text-[13px]">View details</span>
+				<span class="text-[rgba(250,251,255,0.72)] text-xs sm:text-[13px]">View details</span>
 			)}
 		</div>
 	</div>

@@ -1,4 +1,6 @@
 ---
+import logo from '../../public/logo.jpeg';
+
 type NavItem = { href: string; label: string };
 const nav: NavItem[] = [
 	{ href: '/', label: 'Home' },
@@ -8,9 +10,9 @@ const nav: NavItem[] = [
 ---
 
 <header class="sticky top-0 z-[100] border-b border-[rgba(255,255,255,0.08)] bg-[rgba(5,6,10,0.85)] backdrop-blur-[20px] backdrop-saturate-[180%] shadow-[0_1px_0_rgba(255,255,255,0.05)_inset,0_8px_32px_rgba(0,0,0,0.4)] transition-[background,border-color] duration-300 ease-in-out">
-	<div class="container flex items-center justify-between gap-3 p-3 max-w-full relative sm:p-[14px] sm:px-5 sm:gap-4 sm:p-[18px] sm:px-6 sm:gap-5 lg:p-5 lg:px-7">
+	<div class="max-w-[1180px] mx-auto px-4 py-3 flex items-center justify-between gap-3 relative sm:px-5 sm:py-[14px] sm:gap-4 sm:px-6 sm:py-[18px] sm:gap-5 lg:px-7 lg:py-5">
 		<a class="group inline-flex items-center gap-[10px] no-underline transition-transform duration-200 ease-in-out shrink-0 hover:-translate-y-px" href="/" aria-label="Home">
-			<span class="w-9 h-9 inline-flex items-center justify-center rounded-[10px] bg-[linear-gradient(135deg,rgba(214,178,94,1),rgba(241,212,138,0.95),rgba(169,124,43,0.9))] border border-[rgba(255,255,255,0.2)] shadow-[0_4px_12px_rgba(214,178,94,0.3),0_0_0_1px_rgba(0,0,0,0.1)_inset] font-black text-[13px] tracking-[-0.02em] text-[rgba(18,12,2,0.95)] transition-[transform,box-shadow] duration-200 ease-in-out shrink-0 sm:w-10 sm:h-10 sm:text-sm group-hover:scale-105 group-hover:shadow-[0_6px_16px_rgba(214,178,94,0.4),0_0_0_1px_rgba(0,0,0,0.1)_inset]" aria-hidden="true">ILC</span>
+			<img src={logo.src} alt="IndianLuxuryCars.com" class="w-9 h-9 rounded-[10px] object-cover border border-[rgba(255,255,255,0.2)] shadow-[0_4px_12px_rgba(214,178,94,0.3),0_0_0_1px_rgba(0,0,0,0.1)_inset] transition-[transform,box-shadow] duration-200 ease-in-out shrink-0 sm:w-10 sm:h-10 group-hover:scale-105 group-hover:shadow-[0_6px_16px_rgba(214,178,94,0.4),0_0_0_1px_rgba(0,0,0,0.1)_inset]" />
 			<span class="flex flex-col leading-[1.1]">
 				<span class="font-extrabold text-sm tracking-[-0.03em] text-[rgba(250,251,255,0.98)] whitespace-nowrap sm:text-[15px] sm:text-base lg:text-[17px]">IndianLuxuryCars</span>
 				<span class="font-semibold text-[10px] tracking-[0.02em] text-[rgba(250,251,255,0.65)] -mt-0.5 sm:text-[11px]">.com</span>
@@ -30,8 +32,8 @@ const nav: NavItem[] = [
 		</nav>
 
 		<div class="hidden items-center gap-2 sm:flex">
-			<a class="btn ghost text-[13px] py-[9px] px-3 whitespace-nowrap sm:text-sm sm:py-[11px] sm:px-[14px]" href="/pre-owned-luxury-cars">Browse dealers</a>
-			<a class="btn primary text-[13px] py-[9px] px-3 whitespace-nowrap sm:text-sm sm:py-[11px] sm:px-[14px]" href="/contact">Get offers</a>
+			<a class="inline-flex items-center justify-center gap-2 px-3 py-[9px] rounded-full border border-[rgba(255,255,255,0.14)] bg-transparent text-[rgba(250,251,255,0.96)] no-underline font-bold text-[13px] tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:bg-[rgba(255,255,255,0.06)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)] sm:text-sm sm:py-[11px] sm:px-[14px]" href="/pre-owned-luxury-cars">Browse dealers</a>
+			<a class="inline-flex items-center justify-center gap-2 px-3 py-[9px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-[13px] tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:brightness-[1.04] hover:saturate-[1.02] sm:text-sm sm:py-[11px] sm:px-[14px]" href="/contact">Get offers</a>
 		</div>
 	</div>
 </header>

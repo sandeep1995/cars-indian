@@ -7,41 +7,29 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 
 <Layout title={title} description={description}>
 	<div class="max-w-[1180px] mx-auto px-4 py-5 sm:px-5 sm:py-6 lg:px-6 lg:py-[26px]">
-		<header class="flex flex-col gap-4 mb-5 p-5 rounded-[20px] border border-border bg-[radial-gradient(1100px_520px_at_12%_10%,rgba(214,178,94,0.18),rgba(0,0,0,0)),rgba(255,255,255,0.05)] sm:p-6 sm:rounded-[22px] sm:flex-row sm:items-end sm:p-7">
+		<header class="flex flex-col gap-4 mb-5 p-5 rounded-[20px] border border-[rgba(255,255,255,0.12)] bg-[radial-gradient(1100px_520px_at_12%_10%,rgba(214,178,94,0.18),rgba(0,0,0,0)),rgba(255,255,255,0.05)] sm:p-6 sm:rounded-[22px] sm:flex-row sm:items-end sm:p-7">
 			<div>
 				<div class="text-[11px] tracking-widest uppercase text-[rgba(250,251,255,0.78)] mb-2">Luxury Car Concierge</div>
 				<h1 class="m-0 text-[28px] tracking-[-0.03em] leading-[1.1] sm:text-[32px] sm:text-[40px]">Get offers from trusted dealers</h1>
-				<p class="text-muted">
+				<p class="text-[rgba(250,251,255,0.72)]">
 					Share your requirements and we'll connect you with matching pre-owned luxury car dealers.
 				</p>
 			</div>
-			<div class="flex flex-wrap gap-[10px]">
-				<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-border bg-[rgba(255,255,255,0.06)] text-text no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] hover:bg-[rgba(255,255,255,0.09)] hover:border-border2 hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)] sm:py-[11px] sm:gap-[10px]" href="/pre-owned-luxury-cars">Browse dealers</a>
-				<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] hover:brightness-[1.04] hover:saturate-[1.02] sm:py-[11px] sm:gap-[10px]" href="#form">Fill the form</a>
-			</div>
+		
 		</header>
 
-		<section id="form" class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-border rounded-custom shadow-custom-sm p-4 sm:p-5">
+		<section id="form" class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-4 sm:p-5">
 			<div class="mb-[14px]">
 				<h2 class="m-0 text-xl">Contact form</h2>
-				<p class="text-muted mt-1.5 mb-0 text-sm">Fill this once. We'll reply with relevant options.</p>
+				<p class="text-[rgba(250,251,255,0.72)] mt-1.5 mb-0 text-sm">Fill this once. We'll reply with relevant options.</p>
 			</div>
 
-			<div class="rounded-[14px] overflow-hidden border border-border bg-[rgba(0,0,0,0.18)]">
-				<iframe
-					data-tally-src="https://tally.so/embed/Gx6kWe?hideTitle=1&transparentBackground=1&dynamicHeight=1&formEventsForwarding=1"
-					loading="lazy"
-					width="100%"
-					height="560"
-					frameborder="0"
-					marginheight="0"
-					marginwidth="0"
-					title="Contact"
-					class="block w-full border-0 min-h-[500px] sm:min-h-[560px]"
-				></iframe>
+			<div class="rounded-[14px] overflow-hidden p-10 bg-white">
+				<iframe data-tally-src="https://tally.so/embed/Gx6kWe?hideTitle=1&transparentBackground=1&formEventsForwarding=1" loading="lazy" width="100%" height="300" frameborder="0" marginheight="0" marginwidth="0" title="Contact"></iframe>
+<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 			</div>
 
-			<div class="text-muted text-xs mt-3">
+			<div class="text-[rgba(250,251,255,0.72)] text-xs mt-3">
 				If the form doesn't load, open it here:
 				<a href="https://tally.so/embed/Gx6kWe" rel="nofollow noopener noreferrer" target="_blank">
 					Contact form
