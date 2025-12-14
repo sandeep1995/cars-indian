@@ -10,17 +10,18 @@ type Props = {
 const { cityName, citySlug, count, imageUrl, hrefBase = '/pre-owned-luxury-cars' } = Astro.props as Props;
 ---
 
-<a class="relative block no-underline rounded-2xl overflow-hidden border border-border bg-[rgba(255,255,255,0.06)] min-h-[140px] hover:border-[rgba(255,255,255,0.18)] hover:bg-[rgba(255,255,255,0.08)]" href={`${hrefBase}/${citySlug}`}>
-	<div class="absolute inset-0">
+<a class="group relative block overflow-hidden rounded-xl bg-white/[0.02] border border-white/5 hover:border-amber-200/30 transition-colors duration-300" href={`${hrefBase}/${citySlug}`}>
+	<div class="aspect-[16/9] overflow-hidden relative">
 		{imageUrl ? (
-			<img src={imageUrl} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" class="w-full h-full object-cover saturate-[1.05] contrast-[1.05] scale-[1.02]" />
+			<img src={imageUrl} alt="" loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-80 group-hover:opacity-100" />
 		) : (
-			<div class="w-full h-full bg-[radial-gradient(1200px_600px_at_10%_10%,rgba(214,178,94,0.2),rgba(0,0,0,0)),radial-gradient(1200px_600px_at_90%_20%,rgba(99,102,241,0.12),rgba(0,0,0,0)),rgba(255,255,255,0.06)]"></div>
+			<div class="w-full h-full bg-white/[0.05]"></div>
 		)}
-		<div class="absolute inset-0 bg-gradient-to-b from-[rgba(0,0,0,0.05)] via-[rgba(0,0,0,0.58)] to-[rgba(0,0,0,0.82)]"></div>
+		<div class="absolute inset-0 bg-gradient-to-t from-[#05060a] via-transparent to-transparent opacity-90"></div>
 	</div>
-	<div class="relative z-[1] p-4 flex flex-col gap-1.5 justify-end min-h-[140px]">
-		<div class="font-[780] text-lg tracking-[-0.02em]">{cityName}</div>
-		<div class="text-[rgba(238,242,255,0.78)] text-[13px]">{count} dealers</div>
+	
+	<div class="absolute bottom-0 left-0 right-0 p-5">
+		<h3 class="font-serif text-xl text-white mb-1 group-hover:text-amber-100 transition-colors">{cityName}</h3>
+		<p class="text-sm text-white/50 font-light">{count} dealers</p>
 	</div>
 </a>

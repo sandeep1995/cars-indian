@@ -1,140 +1,180 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getCities } from '../lib/dealers';
+import { getCities, getDealersByCitySlug } from '../lib/dealers';
 import CityCard from '../components/CityCard.astro';
+import cityCovers from '../data/city-covers.json';
 
 const cities = getCities().slice(0, 24);
+
+// Get previews for the homepage cities
+const previews = new Map<string, string | undefined>();
+for (const c of cities) {
+	const rawCover = (cityCovers as any)?.[c.citySlug] as any;
+	const cover = (typeof rawCover === 'string' ? rawCover : rawCover?.url) as string | undefined;
+	if (cover) {
+		previews.set(c.citySlug, cover);
+	} else {
+		const dealers = getDealersByCitySlug(c.citySlug);
+		const dealerImage = dealers.find((d) => !!d.imageUrl)?.imageUrl;
+		if (dealerImage) {
+			previews.set(c.citySlug, dealerImage);
+		}
+	}
+}
 ---
 
 <Layout
 	title="IndianLuxuryCars.com | Pre-owned Luxury Cars (India)"
 	description="IndianLuxuryCars.com — browse pre-owned luxury car dealers by city across India. Compare reviews, locations, and contact details."
 >
-	<div class="max-w-[1180px] mx-auto px-4 py-5 sm:px-5 sm:py-6 lg:px-6 lg:py-[26px]">
-		<header class="relative rounded-[20px] overflow-hidden border border-[rgba(255,255,255,0.1)] bg-[rgba(255,255,255,0.03)] shadow-[0_20px_60px_rgba(0,0,0,0.6),0_0_0_1px_rgba(255,255,255,0.05)_inset] mb-6 min-h-[400px] transition-[transform,box-shadow] duration-300 ease-in-out hover:-translate-y-0.5 hover:shadow-[0_48px_140px_rgba(0,0,0,0.75),0_0_0_1px_rgba(255,255,255,0.08)_inset] sm:rounded-2xl sm:mb-7 sm:min-h-[450px] sm:rounded-[28px] sm:min-h-[560px] lg:min-h-[640px]">
-			<div class="absolute inset-0 overflow-hidden" aria-hidden="true">
-				<div class="absolute inset-0 w-full h-full">
-					<img src="/cars/luxury-showroom.jpg" alt="" loading="eager" decoding="async" class="hero-img hero-img-1 absolute inset-0 w-full h-full object-cover saturate-[1.1] contrast-[1.12] brightness-95 transition-[opacity,transform] duration-[8s] ease-in-out opacity-100 scale-[1.05] z-[1]" />
-					<img src="/cars/lamborghini-night.jpg" alt="" loading="lazy" decoding="async" class="hero-img hero-img-2 absolute inset-0 w-full h-full object-cover saturate-[1.1] contrast-[1.12] brightness-95 transition-[opacity,transform] duration-[8s] ease-in-out opacity-0 scale-[1.08] z-[2]" />
-					<img src="/cars/porsche-panamera-motion.jpg" alt="" loading="lazy" decoding="async" class="hero-img hero-img-3 absolute inset-0 w-full h-full object-cover saturate-[1.1] contrast-[1.12] brightness-95 transition-[opacity,transform] duration-[8s] ease-in-out opacity-0 scale-[1.06] z-[3]" />
+	<div class="relative w-full overflow-hidden">
+		<!-- Hero Section -->
+		<section class="relative min-h-[85vh] flex items-center justify-center px-4 py-20 overflow-hidden">
+			<!-- Background Image & Gradient -->
+			<div class="absolute inset-0 z-0">
+				<div class="absolute inset-0 bg-black/40 z-10"></div>
+				<div class="absolute inset-0 bg-gradient-to-t from-[#05060a] via-transparent to-transparent z-10"></div>
+				<div class="relative w-full h-full">
+					<img 
+						src="/cars/luxury-showroom.jpg" 
+						alt="Luxury Car Showroom" 
+						class="absolute inset-0 w-full h-full object-cover animate-fade-in"
+						style="animation-duration: 3s;"
+					/>
 				</div>
-				<div class="absolute inset-0 bg-gradient-to-b from-[rgba(0,0,0,0.15)] via-[rgba(0,0,0,0.65)] to-[rgba(0,0,0,0.92)] z-[4]"></div>
-				<div class="absolute inset-0 bg-[radial-gradient(1400px_700px_at_25%_15%,rgba(214,178,94,0.25),rgba(0,0,0,0)),radial-gradient(1200px_600px_at_75%_20%,rgba(99,102,241,0.15),rgba(0,0,0,0))] z-[5] pointer-events-none"></div>
 			</div>
-			<div class="relative z-[6] p-6 flex flex-col gap-3 justify-end min-h-[400px] sm:p-8 sm:min-h-[450px] sm:p-12 sm:min-h-[560px] lg:p-[60px] lg:min-h-[640px]">
-				<div class="inline-flex items-center gap-1.5 text-[11px] tracking-[0.12em] uppercase text-[rgba(250,251,255,0.85)] mb-1 font-semibold sm:text-xs sm:gap-2">
-					<span class="w-1.5 h-1.5 rounded-full bg-[linear-gradient(135deg,rgba(214,178,94,1),rgba(241,212,138,0.9))] shadow-[0_0_6px_rgba(214,178,94,0.6)] animate-pulse-custom sm:w-1.5 sm:h-1.5"></span>
-					Luxury Car Concierge • India
+
+			<!-- Content -->
+			<div class="relative z-20 text-center max-w-4xl mx-auto flex flex-col items-center gap-8">
+				<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 backdrop-blur-md">
+					<span class="w-1.5 h-1.5 rounded-full bg-amber-400 shadow-[0_0_8px_rgba(251,191,36,0.5)]"></span>
+					<span class="text-xs font-medium tracking-widest uppercase text-white/80">Premium Concierge</span>
 				</div>
-				<h1 class="m-0 flex flex-col gap-0.5 leading-[1.05]">
-					<span class="text-[32px] tracking-[-0.04em] font-black sm:text-[42px] sm:text-[64px] lg:text-[72px]">Pre-owned luxury cars,</span>
-					<span class="text-[32px] tracking-[-0.04em] font-black bg-gradient-to-br from-[rgba(250,251,255,1)] to-[rgba(214,178,94,0.95)] bg-clip-text text-transparent sm:text-[42px] sm:text-[64px] lg:text-[72px]">without the guesswork.</span>
+
+				<h1 class="text-5xl sm:text-7xl lg:text-8xl font-serif text-white tracking-tight leading-[1.1]">
+					Experience <br/>
+					<span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-white to-amber-100">Absolute Luxury</span>
 				</h1>
-				<p class="text-[rgba(250,251,255,0.72)] text-[15px] leading-6 max-w-full mt-1 sm:text-[17px] sm:text-xl">Get offers from trusted dealers, compare options, and close with confidence.</p>
-				<div class="flex gap-[10px] items-center flex-wrap mt-1">
-					<a class="group inline-flex items-center justify-center gap-1.5 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:brightness-[1.04] hover:saturate-[1.02] sm:py-[11px] sm:gap-[10px]" href="/contact">
-						<span>Get offers</span>
-						<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5 transition-transform duration-200 ease-in-out group-hover:translate-x-1">
-							<path d="M8 0L6.59 1.41L12.17 7H0v2h12.17l-5.58 5.59L8 16l8-8z" fill="currentColor"/>
-						</svg>
+
+				<p class="text-lg sm:text-xl text-white/70 max-w-2xl font-light leading-relaxed">
+					Curated pre-owned luxury vehicles from India's most trusted dealers. 
+					Transparency, elegance, and exclusivity in every interaction.
+				</p>
+
+				<div class="flex flex-col sm:flex-row gap-4 mt-4 w-full sm:w-auto">
+					<a href="/pre-owned-luxury-cars" class="group relative px-8 py-4 bg-white text-black text-sm font-bold uppercase tracking-wider overflow-hidden rounded-full transition-transform hover:scale-105">
+						<span class="relative z-10 group-hover:text-black">Browse Collection</span>
 					</a>
-					<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.14)] bg-transparent text-[rgba(250,251,255,0.96)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:bg-[rgba(255,255,255,0.06)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)] sm:py-[11px] sm:gap-[10px]" href="/pre-owned-luxury-cars">Browse dealers</a>
-				</div>
-				<div class="flex flex-wrap gap-[10px] mt-2 sm:gap-3">
-					<div class="inline-flex items-center gap-1.5 py-1.5 px-2.5 rounded-full border border-[rgba(214,178,94,0.3)] bg-[rgba(214,178,94,0.1)] backdrop-blur-[10px] text-[rgba(255,243,214,0.95)] text-xs font-semibold transition-all duration-200 ease-in-out hover:bg-[rgba(214,178,94,0.15)] hover:border-[rgba(214,178,94,0.4)] hover:-translate-y-px sm:text-[13px] sm:py-1.5 sm:px-3">
-						<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 fill-[rgba(255,243,214,0.95)] sm:w-3.5 sm:h-3.5">
-							<path d="M8 0L10.163 5.818L16 6.909L11.5 11.182L12.326 16L8 13.091L3.674 16L4.5 11.182L0 6.909L5.837 5.818L8 0Z" fill="currentColor"/>
-						</svg>
-						<span>Verified dealers</span>
-					</div>
-					<div class="inline-flex items-center gap-1.5 py-1.5 px-2.5 rounded-full border border-[rgba(214,178,94,0.3)] bg-[rgba(214,178,94,0.1)] backdrop-blur-[10px] text-[rgba(255,243,214,0.95)] text-xs font-semibold transition-all duration-200 ease-in-out hover:bg-[rgba(214,178,94,0.15)] hover:border-[rgba(214,178,94,0.4)] hover:-translate-y-px sm:text-[13px] sm:py-1.5 sm:px-3">
-						<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 fill-[rgba(255,243,214,0.95)] sm:w-3.5 sm:h-3.5">
-							<path d="M8 0L10.163 5.818L16 6.909L11.5 11.182L12.326 16L8 13.091L3.674 16L4.5 11.182L0 6.909L5.837 5.818L8 0Z" fill="currentColor"/>
-						</svg>
-						<span>City-wise listings</span>
-					</div>
-					<div class="inline-flex items-center gap-1.5 py-1.5 px-2.5 rounded-full border border-[rgba(214,178,94,0.3)] bg-[rgba(214,178,94,0.1)] backdrop-blur-[10px] text-[rgba(255,243,214,0.95)] text-xs font-semibold transition-all duration-200 ease-in-out hover:bg-[rgba(214,178,94,0.15)] hover:border-[rgba(214,178,94,0.4)] hover:-translate-y-px sm:text-[13px] sm:py-1.5 sm:px-3">
-						<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 fill-[rgba(255,243,214,0.95)] sm:w-3.5 sm:h-3.5">
-							<path d="M8 0L10.163 5.818L16 6.909L11.5 11.182L12.326 16L8 13.091L3.674 16L4.5 11.182L0 6.909L5.837 5.818L8 0Z" fill="currentColor"/>
-						</svg>
-						<span>Fast callback</span>
-					</div>
-				</div>
-			</div>
-		</header>
-
-		<section class="my-[18px]">
-			<div class="flex flex-col gap-1.5 mb-3">
-				<h2 class="m-0 text-[22px]">How it works</h2>
-				<p class="text-[rgba(250,251,255,0.72)]">One form. Curated replies. Clear next steps.</p>
-			</div>
-			<div class="grid grid-cols-1 gap-3 sm:grid-cols-3">
-				<div class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-4">
-					<div class="font-[850] tracking-[-0.03em] text-xl text-[rgba(255,243,214,0.95)] mb-2">01</div>
-					<div class="font-extrabold tracking-[-0.02em] mb-1.5">Tell us what you want</div>
-					<div class="text-[rgba(250,251,255,0.72)] text-[13px]">Budget, brand preferences, city, and timeline.</div>
-				</div>
-				<div class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-4">
-					<div class="font-[850] tracking-[-0.03em] text-xl text-[rgba(255,243,214,0.95)] mb-2">02</div>
-					<div class="font-extrabold tracking-[-0.02em] mb-1.5">We share verified options</div>
-					<div class="text-[rgba(250,251,255,0.72)] text-[13px]">We connect you with dealers that match your criteria.</div>
-				</div>
-				<div class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-4">
-					<div class="font-[850] tracking-[-0.03em] text-xl text-[rgba(255,243,214,0.95)] mb-2">03</div>
-					<div class="font-extrabold tracking-[-0.02em] mb-1.5">Shortlist & visit</div>
-					<div class="text-[rgba(250,251,255,0.72)] text-[13px]">Compare, inspect, and finalize with confidence.</div>
+					<a href="/contact" class="px-8 py-4 bg-transparent border border-white/20 text-white text-sm font-bold uppercase tracking-wider rounded-full hover:bg-white/5 transition-all hover:border-white/40">
+						Concierge Service
+					</a>
 				</div>
 			</div>
 		</section>
 
-		<section class="my-[18px]">
-			<div class="flex flex-col gap-1.5 mb-3">
-				<h2 class="m-0 text-[22px]">Popular cities</h2>
-				<p class="text-[rgba(250,251,255,0.72)]">Browse dealers and reviews by city.</p>
+		<!-- Trust Indicators -->
+		<section class="py-12 border-y border-white/5 bg-white/[0.02]">
+			<div class="max-w-[1180px] mx-auto px-6">
+				<div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center divide-x divide-white/5">
+					<div class="flex flex-col gap-2">
+						<span class="text-3xl font-serif text-amber-200">25+</span>
+						<span class="text-sm text-white/50 uppercase tracking-widest">Cities</span>
+					</div>
+					<div class="flex flex-col gap-2">
+						<span class="text-3xl font-serif text-amber-200">500+</span>
+						<span class="text-sm text-white/50 uppercase tracking-widest">Verified Dealers</span>
+					</div>
+					<div class="flex flex-col gap-2">
+						<span class="text-3xl font-serif text-amber-200">100%</span>
+						<span class="text-sm text-white/50 uppercase tracking-widest">Transparency</span>
+					</div>
+					<div class="flex flex-col gap-2">
+						<span class="text-3xl font-serif text-amber-200">24/7</span>
+						<span class="text-sm text-white/50 uppercase tracking-widest">Support</span>
+					</div>
+				</div>
 			</div>
-			<section class="grid grid-cols-1 gap-3 sm:grid-cols-3 lg:grid-cols-4">
-				{cities.map((c) => (
-					<CityCard cityName={c.cityName} citySlug={c.citySlug} count={c.count} imageUrl={c.imageUrl} />
-				))}
-			</section>
 		</section>
 
-		<section class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] my-[18px] flex flex-col gap-3.5 items-start justify-between bg-[radial-gradient(900px_420px_at_15%_20%,rgba(214,178,94,0.18),rgba(0,0,0,0)),rgba(255,255,255,0.05)] p-[18px] sm:flex-row sm:items-center">
-			<div>
-				<h2 class="m-0 text-2xl">Ready to get offers?</h2>
-				<p class="text-[rgba(250,251,255,0.72)] mt-1.5 mb-0">Tell us what you're looking for. We'll connect you with matching dealers.</p>
+		<!-- How it Works (Minimal) -->
+		<section class="py-24 px-6">
+			<div class="max-w-[1180px] mx-auto">
+				<div class="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
+					<div>
+						<h2 class="text-4xl md:text-5xl font-serif text-white mb-4">Seamless Acquisition</h2>
+						<p class="text-white/60 max-w-md text-lg font-light">Your journey to owning a masterpiece, simplified into three elegant steps.</p>
+					</div>
+					<a href="/contact" class="text-amber-200 border-b border-amber-200/30 pb-1 hover:border-amber-200 transition-colors">Start your journey &rarr;</a>
+				</div>
+
+				<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+					<!-- Step 1 -->
+					<div class="group p-8 rounded-3xl bg-white/[0.02] border border-white/5 hover:bg-white/[0.04] transition-colors duration-500">
+						<div class="text-6xl font-serif text-white/10 mb-6 group-hover:text-amber-200/20 transition-colors">01</div>
+						<h3 class="text-xl font-medium text-white mb-3">Define Your Desire</h3>
+						<p class="text-white/60 leading-relaxed">Tell us your preferences—budget, marque, model, and city. We listen to every detail.</p>
+					</div>
+					<!-- Step 2 -->
+					<div class="group p-8 rounded-3xl bg-white/[0.02] border border-white/5 hover:bg-white/[0.04] transition-colors duration-500">
+						<div class="text-6xl font-serif text-white/10 mb-6 group-hover:text-amber-200/20 transition-colors">02</div>
+						<h3 class="text-xl font-medium text-white mb-3">Curated Selection</h3>
+						<p class="text-white/60 leading-relaxed">Access verified inventory from India's most reputable dealers, hand-picked for you.</p>
+					</div>
+					<!-- Step 3 -->
+					<div class="group p-8 rounded-3xl bg-white/[0.02] border border-white/5 hover:bg-white/[0.04] transition-colors duration-500">
+						<div class="text-6xl font-serif text-white/10 mb-6 group-hover:text-amber-200/20 transition-colors">03</div>
+						<h3 class="text-xl font-medium text-white mb-3">Acquire with Confidence</h3>
+						<p class="text-white/60 leading-relaxed">Inspect, negotiate, and drive away. We ensure a transparent and secure transaction.</p>
+					</div>
+				</div>
 			</div>
-			<div class="flex flex-wrap gap-[10px]">
-				<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:brightness-[1.04] hover:saturate-[1.02] sm:py-[11px] sm:gap-[10px]" href="/contact">Fill the form</a>
-				<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.14)] bg-transparent text-[rgba(250,251,255,0.96)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:bg-[rgba(255,255,255,0.06)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)] sm:py-[11px] sm:gap-[10px]" href="/pre-owned-luxury-cars">Browse dealers</a>
+		</section>
+
+		<!-- Featured Cities -->
+		<section class="py-24 px-6 bg-white/[0.01]">
+			<div class="max-w-[1180px] mx-auto">
+				<div class="text-center mb-16">
+					<h2 class="text-4xl md:text-5xl font-serif text-white mb-4">Exclusive Locations</h2>
+					<p class="text-white/60 font-light text-lg">Browse our network of premium dealerships across major cities.</p>
+				</div>
+				
+				<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+					{cities.map((c) => (
+						<CityCard cityName={c.cityName} citySlug={c.citySlug} count={c.count} imageUrl={previews.get(c.citySlug)} />
+					))}
+				</div>
+				
+				<div class="mt-16 text-center">
+					<a href="/pre-owned-luxury-cars" class="inline-flex items-center gap-2 text-white/80 hover:text-white transition-colors border-b border-transparent hover:border-white pb-1">
+						View all locations <span aria-hidden="true">&rarr;</span>
+					</a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Final CTA -->
+		<section class="py-32 px-6 relative overflow-hidden">
+			<div class="absolute inset-0 bg-gradient-to-b from-transparent to-amber-900/10 pointer-events-none"></div>
+			<div class="max-w-4xl mx-auto text-center relative z-10">
+				<h2 class="text-5xl md:text-7xl font-serif text-white mb-8 tracking-tight">Your Dream Car Awaits.</h2>
+				<p class="text-xl text-white/60 font-light mb-10 max-w-2xl mx-auto">
+					Join the exclusive circle of luxury car owners in India. Let us find your perfect match.
+				</p>
+				<a href="/contact" class="inline-block px-10 py-5 bg-white text-black text-sm font-bold uppercase tracking-widest rounded-full hover:bg-amber-50 transition-colors transform hover:-translate-y-1 duration-300">
+					Get Started
+				</a>
 			</div>
 		</section>
 	</div>
 
 	<style>
-		@keyframes heroFade {
-			0%, 33% { opacity: 1; }
-			34%, 66% { opacity: 0; }
-			67%, 100% { opacity: 0; }
+		/* Simple fade in animation */
+		@keyframes fadeIn {
+			from { opacity: 0; transform: scale(1.05); }
+			to { opacity: 1; transform: scale(1); }
 		}
-		@keyframes pulse {
-			0%, 100% { opacity: 1; transform: scale(1); }
-			50% { opacity: 0.7; transform: scale(1.2); }
-		}
-		.hero-img-1 {
-			animation: heroFade 18s infinite;
-		}
-		.hero-img-2 {
-			animation: heroFade 18s infinite 6s;
-		}
-		.hero-img-3 {
-			animation: heroFade 18s infinite 12s;
-		}
-		.animate-pulse-custom {
-			animation: pulse 2s ease-in-out infinite;
-		}
-		.group:hover svg {
-			transform: translateX(4px);
+		.animate-fade-in {
+			animation: fadeIn 1.5s ease-out forwards;
 		}
 	</style>
 </Layout>

@@ -18,38 +18,32 @@ for (const c of cities) {
 	const cover = (typeof rawCover === 'string' ? rawCover : rawCover?.url) as string | undefined;
 	if (cover) {
 		previews.set(c.citySlug, cover);
-		continue;
+	} else {
+		// Fallback to finding a dealer with an image
+		const dealers = getDealersByCitySlug(c.citySlug);
+		const dealerImage = dealers.find((d) => !!d.imageUrl)?.imageUrl;
+		if (dealerImage) {
+			previews.set(c.citySlug, dealerImage);
+		}
 	}
-	const d = getDealersByCitySlug(c.citySlug).find((x) => !!x.imageUrl);
-	previews.set(c.citySlug, d?.imageUrl);
 }
 ---
 
 <Layout
-	title="Pre-owned Luxury Cars by City (India) | IndianLuxuryCars.com"
+	title="Luxury Car Dealerships by City | IndianLuxuryCars.com"
 	description="Browse pre-owned luxury car dealers by city across India."
 	jsonLd={jsonLd}
 >
-	<div class="max-w-[1180px] mx-auto px-4 py-5 sm:px-5 sm:py-6 lg:px-6 lg:py-[26px]">
-		<header class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] flex flex-col items-start gap-4 mb-5 p-5 bg-[radial-gradient(1000px_520px_at_12%_10%,rgba(214,178,94,0.18),rgba(0,0,0,0)),radial-gradient(900px_520px_at_88%_10%,rgba(99,102,241,0.14),rgba(0,0,0,0)),rgba(255,255,255,0.05)] sm:flex-row sm:items-start sm:justify-between sm:p-6">
-			<div>
-				<div class="text-[11px] tracking-[0.08em] uppercase text-[rgba(238,242,255,0.72)] mb-1.5">Indian Luxury Cars</div>
-				<h1 class="m-0 text-[28px] tracking-[-0.02em] sm:text-[32px]">Browse cities</h1>
-				<p class="text-[rgba(250,251,255,0.72)]">Verified dealers, reviews, locations — all in one place.</p>
-				<div class="flex flex-wrap gap-[10px] mt-3 w-full sm:w-auto">
-					<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:brightness-[1.04] hover:saturate-[1.02] sm:py-[11px] sm:gap-[10px]" href="/contact">Get offers</a>
-					<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.14)] bg-transparent text-[rgba(250,251,255,0.96)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:bg-[rgba(255,255,255,0.06)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)] sm:py-[11px] sm:gap-[10px]" href="/">Home</a>
-				</div>
-			</div>
-			<div class="flex gap-[10px] w-full justify-start sm:w-auto sm:justify-end">
-				<div class="py-2.5 px-3.5 rounded-xl border border-[rgba(255,255,255,0.12)] bg-[rgba(0,0,0,0.18)] min-w-[80px] text-center sm:min-w-[92px]">
-					<div class="font-[850] text-xl tracking-[-0.02em] sm:text-[22px]">{cities.length}</div>
-					<div class="text-[rgba(250,251,255,0.72)] text-xs">cities</div>
-				</div>
-			</div>
+	<div class="max-w-[1180px] mx-auto px-6 py-12 lg:py-20">
+		<header class="mb-16 max-w-3xl">
+			<h1 class="text-4xl md:text-5xl font-serif text-white mb-6">Exclusive Locations</h1>
+			<p class="text-xl text-white/60 font-light leading-relaxed">
+				Explore our curated network of premium dealerships across {cities.length} major cities in India. 
+				Find verified partners in your region.
+			</p>
 		</header>
 
-		<div class="grid grid-cols-1 gap-3 sm:grid-cols-3 lg:grid-cols-4">
+		<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
 			{cities.map((c) => (
 				<CityCard
 					cityName={c.cityName}

@@ -36,22 +36,12 @@
   }
 
   body {
+    background-color: var(--bg0);
     background-image: radial-gradient(
-        1200px 620px at 12% -10%,
-        rgba(214, 178, 94, 0.18),
-        rgba(0, 0, 0, 0)
-      ),
-      radial-gradient(
-        900px 520px at 88% 10%,
-        rgba(99, 102, 241, 0.14),
-        rgba(0, 0, 0, 0)
-      ),
-      radial-gradient(
-        900px 520px at 10% 90%,
-        rgba(168, 85, 247, 0.12),
-        rgba(0, 0, 0, 0)
-      ),
-      linear-gradient(180deg, var(--bg1), var(--bg0));
+      1000px 400px at 50% 0%,
+      rgba(214, 178, 94, 0.08),
+      rgba(0, 0, 0, 0)
+    );
     background-attachment: fixed;
   }
 

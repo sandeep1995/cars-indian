@@ -14,16 +14,71 @@ export function getStaticPaths() {
 const { cityName } = Astro.props as { cityName: string };
 const citySlug = Astro.params.city!;
 const dealers = getDealersByCitySlug(citySlug);
-const featured = dealers.filter((d) => isLikelyUsedLuxuryDealer(d)).slice(0, 20);
+const featured = dealers
+	.filter((d) => (d.reviewsCount ?? 0) > 10 && (d.totalScore ?? 0) >= 4.0 && isLikelyUsedLuxuryDealer(d))
+	.sort((a, b) => (b.reviewsCount ?? 0) - (a.reviewsCount ?? 0))
+	.slice(0, 20);
 
-const title = `${cityName} Pre-owned Luxury Car Dealers | IndianLuxuryCars.com`;
-const description = `Find pre-owned luxury car dealers in ${cityName}. Browse reviews, locations, and contact details.`;
+// SEO: Enhanced Title & Description
+const title = `Used Luxury Cars in ${cityName} | ${dealers.length}+ Verified Dealers`;
+const description = `Looking for pre-owned luxury cars in ${cityName}? Browse ${dealers.length}+ verified dealers for Audi, BMW, Mercedes, Jaguar & more. Compare prices, read reviews & get dealer contacts in ${cityName}.`;
 
-const jsonLd = {
+// SEO: Schema.org JSON-LD
+const siteUrl = Astro.site ? Astro.site.href : 'https://indianluxurycars.com';
+const currentUrl = new URL(Astro.url.pathname, siteUrl).href;
+
+const breadcrumbJsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'BreadcrumbList',
+	itemListElement: [
+		{
+			'@type': 'ListItem',
+			position: 1,
+			name: 'Home',
+			item: siteUrl,
+		},
+		{
+			'@type': 'ListItem',
+			position: 2,
+			name: 'Cities',
+			item: `${siteUrl}pre-owned-luxury-cars`,
+		},
+		{
+			'@type': 'ListItem',
+			position: 3,
+			name: cityName,
+			item: currentUrl,
+		},
+	],
+};
+
+const collectionJsonLd = {
 	'@context': 'https://schema.org',
 	'@type': 'CollectionPage',
 	name: title,
 	description,
+	url: currentUrl,
+	mainEntity: {
+		'@type': 'ItemList',
+		itemListElement: dealers.slice(0, 50).map((d, index) => ({
+			'@type': 'ListItem',
+			position: index + 1,
+			item: {
+				'@type': 'AutoDealer',
+				name: d.title,
+				address: {
+					'@type': 'PostalAddress',
+					streetAddress: d.address,
+					addressLocality: d.cityName,
+					addressRegion: d.state,
+					postalCode: d.postalCode,
+					addressCountry: 'IN',
+				},
+				image: d.imageUrl,
+				telephone: d.phone,
+			},
+		})),
+	},
 };
 
 const rawCover = (cityCovers as any)?.[citySlug] as any;
@@ -31,52 +86,95 @@ const coverUrl = (typeof rawCover === 'string' ? rawCover : rawCover?.url) as st
 const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 ---
 
-<Layout title={title} description={description} jsonLd={jsonLd}>
-	<div class="max-w-[1180px] mx-auto px-4 py-5 sm:px-5 sm:py-6 lg:px-6 lg:py-[26px]">
-		<header class="relative rounded-2xl overflow-hidden border border-[rgba(255,255,255,0.12)] bg-[rgba(255,255,255,0.06)] mb-4 min-h-[180px] sm:rounded-[18px] sm:min-h-[200px]">
-			<div class="absolute inset-0" aria-hidden="true">
-				{heroImage ? (
-					<img src={heroImage} alt="" loading="eager" decoding="async" referrerpolicy="no-referrer" class="w-full h-full object-cover saturate-[1.05] contrast-[1.05]" />
-				) : (
-					<div class="w-full h-full bg-[radial-gradient(1100px_520px_at_10%_10%,rgba(214,178,94,0.22),rgba(0,0,0,0)),radial-gradient(1000px_520px_at_90%_10%,rgba(99,102,241,0.16),rgba(0,0,0,0)),rgba(255,255,255,0.06)]"></div>
+<Layout title={title} description={description} jsonLd={[breadcrumbJsonLd, collectionJsonLd]}>
+	<!-- Hero -->
+	<div class="relative h-[45vh] min-h-[350px] flex items-end">
+		<div class="absolute inset-0 z-0">
+			{heroImage ? (
+				<img src={heroImage} alt={`Used Luxury Cars for Sale in ${cityName}`} class="w-full h-full object-cover" />
+			) : (
+				<div class="w-full h-full bg-[#111]"></div>
+			)}
+			<div class="absolute inset-0 bg-gradient-to-t from-[#05060a] via-[#05060a]/60 to-transparent"></div>
+		</div>
+
+		<div class="relative z-10 w-full max-w-[1180px] mx-auto px-6 pb-12">
+			<nav class="flex gap-2 items-center mb-4 text-xs tracking-wider uppercase text-white/50" aria-label="Breadcrumb">
+				<a href="/" class="hover:text-white transition-colors">Home</a>
+				<span aria-hidden="true">/</span>
+				<a href="/pre-owned-luxury-cars" class="hover:text-white transition-colors">Cities</a>
+				<span aria-hidden="true">/</span>
+				<span class="text-white" aria-current="page">{cityName}</span>
+			</nav>
+			<h1 class="text-4xl md:text-6xl font-serif text-white mb-3">Pre-owned Luxury Cars in {cityName}</h1>
+			<p class="text-lg md:text-xl text-white/70 font-light max-w-2xl">
+				Discover the finest collection of second-hand luxury vehicles. 
+				We have curated {dealers.length} verified dealerships in {cityName} offering premium brands like Audi, BMW, Mercedes-Benz, and more.
+			</p>
+		</div>
+	</div>
+
+	<div class="max-w-[1180px] mx-auto px-6 py-12">
+		<div class="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-12">
+			<!-- Main Content -->
+			<div>
+				{featured.length > 0 && (
+					<section class="mb-12">
+						<div class="flex items-baseline justify-between mb-6">
+							<h2 class="font-serif text-2xl text-white">Featured Collections in {cityName}</h2>
+							<span class="text-sm text-amber-200/80 uppercase tracking-widest font-medium">Top Rated</span>
+						</div>
+						<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+							{featured.map((d) => (
+								<DealerCard dealer={d} href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`} />
+							))}
+						</div>
+					</section>
 				)}
-				<div class="absolute inset-0 bg-gradient-to-b from-[rgba(0,0,0,0.15)] via-[rgba(0,0,0,0.7)] to-[rgba(0,0,0,0.85)]"></div>
+
+				<section>
+					<h2 class="font-serif text-2xl text-white mb-6">All {dealers.length} Dealerships in {cityName}</h2>
+					<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+						{dealers.map((d) => (
+							<DealerCard dealer={d} href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`} />
+						))}
+					</div>
+				</section>
 			</div>
-			<div class="relative z-[1] p-4 flex flex-col gap-2 justify-end min-h-[180px] sm:p-5 sm:min-h-[200px]">
-				<nav class="flex gap-2 items-center flex-wrap mb-1.5 text-[13px] sm:text-sm sm:gap-2.5">
-					<a href="/" class="text-[rgba(238,242,255,0.88)] no-underline">Home</a>
-					<span class="text-[rgba(250,251,255,0.72)] text-xs">/</span>
-					<a href="/pre-owned-luxury-cars" class="text-[rgba(238,242,255,0.88)] no-underline">Cities</a>
-					<span class="text-[rgba(250,251,255,0.72)] text-xs">/</span>
-					<span>{cityName}</span>
-				</nav>
-				<h1 class="m-0 text-[26px] tracking-[-0.02em] sm:text-[30px]">{cityName}</h1>
-				<p class="text-[rgba(250,251,255,0.72)]">{dealers.length} dealers</p>
-				<div class="mt-1.5 flex flex-wrap gap-2">
-					<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.22)] bg-[linear-gradient(135deg,rgba(214,178,94,0.98),rgba(241,212,138,0.96),rgba(169,124,43,0.9))] text-[rgba(18,12,2,0.92)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:brightness-[1.04] hover:saturate-[1.02] sm:py-[11px] sm:gap-[10px]" href="/contact">Get offers</a>
-					<a class="inline-flex items-center justify-center gap-2 px-[14px] py-[10px] rounded-full border border-[rgba(255,255,255,0.14)] bg-transparent text-[rgba(250,251,255,0.96)] no-underline font-bold text-sm tracking-[-0.01em] whitespace-nowrap transition-all duration-[140ms] ease-in-out hover:bg-[rgba(255,255,255,0.06)] hover:border-[rgba(255,255,255,0.18)] hover:-translate-y-px hover:shadow-[0_18px_46px_rgba(0,0,0,0.35)] sm:py-[11px] sm:gap-[10px]" href="/pre-owned-luxury-cars">All cities</a>
+
+			<!-- Sidebar -->
+			<div class="hidden lg:block">
+				<div class="sticky top-24 flex flex-col gap-6">
+					<!-- Concierge Card -->
+					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
+						<h3 class="font-serif text-xl text-white mb-4">Concierge Service</h3>
+						<p class="text-sm text-white/60 mb-6 leading-relaxed">
+							Looking for a specific car in {cityName}? Let our concierge team find it for you. We scan all {dealers.length} dealers to find your perfect match.
+						</p>
+						<a href="/contact" class="block w-full py-3 px-4 bg-white text-black text-center text-xs font-bold uppercase tracking-wider rounded-lg hover:bg-amber-50 transition-colors">
+							Request a Car
+						</a>
+					</div>
+
+					<!-- SEO Content / About -->
+					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
+						<h3 class="font-serif text-lg text-white mb-3">About Luxury Cars in {cityName}</h3>
+						<p class="text-sm text-white/50 leading-relaxed mb-4">
+							{cityName} is home to a growing market of pre-owned luxury vehicles. 
+							Whether you are looking for a sporty sedan, a comfortable SUV, or a rare collectible, 
+							our verified dealers in {cityName} offer a wide range of options.
+						</p>
+						<p class="text-sm text-white/50 leading-relaxed">
+							Popular brands available in {cityName} include:
+						</p>
+						<ul class="flex flex-wrap gap-2 mt-3">
+							{['Audi', 'BMW', 'Mercedes-Benz', 'Jaguar', 'Land Rover', 'Volvo', 'Porsche'].map(brand => (
+								<li class="text-xs text-amber-200/70 bg-amber-900/10 px-2 py-1 rounded border border-amber-500/10">{brand}</li>
+							))}
+						</ul>
+					</div>
 				</div>
 			</div>
-		</header>
-
-		{featured.length ? (
-			<section class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-[18px] my-[18px] mb-3.5">
-				<h2 class="m-0 mb-2.5 text-lg">Featured dealers</h2>
-				<div class="grid grid-cols-1 gap-2.5 sm:grid-cols-2 lg:grid-cols-3">
-					{featured.map((d) => (
-						<DealerCard dealer={d} href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`} />
-					))}
-				</div>
-			</section>
-		) : null}
-
-		<section class="bg-gradient-to-b from-[rgba(255,255,255,0.065)] to-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.12)] rounded-[18px] shadow-[0_14px_34px_rgba(0,0,0,0.35)] p-[18px] my-[18px] mb-3.5">
-			<h2 class="m-0 mb-2.5 text-lg">All dealers</h2>
-			<div class="grid grid-cols-1 gap-2.5 sm:grid-cols-2 lg:grid-cols-3">
-				{dealers.map((d) => (
-					<DealerCard dealer={d} href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`} />
-				))}
-			</div>
-		</section>
+		</div>
 	</div>
 </Layout>
