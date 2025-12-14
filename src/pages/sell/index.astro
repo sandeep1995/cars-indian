@@ -33,7 +33,7 @@ const jsonLd = {
   serviceType: 'Car Buying Service'
 };
 
-const topCities = getCities().sort((a, b) => b.count - a.count).slice(0, 30);
+const topCities = getCities().sort((a, b) => b.count - a.count).slice(0, 60);
 ---
 
 <Layout title={pageTitle} description={description} jsonLd={[jsonLd]}>
