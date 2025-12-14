@@ -1,0 +1,60 @@
+[
+  {
+    "title": "SSD SELF DRIVING CARS",
+    "categoryName": "Car rental agency",
+    "address": "Roadd No. 4, Padmavathi Nagar Colony, Venkataramana Colony, Chintalkunta, Hyderabad, Telangana 500074, India",
+    "neighborhood": "Padmavathi Nagar Colony, Venkataramana Colony",
+    "street": "Roadd No. 4",
+    "city": "Chintalkunta, Hyderabad",
+    "postalCode": "500074",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+918466814678",
+    "phoneUnformatted": "+918466814678",
+    "location": {
+      "lat": 17.3361766,
+      "lng": 78.5587174
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR6HFa46ZyzsRCC_k_n0h--E",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 629,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DL2paVcBYptXJlEwx0YWvQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=284.2915&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=SSD%20SELF%20DRIVING%20CARS&query_place_id=ChIJR6HFa46ZyzsRCC_k_n0h--E"
+  }
+]

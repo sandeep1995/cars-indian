@@ -1,0 +1,241 @@
+[
+  {
+    "title": "APJ CARS, PRE OWNED CARS DEALER, USED CARS DEALER,",
+    "categoryName": "Used car dealer",
+    "address": "1st floor, Olympus, 1037, Trichy Rd, opposite to MRF tyres, Olymbus, Rukmani Nagar, Ramanathapuram, Coimbatore, Tamil Nadu 641005, India",
+    "neighborhood": "Olymbus, Rukmani Nagar",
+    "street": "1st floor, Olympus, 1037, Trichy Rd, opposite to MRF tyres",
+    "city": "Ramanathapuram, Coimbatore",
+    "postalCode": "641005",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919543182927",
+    "phoneUnformatted": "+919543182927",
+    "location": {
+      "lat": 10.9976179,
+      "lng": 76.991187
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUe-MyzJZqDsRWZtvAAA8ysY",
+    "categories": [
+      "Used car dealer"
+    ],
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP5NW6g0Y12hO-ZNx8n0XmHi5DB4ZTa9pgL6eeB=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=APJ%20CARS%2C%20PRE%20OWNED%20CARS%20DEALER%2C%20USED%20CARS%20DEALER%2C&query_place_id=ChIJUe-MyzJZqDsRWZtvAAA8ysY"
+  },
+  {
+    "title": "Coimbatore Car Rental",
+    "categoryName": "Car rental agency",
+    "address": "9/5,Subramaniam Street high School, opp. to RS Puram Corporation Boys Higher Secondary School, Ramanathapuram, Tamil Nadu 641002, India",
+    "neighborhood": "R.S. Puram",
+    "street": "9/5,Subramaniam Street high School, opp. to RS Puram Corporation Boys Higher Secondary School",
+    "city": "Ramanathapuram, Coimbatore",
+    "postalCode": "641002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.coimbatorecarrental.com/",
+    "phone": "+919597755363",
+    "phoneUnformatted": "+919597755363",
+    "location": {
+      "lat": 11.0050574,
+      "lng": 76.9473605
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcX_dN4dZqDsRZ_MBZMKesRI",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 85,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMtssfuUwI2c36dYyP3DJ1hDFFtvgqjW2YQXMvZ=w408-h256-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Coimbatore%20Car%20Rental&query_place_id=ChIJcX_dN4dZqDsRZ_MBZMKesRI"
+  },
+  {
+    "title": "Royal cars",
+    "categoryName": "Car dealer",
+    "address": "699/1, T Nagar, Kongu Nagar, Ramanathapuram, Coimbatore, Tamil Nadu 641045, India",
+    "neighborhood": "T Nagar, Kongu Nagar",
+    "street": "699/1",
+    "city": "Ramanathapuram, Coimbatore",
+    "postalCode": "641045",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919171119119",
+    "phoneUnformatted": "+919171119119",
+    "location": {
+      "lat": 10.9964923,
+      "lng": 77.0017165
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmYNc8ZdZqDsR5kxOsSe2Vlg",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPvWvppiUygF4jhY4-vGhBWK48NHvvwAJI4By9A=w428-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20cars&query_place_id=ChIJmYNc8ZdZqDsR5kxOsSe2Vlg"
+  },
+  {
+    "title": "ROYAL CARS",
+    "categoryName": "Used car dealer",
+    "address": "699/1, Trichy Rd, Opp Alvernia School, Kongu Nagar, Kallimadai, Ramanathapuram, Coimbatore, Tamil Nadu 641045, India",
+    "neighborhood": "Opp Alvernia School, Kongu Nagar, Kallimadai",
+    "street": "699/1, Trichy Rd",
+    "city": "Ramanathapuram, Coimbatore",
+    "postalCode": "641045",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917538851845",
+    "phoneUnformatted": "+917538851845",
+    "location": {
+      "lat": 10.9967365,
+      "lng": 77.0021419
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJbeOKn9ZqDsRc8czj8oZs5A",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8:13 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8:13 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8:13 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8:13 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8:13 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8:13 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 2:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPvWvppiUygF4jhY4-vGhBWK48NHvvwAJI4By9A=w428-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=ROYAL%20CARS&query_place_id=ChIJJbeOKn9ZqDsRc8czj8oZs5A"
+  }
+]

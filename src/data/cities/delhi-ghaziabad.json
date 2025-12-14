@@ -1,0 +1,67 @@
+[
+  {
+    "title": "THE CAR KING INDIA",
+    "subTitle": "द कार किंग इंडिया",
+    "categoryName": "Car dealer",
+    "address": "Reliance smart, near anand vihar, HIG Flats, Chander Nagar, Surya Nagar, Delhi, Ghaziabad, Delhi 201011, India",
+    "neighborhood": "HIG Flats, Chander Nagar, Surya Nagar",
+    "street": "Reliance smart, near anand vihar",
+    "city": "Delhi, Ghaziabad",
+    "postalCode": "201011",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "website": "https://www.thecarkingindia.in/",
+    "phone": "+917838665085",
+    "phoneUnformatted": "+917838665085",
+    "location": {
+      "lat": 28.6673081,
+      "lng": 77.3314105
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9-BUiOr7DDkRZfnNoUteysk",
+    "categories": [
+      "Car dealer",
+      "Audi dealer",
+      "BMW dealer",
+      "MG dealer",
+      "Motor vehicle dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 41,
+    "imagesCount": 72,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNRENuD7eS6H7kpg8MrCtCLEwECFmzxxOWNUQM-=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=THE%20CAR%20KING%20INDIA&query_place_id=ChIJ9-BUiOr7DDkRZfnNoUteysk"
+  }
+]

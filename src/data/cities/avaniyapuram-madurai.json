@@ -1,0 +1,38 @@
+[
+  {
+    "title": "RBC Travels",
+    "categoryName": "Car rental agency",
+    "address": "1A, 136/10 A1, 137/1A, APK Main Rd, Ayanpapakudi Road, Avaniyapuram, Madurai, Tamil Nadu 625012, India",
+    "neighborhood": "Ayanpapakudi Road",
+    "street": "1A, 136/10 A1, 137/1A, APK Main Rd",
+    "city": "Avaniyapuram, Madurai",
+    "postalCode": "625012",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://rbctravels.in/",
+    "phone": "+919087399003",
+    "phoneUnformatted": "+919087399003",
+    "location": {
+      "lat": 9.8747893,
+      "lng": 78.110026
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJx7FqR2fFADsR0Hg40UZN0_U",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 190,
+    "imagesCount": 36,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKXWvpw-be3CYjaNXhXTfuiMVvYhkej1bEEV8C=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=RBC%20Travels&query_place_id=ChIJx7FqR2fFADsR0Hg40UZN0_U"
+  }
+]

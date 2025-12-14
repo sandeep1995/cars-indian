@@ -1,0 +1,68 @@
+[
+  {
+    "title": "CARS24 - Sell Used Cars in Madurai",
+    "categoryName": "Used car dealer",
+    "address": "Vasanth Nagar, Madurai, Tamil Nadu 625003, India",
+    "city": "Vasanth Nagar, Madurai",
+    "postalCode": "625003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.cars24.com/",
+    "phone": "+918929100611",
+    "phoneUnformatted": "+918929100611",
+    "location": {
+      "lat": 9.9069091,
+      "lng": 78.0986024
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3yUeulfPADsRSfAPCqlNUto",
+    "categories": [
+      "Used car dealer",
+      "Audi dealer",
+      "BMW dealer",
+      "Car finance and loan company",
+      "Honda dealer",
+      "Hyundai dealer",
+      "Jeep dealer",
+      "Kia dealer",
+      "Suzuki dealer",
+      "Toyota dealer"
+    ],
+    "reviewsCount": 161,
+    "imagesCount": 130,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMGz5d2Sitvkt2iiszz8IkGy3QiL0sbPvHsnVJv=w408-h279-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CARS24%20-%20Sell%20Used%20Cars%20in%20Madurai&query_place_id=ChIJ3yUeulfPADsRSfAPCqlNUto"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "DESTINATION CARS",
+    "categoryName": "Used car dealer",
+    "address": "23-A, 23-B, Saroor Nagar Rd, near Kamineni Hospital, Sai Harsa Residency, Aaditya Nagar, Balaji Nagar, Mansoorabad, Hyderabad, Telangana 500068, India",
+    "neighborhood": "Sai Harsa Residency, Aaditya Nagar, Balaji Nagar",
+    "street": "23-A, 23-B, Saroor Nagar Rd, near Kamineni Hospital",
+    "city": "Mansoorabad, Hyderabad",
+    "postalCode": "500068",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+918074467756",
+    "phoneUnformatted": "+918074467756",
+    "location": {
+      "lat": 17.3547838,
+      "lng": 78.5565018
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ43k3NySRyzsR9pxuSCdeV70",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 81,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFxctLgsSLbzjoGNoW5z7isAUyHSM1t4vLhx-S=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=DESTINATION%20CARS&query_place_id=ChIJ43k3NySRyzsR9pxuSCdeV70"
+  }
+]

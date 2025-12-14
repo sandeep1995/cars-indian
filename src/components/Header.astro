@@ -1,0 +1,98 @@
+---
+type NavItem = { href: string; label: string };
+const nav: NavItem[] = [
+	{ href: '/', label: 'Home' },
+	{ href: '/pre-owned-luxury-cars', label: 'Cities' },
+];
+---
+
+<header class="site-header">
+	<div class="container inner">
+		<a class="brand" href="/" aria-label="Home">
+			<span class="mark" aria-hidden="true">LC</span>
+			<span class="brandText">Luxury Cars</span>
+		</a>
+
+		<nav class="nav" aria-label="Primary">
+			{nav.map((i) => (
+				<a class="navLink" href={i.href}>{i.label}</a>
+			))}
+		</nav>
+
+		<div class="actions">
+			<a class="btn primary" href="/pre-owned-luxury-cars">Browse dealers</a>
+		</div>
+	</div>
+</header>
+
+<style>
+	.site-header {
+		position: sticky;
+		top: 0;
+		z-index: 50;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+		background: rgba(11, 15, 25, 0.75);
+		backdrop-filter: blur(14px);
+	}
+	.inner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 14px;
+		padding: 14px 16px;
+	}
+	.brand {
+		display: inline-flex;
+		align-items: center;
+		gap: 10px;
+		text-decoration: none;
+	}
+	.mark {
+		width: 34px;
+		height: 34px;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 10px;
+		background: linear-gradient(135deg, rgba(99, 102, 241, 0.95), rgba(168, 85, 247, 0.95));
+		border: 1px solid rgba(255, 255, 255, 0.18);
+		font-weight: 800;
+		letter-spacing: -0.04em;
+	}
+	.brandText {
+		font-weight: 750;
+		letter-spacing: -0.02em;
+	}
+	.nav {
+		display: none;
+		gap: 14px;
+		align-items: center;
+	}
+	.navLink {
+		text-decoration: none;
+		color: rgba(238, 242, 255, 0.86);
+		font-size: 14px;
+		padding: 8px 10px;
+		border-radius: 10px;
+	}
+	.navLink:hover {
+		background: rgba(255, 255, 255, 0.06);
+		color: rgba(238, 242, 255, 0.98);
+	}
+	.actions {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+	}
+	.btn.primary {
+		background: linear-gradient(135deg, rgba(99, 102, 241, 0.95), rgba(168, 85, 247, 0.95));
+		border-color: rgba(255, 255, 255, 0.22);
+	}
+	@media (min-width: 720px) {
+		.nav {
+			display: inline-flex;
+		}
+	}
+</style>
+
+

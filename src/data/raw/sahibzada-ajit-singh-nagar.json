@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Star luxury car",
+    "categoryName": "Car rental agency",
+    "address": "CNG pump, Phase 6, Sector 56, Sahibzada Ajit Singh Nagar, Punjab 160055, India",
+    "neighborhood": "Phase 6, Sector 56",
+    "street": "CNG pump",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "postalCode": "160055",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+917037300011",
+    "phoneUnformatted": "+917037300011",
+    "location": {
+      "lat": 30.7357214,
+      "lng": 76.7163826
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR5AXojzvDzkR7wFxUuW7eBo",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 29,
+    "imagesCount": 190,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdQspr4tHkTj5kK1dVn3XrO_eiODGNeOULZe4l=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20luxury%20car&query_place_id=ChIJR5AXojzvDzkR7wFxUuW7eBo"
+  },
+  {
+    "title": "chandigarh wedding cars",
+    "categoryName": "Car leasing service",
+    "address": "Taxi Stand, near CNG Petrol Pump, Phase 6, Sector 56, Sahibzada Ajit Singh Nagar, Punjab 160055, India",
+    "neighborhood": "Phase 6, Sector 56",
+    "street": "Taxi Stand, near CNG Petrol Pump",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "postalCode": "160055",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919888196396",
+    "phoneUnformatted": "+919888196396",
+    "location": {
+      "lat": 30.7362381,
+      "lng": 76.716346
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyZfnvRLvDzkR6lHBgmB1kGA",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPioJdOjJb9fkbdTUUphZtDxy7Khh3kwy_vDZs=w616-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=chandigarh%20wedding%20cars&query_place_id=ChIJyZfnvRLvDzkR6lHBgmB1kGA"
+  }
+]

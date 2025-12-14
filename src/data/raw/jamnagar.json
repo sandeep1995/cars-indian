@@ -1,0 +1,492 @@
+[
+  {
+    "title": "Aram Travels",
+    "subTitle": "આરામ ટ્રાવેલ્સ",
+    "categoryName": "Car leasing service",
+    "address": "Pandit Nehru Marg, Mohan Nagar, Indradeep Society, Jamnagar, Gujarat 361002, India",
+    "neighborhood": "Mohan Nagar, Indradeep Society",
+    "street": "Pandit Nehru Marg",
+    "city": "Jamnagar",
+    "postalCode": "361002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://www.aramtravels.com/",
+    "phone": "+919825225975",
+    "phoneUnformatted": "+919825225975",
+    "location": {
+      "lat": 22.481481,
+      "lng": 70.061088
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ18fiqhqVzkRJyvvimnDf8k",
+    "categories": [
+      "Car leasing service",
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 329,
+    "imagesCount": 105,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwsng4SygTed6PGTz8dbnXWyed98PdaSLvvCrKMrTvnQHFOV-yfbfdZ5MN1QqA3Rqad-S1xElbE2R7wxpq9vY0xh6AoCI3LQ8Wrkoe8jmI-wcQdfv_nqiY7uANInsuRXDcr1x7W=w1029-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Aram%20Travels&query_place_id=ChIJJ18fiqhqVzkRJyvvimnDf8k"
+  },
+  {
+    "title": "Deep Travels",
+    "subTitle": "દીપ ટ્રાવેલ્સ",
+    "categoryName": "Car rental agency",
+    "address": "Shop No. 133, DKV COLLEGE, Cross Road Complex, Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361002, India",
+    "neighborhood": "Indradeep Society",
+    "street": "Shop No. 133, DKV COLLEGE, Cross Road Complex, Pandit Nehru Marg",
+    "city": "Jamnagar",
+    "postalCode": "361002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+919898493001",
+    "phoneUnformatted": "+919898493001",
+    "location": {
+      "lat": 22.4808471,
+      "lng": 70.0617731
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxxSgm6hqVzkRiphdJqa1_X0",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 34,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh6.googleusercontent.com/1X2y1zK_P0tCBHHZ0m7f6QJgRORFKeUNq8VIutJWdRrpO0cL7dy2WN1IM7Fm08Aq=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Deep%20Travels&query_place_id=ChIJxxSgm6hqVzkRiphdJqa1_X0"
+  },
+  {
+    "title": "Giriraj Yatra Sangh",
+    "categoryName": "Car rental agency",
+    "address": "Ratanbiy masjid, Chandi Bazar, Kadiawad, Jamnagar, Gujarat 361006, India",
+    "neighborhood": "Chandi Bazar, Kadiawad",
+    "street": "Ratanbiy masjid",
+    "city": "Jamnagar",
+    "postalCode": "361006",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+912882557744",
+    "phoneUnformatted": "+912882557744",
+    "location": {
+      "lat": 22.4656639,
+      "lng": 70.0773689
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ456marlqVzkR2dJufTIXqls",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOtoCROULb7rk1tV9N4oQ05ZjYa6c2Z5sNPjj-=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Giriraj%20Yatra%20Sangh&query_place_id=ChIJ456marlqVzkR2dJufTIXqls"
+  },
+  {
+    "title": "Janak Travels",
+    "subTitle": "જનક ટ્રાવેલ્સ",
+    "categoryName": "Car rental agency",
+    "address": "9 patel colony nehru nagar, 9, Rd Number 3, Nehrunagar, Patel Colony, Jamnagar, Gujarat 361008, India",
+    "neighborhood": "Nehrunagar, Patel Colony",
+    "street": "9 patel colony nehru nagar, 9, Rd Number 3",
+    "city": "Jamnagar",
+    "postalCode": "361008",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://janaktravels.com/",
+    "location": {
+      "lat": 22.4872782,
+      "lng": 70.0591934
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5XMzWQtBVzkRr7pXO7_d1t4",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Taxi service",
+      "Tour operator",
+      "Tourist information center",
+      "Travel agency"
+    ],
+    "imagesCount": 11,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNE981lGzMiu3AJf1EgaKtUlRYKtosbqtBpCIrq=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Janak%20Travels&query_place_id=ChIJ5XMzWQtBVzkRr7pXO7_d1t4"
+  },
+  {
+    "title": "NEHAL TRAVELS",
+    "subTitle": "નેહલ ટ્રાવેલ્સ",
+    "categoryName": "Car leasing service",
+    "address": "Shop No. 7, Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361006, India",
+    "neighborhood": "Indradeep Society",
+    "street": "Shop No. 7, Pandit Nehru Marg",
+    "city": "Jamnagar",
+    "postalCode": "361006",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://www.nehal-travels.com/",
+    "phone": "+919904229263",
+    "phoneUnformatted": "+919904229263",
+    "location": {
+      "lat": 22.4748634,
+      "lng": 70.0674795
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfYtdpKRqVzkRf-yPsgQayMY",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 7,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzWC5pUN-pNBmUHg6XAXPpPa4glnR8p9uy6blR-adYaEiSnb1uOwmAb6dRWumFP1YoUgdBOj0RhGN3jZhasUxKn9P5Ln1NecJG1VGzjtnSHXUxCSEcbI0txt9ZMo-7338cGuttbhA=w408-h242-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NEHAL%20TRAVELS&query_place_id=ChIJfYtdpKRqVzkRf-yPsgQayMY"
+  },
+  {
+    "title": "Ocean Car Spa & Detailing Branch-2",
+    "categoryName": "Car wash",
+    "address": "Hirji Mistry Rd, behind Navanagar Bank, opp. Pranami Globle School, Nand Dham Society, Jamnagar, Gujarat 361006, India",
+    "neighborhood": "Nand Dham Society",
+    "street": "Hirji Mistry Rd, behind Navanagar Bank, opp. Pranami Globle School",
+    "city": "Jamnagar",
+    "postalCode": "361006",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+917778866972",
+    "phoneUnformatted": "+917778866972",
+    "location": {
+      "lat": 22.4603152,
+      "lng": 70.0548495
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZylUq1lrVzkRFcZOJ3d0iEY",
+    "categories": [
+      "Car wash"
+    ],
+    "reviewsCount": 118,
+    "imagesCount": 73,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMI0SqB1LmMCleHYDFwwI19nBDJbRGgGnWAa4FK=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ocean%20Car%20Spa%20%26%20Detailing%20Branch-2&query_place_id=ChIJZylUq1lrVzkRFcZOJ3d0iEY"
+  },
+  {
+    "title": "Ocean car spa & Detailing Branch-1 ( All types of Car Detailing Studio)",
+    "categoryName": "Car wash",
+    "address": "near, new hudko j-26, Shak Market Rd, Ranjit Nagar, Summair Club Road, Jamnagar, Gujarat 361006, India",
+    "neighborhood": "Ranjit Nagar, Summair Club Road",
+    "street": "near, new hudko j-26, Shak Market Rd",
+    "city": "Jamnagar",
+    "postalCode": "361006",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+917778866972",
+    "phoneUnformatted": "+917778866972",
+    "location": {
+      "lat": 22.4649635,
+      "lng": 70.0532574
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhRR90WlrVzkRTzwelZ45S_Q",
+    "categories": [
+      "Car wash"
+    ],
+    "reviewsCount": 299,
+    "imagesCount": 103,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMsejFdQQwXcv3Mc_voocKV7dwxezR3DugK1nMA=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ocean%20car%20spa%20%26%20Detailing%20Branch-1%20(%20All%20types%20of%20Car%20Detailing%20Studio)&query_place_id=ChIJhRR90WlrVzkRTzwelZ45S_Q"
+  },
+  {
+    "title": "Shree Khodiyar Travels",
+    "subTitle": "શ્રી ખોડિયાર ટ્રાવેલ્સ",
+    "categoryName": "Car rental agency",
+    "address": "80 Feet Rd, near telephone exchange, B/H, Khodiyar Colony, Jamnagar, Gujarat 361002, India",
+    "neighborhood": "B/H, Khodiyar Colony",
+    "street": "80 Feet Rd, near telephone exchange",
+    "city": "Jamnagar",
+    "postalCode": "361002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+918140394595",
+    "phoneUnformatted": "+918140394595",
+    "location": {
+      "lat": 22.4666673,
+      "lng": 70.0450295
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwUUPrTEVVzkRUJ33W2WmPk8",
+    "categories": [
+      "Car rental agency",
+      "Bus company",
+      "Bus tour agency",
+      "Car leasing service",
+      "Handicapped transportation service",
+      "Leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 359,
+    "imagesCount": 162,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNfXmqCzi7iyLVxxrXxZEHMVTKerhtak7dlxFI9=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shree%20Khodiyar%20Travels&query_place_id=ChIJwUUPrTEVVzkRUJ33W2WmPk8"
+  },
+  {
+    "title": "myTVS - Platinum Motors Jamnnagar",
+    "categoryName": "Car repair and maintenance service",
+    "address": "Platinum motors, Four Wheeler Services C-17B/18,M.P. Shah Municipal Indus Estate, Saru Section Rd, Jamnagar, Gujarat 361002, India",
+    "neighborhood": "Mahavir Society, Park Colony",
+    "street": "Platinum motors, Four Wheeler Services C-17B/18,M.P. Shah Municipal Indus Estate, Saru Section Rd",
+    "city": "Jamnagar",
+    "postalCode": "361002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "https://mytvs.in/",
+    "phone": "+919727177777",
+    "phoneUnformatted": "+919727177777",
+    "location": {
+      "lat": 22.4795905,
+      "lng": 70.051062
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ6C56IJrVzkRgXcS9X2g3u8",
+    "categories": [
+      "Car repair and maintenance service",
+      "Auto body shop",
+      "Mechanic",
+      "Oil change service",
+      "Parking garage"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOL53qKFHTdhsPTKwjWqdhgxV7raYGedQoDB_NR=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=myTVS%20-%20Platinum%20Motors%20Jamnnagar&query_place_id=ChIJQ6C56IJrVzkRgXcS9X2g3u8"
+  }
+]

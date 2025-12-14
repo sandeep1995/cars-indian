@@ -1,0 +1,871 @@
+[
+  {
+    "title": "BMW Bird Automotive | Golf Course Road | Sector 56, Gurugram",
+    "subTitle": "बीएमडब्लू बर्ड ऑटोमोटिव | गोल्फ कोर्स रोड | सेक्टर 56, गुरुग्राम",
+    "price": null,
+    "categoryName": "BMW dealer",
+    "address": "Address one, Baani, Golf Course Rd, Sector 56, Gurugram, Ghata, Haryana 122011, India",
+    "neighborhood": "Sector 56",
+    "street": "Address one, Baani, Golf Course Rd",
+    "city": "Gurugram, Ghata",
+    "postalCode": "122011",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "https://www.bmw-birdautomotive.in/",
+    "phone": "+91 82228 22201",
+    "phoneUnformatted": "+918222822201",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4213734,
+      "lng": 77.1045688
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDREPG0wZDTkRSZwErrAtCNw",
+    "categories": [
+      "BMW dealer",
+      "Car dealer"
+    ],
+    "fid": "0x390d194c1b0f110d:0xdc082db0ae049c49",
+    "cid": "15854972725014862921",
+    "reviewsCount": 309,
+    "reviewsDistribution": {
+      "oneStar": 22,
+      "twoStar": 6,
+      "threeStar": 17,
+      "fourStar": 44,
+      "fiveStar": 220
+    },
+    "imagesCount": 166,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:02:39.368Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BMW%20Bird%20Automotive%20%7C%20Golf%20Course%20Road%20%7C%20Sector%2056%2C%20Gurugram&query_place_id=ChIJDREPG0wZDTkRSZwErrAtCNw",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.370736450000003,77.22052919438896,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 24,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyJEWtN_kgz9v1lo4Em23uXHliv4mtNgXl-7u4K5Cv3pyKw4nzcQkN_O57LSL7qgfN7z_ltq4plbmRYdu2rq2Yr9xVJspXbFdLmqvrRY6WDmE94Iu1FnAnrhr-1aopGdS4hbQl_qA=w408-h271-k-no",
+    "kgmid": "/g/1tfq30vb",
+    "domain": "bmw-birdautomotive.in",
+    "scrapedUrls": [
+      "https://www.bmw-birdautomotive.in/",
+      "https://www.bmw-birdautomotive.in/the-team",
+      "https://www.bmw-birdautomotive.in/about-us",
+      "https://www.bmw-birdautomotive.in/find-us",
+      "https://www.bmw-birdautomotive.in/test-drive"
+    ],
+    "depth": 0,
+    "emails": [
+      "info@bmw-birdautomotive.in",
+      "ritesh.paliwal@bmw-birdautomotive.in",
+      "rajan.jacob@bmw-birdautomotive.in",
+      "gaurav.sharma@bmw-birdautomotive.in",
+      "ankoor.kumar@bmw-birdautomotive.in",
+      "manav.rali@bmw-birdautomotive.in",
+      "susheel.kumar@bmw-birdautomotive.in",
+      "ashish.mishra@bmw-birdautomotive.in",
+      "sharada.n@bmw-birdautomotive.in"
+    ],
+    "phones": [
+      "+91 124 3988 557"
+    ],
+    "phonesUncertain": [
+      "15-08-2020",
+      "+91-82228",
+      "60 45 000",
+      "73 95 000",
+      "73 35 000",
+      "79 45 000",
+      "00 25 000",
+      "00 70 000",
+      "38 40 000",
+      "52 30 000",
+      "87 90 000",
+      "50 60 000",
+      "71 20 000",
+      "93 60 000",
+      "25 45 000",
+      "05 00 000",
+      "49 90 000",
+      "45 30 000",
+      "39 50 000",
+      "19 50 000",
+      "58 00 000",
+      "54 55 000",
+      "+91 82228222",
+      "+91 124 3988 557",
+      "+91 97738969",
+      "+91 92055007",
+      "+91 81307777",
+      "+91 72909526",
+      "+91 99710221",
+      "+91 89789905",
+      "+91 97114948",
+      "+91 88008950",
+      "+91 99109987",
+      "+91 99100684",
+      "+91 88103751",
+      "+91 124 399616",
+      "+91 92897190",
+      "+91 99105577"
+    ],
+    "linkedIns": [],
+    "twitters": [
+      "https://twitter.com/bird_automotive"
+    ],
+    "instagrams": [
+      "https://www.instagram.com/bmwbirdautomotive"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/bmwbirdautomotive"
+    ],
+    "youtubes": [
+      "https://www.youtube.com/channel/UC9QaP_fzI1matuCOIFZGSSQ"
+    ],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "snapchats": [],
+    "threads": [],
+    "telegrams": [],
+    "reddits": [],
+    "whatsapps": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  },
+  {
+    "title": "CARENZY - SPOT Dealer - Absolute Car Choice (sell car in gurgaon) 9810944388",
+    "subTitle": "कारेंजी - स्पॉट डीलर - एब्सोल्यूट कार चॉइस (सेल कार इन गुड़गांव) 9810944388",
+    "price": null,
+    "categoryName": "Used car dealer",
+    "address": "406 GF, Golf Course Ext Rd, Sushant Lok, Block F, Sushant Lok 2, Sector 57, Gurugram, Ghata, Haryana 122011, India",
+    "neighborhood": "Sushant Lok, Block F, Sushant Lok 2, Sector 57",
+    "street": "406 GF, Golf Course Ext Rd",
+    "city": "Gurugram, Ghata",
+    "postalCode": "122011",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "http://www.carenzy.com/",
+    "phone": "+91 98109 44388",
+    "phoneUnformatted": "+919810944388",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4167794,
+      "lng": 77.0873467
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2-MGJAAjDTkR6aRnkJ64L4s",
+    "categories": [
+      "Used car dealer"
+    ],
+    "fid": "0x390d23002406e3db:0x8b2fb89e9067a4e9",
+    "cid": "10029437886344439017",
+    "reviewsCount": 40,
+    "imagesCount": 84,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:03:26.026Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        },
+        {
+          "Delivery": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Used goods": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CARENZY%20-%20SPOT%20Dealer%20-%20Absolute%20Car%20Choice%20(sell%20car%20in%20gurgaon)%209810944388&query_place_id=ChIJ2-MGJAAjDTkR6aRnkJ64L4s",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.370736450000003,77.08348662219448,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNRaufJQsdWBLaG9WMgfHZfrGcch7b49Yd8iieb=w408-h306-k-no",
+    "kgmid": "/g/11x8rpvv1z",
+    "domain": "carenzy.com",
+    "scrapedUrls": [
+      "http://www.carenzy.com/"
+    ],
+    "depth": 0,
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "snapchats": [],
+    "threads": [],
+    "telegrams": [],
+    "reddits": [],
+    "whatsapps": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  },
+  {
+    "title": "CNB Certified Used Cars - Gurgaon",
+    "subTitle": "सीएनबी सर्टिफाइड यूज्ड कार्स - गुड़गांव",
+    "price": null,
+    "categoryName": "Used car dealer",
+    "address": "F-406 Ground Floor, Block F, Sushant Lok 2, Sector 57, Gurugram, Ghata, Haryana 122011, India",
+    "neighborhood": "Block F, Sushant Lok 2, Sector 57",
+    "street": "F-406 Ground Floor",
+    "city": "Gurugram, Ghata",
+    "postalCode": "122011",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "https://www.mahindrafirstchoice.com/dealer/detail/gurgaon/near-bikaner-wala/absolute-car-choice",
+    "phone": "+91 77997 40054",
+    "phoneUnformatted": "+917799740054",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4170212,
+      "lng": 77.0873542
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ3jDmFYjDTkR8iNQDlsvow8",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Used motorcycle dealer"
+    ],
+    "fid": "0x390d235698c37867:0xfa32f5b0e5023f2",
+    "cid": "1126796399901418482",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 5,
+      "fiveStar": 13
+    },
+    "imagesCount": 45,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:03:26.798Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Buys used goods": true
+        },
+        {
+          "Used goods": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CNB%20Certified%20Used%20Cars%20-%20Gurgaon&query_place_id=ChIJZ3jDmFYjDTkR8iNQDlsvow8",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.370736450000003,77.08348662219448,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 37,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNEZt1cXy5PyPThzIKS9IHONJKZjdu2eX3iB4PU=w408-h306-k-no",
+    "kgmid": "/g/11vsscb4ms",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  },
+  {
+    "title": "GoExotic",
+    "subTitle": "गाएग्जॉटिक",
+    "price": null,
+    "categoryName": "Used car dealer",
+    "address": "Address One by, G10 & G11, Golf Course Rd, Sector 56, Gurugram, Ghata, Haryana 122011, India",
+    "neighborhood": "Sector 56",
+    "street": "Address One by, G10 & G11, Golf Course Rd",
+    "city": "Gurugram, Ghata",
+    "postalCode": "122011",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "https://goexotic.co/",
+    "phone": "+91 78900 09696",
+    "phoneUnformatted": "+917890009696",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4216553,
+      "lng": 77.1042435
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwwYqWN6I9EYRd8omiNjI3wI",
+    "categories": [
+      "Used car dealer"
+    ],
+    "fid": "0x46f488de582a06c3:0x2dfc8d88826ca77",
+    "cid": "207104940205066871",
+    "reviewsCount": 6,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:03:26.025Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Buys used goods": true
+        },
+        {
+          "Used goods": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GoExotic&query_place_id=ChIJwwYqWN6I9EYRd8omiNjI3wI",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.370736450000003,77.08348662219448,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_bg8MeABqufLRy2bvdMlqIhxdoDkJ_1QguKnm=w408-h304-k-no",
+    "kgmid": "/g/11vsvs862t",
+    "domain": "goexotic.co",
+    "scrapedUrls": [
+      "https://www.goexotic.co/",
+      "https://www.goexotic.co/Contact",
+      "https://www.goexotic.co/Faq",
+      "https://www.goexotic.co/About",
+      "https://www.goexotic.co/Support"
+    ],
+    "depth": 0,
+    "emails": [
+      "sales@goexotic.co"
+    ],
+    "phones": [
+      "789 000 9696",
+      "789 000 7979",
+      "7890009696",
+      "7890007979"
+    ],
+    "phonesUncertain": [
+      "789 000 9696",
+      "789 000 7979",
+      "+91 78900",
+      "2500000",
+      "400000000",
+      "61570753018155",
+      "7890009696",
+      "2000-2010",
+      "2010-2015",
+      "2015-2020",
+      "5000-10000",
+      "0000-15000",
+      "5000-20000"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/goexotic.co"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/profile.php?id=61570753018155"
+    ],
+    "youtubes": [
+      "https://www.youtube.com/@GoExoticpvtltd"
+    ],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "snapchats": [],
+    "threads": [],
+    "telegrams": [],
+    "reddits": [],
+    "whatsapps": [
+      "https://wa.me/7890009696",
+      "https://wa.me/7890007979"
+    ],
+    "reviews": null,
+    "leadsEnrichment": []
+  },
+  {
+    "title": "LuxuryTwins Car Battery",
+    "subTitle": "लग्जरीट्विंस कार बैटरी",
+    "price": null,
+    "categoryName": "Mechanic",
+    "address": "192, HUDA Block, 298, A, Huda Sector, Sushant Lok 2, Sector 55, Gurugram, Ghata, Haryana 122011, India",
+    "neighborhood": "Huda Sector, Sushant Lok 2, Sector 55",
+    "street": "192, HUDA Block, 298, A",
+    "city": "Gurugram, Ghata",
+    "postalCode": "122011",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "https://luxurytwinscarcare.com/",
+    "phone": "+91 83071 28477",
+    "phoneUnformatted": "+918307128477",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4239742,
+      "lng": 77.1080871
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM-Vcha0hDTkR_Kh6Q3cV50A",
+    "categories": [
+      "Mechanic",
+      "Auto painting",
+      "Auto repair shop",
+      "BMW dealer",
+      "Car repair and maintenance service",
+      "Parking garage",
+      "Skoda dealer",
+      "Volkswagen dealer"
+    ],
+    "fid": "0x390d21ad855ce533:0x40e71577437aa8fc",
+    "cid": "4676730340024953084",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 615,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:02:39.369Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Oil change": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LuxuryTwins%20Car%20Battery&query_place_id=ChIJM-Vcha0hDTkR_Kh6Q3cV50A",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.370736450000003,77.22052919438896,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 32,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOgrZXu6Q2pkzM8W2zIY1B_pF2j3pWV1ViRjyAO=w408-h407-k-no",
+    "kgmid": "/g/11ldm22qzq",
+    "domain": "luxurytwinscarcare.com",
+    "scrapedUrls": [
+      "http://luxurytwinscarcare.com/",
+      "http://luxurytwinscarcare.com/car-upholstery-works.php",
+      "http://luxurytwinscarcare.com/car-body-paint-works.php",
+      "http://luxurytwinscarcare.com/car-body-works.php",
+      "http://luxurytwinscarcare.com/index.php"
+    ],
+    "depth": 0,
+    "emails": [
+      "info@luxurytwinscarcare.com"
+    ],
+    "phones": [
+      "9354627795",
+      "9773636172",
+      "9319531279"
+    ],
+    "phonesUncertain": [
+      "+91-935462",
+      "+91 93546",
+      "9354627795",
+      "9773636172",
+      "9319531279"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "snapchats": [],
+    "threads": [],
+    "telegrams": [],
+    "reddits": [],
+    "whatsapps": [
+      "https://wa.me/919354627795"
+    ],
+    "reviews": null,
+    "leadsEnrichment": []
+  }
+]

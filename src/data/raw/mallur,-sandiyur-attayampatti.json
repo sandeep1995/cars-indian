@@ -1,0 +1,61 @@
+[
+  {
+    "title": "VJS Tours and Travals",
+    "categoryName": "Car rental agency",
+    "address": "3/27, utthandikadu, santhiyur, Mallur, Tamil Nadu 636203, India",
+    "street": "3/27, utthandikadu, santhiyur",
+    "city": "Mallur, Sandiyur Attayampatti",
+    "postalCode": "636203",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.vjstravals.com/",
+    "phone": "+917339231312",
+    "phoneUnformatted": "+917339231312",
+    "location": {
+      "lat": 11.5628417,
+      "lng": 78.1439442
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2xTAPz_vqzsRKgICCySZb6Q",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGoMxctP-OMNAY9JKzfHvBVe_UP8xm2EKADtrM=w464-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VJS%20Tours%20and%20Travals&query_place_id=ChIJ2xTAPz_vqzsRKgICCySZb6Q"
+  }
+]

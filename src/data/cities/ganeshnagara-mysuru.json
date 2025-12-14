@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Mysore Cabz, taxi service, car rental, Taxi Service In Mysore",
+    "subTitle": "ಮೈಸೂರು ಕ್ಯಾಬ್ಸ್, ಟ್ಯಾಕ್ಸಿ ಸರ್ವಿಸ್, ಕಾರ್ ರೆಂಟಲ್, ಟ್ಯಾಕ್ಸಿ ಸರ್ವಿಸ್ ಇನ್ ಮೈಸೂರು",
+    "categoryName": "Car rental agency",
+    "address": "A Block, 102/2, 6th Cross Rd, N R Mohalla, Rajendra Nagar, Ganeshnagara, Mysuru, Karnataka 570007, India",
+    "neighborhood": "N R Mohalla, Rajendra Nagar",
+    "street": "A Block, 102/2, 6th Cross Rd",
+    "city": "Ganeshnagara, Mysuru",
+    "postalCode": "570007",
+    "state": "Karnataka",
+    "countryCode": "IN",
+    "phone": "+919901477677",
+    "phoneUnformatted": "+919901477677",
+    "location": {
+      "lat": 12.327589,
+      "lng": 76.664211
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmc6zh2dwrzsRVes6zyMT1zg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Hotel",
+      "Minibus taxi service",
+      "Taxicab Stand",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 41,
+    "imagesCount": 113,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNQ5oQIj1ZQJ8Mi7AH3cPniHutszT5AMpO87BGv=w408-h260-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mysore%20Cabz%2C%20taxi%20service%2C%20car%20rental%2C%20Taxi%20Service%20In%20Mysore&query_place_id=ChIJmc6zh2dwrzsRVes6zyMT1zg"
+  }
+]

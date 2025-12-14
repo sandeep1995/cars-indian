@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Maple Travels Amritsar",
+    "categoryName": "Car leasing service",
+    "address": "1478, Fateh Singh Colony, O/s Gate Hakima, Bharariwal, Amritsar, Mule Chak, Punjab 143009, India",
+    "neighborhood": "O/s Gate Hakima, Bharariwal",
+    "street": "1478, Fateh Singh Colony",
+    "city": "Amritsar, Mule Chak",
+    "postalCode": "143009",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://mapletravels.in/",
+    "phone": "+919878365262",
+    "phoneUnformatted": "+919878365262",
+    "location": {
+      "lat": 31.598042,
+      "lng": 74.856946
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEwQ2pPt7GTkRNKV8QXxnG2M",
+    "categories": [
+      "Car leasing service",
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 130,
+    "imagesCount": 33,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMNhFWbDPVeDeVJFY6A5NSrD5VFh8FRr5zm_S_O=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maple%20Travels%20Amritsar&query_place_id=ChIJEwQ2pPt7GTkRNKV8QXxnG2M"
+  }
+]

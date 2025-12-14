@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Best Choice True Cars (Carwale)",
+    "categoryName": "Car dealer",
+    "address": "Hunter Rd, Nandi Hills, Meerpet, Hanamkonda, Telangana 506001, India",
+    "neighborhood": "Nandi Hills, Meerpet",
+    "street": "Hunter Rd",
+    "city": "Hanamkonda",
+    "postalCode": "506001",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+919052969666",
+    "phoneUnformatted": "+919052969666",
+    "location": {
+      "lat": 17.9922703,
+      "lng": 79.5573868
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe42fAIdPMzoRCc08x3oTIEQ",
+    "categories": [
+      "Car dealer"
+    ],
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y80E0KImjUxSEh9AonshGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=347.69708&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Choice%20True%20Cars%20(Carwale)&query_place_id=ChIJe42fAIdPMzoRCc08x3oTIEQ"
+  },
+  {
+    "title": "KAKATIYA CARS USED CAR SHOWROOM",
+    "categoryName": "Used car dealer",
+    "address": "Sri Sai Nagar Colony, Shyampet, Hanamkonda, Telangana 506001, India",
+    "neighborhood": "Sri Sai Nagar Colony, Shyampet",
+    "city": "Hanamkonda",
+    "postalCode": "506001",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+919640371061",
+    "phoneUnformatted": "+919640371061",
+    "location": {
+      "lat": 17.9875469,
+      "lng": 79.570455
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJczOjWiZFMzoRdR-tKKHpvvQ",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 36,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 2 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzxviFCzmUfa5ItQFzrMXu56jlwNVFrz-DPuTGxQ7XxcMWSF9zJIMWnZAOajLAJQSRiHhYn29lVFujz4CQA8SeGuJ3HW3qHpfKIHSCe-YuGWJRPxdiqJ1nxyUhWRGPgvq4aPToA=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KAKATIYA%20CARS%20USED%20CAR%20SHOWROOM&query_place_id=ChIJczOjWiZFMzoRdR-tKKHpvvQ"
+  },
+  {
+    "title": "KUMAN AUTOMOTIVES USED CARS IN WARANGAL",
+    "categoryName": "Used car dealer",
+    "address": "Hunter Rd, opposite med cover hospital, Shyampet, Hanamkonda, Telangana 506001, India",
+    "neighborhood": "Shyampet",
+    "street": "Hunter Rd, opposite med cover hospital",
+    "city": "Hanamkonda",
+    "postalCode": "506001",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+918686860236",
+    "phoneUnformatted": "+918686860236",
+    "location": {
+      "lat": 17.9832927,
+      "lng": 79.5771067
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnyBO3ehFMzoR79z1V-4sTzE",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 30,
+    "imagesCount": 63,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxn6AMF03iMzuDjmngaQd8srfBlNEvNAGI70A3BlnHwnPSV6AIYi9I0tFAn8ynf7UTkeisnrdWGIh0gzrHudBtbxwiLbTaPe0dEbyKT2P3Zp--OMmuID38wd5hDMEnTv8Gi9bxA=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KUMAN%20AUTOMOTIVES%20USED%20CARS%20IN%20WARANGAL&query_place_id=ChIJnyBO3ehFMzoR79z1V-4sTzE"
+  }
+]

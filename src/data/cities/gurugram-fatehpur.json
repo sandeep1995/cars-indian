@@ -1,0 +1,143 @@
+[
+  {
+    "title": "The CITY CARS",
+    "subTitle": "द सिटी कार्स",
+    "price": null,
+    "categoryName": "Used car dealer",
+    "address": "1st floor, Arcadia, C-161, near lift, South City II, Sector 49, Gurugram, Fatehpur, Haryana 122018, India",
+    "neighborhood": "South City II, Sector 49",
+    "street": "1st floor, Arcadia, C-161, near lift",
+    "city": "Gurugram, Fatehpur",
+    "postalCode": "122018",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "phone": "+91 88266 88854",
+    "phoneUnformatted": "+918826688854",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4193177,
+      "lng": 77.0523836
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI_XXs_kjDTkR67bTVtCsH8E",
+    "categories": [
+      "Used car dealer"
+    ],
+    "fid": "0x390d23f9b3d7f523:0xc11facd056d3b6eb",
+    "cid": "13916031384408012523",
+    "reviewsCount": 103,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 100
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:03:07.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 6:30 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Buys used goods": true
+        },
+        {
+          "Used goods": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20CITY%20CARS&query_place_id=ChIJI_XXs_kjDTkR67bTVtCsH8E",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.370736450000003,76.94644405000001,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 25,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1hja5FDaHhhHGcF0d1K9LI_sTd1kcIkTDRX7P=w408-h544-k-no",
+    "kgmid": "/g/11fhtkztjm",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  }
+]

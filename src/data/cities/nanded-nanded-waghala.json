@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Abhiman tours and travels",
+    "subTitle": "अभिमान टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car leasing service",
+    "address": "Abhiman study point, near krushi utpanna bazar samiti, new mondha, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Nanded-Waghala, Maharashtra 431602, India",
+    "neighborhood": "new mondha, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "street": "Abhiman study point, near krushi utpanna bazar samiti",
+    "city": "Nanded, Nanded-Waghala",
+    "postalCode": "431602",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919420912037",
+    "phoneUnformatted": "+919420912037",
+    "location": {
+      "lat": 19.1656551,
+      "lng": 77.3150308
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm-XlttLX0TsRjN5Q3RXzjIM",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 277,
+    "imagesCount": 10,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPUtfA8I__iEoppVuzRr3VInX890hYNHwK3gge8=w469-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Abhiman%20tours%20and%20travels&query_place_id=ChIJm-XlttLX0TsRjN5Q3RXzjIM"
+  },
+  {
+    "title": "JM TAXI SERVICE ( Best taxi in Maharashtra )",
+    "subTitle": "जेएम टैक्सी सर्विस ( बेस्ट टैक्सी इन महाराष्ट्र )",
+    "categoryName": "Car rental agency",
+    "address": "Pawde Wadi Naka, Chandragupat nagar, Nanded, Maharashtra 431602, India",
+    "neighborhood": "Sneh Nagar",
+    "street": "Pawde Wadi Naka, Chandragupat nagar",
+    "city": "Nanded, Nanded-Waghala",
+    "postalCode": "431602",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918888426664",
+    "phoneUnformatted": "+918888426664",
+    "location": {
+      "lat": 19.1733035,
+      "lng": 77.2949001
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHQXdYr7X0TsRq_rMTVhnLio",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Minibus taxi service",
+      "Rental car return location",
+      "Van rental agency"
+    ],
+    "reviewsCount": 94,
+    "imagesCount": 30,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyvES0xlwqhzhyVvjCesmcQmHB6yFu1SrpGFYFwZmd_bQeODbsV20c2PzZWe9OOIA6V64xfNC-WhCTVvNlsYm9tsWSAzTeuHv0tjYqecvS0MaVMmWlc7XAqMTMk6hoVmV2rUUWr=w532-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JM%20TAXI%20SERVICE%20(%20Best%20taxi%20in%20Maharashtra%20)&query_place_id=ChIJHQXdYr7X0TsRq_rMTVhnLio"
+  }
+]

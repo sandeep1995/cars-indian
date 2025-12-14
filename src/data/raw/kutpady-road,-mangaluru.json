@@ -1,0 +1,37 @@
+[
+  {
+    "title": "A2Z Tours And Travels Mangalore taxi - Cab service",
+    "categoryName": "Car rental agency",
+    "address": "Sahil appartment, Jeppu Rd, Jeppinamogaru, kutpady Road, Mangaluru, Karnataka 575002, India",
+    "neighborhood": "Jeppinamogaru",
+    "street": "Sahil appartment, Jeppu Rd",
+    "city": "kutpady Road, Mangaluru",
+    "postalCode": "575002",
+    "state": "Karnataka",
+    "countryCode": "IN",
+    "website": "https://a2z-tours-and-travels.grexa.site/",
+    "phone": "+916366715620",
+    "phoneUnformatted": "+916366715620",
+    "location": {
+      "lat": 12.8528326,
+      "lng": 74.8640114
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtSpnp25bozsRI-iEJgplLdQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 170,
+    "imagesCount": 40,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM55Wz5riDEVOhEk8Pq9wBfY9RxCqsIvQwc8dJX=w408-h859-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=A2Z%20Tours%20And%20Travels%20Mangalore%20taxi%20-%20Cab%20service&query_place_id=ChIJtSpnp25bozsRI-iEJgplLdQ"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "title": "VK Tours and Self Driving Cars",
+    "subTitle": "वीके टूर्स एंड सेल्फ ड्राइविंग कार्स",
+    "categoryName": "Car rental agency",
+    "address": "521 , tyagi, Ekatmata Nagar, 1028, Trimurti Nagar, Nagpur, Maharashtra 440036, India",
+    "neighborhood": "Trimurti Nagar",
+    "street": "521 , tyagi, Ekatmata Nagar, 1028",
+    "city": "Nagpur, Digdoh",
+    "postalCode": "440036",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918077125139",
+    "phoneUnformatted": "+918077125139",
+    "location": {
+      "lat": 21.1012459,
+      "lng": 79.0136254
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ24mWWtjH1DsRTma0P2SdOLg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Carpooling location",
+      "Car wash"
+    ],
+    "reviewsCount": 330,
+    "imagesCount": 43,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPfW6KxzmNktm4YVAfOwbiy7E_dml307onC2IHm=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VK%20Tours%20and%20Self%20Driving%20Cars&query_place_id=ChIJ24mWWtjH1DsRTma0P2SdOLg"
+  }
+]

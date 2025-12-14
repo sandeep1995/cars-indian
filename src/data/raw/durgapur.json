@@ -1,0 +1,871 @@
+[
+  {
+    "title": "Advantage",
+    "subTitle": "অ্যাডভান্টেজ",
+    "categoryName": "Used car dealer",
+    "address": "Q46, Sarath Chandra Ave, B-Zone, Durgapur, West Bengal 713205, India",
+    "neighborhood": "B-Zone",
+    "street": "Q46, Sarath Chandra Ave",
+    "city": "Durgapur",
+    "postalCode": "713205",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+918945969382",
+    "phoneUnformatted": "+918945969382",
+    "location": {
+      "lat": 23.5632417,
+      "lng": 87.3101677
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ89fM2Q9u9zkRJIkMvxu3bfo",
+    "categories": [
+      "Used car dealer",
+      "Auto broker"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 47,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYpNS9owFqeWUebgSVQYLtRbdkOy531cj8RFOP=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Advantage&query_place_id=ChIJ89fM2Q9u9zkRJIkMvxu3bfo"
+  },
+  {
+    "title": "Amazing Automobiles",
+    "subTitle": "অ্যামেজিং অটোমোবাইলস",
+    "categoryName": "Used car dealer",
+    "address": "Urvashi Complex, CA-8 B. R, Ambedkar Sarani, Bengal Ambuja Housing Complex, Phase-II, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "Bengal Ambuja Housing Complex, Phase-II, City Center",
+    "street": "Urvashi Complex, CA-8 B. R, Ambedkar Sarani",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.5414602,
+      "lng": 87.3055886
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCzi4F45x9zkR1b0xRXLsYR4",
+    "categories": [
+      "Used car dealer"
+    ],
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFnjceULg6_l12GuuXvjT_1ZIxCoQ9Sp0GJZ_P=w408-h307-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Amazing%20Automobiles&query_place_id=ChIJCzi4F45x9zkR1b0xRXLsYR4"
+  },
+  {
+    "title": "Auto Galleria",
+    "subTitle": "অটো গ্যালারী",
+    "categoryName": "Used car dealer",
+    "address": "48 Moulana, Maulana Azad Sarani, SAIL Co-operative, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "SAIL Co-operative, City Center",
+    "street": "48 Moulana, Maulana Azad Sarani",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+919608608888",
+    "phoneUnformatted": "+919608608888",
+    "location": {
+      "lat": 23.5437927,
+      "lng": 87.3042191
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJ__Gm0zVx9zkR6askDIsZ1gk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6QRtbHO6xnsWEmwOdDW6Zg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=41.357788&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Galleria&query_place_id=ChIJ__Gm0zVx9zkR6askDIsZ1gk"
+  },
+  {
+    "title": "Auto Plaza",
+    "subTitle": "অটো প্লাজা",
+    "categoryName": "Used car dealer",
+    "address": "Netwatch Digital Solutions Pvt Limited, Ambedkar Sarani, Ambuja, Durgapur, West Bengal 713216, India",
+    "neighborhood": "Ambuja",
+    "street": "Netwatch Digital Solutions Pvt Limited, Ambedkar Sarani",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+919434009995",
+    "phoneUnformatted": "+919434009995",
+    "location": {
+      "lat": 23.5419717,
+      "lng": 87.3059437
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ119baPlx9zkRyPJMvy1P6dk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 55,
+    "imagesCount": 96,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 7:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 7:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 7:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 to 7:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 7:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 7:30 AM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-CrJbuAWRgev8n8ZjlS4uBd9m0edO-n54SPMtGXTpRUdxY6Y8NMoRs4T2vois_SMGeMY9ZrAol-AJ1UxCQhBTWl0pZ65eJu21qdeNVsOMby5sByJ5VV13XWZHVLAZVU-i5xY=w425-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Plaza&query_place_id=ChIJ119baPlx9zkRyPJMvy1P6dk"
+  },
+  {
+    "title": "Car info Durgapur",
+    "subTitle": "কার ইনফো দুর্গাপুর",
+    "categoryName": "Car leasing service",
+    "address": "Number-35, RC-34 Bengal Ambuja, Street, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "Bengal Ambuja Housing Complex, City Center",
+    "street": "Number-35, RC-34 Bengal Ambuja, Street",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+918927658107",
+    "phoneUnformatted": "+918927658107",
+    "location": {
+      "lat": 23.5400746,
+      "lng": 87.3052879
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJPzv1ds5x9zkRUN3YEwhX2u8",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 5,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO0wGm0yh8N2M8Kd7ctaZeKMeNB4lr-xiFqvkBt=w408-h310-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20info%20Durgapur&query_place_id=ChIJPzv1ds5x9zkRUN3YEwhX2u8"
+  },
+  {
+    "title": "Durgapur cab service",
+    "subTitle": "দুর্গাপুর ক্যাব সার্ভিস",
+    "categoryName": "Car rental agency",
+    "address": "3/19, Bengal Ambuja St, Bengal Ambuja Housing Complex, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "Bengal Ambuja Housing Complex, City Center",
+    "street": "3/19, Bengal Ambuja St",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://dcscabs.com/",
+    "phone": "+919733333000",
+    "phoneUnformatted": "+919733333000",
+    "location": {
+      "lat": 23.5375821,
+      "lng": 87.3031731
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY_GnfQ9y9zkRN9241nNoiKY",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 182,
+    "imagesCount": 296,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP8RujGkSHvWtkTvMtH3_K9kjGqY2iTSyVDmy-J=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Durgapur%20cab%20service&query_place_id=ChIJY_GnfQ9y9zkRN9241nNoiKY"
+  },
+  {
+    "title": "Eicher Trucks and Buses - Company Owned Outlet - Durgapur, City Center",
+    "subTitle": "আইচের ট্রাকস এন্ড বাসস - কোম্পানি আওয়ানড আউটলেট - দুর্গাপুর, সিটি সেন্টার",
+    "categoryName": "Truck dealer",
+    "address": "Shop No 31, 3rd Floor, SUHATTA MALL, opposite Haldiram, Bengal Ambuja Housing Complex, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "Bengal Ambuja Housing Complex, City Center",
+    "street": "Shop No 31, 3rd Floor, SUHATTA MALL, opposite Haldiram",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.eichertrucksandbuses.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "phone": "+918037839222",
+    "phoneUnformatted": "+918037839222",
+    "location": {
+      "lat": 23.5373864,
+      "lng": 87.3046317
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQx0cG_Bx9zkRWch9NSitRMw",
+    "categories": [
+      "Truck dealer",
+      "Motor vehicle dealer",
+      "Truck parts supplier",
+      "Truck repair shop"
+    ],
+    "reviewsCount": 41,
+    "imagesCount": 62,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMt5l_zmRtMk1sBTwSAcb9EATLLzGq1KYGEGqhb=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Eicher%20Trucks%20and%20Buses%20-%20Company%20Owned%20Outlet%20-%20Durgapur%2C%20City%20Center&query_place_id=ChIJQx0cG_Bx9zkRWch9NSitRMw"
+  },
+  {
+    "title": "First Car",
+    "subTitle": "ফার্স্ট কার",
+    "categoryName": "Car dealer",
+    "address": "50, Kabiguru Sarani, SAIL Co-operative, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "SAIL Co-operative, City Center",
+    "street": "50, Kabiguru Sarani",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+919333950618",
+    "phoneUnformatted": "+919333950618",
+    "location": {
+      "lat": 23.5450724,
+      "lng": 87.3092077
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuRf5ivxx9zkRrh7Kur9oJXQ",
+    "categories": [
+      "Car dealer",
+      "Auto broker"
+    ],
+    "reviewsCount": 76,
+    "imagesCount": 37,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzWTiFMYxJW6LCidn5GDCfNkIJegGB70MHscZNIEEKO9JryZgRWLPIfr_kGzlD8cDRjaoM70fYdvZrZZVmO5lmce2QSMDdEoJZOFUJw-ng034khiVMp_R84xpfVbvzK4NZ28QI-=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=First%20Car&query_place_id=ChIJuRf5ivxx9zkRrh7Kur9oJXQ"
+  },
+  {
+    "title": "GO CAB",
+    "subTitle": "জিও ক্যাব",
+    "categoryName": "Car rental agency",
+    "address": "Gitanjali Park, Cinema Hall, Bengal Ambuja St, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "City Center",
+    "street": "Gitanjali Park, Cinema Hall, Bengal Ambuja St",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+918250511455",
+    "phoneUnformatted": "+918250511455",
+    "location": {
+      "lat": 23.5349375,
+      "lng": 87.3058281
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhT3WIG1x9zkR3b7dbJ9XcWU",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 159,
+    "imagesCount": 90,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXbgnKLElcsu2WvkSBiZFzo8lkO1k38EvBr2dM=w791-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=GO%20CAB&query_place_id=ChIJhT3WIG1x9zkR3b7dbJ9XcWU"
+  },
+  {
+    "title": "Ghumaakar Cabs Durgapur",
+    "subTitle": "ঘুমালে ক্যাব দুর্গাপুর",
+    "categoryName": "Car rental agency",
+    "address": "Bus Stand, Near, Mahatma Gandhi Rd, Benachity, Durgapur, West Bengal 713216, India",
+    "neighborhood": "Benachity",
+    "street": "Bus Stand, Near, Mahatma Gandhi Rd",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.ghumaakar.com/",
+    "phone": "+918001516600",
+    "phoneUnformatted": "+918001516600",
+    "location": {
+      "lat": 23.5415556,
+      "lng": 87.2897288
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf3X7_UBz9zkROj2ERFxNUPE",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Taxi service",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMlsiO2lucm0ZaMKZbcXPOi1_H02g69R1-HyxfL=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ghumaakar%20Cabs%20Durgapur&query_place_id=ChIJf3X7_UBz9zkROj2ERFxNUPE"
+  },
+  {
+    "title": "Maa tour & Travels",
+    "subTitle": "মা ট্যুর & ট্রাভেলস",
+    "categoryName": "Car rental agency",
+    "address": "West Bengal Durgapur B zone, 5, Nagaarjuna Road, extatenshan, Durgapur, West Bengal 713205, India",
+    "neighborhood": "extatenshan",
+    "street": "West Bengal Durgapur B zone, 5, Nagaarjuna Road",
+    "city": "Durgapur",
+    "postalCode": "713205",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+917029511263",
+    "phoneUnformatted": "+917029511263",
+    "location": {
+      "lat": 23.5578368,
+      "lng": 87.3288644
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpT9E5oBv9zkR_y0BluYL-Lk",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 68,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMpjPOJVHHbpVpqYp3lD6W5OguZ9ZET6d51cFps=w515-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maa%20tour%20%26%20Travels&query_place_id=ChIJpT9E5oBv9zkR_y0BluYL-Lk"
+  },
+  {
+    "title": "ManiKrishna Travels ( Car rental service in Durgapur)",
+    "subTitle": "মানিকৃষ্ণ ট্রাভেলস ( কার রেন্টাল সার্ভিস ইন দুর্গাপুর)",
+    "categoryName": "Car rental agency",
+    "address": "Kadamtala, Sagarbhanga, Durgapur, West Bengal 713211, India",
+    "neighborhood": "Kadamtala, Sagarbhanga",
+    "city": "Durgapur",
+    "postalCode": "713211",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+919932701275",
+    "phoneUnformatted": "+919932701275",
+    "location": {
+      "lat": 23.4964087,
+      "lng": 87.3339526
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ35GiA9x9zkRd7g-1y2OeYs",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 59,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM1hk3bUEE3D_jRKy8GgLDs5mE9pftutlKh8_iW=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=ManiKrishna%20Travels%20(%20Car%20rental%20service%20in%20Durgapur)&query_place_id=ChIJJ35GiA9x9zkRd7g-1y2OeYs"
+  },
+  {
+    "title": "NAG ENTERPRISE (CAR HIRE) Your satisfaction is our passion.",
+    "subTitle": "এনএজি ইন্টারপ্রাইজ (সিএআর এইচআইআরই) ইওর স্যাটিসফাকশন ইস ওর প্যাশন.",
+    "categoryName": "Car rental agency",
+    "address": "Sub Lane, 01-Manik Bandopadhyay Path, Kabiguru Sarani, SAIL Co-operative, City Center, Durgapur, West Bengal 713216, India",
+    "neighborhood": "SAIL Co-operative, City Center",
+    "street": "Sub Lane, 01-Manik Bandopadhyay Path, Kabiguru Sarani",
+    "city": "Durgapur",
+    "postalCode": "713216",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+919932493689",
+    "phoneUnformatted": "+919932493689",
+    "location": {
+      "lat": 23.5463192,
+      "lng": 87.3100573
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9WD2C_Bv9zkR28JtNELZp8Q",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 61,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMbnMIxoLNsYZWF99fMucwkmPHQcetonQUTP8wR=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NAG%20ENTERPRISE%20(CAR%20HIRE)%20Your%20satisfaction%20is%20our%20passion.&query_place_id=ChIJ9WD2C_Bv9zkR28JtNELZp8Q"
+  },
+  {
+    "title": "Pritam motors",
+    "subTitle": "প্রীতম মোটর",
+    "categoryName": "Used car dealer",
+    "address": "Kabiguru,0pp maical madhusudan college, City Center, Durgapur, West Bengal 713209, India",
+    "neighborhood": "City Center",
+    "street": "Kabiguru,0pp maical madhusudan college",
+    "city": "Durgapur",
+    "postalCode": "713209",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+918597295853",
+    "phoneUnformatted": "+918597295853",
+    "location": {
+      "lat": 23.5486884,
+      "lng": 87.3115537
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1dUxr11x9zkROPI-NA2NqtU",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 19,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNFt6y-8b3I12FU5TaKcO4WNUBTaj8bsdVlME4C=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Pritam%20motors&query_place_id=ChIJ1dUxr11x9zkROPI-NA2NqtU"
+  },
+  {
+    "title": "Rahul cab service",
+    "subTitle": "রাহুল ক্যাব সার্ভিস",
+    "categoryName": "Car rental agency",
+    "address": "B2, Ambedkar colony, Mamra, Durgapur, West Bengal 713210, India",
+    "neighborhood": "Ambedkar colony, Mamra",
+    "street": "B2",
+    "city": "Durgapur",
+    "postalCode": "713210",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+918918866496",
+    "phoneUnformatted": "+918918866496",
+    "location": {
+      "lat": 23.5357135,
+      "lng": 87.3141065
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiTmLlLNx9zkR5m4QW0A_4Do",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzxAcgc2-NdDfumQw4NlFb9g9Ohz0BrSf-fp_rdSBHd2mKHQTgFuZsz2dvvbSXanQBCqArQcGNJd_Pu9gbwdrwHYkPhNTRvPUwe9dpDrYL6CG_JQl9ptL1-7n3tgAzA4odz50FDrOuZvc87=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rahul%20cab%20service&query_place_id=ChIJiTmLlLNx9zkR5m4QW0A_4Do"
+  },
+  {
+    "title": "Shiv Shakti Auto",
+    "subTitle": "শিব শক্তিপীঠ অটো",
+    "categoryName": "Used car dealer",
+    "address": "Road, Kabiguru Sarani, opp. to MIchael Madhusudan Memorial College, City Center, Durgapur, West Bengal 713209, India",
+    "neighborhood": "City Center",
+    "street": "Road, Kabiguru Sarani, opp. to MIchael Madhusudan Memorial College",
+    "city": "Durgapur",
+    "postalCode": "713209",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+919474485269",
+    "phoneUnformatted": "+919474485269",
+    "location": {
+      "lat": 23.5487182,
+      "lng": 87.3114979
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKf3dTP1x9zkRAfk4q_wusRs",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 23,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 4 PM"
+      }
+    ],
+    "imageUrl": "https://lh5.googleusercontent.com/UA0q0S6_YA_BOdLcyL5-lqbcyWJSDLczwLhJZ9phruNYF882zFPHUsY59e557pjd=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Shakti%20Auto&query_place_id=ChIJKf3dTP1x9zkRAfk4q_wusRs"
+  }
+]

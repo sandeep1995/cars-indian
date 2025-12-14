@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Sri Aruna Taxi Salem",
+    "categoryName": "Car rental agency",
+    "address": "No 3/3-28, 3 Rd, Kullagoundanoor, Ward Kullagoundanur, Karuppur, Salem, Tamil Nadu 636011, India",
+    "neighborhood": "Kullagoundanoor, Ward Kullagoundanur",
+    "street": "No 3/3-28, 3 Rd",
+    "city": "Karuppur, Salem",
+    "postalCode": "636011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://sriarunataxisalem.in/",
+    "phone": "+916381455441",
+    "phoneUnformatted": "+916381455441",
+    "location": {
+      "lat": 11.7254134,
+      "lng": 78.0883813
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn58S1wH7qzsRIC-5Prh8lQU",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Taxi service",
+      "Chauffeur service",
+      "Limousine service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 249,
+    "imagesCount": 109,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPIwf3E96csTN3PO7G-okJ9T4FHBSoRvZW6r9b=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Aruna%20Taxi%20Salem&query_place_id=ChIJn58S1wH7qzsRIC-5Prh8lQU"
+  }
+]

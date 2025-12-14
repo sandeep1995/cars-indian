@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Pal Tour & Travels",
+    "subTitle": "पल टूर & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "RC - 153, near Geo Hospital, Shital Vihar, Khora Colony, Sector 62, Ghaziabad, Noida, Uttar Pradesh 201020, India",
+    "neighborhood": "Shital Vihar, Khora Colony, Sector 62",
+    "street": "RC - 153, near Geo Hospital",
+    "city": "Ghaziabad, Noida",
+    "postalCode": "201020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917836089296",
+    "phoneUnformatted": "+917836089296",
+    "location": {
+      "lat": 28.6160877,
+      "lng": 77.3429647
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd7W5asDlDDkR8B3PgLn9roU",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7oqTQaJAGov7v6N2pQKRYHFehUy-kuGPnRquX=w532-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Pal%20Tour%20%26%20Travels&query_place_id=ChIJd7W5asDlDDkR8B3PgLn9roU"
+  }
+]

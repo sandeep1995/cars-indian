@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Autoptions Premium Used Car Dealer",
+    "subTitle": "ऑटोप्शंस प्रीमियम यूज्ड कार डीलर",
+    "categoryName": "Used car dealer",
+    "address": "JG-2/770A, Outer Ring Rd, Keshopur Village, Vikaspuri, Newdelhi, Delhi, 110018, India",
+    "neighborhood": "Keshopur Village, Vikaspuri",
+    "street": "JG-2/770A, Outer Ring Rd",
+    "city": "Newdelhi, Delhi",
+    "postalCode": "110018",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.6453016,
+      "lng": 77.0837759
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ81zn9I0EDTkRuleZe7kzTaw",
+    "categories": [
+      "Used car dealer",
+      "Corporate office"
+    ],
+    "reviewsCount": 71,
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz0ucyEb2t4J2K0w_aDMtmc4Bmpfsi9pWnwq20XEFhjDAzexOMGqcvyei1ry2IYHF9hY1zccoJ4uYiZ6UE9UP6I0tbGXcqw0jEzowfYLhd1f--jvxrL47W9is9oQRm3Ldnp8Olu6Q=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Autoptions%20Premium%20Used%20Car%20Dealer&query_place_id=ChIJ81zn9I0EDTkRuleZe7kzTaw"
+  }
+]

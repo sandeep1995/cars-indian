@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Mahamaya Car Rental",
+    "subTitle": "महामाया कार रेंटल",
+    "categoryName": "Car leasing service",
+    "address": "near Payal Shoes Centre, Sikri Khurd, Modinagar, Uttar Pradesh 201204, India",
+    "neighborhood": "Sikri Khurd",
+    "street": "near Payal Shoes Centre",
+    "city": "Modinagar",
+    "postalCode": "201204",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917078094953",
+    "phoneUnformatted": "+917078094953",
+    "location": {
+      "lat": 28.8172838,
+      "lng": 77.5618189
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmalGnaH1DDkRkoQ96J6ioOo",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxNHpAM9Ifn2A5L2JguJYHGK-oRjfAtNcQQCfDNbw1gjnaZxFpusjJWEzVfdFCrzwsO98ZlsxHbxYKiQTAlXCNp-NWXtmp3NNf4v00pJgPPZKgcElFe6pevMJEk1IObBGaDlHFeNg=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahamaya%20Car%20Rental&query_place_id=ChIJmalGnaH1DDkRkoQ96J6ioOo"
+  }
+]

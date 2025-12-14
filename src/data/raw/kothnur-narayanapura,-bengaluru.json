@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Gear2Gear Ashfaq",
+    "subTitle": "ಗೇರ್2ಗೇರ್ ಅಶ್ಫಾಕ್",
+    "categoryName": "Used car dealer",
+    "address": "THE WISDOM TREE COMMUNITY, K Narayanapura Main Rd, Kothanur, Kothnur Narayanapura, Bengaluru, Karnataka 560077, India",
+    "neighborhood": "Kothanur",
+    "street": "THE WISDOM TREE COMMUNITY, K Narayanapura Main Rd",
+    "city": "Kothnur Narayanapura, Bengaluru",
+    "postalCode": "560077",
+    "state": "Karnataka",
+    "countryCode": "IN",
+    "website": "https://www.facebook.com/gear2gear.used.cars/",
+    "phone": "+918073476524",
+    "phoneUnformatted": "+918073476524",
+    "location": {
+      "lat": 13.0608454,
+      "lng": 77.6395966
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9T1b-fYWrjsRf-ziCsMKcVE",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 91,
+    "imagesCount": 94,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipORgHgSfirfiantuJG0rlAzUAng9--m88ODbQIT=w408-h405-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Gear2Gear%20Ashfaq&query_place_id=ChIJ9T1b-fYWrjsRf-ziCsMKcVE"
+  }
+]

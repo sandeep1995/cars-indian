@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Karlo",
+    "subTitle": "कार्लो",
+    "categoryName": "Used car dealer",
+    "address": "Thane Station Road Shop no. 6 Wakar, opp. JalaRam Market, Uthalsar, Thane West, Wadi, Maharashtra 400601, India",
+    "neighborhood": "Uthalsar Naka, Uthalsar, Thane West",
+    "street": "Thane Station Road Shop no. 6 Wakar, opp. JalaRam Market",
+    "city": "Wadi, Thane",
+    "postalCode": "400601",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919820785748",
+    "phoneUnformatted": "+919820785748",
+    "location": {
+      "lat": 19.2021901,
+      "lng": 72.9778054
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ--vA4rO55zsRRV4BphlxNJI",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 17,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMf0lXG6UhHbUJNMWYDJXi7s0JDE9VhVz5i-z0=w408-h288-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Karlo&query_place_id=ChIJ--vA4rO55zsRRV4BphlxNJI"
+  }
+]

@@ -1,0 +1,2137 @@
+[
+  {
+    "title": "A B Car Bazar",
+    "subTitle": "ਏ ਬੀ ਕਾਰ ਬਾਜ਼ਾਰ",
+    "categoryName": "Used car dealer",
+    "address": "shop no 102, Feroze Gandhi Market Rd, Feroz Gandhi Market, Jila Kacheri Area, Model Gram, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Feroz Gandhi Market, Jila Kacheri Area, Model Gram",
+    "street": "shop no 102, Feroze Gandhi Market Rd",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919855134560",
+    "phoneUnformatted": "+919855134560",
+    "location": {
+      "lat": 30.9020121,
+      "lng": 75.8334162
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJVXaTSLiDGjkRb0UH09cSIsk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 2,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qdKkwpPFzozzkmW3O2o9tA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.7336&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20B%20Car%20Bazar&query_place_id=ChIJVXaTSLiDGjkRb0UH09cSIsk"
+  },
+  {
+    "title": "Autolounge",
+    "subTitle": "ਔਟੋਲਾਂਜ",
+    "categoryName": "Car dealer",
+    "address": "1, Gurudwara Rd, opp. royalista, B - Block, Sarabha Nagar, Ludhiana, Punjab 141001, India",
+    "neighborhood": "B - Block, Sarabha Nagar",
+    "street": "1, Gurudwara Rd, opp. royalista",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://www.autoloungeindia.in/",
+    "phone": "+918801500000",
+    "phoneUnformatted": "+918801500000",
+    "location": {
+      "lat": 30.8927196,
+      "lng": 75.8253926
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE1OnAM6DGjkRoH9q1bHySgg",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 26,
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM8Isb8nqXEDoz23uUiks_hyivsDjQvVs6AzBDR=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Autolounge&query_place_id=ChIJE1OnAM6DGjkRoH9q1bHySgg"
+  },
+  {
+    "title": "Bajaj Tour And Travel",
+    "categoryName": "Car leasing service",
+    "address": "14216, Gurudwara Rd, Guru Gobind Singh Tower, Market, Dholewal Chowk, Ludhiana, Punjab 141003, India",
+    "neighborhood": "Guru Gobind Singh Tower, Market, Dholewal Chowk",
+    "street": "14216, Gurudwara Rd",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://docs.google.com/forms/d/e/1FAIpQLSfv3vafW5zXL9YBnbbLEgw3FpJjo5o3G5sypBe7Q5CKCrWRXw/viewform?usp=sharing&ouid=105638816217710700699",
+    "phone": "+918360861690",
+    "phoneUnformatted": "+918360861690",
+    "location": {
+      "lat": 30.8905571,
+      "lng": 75.8724876
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ92dxoeGCGjkRAAAAMDokPBU",
+    "categories": [
+      "Car leasing service",
+      "Air taxi",
+      "Airport shuttle service",
+      "Bus ticket agency",
+      "Bus tour agency",
+      "Taxi service",
+      "Minibus taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 241,
+    "imagesCount": 74,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNVs_S_ANyP_91VecFX9mO1qo5ZC0McuWmGwGOG=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bajaj%20Tour%20And%20Travel&query_place_id=ChIJ92dxoeGCGjkRAAAAMDokPBU"
+  },
+  {
+    "title": "Bindra Motors",
+    "subTitle": "ਬਿੰਦਰਾ ਮੋਟਰਜ਼",
+    "categoryName": "Used car dealer",
+    "address": "512-L, Model Town Rd, Mint Ghumri, Chowk, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Mint Ghumri, Chowk",
+    "street": "512-L, Model Town Rd",
+    "city": "Ludhiana",
+    "postalCode": "141002",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919855005120",
+    "phoneUnformatted": "+919855005120",
+    "location": {
+      "lat": 30.8907652,
+      "lng": 75.8392995
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvTjYsbmDGjkR3MFO0F49lcU",
+    "categories": [
+      "Used car dealer",
+      "Banking and finance"
+    ],
+    "reviewsCount": 38,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-jKybyv_hr3IytoI1hy6p8Ia5AkrJV3WssCJP93MMWLab1waQUrPMVYeJ8yDzBPh5M014Tm7BFR_PS0cTdtkv3rBINZynmKnlGiFMXJfZmBCcp8PBq-W9v2a7kbDCtQh-21s=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bindra%20Motors&query_place_id=ChIJvTjYsbmDGjkR3MFO0F49lcU"
+  },
+  {
+    "title": "Car Bazar",
+    "subTitle": "ਕਾਰ ਬਾਜ਼ਾਰ",
+    "categoryName": "Car dealer",
+    "address": "VVX9+QC6, near Kanpur Wool Industries, Janakpuri, Industrial Area- A, Ludhiana, Punjab 141008, India",
+    "neighborhood": "Janakpuri, Industrial Area- A",
+    "street": "VVX9+QC6, near Kanpur Wool Industries",
+    "city": "Ludhiana",
+    "postalCode": "141008",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919056306139",
+    "phoneUnformatted": "+919056306139",
+    "location": {
+      "lat": 30.899403,
+      "lng": 75.868515
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJS6nFyRuDGjkRoBu7zrP6KmE",
+    "categories": [
+      "Car dealer",
+      "Chauffeur service"
+    ],
+    "reviewsCount": 50,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxcg2tixx7YFW0Yw_CnO2Yq3R_EhYhhaKeR8MZRg5x8ImVzUGqaOaM619c4yAm4wQvLuM8B9XMX4Nek49CY9bFcKOLr6xHmdYmPeczXmmTtXK55usPuHu7GfokFQjsgPMBr1Rm6=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Bazar&query_place_id=ChIJS6nFyRuDGjkRoBu7zrP6KmE"
+  },
+  {
+    "title": "Car Castle (A Venture of ASIAN MARKETING)",
+    "subTitle": "ਕਾਰ ਕੈਸਲ (ਏ ਵੈਂਚਰ ਦਾ ਏਸ਼ੀਆਈ ਮਾਰਕਿਟਿੰਗ)",
+    "categoryName": "Used car dealer",
+    "address": "Sat Paul Mittal Rd, opposite ICICI Bank, Gurdev Nagar, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Gurdev Nagar",
+    "street": "Sat Paul Mittal Rd, opposite ICICI Bank",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://www.facebook.com/carcastle.ldh/",
+    "phone": "+919815605839",
+    "phoneUnformatted": "+919815605839",
+    "location": {
+      "lat": 30.8945887,
+      "lng": 75.8230672
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl2n48xeDGjkR2CBhTrzFU6U",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 28,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:15 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIlVY1SmpDT4SB1Pd5CUwmvUKr9R5tJHnp3kO8=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Castle%20(A%20Venture%20of%20ASIAN%20MARKETING)&query_place_id=ChIJl2n48xeDGjkR2CBhTrzFU6U"
+  },
+  {
+    "title": "Car Vault",
+    "categoryName": "Used car dealer",
+    "address": "near jagraon bridge, Field Gunj, Ludhiana, Punjab 141008, India",
+    "neighborhood": "Field Gunj",
+    "street": "near jagraon bridge",
+    "city": "Ludhiana",
+    "postalCode": "141008",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919914300784",
+    "phoneUnformatted": "+919914300784",
+    "location": {
+      "lat": 30.9076821,
+      "lng": 75.8518823
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0ZWyRkaDGjkRIazR_tmtTAQ",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0LPRfcIMboSg9H7NktTNPbC6w-by0-1pbJKzt=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Vault&query_place_id=ChIJ0ZWyRkaDGjkRIazR_tmtTAQ"
+  },
+  {
+    "title": "Cardekho Classified Ludhiana",
+    "categoryName": "Used car dealer",
+    "address": "CarDekho, Bombay Tower,Ground Floor, Ferozepur Rd, opp. Yes Bank, near Ansal Plaza, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Bharat Nagar, Sita Nagar",
+    "street": "CarDekho, Bombay Tower,Ground Floor, Ferozepur Rd, opp. Yes Bank, near Ansal Plaza",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://www.cardekho.com/used-cars+in+ludhiana",
+    "location": {
+      "lat": 30.9037281,
+      "lng": 75.8424615
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYRVEDIODGjkR3vNmXzIrlHs",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxqwjsJeOdDMDekkIwG-AGIc8JY0wipTMzZIH0GUQ7CUBfI-4lNGKnPMEAfqyNkEJa15owUzSg3K-MGTRJFFefNqg2iKpLtMa9-aZTdQ-n5Rbv7AhOe_v5y3QkgeCniVWHVScWr=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cardekho%20Classified%20Ludhiana&query_place_id=ChIJYRVEDIODGjkR3vNmXzIrlHs"
+  },
+  {
+    "title": "Cars",
+    "subTitle": "ਕਾਰਸ",
+    "categoryName": "Used car dealer",
+    "address": "VVG3+C24, Dana Mandi Road, Backside, &, Railway Crossing Rd, near Petrol Pump, Near Arora Palace, Model Town Extension, Model Town, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Near Arora Palace, D-Block, Model Town Extension, Model Town",
+    "street": "VVG3+C24, Dana Mandi Road, Backside, &, Railway Crossing Rd, near Petrol Pump",
+    "city": "Ludhiana",
+    "postalCode": "141002",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919417228451",
+    "phoneUnformatted": "+919417228451",
+    "location": {
+      "lat": 30.8752603,
+      "lng": 75.8519269
+    },
+    "totalScore": 2.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb19h8KGDGjkRMIDB-Q3JvBw",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 104,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwRyfDUG4g3q1UX3Z_ugHIgi63T2U8bKhEw4rLG9lo75Kuu6AiLzbMcp7AZbqIluHVvVDSEELuoK5pi1w-6xkcSNynQ__wHqbdQdoitPOgWpTdwZpWOtOS9hdufHqGDFY6p0ebu=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cars&query_place_id=ChIJb19h8KGDGjkRMIDB-Q3JvBw"
+  },
+  {
+    "title": "Deep Autos & Finance- Used Car Loan In Ludhiana|Second Hand Car Dealer in Ludhiana",
+    "subTitle": "ਦੀਪ ਆਟੋਸ & ਫਾਇਨਾਂਸ- ਉਸੇਦ ਕਾਰ ਲੋਨ ਇਨ ਲੁਧਿਆਣਾ|ਸੈਕੰਡ ਹੈਂਡ ਕਾਰ ਡੀਲਰ ਇਨ ਲੁਧਿਆਣਾ",
+    "categoryName": "Used car dealer",
+    "address": "Shop no 1 grewal market, New Shakti Nagar Main Rd, opposite HP Petrol Pump, Near Dada Motors, Basti Jodhewal, Ludhiana, Punjab 141007, India",
+    "neighborhood": "Near Dada Motors, Basti Jodhewal",
+    "street": "Shop no 1 grewal market, New Shakti Nagar Main Rd, opposite HP Petrol Pump",
+    "city": "Ludhiana",
+    "postalCode": "141007",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+918881600009",
+    "phoneUnformatted": "+918881600009",
+    "location": {
+      "lat": 30.9219399,
+      "lng": 75.8752227
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy4KP1BeDGjkRdXk3_xEq2vQ",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Insurance agency",
+      "Loan agency"
+    ],
+    "reviewsCount": 111,
+    "imagesCount": 618,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOtbUydFAInGZFbLj1_enoKJ44BzXlXuOP5I5YL=w408-h407-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Deep%20Autos%20%26%20Finance-%20Used%20Car%20Loan%20In%20Ludhiana%7CSecond%20Hand%20Car%20Dealer%20in%20Ludhiana&query_place_id=ChIJy4KP1BeDGjkRdXk3_xEq2vQ"
+  },
+  {
+    "title": "Deo tour and travel",
+    "categoryName": "Car rental agency",
+    "address": "PETROL PUMP, B-34 220 INDER VIHAR, MALHI FARMS ROAD, near Malhi Road, Hargovind Pura, Haibowal Kalan, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Hargovind Pura, Haibowal Kalan",
+    "street": "PETROL PUMP, B-34 220 INDER VIHAR, MALHI FARMS ROAD, near Malhi Road",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919815673606",
+    "phoneUnformatted": "+919815673606",
+    "location": {
+      "lat": 30.9254187,
+      "lng": 75.8334644
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCWYzocKDGjkRoL3N3fLlCf8",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 36,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOg4Fs13bFVfSaXqCxIGHJZGc__BYaFqaw8i_9H=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Deo%20tour%20and%20travel&query_place_id=ChIJCWYzocKDGjkRoL3N3fLlCf8"
+  },
+  {
+    "title": "Exotic Car Numbers",
+    "categoryName": "Car dealer",
+    "address": "33, I - Block, Sarabha Nagar, Ludhiana, Punjab 141001, India",
+    "neighborhood": "I - Block, Sarabha Nagar",
+    "street": "33",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919507300001",
+    "phoneUnformatted": "+919507300001",
+    "location": {
+      "lat": 30.8935532,
+      "lng": 75.8172756
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgRmXaSyDGjkR26pb-gkzPRs",
+    "categories": [
+      "Car dealer",
+      "Auto parts store",
+      "Car accessories store"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 248,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7f7_IDTDugAnt3P_xIEvM6WSnzziOBwOCcYFQ=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Exotic%20Car%20Numbers&query_place_id=ChIJgRmXaSyDGjkR26pb-gkzPRs"
+  },
+  {
+    "title": "Gogia Motors",
+    "subTitle": "ਗੋਗੀਆ ਮੋਟਰਜ਼",
+    "categoryName": "Used car dealer",
+    "address": "Unnamed Road, Jila Kacheri Area, Model Gram, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Jila Kacheri Area, Model Gram",
+    "street": "Unnamed Road",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://instagram.com/gogiamotors?utm_medium=copy_link",
+    "phone": "+919815191600",
+    "phoneUnformatted": "+919815191600",
+    "location": {
+      "lat": 30.9023427,
+      "lng": 75.8353792
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ22gG3yGDGjkRXx8C1xoNJLg",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 24,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPbFFnrKQngEjrS2HeLqCVXu-mVDEr1_NWdYiGP=w408-h612-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Gogia%20Motors&query_place_id=ChIJ22gG3yGDGjkRXx8C1xoNJLg"
+  },
+  {
+    "title": "Gurjass travel One Way Taxi Ludhiana to Delhi Airport - Delhi to Ludhiana Taxi",
+    "categoryName": "Car rental agency",
+    "address": "Street Number 7, Vishwakarma Colony, Basti Jodhewal, Bal Singh Nagar, Ludhiana, Punjab 141007, India",
+    "neighborhood": "Vishwakarma Colony, Basti Jodhewal, Bal Singh Nagar",
+    "street": "Street Number 7",
+    "city": "Ludhiana",
+    "postalCode": "141007",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://www.gurjasstravel.com/",
+    "phone": "+918344444675",
+    "phoneUnformatted": "+918344444675",
+    "location": {
+      "lat": 30.9312137,
+      "lng": 75.8640448
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbSvGNFKDGjkRcjLqT-ISI3Q",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 39,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwChyHv45CeF5-meRfH-lbw_W_sAdYt8qZqVM2hT0bS0-blHoHirYZikka06bE6aqX-5Ievro_njWPrY-q7CQ3TZvuM4fNbeC3QRuom7ZdaPG8t1ksHbniOoZtQ6c3wMBSFXtfUqQ=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Gurjass%20travel%20One%20Way%20Taxi%20Ludhiana%20to%20Delhi%20Airport%20-%20Delhi%20to%20Ludhiana%20Taxi&query_place_id=ChIJbSvGNFKDGjkRcjLqT-ISI3Q"
+  },
+  {
+    "title": "Guru Nanak Cabs",
+    "categoryName": "Car leasing service",
+    "address": "11 Street Number, Kabir Nagar, Ludhiana, Punjab 141003, India",
+    "neighborhood": "Kabir Nagar",
+    "street": "11 Street Number",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://www.gurunanakcabs.com/",
+    "phone": "+917888753445",
+    "phoneUnformatted": "+917888753445",
+    "location": {
+      "lat": 30.8742808,
+      "lng": 75.8836668
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU-5Cd62DGjkR04bSQC-qAvk",
+    "categories": [
+      "Car leasing service",
+      "Cabin rental agency",
+      "Taxi service",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 88,
+    "imagesCount": 30,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ynrinn3Gp-Ek3Jgzz5DbuA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=205.81029&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Guru%20Nanak%20Cabs&query_place_id=ChIJU-5Cd62DGjkR04bSQC-qAvk"
+  },
+  {
+    "title": "Jyoti Motors",
+    "subTitle": "ਜੋਤੀ ਮੋਟਰਜ਼",
+    "categoryName": "Used car dealer",
+    "address": "38, Nehru Nagar, Shastri Nagar, Prem Nagar, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Nehru Nagar, Shastri Nagar, Prem Nagar",
+    "street": "38",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919815991191",
+    "phoneUnformatted": "+919815991191",
+    "location": {
+      "lat": 30.8858468,
+      "lng": 75.8288732
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQVFxEv-DGjkR3wusYtAjdT4",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 60,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgLcUeaCpjzsDiODlq7gvaxjRfIEyormLqheVj=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jyoti%20Motors&query_place_id=ChIJQVFxEv-DGjkR3wusYtAjdT4"
+  },
+  {
+    "title": "KVS Tour & Travels",
+    "subTitle": "ਕਵਸ ਟੂਰ & ਟਰੈਵਲਜ਼",
+    "categoryName": "Car rental agency",
+    "address": "Block A satreet No 14 R back Side GNE Colleg isher nagar, Ludhiana, 141003, India",
+    "neighborhood": "Near Dhuri Line, Dasmesh Nagar, New Kartar Nagar",
+    "street": "Block A satreet No 14 R back Side GNE Colleg isher nagar",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919815342207",
+    "phoneUnformatted": "+919815342207",
+    "location": {
+      "lat": 30.8843943,
+      "lng": 75.8543889
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIXsq8viCGjkR5M_YZS6feH8",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 4,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx5jWknpfL_9OVs0kki95qMVjOIIHPj91QNFc7e3_QOGqdUuKXJ4zj4fAfRseoNYkxVsiF9PK7sZJErouDGBlcu_lQBWwAB2GdsWv3MpB_tTDfGcTZ-jrvgbkWoWKcNaJMpSP-g=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KVS%20Tour%20%26%20Travels&query_place_id=ChIJIXsq8viCGjkR5M_YZS6feH8"
+  },
+  {
+    "title": "LIMO Hire",
+    "categoryName": "Car rental agency",
+    "address": "CHD Road, Ludhiana, Punjab 141015, India",
+    "neighborhood": "Block 20, Gurdev Nagar",
+    "street": "CHD Road",
+    "city": "Ludhiana",
+    "postalCode": "141015",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://sidhuluxurylimo.wordpress.com/",
+    "phone": "+919888087205",
+    "phoneUnformatted": "+919888087205",
+    "location": {
+      "lat": 30.89773,
+      "lng": 75.825795
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsQEAwMiDGjkRH-MoQpY5rNo",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 32,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy9hUxobugl9WgiPoj7IWI5wy-NkIaO9xf1oMDEQ--dSbAhm55w-f_6JLFuXGpUCQBQb2Ljlvmbdbs3VS8LtBcrI2ObVJySeTXxNHdKaeCKee9fWGRX1MJ2cJ6WNCV3ng3CqYLx=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=LIMO%20Hire&query_place_id=ChIJsQEAwMiDGjkRH-MoQpY5rNo"
+  },
+  {
+    "title": "Luxury Ride Ludhiana",
+    "categoryName": "Motor vehicle dealer",
+    "address": "WR4P+994, opposite Dhandari, Mall Enclave, Civil Lines, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Mall Enclave, Civil Lines",
+    "street": "WR4P+994, opposite Dhandari",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "location": {
+      "lat": 30.9058885,
+      "lng": 75.8359645
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQAAALyDGjkR9h963eLeJ_Q",
+    "categories": [
+      "Motor vehicle dealer"
+    ],
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KON3nuUhQiYzPg7Dr9KS9Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=298.21024&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Ride%20Ludhiana&query_place_id=ChIJAQAAALyDGjkR9h963eLeJ_Q"
+  },
+  {
+    "title": "Mahindra Dada Motors Enterprises - SUV & Commercial Vehicle Showroom",
+    "subTitle": "ਦਾਦਾ ਮਹਿੰਦਰਾ ਦੀ ਵਿਕਰੀ",
+    "categoryName": "Car dealer",
+    "address": "Savitri Complex, II, Grand Trunk Rd, Dholewal Chowk, Ludhiana, Punjab 141003, India",
+    "neighborhood": "Dholewal Chowk",
+    "street": "Savitri Complex, II, Grand Trunk Rd",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://www.mahindradadamotors.com/",
+    "phone": "+918558895555",
+    "phoneUnformatted": "+918558895555",
+    "location": {
+      "lat": 30.8909961,
+      "lng": 75.8764106
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxfa1Rt6CGjkR8leRyrZUM_E",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 2850,
+    "imagesCount": 741,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwJcY_-hYvy6LIdrc2nPmfAwPPLXEeBuArfU988RLy__UNL1C9a337ZJq2Pnf4RPfJjc9y2jPZX3qoC3PO1-GEyy-b0oTFBTEqIzpMddVFzYoPG68mC8rS7G6kNBv1saajM9Hd2=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahindra%20Dada%20Motors%20Enterprises%20-%20SUV%20%26%20Commercial%20Vehicle%20Showroom&query_place_id=ChIJxfa1Rt6CGjkR8leRyrZUM_E"
+  },
+  {
+    "title": "Master Motors",
+    "subTitle": "ਮਾਸਟਰ ਮੋਟਰਜ਼",
+    "categoryName": "Used car dealer",
+    "address": "Shop No. 1-A, Link Rd, Opp. Rahul Graphite ( Pencil Portrait Artist), Model Town, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Model Town",
+    "street": "Shop No. 1-A, Link Rd, Opp. Rahul Graphite ( Pencil Portrait Artist)",
+    "city": "Ludhiana",
+    "postalCode": "141002",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919815570000",
+    "phoneUnformatted": "+919815570000",
+    "location": {
+      "lat": 30.8910656,
+      "lng": 75.8476899
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJt_djWKuDGjkRYN_bQXvUdvw",
+    "categories": [
+      "Used car dealer",
+      "Motorsports store"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxwdvxn2x_94LgNVMqvo0NwtOq0Fuyj9z6iGLsU_cMGObbbzMwDghgHpmmYDkc0m4s90tISx-uYTdKn40hLAnWlUIeMSZK_l3yKDV33GwPDJLtLBewlUKCBs24yZD9ygTAptCI-7g=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Master%20Motors&query_place_id=ChIJt_djWKuDGjkRYN_bQXvUdvw"
+  },
+  {
+    "title": "Max Taxi",
+    "categoryName": "Car dealer",
+    "address": "India, 2119, Chandigarh Rd, Basti Johdewal, Sector 32A, Ludhiana, Punjab 141008, India",
+    "neighborhood": "Basti Johdewal, Sector 32A",
+    "street": "India, 2119, Chandigarh Rd",
+    "city": "Ludhiana",
+    "postalCode": "141008",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "location": {
+      "lat": 30.9170816,
+      "lng": 75.8988109
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtUvyyk6DGjkRu-Kd-LlS7cw",
+    "categories": [
+      "Car dealer",
+      "Air taxi",
+      "Taxi service",
+      "Car leasing service",
+      "Car rental agency",
+      "Carpooling location",
+      "Minibus taxi service"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pdIiTcRvndXG2M2suYr9Tw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.0262&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Max%20Taxi&query_place_id=ChIJtUvyyk6DGjkRu-Kd-LlS7cw"
+  },
+  {
+    "title": "MOHIT AUTOS",
+    "subTitle": "ਮੋਹਿਤ ਆਟੋਸ",
+    "categoryName": "Car accessories store",
+    "address": "1st Floor, Mohan Complex, Dugri Rd, opposite Atam Nagar, Model Town, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Model Town",
+    "street": "1st Floor, Mohan Complex, Dugri Rd, opposite Atam Nagar",
+    "city": "Ludhiana",
+    "postalCode": "141002",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://www.mohitautos.com/",
+    "phone": "+919988633007",
+    "phoneUnformatted": "+919988633007",
+    "location": {
+      "lat": 30.8883159,
+      "lng": 75.8491514
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb1PG8lSCGjkRrRjGJErLu5c",
+    "categories": [
+      "Car accessories store",
+      "Auto parts store",
+      "Car stereo store"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHw20BO_kl8YOll-_EJVE2uWWrVS0zc4mxR-1uN1vmcRt4JV7xiJy59CNAyfZ5NLLWKs3nftDD1Rty9bUsznYaxb4xfsnI77bItoiakPe5ZaE7GSw9hLDO7liQM_5_RoWBQ3yhmQpGimLa4cZ8C8igQVkURIIeLYCAYPLCf6Pex8wE1rbVyfFnd2nPxBGJkYwoAo7M=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MOHIT%20AUTOS&query_place_id=ChIJb1PG8lSCGjkRrRjGJErLu5c"
+  },
+  {
+    "title": "NEXA (Lovely Autos, Ludhiana, Model Town)",
+    "subTitle": "ਨੈਕ (ਲਵਲੀ ਆਟੋਸ, ਲੁਧਿਆਣਾ, ਮਾਡਲ ਟਾਊਨ)",
+    "categoryName": "Car dealer",
+    "address": "Link Rd, opp. K-Mall, Pritm Nagar, Model Town, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Pritm Nagar, Model Town",
+    "street": "Link Rd, opp. K-Mall",
+    "city": "Ludhiana",
+    "postalCode": "141002",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://www.nexaofmodeltownludhiana.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "phone": "+918062216267",
+    "phoneUnformatted": "+918062216267",
+    "location": {
+      "lat": 30.8920493,
+      "lng": 75.8471773
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAd2snqyDGjkRz5EWLuqzRHg",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1035,
+    "imagesCount": 98,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx5pLYqwyR0-ZEpeGqfpniPOwIFpCEieG3SPmLKmqz7tWsgSBnTeihAsp7-bSH--akZ2oUdcEqYXjmvIqFlpM5-WE5r_2d987TKTCtVs8c0QB1kADG_biEjDeV6yuYPup-wVaQ=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NEXA%20(Lovely%20Autos%2C%20Ludhiana%2C%20Model%20Town)&query_place_id=ChIJAd2snqyDGjkRz5EWLuqzRHg"
+  },
+  {
+    "title": "NRI ONE WAY TAXI",
+    "subTitle": "H",
+    "categoryName": "Car rental agency",
+    "address": "Street Number 6, Luxmi Nagar, New Tagore Nagar, Haibowal Kalan, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Luxmi Nagar, New Tagore Nagar, Haibowal Kalan",
+    "street": "Street Number 6",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://nrionewaytaxi.com/",
+    "phone": "+919988299663",
+    "phoneUnformatted": "+919988299663",
+    "location": {
+      "lat": 30.9264358,
+      "lng": 75.8201659
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl-OnuBlZGjkROBF8HvKxHOs",
+    "categories": [
+      "Car rental agency",
+      "Air taxi",
+      "Car leasing service",
+      "Taxi service",
+      "Taxicab Stand",
+      "Tour operator",
+      "Tourist attraction"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 4,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzkjHV_TjUUFkXl7iqqUk9a_YMNu7yul2FYCjzluxti5tL_SKeg4rbOVUwz1oQX0AO4501f4_Dv845q6e1ohis2bpI_a3tjQpJXtUTfJDPCrwRHVmqgnTepHXoOS_oj-ogjA5ap=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NRI%20ONE%20WAY%20TAXI&query_place_id=ChIJl-OnuBlZGjkROBF8HvKxHOs"
+  },
+  {
+    "title": "Pal Tour & Travels",
+    "subTitle": "ਪਾਲ ਟੂਰ & ਟਰੈਵਲਜ਼",
+    "categoryName": "Car rental agency",
+    "address": "Shop 8, Mothu Ram Building, opp. Raikhy Cinema Chowk, near railway station, GT Colony, Old Ludhiana, Ludhiana, Punjab 141008, India",
+    "neighborhood": "GT Colony, Old Ludhiana",
+    "street": "Shop 8, Mothu Ram Building, opp. Raikhy Cinema Chowk, near railway station",
+    "city": "Ludhiana",
+    "postalCode": "141008",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919056658000",
+    "phoneUnformatted": "+919056658000",
+    "location": {
+      "lat": 30.9143796,
+      "lng": 75.8495372
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb_gYC5-DGjkR4MJ-zNSI7CM",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Tour agency"
+    ],
+    "reviewsCount": 28,
+    "imagesCount": 28,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMTI5b1VOkSaW5RDQRk1vtJN2nv3lyqajD4FMB1=w408-h541-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Pal%20Tour%20%26%20Travels&query_place_id=ChIJb_gYC5-DGjkR4MJ-zNSI7CM"
+  },
+  {
+    "title": "Passion Drive",
+    "categoryName": "Car dealer",
+    "address": "747 - B, Sargodha Colony , Pakhowal road, adjoining Yumcart, Model Gram, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Sant Ishar Singh Nagar, Model Gram",
+    "street": "747 - B, Sargodha Colony , Pakhowal road, adjoining Yumcart",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919872281740",
+    "phoneUnformatted": "+919872281740",
+    "location": {
+      "lat": 30.8948218,
+      "lng": 75.8299246
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3xWuL3GDGjkR6opq-MU2rJA",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx4R7zNjte-neTHK4LqXSytA1kisBt3V8OUXTjr5vdo6G9-Q66-1-VuMU_b-V7YMcPRR5OknsNNkQ3LOQWZDTgi1kwWflWeS-7r6eqceRpeP8-uep3XupHtN80mQMaNoYRScvuazmpdP1Im=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Passion%20Drive&query_place_id=ChIJ3xWuL3GDGjkR6opq-MU2rJA"
+  },
+  {
+    "title": "PSP Motor Garage",
+    "categoryName": "Used car dealer",
+    "address": "# 2966, street, no 9, ATI Rd, New Janta Nagar, Ludhiana, Punjab 141003, India",
+    "neighborhood": "New Janta Nagar",
+    "street": "# 2966, street, no 9, ATI Rd",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919464933147",
+    "phoneUnformatted": "+919464933147",
+    "location": {
+      "lat": 30.8747969,
+      "lng": 75.86403
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn_wYZcyDGjkRZSz1tOt2O5g",
+    "categories": [
+      "Used car dealer",
+      "Auto machine shop"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNMZflq1IMLoN87ovK7RdSWP_dnnvzGxAJrdGSR=w408-h325-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=PSP%20Motor%20Garage&query_place_id=ChIJn_wYZcyDGjkRZSz1tOt2O5g"
+  },
+  {
+    "title": "Punjab Cabs - One Way Taxi Delhi Airport to Ludhiana, Chandigarh, Jalandhar, Patiala, Amritsar",
+    "categoryName": "Car rental agency",
+    "address": "B30, 2266/2, Street Number Zero, Mohindra Colony, Moti Nagar, Ludhiana, Punjab 141003, India",
+    "neighborhood": "Mohindra Colony, Moti Nagar",
+    "street": "B30, 2266/2, Street Number Zero",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://www.punjabcabs.com/",
+    "phone": "+917087509191",
+    "phoneUnformatted": "+917087509191",
+    "location": {
+      "lat": 30.8951008,
+      "lng": 75.8898152
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb6DMPNWDGjkRkbU7WZmXYDA",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 251,
+    "imagesCount": 61,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOblevnCJ6H2iFQnD566rK38owhFX483dx7WwMI=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Punjab%20Cabs%20-%20One%20Way%20Taxi%20Delhi%20Airport%20to%20Ludhiana%2C%20Chandigarh%2C%20Jalandhar%2C%20Patiala%2C%20Amritsar&query_place_id=ChIJb6DMPNWDGjkRkbU7WZmXYDA"
+  },
+  {
+    "title": "Punjab Car Rental",
+    "categoryName": "Car leasing service",
+    "address": "Tagor, Chander Nagar Rd, opp. BM autos, Chander Nagar, Civil Lines, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Chander Nagar, Civil Lines",
+    "street": "Tagor, Chander Nagar Rd, opp. BM autos",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919988126014",
+    "phoneUnformatted": "+919988126014",
+    "location": {
+      "lat": 30.9216895,
+      "lng": 75.8282783
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgWSAssWDGjkRvdwNY1S9zQU",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 19,
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPDd_4HAEP5CO5oF5saKfT_6lQ-l1XqL8cPolDu=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Punjab%20Car%20Rental&query_place_id=ChIJgWSAssWDGjkRvdwNY1S9zQU"
+  },
+  {
+    "title": "R S MOTORS | WE SALE QUALITY| USED CAR SALE COMPANY",
+    "categoryName": "Used car dealer",
+    "address": "1769, near PAU, Maharaj Nagar, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Maharaj Nagar",
+    "street": "1769, near PAU",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://newrsmotors.com/",
+    "phone": "+919872400786",
+    "phoneUnformatted": "+919872400786",
+    "location": {
+      "lat": 30.8985424,
+      "lng": 75.8187788
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAyRc0aGDGjkR8_IZOMVuvHs",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 36,
+    "imagesCount": 779,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM2rCB0UK0r6pk5NiYMnu_j_wUKte75Ntv9iARg=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=R%20S%20MOTORS%20%7C%20WE%20SALE%20QUALITY%7C%20USED%20CAR%20SALE%20COMPANY&query_place_id=ChIJAyRc0aGDGjkR8_IZOMVuvHs"
+  },
+  {
+    "title": "Rai Motors",
+    "subTitle": "ਰਾਏ ਮੋਟਰਜ਼",
+    "categoryName": "Used car dealer",
+    "address": "Car Bazar, Gian singh rarewala market, Link Rd, near Regenta Klassic Hotel, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Gian Singh Rarewala Market, Near Preet Palace, Jammu Colony",
+    "street": "Car Bazar, Gian singh rarewala market, Link Rd, near Regenta Klassic Hotel",
+    "city": "Ludhiana",
+    "postalCode": "141002",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+918559000070",
+    "phoneUnformatted": "+918559000070",
+    "location": {
+      "lat": 30.8919487,
+      "lng": 75.8484712
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn6JTb6uDGjkRLF9U1H3wAVg",
+    "categories": [
+      "Used car dealer",
+      "Car finance and loan company"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 43,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNlrVbs_ns_t6LWgKTgCVTXFZknojarB5VFnVdy=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rai%20Motors&query_place_id=ChIJn6JTb6uDGjkRLF9U1H3wAVg"
+  },
+  {
+    "title": "Reeva Motors – Best Used Car Deals in Ludhiana | Buy, Sell & Finance Cars",
+    "categoryName": "Used car dealer",
+    "address": "5196, Street No. 2, Shimlapuri, Ludhiana, Punjab 141003, India",
+    "neighborhood": "Shimlapuri",
+    "street": "5196, Street No. 2",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "location": {
+      "lat": 30.8688225,
+      "lng": 75.868996
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJebrqOaODGjkRA3SyOnJQdxQ",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Reeva%20Motors%20%E2%80%93%20Best%20Used%20Car%20Deals%20in%20Ludhiana%20%7C%20Buy%2C%20Sell%20%26%20Finance%20Cars&query_place_id=ChIJebrqOaODGjkRA3SyOnJQdxQ"
+  },
+  {
+    "title": "SdriveCars | Self Drive Rental Cars",
+    "categoryName": "Car rental agency",
+    "address": "Indra Complex, Gill Rd, Cycle Market, Tagore Colony, Miller Ganj, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Cycle Market, Tagore Colony, Miller Ganj",
+    "street": "Indra Complex, Gill Rd",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://sdrivecars.com/",
+    "phone": "+917986894182",
+    "phoneUnformatted": "+917986894182",
+    "location": {
+      "lat": 30.8958908,
+      "lng": 75.8580253
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdSxNMoWDGjkRBvwAcGq2voc",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 46,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNfecat_cbF3ebtL8uJSuZRgcp11aRJF_1u0nbd=w408-h510-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SdriveCars%20%7C%20Self%20Drive%20Rental%20Cars&query_place_id=ChIJdSxNMoWDGjkRBvwAcGq2voc"
+  },
+  {
+    "title": "Shubh Rental Cars",
+    "categoryName": "Car rental agency",
+    "address": "13079, main market, vishwakarma colony, Partap Chowk, Ludhiana, Punjab 141003, India",
+    "neighborhood": "Partap Chowk, Bhagwan Nagar, Sahibjada Ajit singh Nagar",
+    "street": "13079, main market, vishwakarma colony",
+    "city": "Ludhiana",
+    "postalCode": "141003",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://shubhrentalcars.co.in/",
+    "phone": "+919075000014",
+    "phoneUnformatted": "+919075000014",
+    "location": {
+      "lat": 30.8892491,
+      "lng": 75.8729029
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIUZIA6iDGjkRlFgMIYEc1Oc",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwpOp8OlBcVhH4phx-KD4pUOh8W2b0HQnAhKAL=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shubh%20Rental%20Cars&query_place_id=ChIJIUZIA6iDGjkRlFgMIYEc1Oc"
+  },
+  {
+    "title": "Skyline Carz",
+    "categoryName": "Car dealer",
+    "address": "Jawaddi Kalan, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Jawaddi Kalan",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919876207900",
+    "phoneUnformatted": "+919876207900",
+    "location": {
+      "lat": 30.8838412,
+      "lng": 75.8291394
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf_Zm7DWCGjkREx5AcB2ZzxM",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 2,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzd2y97VT7eOP-SL4vYTI7vwI10O4i09HYjvjXjdH5UGv8XKTPsR62MRsa1NG9B2ye_CqWzlUD-NXYz1o6g63PgeU4E5ysGz0-Y2Ehqus8kRYiXpIJNCiPts9M49tabcbbje4U=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Skyline%20Carz&query_place_id=ChIJf_Zm7DWCGjkREx5AcB2ZzxM"
+  },
+  {
+    "title": "Star Luxury Car",
+    "categoryName": "Car dealer",
+    "address": "B/1/1350, Ram Nagar, Civil Lines, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Ram Nagar, Civil Lines",
+    "street": "B/1/1350",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+917037300011",
+    "phoneUnformatted": "+917037300011",
+    "location": {
+      "lat": 30.9183134,
+      "lng": 75.8432994
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmXUGIpqDGjkR2YLY39Phu-U",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 19,
+    "imagesCount": 18,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPN6C5QSS1Ye6SJA6pSKM62MgpyYYys93lW9ICT=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20Luxury%20Car&query_place_id=ChIJmXUGIpqDGjkR2YLY39Phu-U"
+  },
+  {
+    "title": "Starcarz-Ludhiana- Second hand Car Dealer in Ludhiana | Used Car Dealer in Ludhiana | Best Second Hand Car Dealer |",
+    "categoryName": "Used car dealer",
+    "address": "ESI ROAD, Kochar Market Rd, opp. VALMIKI PARK, Model Gram, Ludhiana, Punjab 141001, India",
+    "neighborhood": "New Model Town, Model Gram",
+    "street": "ESI ROAD, Kochar Market Rd, opp. VALMIKI PARK",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://www.starcarz.in/",
+    "phone": "+918872797777",
+    "phoneUnformatted": "+918872797777",
+    "location": {
+      "lat": 30.8984337,
+      "lng": 75.8391189
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8-_hzrqDGjkRmzHwdf-XLBE",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Car finance and loan company"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 59,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP0d3kC48ObWEDdXYAWR2wAYZqJPRkyH33dZsWu=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Starcarz-Ludhiana-%20Second%20hand%20Car%20Dealer%20in%20Ludhiana%20%7C%20Used%20Car%20Dealer%20in%20Ludhiana%20%7C%20Best%20Second%20Hand%20Car%20Dealer%20%7C&query_place_id=ChIJ8-_hzrqDGjkRmzHwdf-XLBE"
+  },
+  {
+    "title": "UNICABS",
+    "subTitle": "ਉਨਿਕੈਬ੍ਸ",
+    "categoryName": "Car rental agency",
+    "address": "223 A, Shastri Nagar, Model Town, Ludhiana, Punjab 141002, India",
+    "neighborhood": "Shastri Nagar, Model Town",
+    "street": "223 A",
+    "city": "Ludhiana",
+    "postalCode": "141002",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://unicabs.in/",
+    "phone": "+919803435007",
+    "phoneUnformatted": "+919803435007",
+    "location": {
+      "lat": 30.8906713,
+      "lng": 75.8373822
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE6VmarODGjkRUCyIgzTGAvA",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Transportation service"
+    ],
+    "reviewsCount": 38,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IwEOzAqEVk3pte7L6Z-1sQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.82861&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=UNICABS&query_place_id=ChIJE6VmarODGjkRUCyIgzTGAvA"
+  },
+  {
+    "title": "Used Car Royal Motors",
+    "subTitle": "ਉਸੇਦ ਕਾਰ ਰਾਇਲ ਮੋਟਰਜ਼",
+    "categoryName": "Used car dealer",
+    "address": "Shop No, 90, Feroze Gandhi Market Rd, Feroz Gandhi Market, Jila Kacheri Area, Model Gram, Ludhiana, Punjab 141001, India",
+    "neighborhood": "Feroz Gandhi Market, Jila Kacheri Area, Model Gram",
+    "street": "Shop No, 90, Feroze Gandhi Market Rd",
+    "city": "Ludhiana",
+    "postalCode": "141001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919888400143",
+    "phoneUnformatted": "+919888400143",
+    "location": {
+      "lat": 30.9018475,
+      "lng": 75.8332271
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXQglYZ6DGjkRXaM1xAjNtOo",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzH_iPdCrO0IzHp-UN7Ai_83p5ukQk-nZsENCqyz5ZtbzeT3fccH9ZcOgfL1oFPRlMT0f2TYmGxvqG5d3kQPh5HYKUS82MJLX7X0SoYg9dcxqP20_-s6XaGWgce92g4DHbBCmQtgg=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Used%20Car%20Royal%20Motors&query_place_id=ChIJXQglYZ6DGjkRXaM1xAjNtOo"
+  },
+  {
+    "title": "VICKY MOTORS",
+    "categoryName": "Used car dealer",
+    "address": "Jalandhar Bye Pass, adj. Jackson Petrol Pump, Netaji Nagar, Netaji Colony, Salem Tabri, Ludhiana, Punjab 141008, India",
+    "neighborhood": "Netaji Nagar, Netaji Colony, Salem Tabri",
+    "street": "Jalandhar Bye Pass, adj. Jackson Petrol Pump",
+    "city": "Ludhiana",
+    "postalCode": "141008",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919814111001",
+    "phoneUnformatted": "+919814111001",
+    "location": {
+      "lat": 30.9358992,
+      "lng": 75.8371154
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJw93bpqyDGjkRJu56MUVyL94",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 27,
+    "imagesCount": 96,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOVQZakZ9NJCzRA2Nn6vvkpdElwbN1kW887UEDV=w408-h612-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VICKY%20MOTORS&query_place_id=ChIJw93bpqyDGjkRJu56MUVyL94"
+  }
+]

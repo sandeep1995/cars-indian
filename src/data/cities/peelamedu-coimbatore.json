@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Caars Nation",
+    "subTitle": "சார்ஸ் நேஷன்",
+    "categoryName": "Car dealer",
+    "address": "72a, Nava India Rd, Sri Ramakrishna Dental College and Hospital, Peelamedu, Coimbatore, Tamil Nadu 641004, India",
+    "neighborhood": "Sri Ramakrishna Dental College and Hospital",
+    "street": "72a, Nava India Rd",
+    "city": "Peelamedu, Coimbatore",
+    "postalCode": "641004",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://caarsnation.net/",
+    "phone": "+919585800008",
+    "phoneUnformatted": "+919585800008",
+    "location": {
+      "lat": 11.0209352,
+      "lng": 76.9901028
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjWAGhDZYqDsRFhG4Zc0z-LM",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 241,
+    "imagesCount": 388,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOvByJ2_56zcuIHMhgZEoxp20n59_qXDZD8Kq9l=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Caars%20Nation&query_place_id=ChIJjWAGhDZYqDsRFhG4Zc0z-LM"
+  },
+  {
+    "title": "SREE SAI CARRS",
+    "categoryName": "Used car dealer",
+    "address": "Nava India Rd, Peelamedu, Coimbatore, Tamil Nadu 641006, India",
+    "street": "Nava India Rd",
+    "city": "Peelamedu, Coimbatore",
+    "postalCode": "641006",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919092220021",
+    "phoneUnformatted": "+919092220021",
+    "location": {
+      "lat": 11.0235485,
+      "lng": 76.9877136
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG2D5UABZqDsRXk50Vkl6zRE",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer"
+    ],
+    "reviewsCount": 79,
+    "imagesCount": 125,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 3 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMnPbstEtHVvXrQnU1SW1vjRrCIepiJ8J7OmBJm=w537-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SREE%20SAI%20CARRS&query_place_id=ChIJG2D5UABZqDsRXk50Vkl6zRE"
+  }
+]

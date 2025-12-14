@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Cbe Rental Cars",
+    "categoryName": "Car rental agency",
+    "address": "XX9C+9HX, Karupparayan Kovil St, Thirumarai Nagar, Podanur, Coimbatore, Tamil Nadu 641023, India",
+    "neighborhood": "Thirumarai Nagar",
+    "street": "XX9C+9HX, Karupparayan Kovil St",
+    "city": "Podanur, Coimbatore",
+    "postalCode": "641023",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://wa.me/message/INVHTTP6IQSMC1",
+    "phone": "+918667429983",
+    "phoneUnformatted": "+918667429983",
+    "location": {
+      "lat": 10.9684748,
+      "lng": 76.9714823
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_x-8qKtZqDsR5VWNVLwpLEw",
+    "categories": [
+      "Car rental agency",
+      "Car dealer",
+      "Tourist attraction"
+    ],
+    "reviewsCount": 262,
+    "imagesCount": 154,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdn1sVwYQn7j3C4vBa-7WXObvw2vwHPKrq0WUV=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cbe%20Rental%20Cars&query_place_id=ChIJ_x-8qKtZqDsR5VWNVLwpLEw"
+  }
+]

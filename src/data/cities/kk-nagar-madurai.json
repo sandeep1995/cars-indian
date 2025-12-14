@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Madurai Cars",
+    "subTitle": "மதுரை கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "Lake View Street, Opp. Sundaram Theatre, Deputy Collector Colony, Managiri, KK Nagar, Madurai, Tamil Nadu 625020, India",
+    "neighborhood": "Deputy Collector Colony, Managiri",
+    "street": "Lake View Street, Opp. Sundaram Theatre",
+    "city": "KK Nagar, Madurai",
+    "postalCode": "625020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842152442",
+    "phoneUnformatted": "+919842152442",
+    "location": {
+      "lat": 9.9295879,
+      "lng": 78.1482319
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzeCAJrHFADsRSOEhF2df-0s",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 30,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 7 AM, 9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwLri88cIkPFb1IG_R9A7BNv_YmtOHpXZIe0qdvRapF_6GqdDag1YC0JaikTjc8WWYWtMaPjCn6g1vV4tZo6xejXBUNAXO9AktcLYBdHwsJjA7Sc3yF_sqZW1xP7EsmXzMI-pjQ=w517-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Madurai%20Cars&query_place_id=ChIJzeCAJrHFADsRSOEhF2df-0s"
+  },
+  {
+    "title": "Mahindra Automotive KK Nagar",
+    "categoryName": "Car dealer",
+    "address": "NO.10 ANNA SALAI, 80 Feet Rd, near Milan'em Mall, KK Nagar, Tamil Nadu 625020, India",
+    "neighborhood": "Managiri",
+    "street": "NO.10 ANNA SALAI, 80 Feet Rd, near Milan'em Mall",
+    "city": "KK Nagar, Madurai",
+    "postalCode": "625020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://madurai.automotivemahindra.com/",
+    "phone": "+916309666552",
+    "phoneUnformatted": "+916309666552",
+    "location": {
+      "lat": 9.9276184,
+      "lng": 78.1429547
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0S5tUtfFADsRGEiGxO3HpAs",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 208,
+    "imagesCount": 36,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGNCxUmztADqde1oD4TDypGyHKib0w6iZ7NTgp=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahindra%20Automotive%20KK%20Nagar&query_place_id=ChIJ0S5tUtfFADsRGEiGxO3HpAs"
+  }
+]

@@ -1,0 +1,1608 @@
+[
+  {
+    "title": "Atul Travels",
+    "subTitle": "अतुल ट्रेवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Station Rd, opposite kkc petrol pump Cash & Pay Colony, Cash and Pay Colony, Charbagh, Lucknow, Uttar Pradesh 226004, India",
+    "neighborhood": "Cash and Pay Colony, Charbagh",
+    "street": "Station Rd, opposite kkc petrol pump Cash & Pay Colony",
+    "city": "Lucknow",
+    "postalCode": "226004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 26.8330485,
+      "lng": 80.9311673
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP4lZqUz8mzkRrQHFqIuTf0A",
+    "categories": [
+      "Car rental agency",
+      "Bus ticket agency",
+      "Bus tour agency",
+      "Travel agency",
+      "Carpooling location",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tourist attraction",
+      "Tourist information center"
+    ],
+    "reviewsCount": 28,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxEVytuMY2RmsjY5SGfeSvfvNrT9lQ09LNteOScTDRJ2IxKnbc1rwyiIoLhCNGSnG9Oi2aypYrXJOYGrbqhGjVNFhZuQyQTnwHfZKIEUR90TclQYyU0lCj4NXDhozeQFQ9DJjwH=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Atul%20Travels&query_place_id=ChIJP4lZqUz8mzkRrQHFqIuTf0A"
+  },
+  {
+    "title": "Automotive Lads",
+    "subTitle": "ऑटोमोटिव लैड्स",
+    "categoryName": "Car dealer",
+    "address": "Automotive Lads, BN Road, near HDFC Bank, Kaiserbagh Officer's Colony, Lalbagh, Lucknow, Uttar Pradesh 226018, India",
+    "neighborhood": "Kaiserbagh Officer's Colony, Lalbagh",
+    "street": "Automotive Lads, BN Road, near HDFC Bank",
+    "city": "Lucknow",
+    "postalCode": "226018",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.instagram.com/automotivelads",
+    "phone": "+917360000020",
+    "phoneUnformatted": "+917360000020",
+    "location": {
+      "lat": 26.8494896,
+      "lng": 80.9332128
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0X3HWqD9mzkReN9YneuY59k",
+    "categories": [
+      "Car dealer",
+      "Auto auction",
+      "Auto broker",
+      "Auto insurance agency",
+      "Car factory",
+      "Car finance and loan company",
+      "Car rental agency",
+      "Motor vehicle dealer",
+      "Motoring club",
+      "Used car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 24,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN2SSdizWBH7_HInpGQOKiW25T2l-FqoOchHvOH=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Automotive%20Lads&query_place_id=ChIJ0X3HWqD9mzkReN9YneuY59k"
+  },
+  {
+    "title": "Best Deal 4 Wheels",
+    "categoryName": "Used car dealer",
+    "address": "A-30, opp. ICICI Bank, Nirala Nagar, Lucknow, Uttar Pradesh 226020, India",
+    "neighborhood": "Nirala Nagar",
+    "street": "A-30, opp. ICICI Bank",
+    "city": "Lucknow",
+    "postalCode": "226020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.bestdeal4wheels.in/",
+    "phone": "+919415014042",
+    "phoneUnformatted": "+919415014042",
+    "location": {
+      "lat": 26.8747745,
+      "lng": 80.9385145
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB_0sOQb9mzkRw6MwSPNazUM",
+    "categories": [
+      "Used car dealer",
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 2001,
+    "imagesCount": 3261,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzNVf_ZIfc2zzhbpVDEOZe3ii6fSS5sTc1zL_c9koSp1mWuBBucD2LUdNY7EcZrb5Es7m68yIONz0hyDDGMh8EVKwClGi8M0a_xceJd-56EiBn5jMknuCTOx5tQrkXRFZT6Pb2Z=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Deal%204%20Wheels&query_place_id=ChIJB_0sOQb9mzkRw6MwSPNazUM"
+  },
+  {
+    "title": "Bharat Taxi",
+    "subTitle": "भारत टैक्सी",
+    "categoryName": "Car leasing service",
+    "address": "Vidhan Sabha Marg, Apex Chamber, Hazratganj Basment Floor, Below State Bank, Of India, Lucknow, Uttar Pradesh 226001, India",
+    "neighborhood": "Prem Nagar, Hazratganj",
+    "street": "Vidhan Sabha Marg, Apex Chamber, Hazratganj Basment Floor, Below State Bank, Of India",
+    "city": "Lucknow",
+    "postalCode": "226001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919696000999",
+    "phoneUnformatted": "+919696000999",
+    "location": {
+      "lat": 26.8533572,
+      "lng": 80.9486709
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX6EC1av9mzkR0TWhNBVaMR0",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 369,
+    "imagesCount": 65,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzrCLLxMF-kuX8rqlZLtN3NNFR-voD_WOIno8n6-sKRH6jTCA5GqgaBthJE9rjVZoTkkSUMoA5NMPxhkspGbww-NA-zL-bFlrKqtUC2FhcxIZaBHsgEsXEyylRbPg7qT8dnJuw=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bharat%20Taxi&query_place_id=ChIJX6EC1av9mzkR0TWhNBVaMR0"
+  },
+  {
+    "title": "Cab hub",
+    "subTitle": "कैब हब",
+    "categoryName": "Car rental agency",
+    "address": "UGF SHOP, 5, Shivaji Marg, opp. BOB, Ghasyari Mandi, Aminabad, Lucknow, Uttar Pradesh 226001, India",
+    "neighborhood": "Ghasyari Mandi, Aminabad",
+    "street": "UGF SHOP, 5, Shivaji Marg, opp. BOB",
+    "city": "Lucknow",
+    "postalCode": "226001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918299542607",
+    "phoneUnformatted": "+918299542607",
+    "location": {
+      "lat": 26.8401022,
+      "lng": 80.9334703
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN9e94Hn9mzkR5N5FDZuPmV0",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOwSp2TeGKdIDCeqTeMRyT_8l10_SsfP5lTjEU=w408-h403-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cab%20hub&query_place_id=ChIJN9e94Hn9mzkR5N5FDZuPmV0"
+  },
+  {
+    "title": "CMS Tour and Travels- Tempo traveller on rent , Tempo traveller for outstation , Luxury Bus on rent",
+    "subTitle": "सीएमएस टूर एंड ट्रैवल्स- टेम्पो ट्रैवलर ऑन रेंट , टेम्पो ट्रैवलर फॉर आउटस्टेशन , लक्जरी बस ऑन रेंट",
+    "categoryName": "Car rental agency",
+    "address": "Shop no 25, Ram Market, IT Crossing, Babuganj, Nirala Nagar, Lucknow, Uttar Pradesh 226020, India",
+    "neighborhood": "Babuganj, Nirala Nagar",
+    "street": "Shop no 25, Ram Market, IT Crossing",
+    "city": "Lucknow",
+    "postalCode": "226020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://cmstourandtravels.com/",
+    "phone": "+918887037338",
+    "phoneUnformatted": "+918887037338",
+    "location": {
+      "lat": 26.8710119,
+      "lng": 80.9404029
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbShP8Sr9mzkRS4L6ivauYds",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 391,
+    "imagesCount": 564,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOjsqswea9tdHHWj3E7uCOfMQKhsrlYFqX5G80_=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CMS%20Tour%20and%20Travels-%20Tempo%20traveller%20on%20rent%20%2C%20Tempo%20traveller%20for%20outstation%20%2C%20Luxury%20Bus%20on%20rent&query_place_id=ChIJbShP8Sr9mzkRS4L6ivauYds"
+  },
+  {
+    "title": "Hiyro Cabs- Car rental service",
+    "subTitle": "हियरो कैब्स- कार रेंटल सर्विस",
+    "categoryName": "Car leasing service",
+    "address": "SHOP NO-3, Shalimar Plaza, Vishal Khand 2, Vishal Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010, India",
+    "neighborhood": "Vishal Khand 2, Vishal Khand, Gomti Nagar",
+    "street": "SHOP NO-3, Shalimar Plaza",
+    "city": "Lucknow",
+    "postalCode": "226010",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.hiyro.com/",
+    "phone": "+917084535353",
+    "phoneUnformatted": "+917084535353",
+    "location": {
+      "lat": 26.850315,
+      "lng": 80.98174
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPUuqX539mzkRd_8AAkx8au8",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7fS2dcVtb7FrPFVE6XhPnhLnFY0Gpf1qd6E44=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Hiyro%20Cabs-%20Car%20rental%20service&query_place_id=ChIJPUuqX539mzkRd_8AAkx8au8"
+  },
+  {
+    "title": "Humsafar Cab Service - Travels and Taxi Services",
+    "subTitle": "हमसफर कैब सर्विस - ट्रैवल्स एंड टैक्सी सर्विसेस",
+    "categoryName": "Car rental agency",
+    "address": "568, Kailashpuri, 154, Gali No 10, near Neelkanth Temple, Barha, Alambagh, Lucknow, Uttar Pradesh 226005, India",
+    "neighborhood": "Barha, Alambagh",
+    "street": "568, Kailashpuri, 154, Gali No 10, near Neelkanth Temple",
+    "city": "Lucknow",
+    "postalCode": "226005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.humsafarcabservice.in/",
+    "phone": "+918052333300",
+    "phoneUnformatted": "+918052333300",
+    "location": {
+      "lat": 26.8135541,
+      "lng": 80.9160594
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8T24I979mzkRWXBd_lTM_z0",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 738,
+    "imagesCount": 22,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN6U8KoJeot3G7KaLnDA1SUKb9Sia6Se7AXRah6=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Humsafar%20Cab%20Service%20-%20Travels%20and%20Taxi%20Services&query_place_id=ChIJ8T24I979mzkRWXBd_lTM_z0"
+  },
+  {
+    "title": "Jain cars",
+    "subTitle": "जैन कार्स",
+    "categoryName": "Used car dealer",
+    "address": "C- 1028/29, near Mount carmel school, Mahanagar, Lucknow, Uttar Pradesh 226006, India",
+    "neighborhood": "Mahanagar",
+    "street": "C- 1028/29, near Mount carmel school",
+    "city": "Lucknow",
+    "postalCode": "226006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917007608320",
+    "phoneUnformatted": "+917007608320",
+    "location": {
+      "lat": 26.8718957,
+      "lng": 80.960542
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYzV_ux_9mzkRIocgOm1VnIA",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 37,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFTNzHegwNVE3NcKQ4NLC1jJhkDG9ZTIWkVw4Q=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jain%20cars&query_place_id=ChIJYzV_ux_9mzkRIocgOm1VnIA"
+  },
+  {
+    "title": "Jett Cabs Service Lucknow",
+    "subTitle": "जेट कैब्स सर्विस लखनऊ",
+    "categoryName": "Car rental agency",
+    "address": "harsoma niwas, 155/3, Chander Nagar, Alambagh, Lucknow, Uttar Pradesh 226005, India",
+    "neighborhood": "Chander Nagar, Alambagh",
+    "street": "harsoma niwas, 155/3",
+    "city": "Lucknow",
+    "postalCode": "226005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://jettcabs.com/",
+    "phone": "+918112451635",
+    "phoneUnformatted": "+918112451635",
+    "location": {
+      "lat": 26.8122314,
+      "lng": 80.9047852
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3QFABen9byURfzemc85Fndk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Sightseeing tour agency"
+    ],
+    "reviewsCount": 154,
+    "imagesCount": 32,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOEDTS3rUhAtNmZmD1xzWXVHaGpY7CgZjOkhxP6=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jett%20Cabs%20Service%20Lucknow&query_place_id=ChIJ3QFABen9byURfzemc85Fndk"
+  },
+  {
+    "title": "Lucknow Car Sales - Best Used Car Dealer | Best Second Hand Car Dealer in Lucknow",
+    "subTitle": "लखनऊ कार सेल्स एलटीडी॰ हितेश शुक्ला",
+    "categoryName": "Used car dealer",
+    "address": "Shop no.1, metro station, carmal road, near badshahnagar, Badshahnagar, Lucknow, Uttar Pradesh 226006, India",
+    "neighborhood": "Badshahnagar",
+    "street": "Shop no.1, metro station, carmal road, near badshahnagar",
+    "city": "Lucknow",
+    "postalCode": "226006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.lucknowcarsales.com/",
+    "phone": "+919936696798",
+    "phoneUnformatted": "+919936696798",
+    "location": {
+      "lat": 26.87197,
+      "lng": 80.9608455
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuf__M2_9mzkRJyJg5SO1wdg",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 62,
+    "imagesCount": 24,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyASvncDYv0Mw58788Bu0un_U-vU9Y9RT9cJLL-Yswd_pgTe1CcyWWB-Rl1LKUB-38AqyjujYBClDQHDpiAk65oYTT1d2EN2HYtOWGwzBXwIAHAH2xXYfudQVbIbX1_ijctR61c0IeJlM6s=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Lucknow%20Car%20Sales%20-%20Best%20Used%20Car%20Dealer%20%7C%20Best%20Second%20Hand%20Car%20Dealer%20in%20Lucknow&query_place_id=ChIJuf__M2_9mzkRJyJg5SO1wdg"
+  },
+  {
+    "title": "Lucknow Motor Sales ( Buy & Sell Used Car, Buy & Sell Second Hand Cars in Lucknow, India",
+    "subTitle": "लखनऊ मोटर सेल्स ( बी & सेल यूज्ड कार, बी & सेल सेकंड हैंड कार्स इन लखनऊ, इंडिया",
+    "categoryName": "Used car dealer",
+    "address": "Motor Sales, Kotwali, opposite Mahanagar, Gole Market, Mahanagar, Lucknow, Uttar Pradesh 226006, India",
+    "neighborhood": "Gole Market, Mahanagar",
+    "street": "Motor Sales, Kotwali, opposite Mahanagar",
+    "city": "Lucknow",
+    "postalCode": "226006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917394844707",
+    "phoneUnformatted": "+917394844707",
+    "location": {
+      "lat": 26.8734065,
+      "lng": 80.9586706
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ65EHxuP9mzkRuytswJVoTUs",
+    "categories": [
+      "Used car dealer",
+      "Store"
+    ],
+    "reviewsCount": 51,
+    "imagesCount": 40,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN4Rcxwvl53b6bGLYoqfq2s90U1BIHLHvjVnM3j=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Lucknow%20Motor%20Sales%20(%20Buy%20%26%20Sell%20Used%20Car%2C%20Buy%20%26%20Sell%20Second%20Hand%20Cars%20in%20Lucknow%2C%20India&query_place_id=ChIJ65EHxuP9mzkRuytswJVoTUs"
+  },
+  {
+    "title": "Luxury Cars ( KCS )",
+    "subTitle": "लक्जरी कार्स ( के सी एस )",
+    "categoryName": "Used car dealer",
+    "address": "metro station, Railway Crossing, near IT, Before, Mahanagar, Lucknow, Uttar Pradesh 226020, India",
+    "neighborhood": "Before, Mahanagar",
+    "street": "metro station, Railway Crossing, near IT",
+    "city": "Lucknow",
+    "postalCode": "226020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.instagram.com/kcs_lko?igsh=czNibWJtZGlucnBz&utm_source=qr",
+    "location": {
+      "lat": 26.8726983,
+      "lng": 80.9489306
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaePq7DP9mzkRWF3S0ez-FFI",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pus_6q-giHPQmTAY_vL3Pg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=130.87448&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Cars%20(%20KCS%20)&query_place_id=ChIJaePq7DP9mzkRWF3S0ez-FFI"
+  },
+  {
+    "title": "Luxury Cars Co.",
+    "subTitle": "लक्जरी कार्स को.",
+    "categoryName": "Used car dealer",
+    "address": "16, 1, Awadh Residency, 131, Kaiserbagh Cir, Kaiserbagh Officer's Colony, Kaiser Bagh, Lucknow, Uttar Pradesh 226018, India",
+    "neighborhood": "Kaiserbagh Officer's Colony, Kaiser Bagh",
+    "street": "16, 1, Awadh Residency, 131, Kaiserbagh Cir",
+    "city": "Lucknow",
+    "postalCode": "226018",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 26.8532245,
+      "lng": 80.9342779
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLwr0eOL9mzkR8bAVaj009r0",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7q6-aOzyCxucm63C0fEbZEm0JjGSSXv44Fq9s=w408-h542-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Cars%20Co.&query_place_id=ChIJLwr0eOL9mzkR8bAVaj009r0"
+  },
+  {
+    "title": "Maa Bhawani Tours And Travels - Car Rental Services in Lucknow | Best Taxi Services in Lucknow",
+    "subTitle": "माँ भवानी टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Shop no 4, petrol pump Cash and Pay Colony, Station Rd, opp. KKC Road, Cash and Pay Colony, Charbagh, Lucknow, Uttar Pradesh 226004, India",
+    "neighborhood": "Cash and Pay Colony, Charbagh",
+    "street": "Shop no 4, petrol pump Cash and Pay Colony, Station Rd, opp. KKC Road",
+    "city": "Lucknow",
+    "postalCode": "226004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://maabhawanitour.in/",
+    "phone": "+916391999333",
+    "phoneUnformatted": "+916391999333",
+    "location": {
+      "lat": 26.8329424,
+      "lng": 80.9309273
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXQSz6zL9mzkRXnqPsMNGeCY",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Tourist attraction",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 157,
+    "imagesCount": 14,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw6gi1rtQGwZIgNOipNG7VZWc6p3uan9wZMFL1kuMkZ2_QPygEl2bJHr-exWL7sW1G1vUi5OrH5QOspk8nyqky3mOhO-uaHN4fb6r4GBdfvjs0S6Gh-nEgq4Cweh-W1DOpVXUz7DBniLnOi=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maa%20Bhawani%20Tours%20And%20Travels%20-%20Car%20Rental%20Services%20in%20Lucknow%20%7C%20Best%20Taxi%20Services%20in%20Lucknow&query_place_id=ChIJXQSz6zL9mzkRXnqPsMNGeCY"
+  },
+  {
+    "title": "Metro Cars Sales",
+    "subTitle": "मेट्रो कार्स सेल्स",
+    "categoryName": "Motor vehicle dealer",
+    "address": "10A, Faizabad Rd, Badshahnagar, Lucknow, Uttar Pradesh 226006, India",
+    "neighborhood": "Badshahnagar",
+    "street": "10A, Faizabad Rd",
+    "city": "Lucknow",
+    "postalCode": "226006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://metrocarsales.co.in/",
+    "location": {
+      "lat": 26.87103,
+      "lng": 80.9628384
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3_GRVaf9mzkRnselU610YjU",
+    "categories": [
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQkdZ9y5THJRggCcje2k1r-PdKV1rtk65NqBZn=w408-h269-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Metro%20Cars%20Sales&query_place_id=ChIJ3_GRVaf9mzkRnselU610YjU"
+  },
+  {
+    "title": "MG Motor Beeaar Auto Showroom",
+    "subTitle": "एमजी मोटर बीआर ऑटो शोरूम",
+    "categoryName": "MG dealer",
+    "address": "10, Ashok Marg, opposite GST Bhawan, near Sree Rama Towers, Sadullah Nagar, Narhi, Hazratganj, Lucknow, Uttar Pradesh 226001, India",
+    "neighborhood": "Sadullah Nagar, Narhi, Hazratganj",
+    "street": "10, Ashok Marg, opposite GST Bhawan, near Sree Rama Towers",
+    "city": "Lucknow",
+    "postalCode": "226001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://dealers.mgmotor.co.in/mg-motor-beeaar-auto-showroom-car-dealer-hazratganj-lucknow-371873/Home",
+    "phone": "+917600058655",
+    "phoneUnformatted": "+917600058655",
+    "location": {
+      "lat": 26.8495582,
+      "lng": 80.9479171
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ276JF679mzkRgdyqdX_lEdc",
+    "categories": [
+      "MG dealer",
+      "Car dealer",
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 859,
+    "imagesCount": 207,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 AM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwcBKoi7I1Owi47VShF0PQlStvM0OvEVkFeRHwVqdJ7rMjjfbPVFEU5TyJt3yFL13AyTjUq9dyGYwn9vZeN24gkyRSYZxv4OjKRvyKq7W_BGVv3QUUUVIlfu5_Y7c9vGy8bixo=w408-h274-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MG%20Motor%20Beeaar%20Auto%20Showroom&query_place_id=ChIJ276JF679mzkRgdyqdX_lEdc"
+  },
+  {
+    "title": "Modicab Tours & Travels",
+    "subTitle": "मोदीकाब टूर्स & ट्रैवल्स",
+    "categoryName": "Car leasing service",
+    "address": "17, patel nagar, Tedhi Pulia, Alambagh, Lucknow, Uttar Pradesh 226005, India",
+    "neighborhood": "Tedhi Pulia, Adarsh Nagar, Alambagh",
+    "street": "17, patel nagar",
+    "city": "Lucknow",
+    "postalCode": "226005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.modicabtravels.com/",
+    "phone": "+919838366666",
+    "phoneUnformatted": "+919838366666",
+    "location": {
+      "lat": 26.8218702,
+      "lng": 80.9112899
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu6tQbon9mzkRkK3woD-qeI8",
+    "categories": [
+      "Car leasing service"
+    ],
+    "imagesCount": 17,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNbvJO-Kfzlvl21x-d5PhMhHgRKQRz0W3Tf79Ej=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Modicab%20Tours%20%26%20Travels&query_place_id=ChIJu6tQbon9mzkRkK3woD-qeI8"
+  },
+  {
+    "title": "Open Vintage Car Hire For Wedding",
+    "subTitle": "ओपन विंटेज कार हीरे फॉर वेडिंग",
+    "categoryName": "Car leasing service",
+    "address": "Ground floor, RiverSide Mall, Gomti nagar EXT, near TAJ HOTEL, Vipin Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010, India",
+    "neighborhood": "Vipin Khand, Gomti Nagar",
+    "street": "Ground floor, RiverSide Mall, Gomti nagar EXT, near TAJ HOTEL",
+    "city": "Lucknow",
+    "postalCode": "226010",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://vintagecaronrent.in/",
+    "phone": "+919311020000",
+    "phoneUnformatted": "+919311020000",
+    "location": {
+      "lat": 26.8530243,
+      "lng": 80.9733788
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDdZzSdT9mzkR7Q3SrvksH5o",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 32,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPe2CPiUKobBdJNHQzCoCZcO9KxgHC_uJXDwcBQ=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Open%20Vintage%20Car%20Hire%20For%20Wedding&query_place_id=ChIJDdZzSdT9mzkR7Q3SrvksH5o"
+  },
+  {
+    "title": "Regal Vintage Car",
+    "subTitle": "रीगल विंटेज कार",
+    "categoryName": "Car leasing service",
+    "address": "B-150, Sector A, Mahanagar, Lucknow, Uttar Pradesh 226006, India",
+    "neighborhood": "Sector A, Mahanagar",
+    "street": "B-150",
+    "city": "Lucknow",
+    "postalCode": "226006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://regalvintagecar.com/",
+    "phone": "+919415441833",
+    "phoneUnformatted": "+919415441833",
+    "location": {
+      "lat": 26.873868,
+      "lng": 80.9545355
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_YE6At79mzkRxLzxmZ2qPXM",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSypEYbnIYrfy-bNF0Cet-2obErjvbH3KW86Yx3hSUszuqU2Fb13uHojRlC4vZcW4yI0E24b5W4sDw57wk3-eSF0pu9ZuBUlDD5w0AjbMz5IsfQwvXmiOxBw4k7uQmBjQpOvMNM=w425-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Vintage%20Car&query_place_id=ChIJ_YE6At79mzkRxLzxmZ2qPXM"
+  },
+  {
+    "title": "Royal Car Sales",
+    "subTitle": "रॉयल कार सेल्स",
+    "categoryName": "Car dealer",
+    "address": "RWW2+WR9, Gulmohar Complex ,Near-Madhav Cinema,Aishbagh, Lucknow, Uttar Pradesh 226004, India",
+    "neighborhood": "Old Haider Ganj, Old Labour Colony",
+    "street": "RWW2+WR9, Gulmohar Complex ,Near-Madhav Cinema,Aishbagh",
+    "city": "Lucknow",
+    "postalCode": "226004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 26.8472982,
+      "lng": 80.9021194
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYZqcpdn9mzkRUfmWg7JcBFc",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxMcNGuJDPeLVXcnLGKOVxVaNqv6WaUEzQGl7t4MOAA6VcQIg9SkYIpFZfW8DTwjQBX6Qo6xbrLnURO5b8hm4HNwWn4edA89ewX_XcDPL3i3NyJhbNlmbk4Bd0s4Ol7x2pwCnAhUQ=w646-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Car%20Sales&query_place_id=ChIJYZqcpdn9mzkRUfmWg7JcBFc"
+  },
+  {
+    "title": "SS CARS",
+    "subTitle": "एसएस कार्स",
+    "categoryName": "Car dealer",
+    "address": "8 no chauraha, Plot no 1, near regnant hotel, Officers Colony, Nirala Nagar, Lucknow, Uttar Pradesh 226020, India",
+    "neighborhood": "Officers Colony, Nirala Nagar",
+    "street": "8 no chauraha, Plot no 1, near regnant hotel",
+    "city": "Lucknow",
+    "postalCode": "226020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919670000415",
+    "phoneUnformatted": "+919670000415",
+    "location": {
+      "lat": 26.8773161,
+      "lng": 80.9372542
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7X-hP_39mzkRxFCQ0UxxNlc",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 9:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP3cX13rdFYegb9B0CotvdNbY3zM8i9ZQWv1839=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SS%20CARS&query_place_id=ChIJ7X-hP_39mzkRxFCQ0UxxNlc"
+  },
+  {
+    "title": "Star travels by Yusha Shaikh",
+    "subTitle": "स्टार ट्रैवल्स बाय युशा शेख",
+    "categoryName": "Car leasing service",
+    "address": "Kazmain Rd, Turiya Ganj, Asharfabad, Lucknow, Uttar Pradesh 226003, India",
+    "neighborhood": "Turiya Ganj, Asharfabad",
+    "street": "Kazmain Rd",
+    "city": "Lucknow",
+    "postalCode": "226003",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917985110113",
+    "phoneUnformatted": "+917985110113",
+    "location": {
+      "lat": 26.8551975,
+      "lng": 80.8994161
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFfVFsyj9mzkRFgx7lWRyBys",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyEvwWAdvUXzGFhBT-TVyTGWPMYg6ZtL9BIos39yjLAhr4sDGGmh6ydE7ZYiWO3vnrzVNrrIcWnaanRwp_JWK3ZKFDCBeMWAwDD6lVFXQUkYqfcSxPqPbR2PVLRxiVcVmS9h5nAVQ=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20travels%20by%20Yusha%20Shaikh&query_place_id=ChIJFfVFsyj9mzkRFgx7lWRyBys"
+  },
+  {
+    "title": "Super Car Bazar",
+    "subTitle": "सुपर कार बाजार",
+    "categoryName": "Car dealer",
+    "address": "GF-5, Ansal City Center, Near Tulsi Cinema, Wala Qadar Rd, Kaiserbagh Officer's Colony, Hazratganj, Lucknow, Uttar Pradesh 226001, India",
+    "neighborhood": "DM Compound Colony, Kaiserbagh Officer's Colony, Hazratganj",
+    "street": "GF-5, Ansal City Center, Near Tulsi Cinema, Wala Qadar Rd",
+    "city": "Lucknow",
+    "postalCode": "226001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919335299871",
+    "phoneUnformatted": "+919335299871",
+    "location": {
+      "lat": 26.851934,
+      "lng": 80.936219
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ056-E6T9mzkRIpE-YRZ5wpM",
+    "categories": [
+      "Car dealer",
+      "Chauffeur service"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7k4V-6Cte0sOAzukjwIiVQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=118.20861&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Super%20Car%20Bazar&query_place_id=ChIJ056-E6T9mzkRIpE-YRZ5wpM"
+  },
+  {
+    "title": "Tata Motors Limited",
+    "subTitle": "बी आर टाटा सर्विस",
+    "categoryName": "Car dealer",
+    "address": "Ravindralaya, Opp. Charbagh Railway Station Charbagh Near, Uttar Pradesh 226004, India",
+    "neighborhood": "Cash and Pay Colony, Charbagh",
+    "street": "Ravindralaya, Opp. Charbagh Railway Station Charbagh Near",
+    "city": "Lucknow",
+    "postalCode": "226004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.tatamotors.com/",
+    "phone": "+917045176148",
+    "phoneUnformatted": "+917045176148",
+    "location": {
+      "lat": 26.8325003,
+      "lng": 80.9250319
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZymn_1b9mzkRcqD61tBG0fk",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 101,
+    "imagesCount": 127,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx1sgJmuWS9ayurkUWyocXPFdm_hbheTRJYhIM5LmZwIxhj3LEi1A-GhILXDUdwnnr0VttKhjz21TKBZSOX08gQhDL62ohTxZMDtjcB7Op48zc4VgmeVs5G1wgzOB6m4qasak1h=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tata%20Motors%20Limited&query_place_id=ChIJZymn_1b9mzkRcqD61tBG0fk"
+  },
+  {
+    "title": "Tempo traveller on rent Taxi hire Car Rental Company",
+    "subTitle": "टेम्पो ट्रैवलर ऑन रेंट टैक्सी हीरे कार रेंटल कंपनी",
+    "categoryName": "Car rental agency",
+    "address": "shop no. 21, Ram Market, Babuganj, Nirala Nagar, Lucknow, Uttar Pradesh 226020, India",
+    "neighborhood": "Babuganj, Nirala Nagar",
+    "street": "shop no. 21, Ram Market",
+    "city": "Lucknow",
+    "postalCode": "226020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://tempotravellercompany.co.in/",
+    "phone": "+919569904532",
+    "phoneUnformatted": "+919569904532",
+    "location": {
+      "lat": 26.8710066,
+      "lng": 80.9405784
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkSFVxyz9mzkRz8xpxzFMEp0",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 155,
+    "imagesCount": 68,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO4fntm_NXFkt0JQ8-MMaCN9af8UfFW3zunZLnf=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tempo%20traveller%20on%20rent%20Taxi%20hire%20Car%20Rental%20Company&query_place_id=ChIJkSFVxyz9mzkRz8xpxzFMEp0"
+  },
+  {
+    "title": "Tripiez Travels - Hire Car on Rent in Lucknow | Tempo Traveller | Luxury Car for wedding | Bus Booking, Cab or Taxi",
+    "subTitle": "त्रिपिएज़ ट्रैवल्स - हीरे कार ऑन रेंट इन लखनऊ | टेम्पो ट्रैवलर | लक्जरी कार फॉर वेडिंग | बस बुकिंग, कैब ओर टैक्सी",
+    "categoryName": "Car rental agency",
+    "address": "Gabbar Fitness Club, 1/181, near kathauth petrol pump, Vijayant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226001, India",
+    "neighborhood": "Vijayant Khand, Gomti Nagar",
+    "street": "Gabbar Fitness Club, 1/181, near kathauth petrol pump",
+    "city": "Lucknow",
+    "postalCode": "226001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.tripiez.com/",
+    "phone": "+919999995568",
+    "phoneUnformatted": "+919999995568",
+    "location": {
+      "lat": 26.8415435,
+      "lng": 80.9386393
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3zy1wFX9mzkRhRSESpLV1VM",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Taxi service",
+      "Transportation service"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOpOKTAZzkTn1lXhEndUOx7Rv-YBXyqhVcbzczq=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tripiez%20Travels%20-%20Hire%20Car%20on%20Rent%20in%20Lucknow%20%7C%20Tempo%20Traveller%20%7C%20Luxury%20Car%20for%20wedding%20%7C%20Bus%20Booking%2C%20Cab%20or%20Taxi&query_place_id=ChIJ3zy1wFX9mzkRhRSESpLV1VM"
+  },
+  {
+    "title": "WhatACar",
+    "subTitle": "व्हाटकर",
+    "categoryName": "Used car dealer",
+    "address": "C-337, Sector B Rd, Mahanagar, Lucknow, Uttar Pradesh 226006, India",
+    "neighborhood": "Mahanagar",
+    "street": "C-337, Sector B Rd",
+    "city": "Lucknow",
+    "postalCode": "226006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.whatacar.in/",
+    "phone": "+918840400753",
+    "phoneUnformatted": "+918840400753",
+    "location": {
+      "lat": 26.8758006,
+      "lng": 80.9582876
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ38dYBqr9mzkRC4tKz02N1IQ",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQ_GJiql6Lx8kN3pn18uTHOFFdOB8DdRcfzRIA=w408-h255-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=WhatACar&query_place_id=ChIJ38dYBqr9mzkRC4tKz02N1IQ"
+  },
+  {
+    "title": "Yash Car Bazar Private Limited | New & Second Hand Cars",
+    "subTitle": "यश कार बाजार प्राइवेट लिमिटेड | न्यू & सेकंड हैंड कार्स",
+    "categoryName": "Used car dealer",
+    "address": "Office 22, Carmel School Road,Batsha Nagar, Sector B Rd, Mahanagar, Lucknow, Uttar Pradesh 226006, India",
+    "neighborhood": "Mahanagar",
+    "street": "Office 22, Carmel School Road,Batsha Nagar, Sector B Rd",
+    "city": "Lucknow",
+    "postalCode": "226006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://yescarbazaarpvt.in/",
+    "phone": "+915224004790",
+    "phoneUnformatted": "+915224004790",
+    "location": {
+      "lat": 26.8714541,
+      "lng": 80.9606384
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG84smGj9mzkRUOJ5B2JSxgo",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Race car dealer",
+      "Smart Car dealer"
+    ],
+    "reviewsCount": 148,
+    "imagesCount": 19,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx53bS8-umvCSq1p8eGmOeUR3WXHnvsUSKeXDsu5HD40cNXI01Wl1ssSBLeoITWW_4FlzTXxDMsrShMWH8AR0uOaInTSl2VsS4LMiyT3uX9ZlpZMjSb-tEJwOpi_Nx6PwRieYWU=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Yash%20Car%20Bazar%20Private%20Limited%20%7C%20New%20%26%20Second%20Hand%20Cars&query_place_id=ChIJG84smGj9mzkRUOJ5B2JSxgo"
+  }
+]

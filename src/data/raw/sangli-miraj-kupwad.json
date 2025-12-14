@@ -1,0 +1,68 @@
+[
+  {
+    "title": "D K MOTORS Sangli",
+    "subTitle": "डि के मोटर्स सांगली",
+    "categoryName": "Used car dealer",
+    "address": "Ghanshyam Nagar, Kala Nagar, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "Ghanshyam Nagar, Kala Nagar",
+    "city": "Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://dkmotorssangli.com/",
+    "phone": "+917721072244",
+    "phoneUnformatted": "+917721072244",
+    "location": {
+      "lat": 16.8747103,
+      "lng": 74.5812987
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNVrLEU0ZwTsRuKHNWEGNYxk",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Auto repair shop",
+      "Car finance and loan company",
+      "Distribution service",
+      "Ford dealer",
+      "Repair service",
+      "Serviced accommodation",
+      "Showroom"
+    ],
+    "reviewsCount": 54,
+    "imagesCount": 65,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMWO3w0Gqj5dosoGguDKvFEGqYj_6mCTfhwA7cV=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=D%20K%20MOTORS%20Sangli&query_place_id=ChIJNVrLEU0ZwTsRuKHNWEGNYxk"
+  },
+  {
+    "title": "SIRSHA GROUP",
+    "subTitle": "सिर्शा ग्रुप",
+    "categoryName": "Used car dealer",
+    "address": "Floor-2, Om Icon, Wanalesawadi, Vijaynagar, Sangli Miraj Kupwad, Maharashtra 416414, India",
+    "neighborhood": "Wanalesawadi, Vijaynagar",
+    "street": "Floor-2, Om Icon",
+    "city": "Sangli Miraj Kupwad",
+    "postalCode": "416414",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "location": {
+      "lat": 16.8421563,
+      "lng": 74.6117393
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN4UC60MjwTsR9Caj7WROP9g",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jnrJd3zZbcaJdr803v5TvQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.99785&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=SIRSHA%20GROUP&query_place_id=ChIJN4UC60MjwTsR9Caj7WROP9g"
+  }
+]

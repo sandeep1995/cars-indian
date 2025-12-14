@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Bengal CAR Choice",
+    "subTitle": "বেঙ্গল কার চয়েস মুর্শিদাবাদ",
+    "categoryName": "Used car dealer",
+    "address": "Prince Anwar Shah Rd, Safui Para, Sahid Nagar, Garfa, Kalikapur, Kolkata, West Bengal 700078, India",
+    "neighborhood": "Safui Para, Sahid Nagar, Garfa",
+    "street": "Prince Anwar Shah Rd",
+    "city": "Kalikapur, Kolkata",
+    "postalCode": "700078",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+919674945061",
+    "phoneUnformatted": "+919674945061",
+    "location": {
+      "lat": 22.5031466,
+      "lng": 88.3807387
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ13kyAf93AjoRvfJu5e9_5xY",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 111,
+    "imagesCount": 835,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 4 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRJ5j6AIYoqqhc-T5KB2EvoUJyV7cwrpV8v1QP=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bengal%20CAR%20Choice&query_place_id=ChIJ13kyAf93AjoRvfJu5e9_5xY"
+  }
+]

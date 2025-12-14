@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Faiz tur & travels",
+    "subTitle": "फैज तूर & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Haziyapur, Uttar Pradesh 243005, India",
+    "city": "Haziyapur",
+    "postalCode": "243005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918958415370",
+    "phoneUnformatted": "+918958415370",
+    "location": {
+      "lat": 28.3685649,
+      "lng": 79.4368078
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD7y8fGsHoDkRrN37YewuhWI",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyceK2K6dEPVqjn2zFZHTP3fWc6MkUC1uTs5C5PKOb41NioRd2_cNY1jApzopTzgNju6N-q63do91YZ9Jab0OnpVMQySaiwKBMJvgmqr4bw2WIgyXo7Wv5VQkXWFeELfRVKo8E1oQ=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Faiz%20tur%20%26%20travels&query_place_id=ChIJD7y8fGsHoDkRrN37YewuhWI"
+  }
+]

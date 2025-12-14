@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Auto Gallery",
+    "subTitle": "ऑटो गैलरी",
+    "categoryName": "Car accessories store",
+    "address": "3342, Shop no.2, Near Fountain Chowk, Rani Bagh, Delhi 110034, India",
+    "neighborhood": "Mahindra Park, Rani Bagh, Shakurpur",
+    "street": "3342, Shop no.2, Near Fountain Chowk",
+    "city": "Rani Bagh, Delhi",
+    "postalCode": "110034",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "phone": "+919910947037",
+    "phoneUnformatted": "+919910947037",
+    "location": {
+      "lat": 28.6858625,
+      "lng": 77.135914
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFZoewscDDTkRLMzEJlaXdRo",
+    "categories": [
+      "Car accessories store",
+      "Auto body parts supplier",
+      "Auto body shop",
+      "Auto bodywork mechanic",
+      "Auto parts store",
+      "Car stereo store",
+      "Parking garage",
+      "Repair service"
+    ],
+    "reviewsCount": 195,
+    "imagesCount": 46,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxQCpRn3dDD3e2lK6vLAfk2bHJ0nodFX-pSHlLWoOS0w-3QE3BaFCToSLTVBGCCsgHW7NPPEWJsMzv3vBmXT1bx_Ks13EwLJ3UucQ4GWb_8rTAcXRtOirkQXTgPQIYYwkvRoHSoVeyKNuk=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Gallery&query_place_id=ChIJFZoewscDDTkRLMzEJlaXdRo"
+  }
+]

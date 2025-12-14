@@ -1,0 +1,552 @@
+[
+  {
+    "title": "AK Tours & Travels",
+    "subTitle": "एके टूर्स & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Cs no 9081 saishree apartment flat no 404 B wing ST colony, Vishrambag, Sangli, Maharashtra 416415, India",
+    "neighborhood": "Vishrambag",
+    "street": "Cs no 9081 saishree apartment flat no 404 B wing ST colony",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416415",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+917580927111",
+    "phoneUnformatted": "+917580927111",
+    "location": {
+      "lat": 16.842223,
+      "lng": 74.5942584
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB2x2i2UjwTsR-mjImFMUmwA",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 34,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMT76pzSQnh9yYB2H3wDecjHDhkwzqtqSqS8f1f=w530-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=AK%20Tours%20%26%20Travels&query_place_id=ChIJB2x2i2UjwTsR-mjImFMUmwA"
+  },
+  {
+    "title": "CARS24 - Sangli Wheels | Sell Used Cars in Sangli",
+    "subTitle": "कार्स24 - सांगली व्हील्स | सेल यूज्ड कार्स इन सांगली",
+    "categoryName": "Used car dealer",
+    "address": "1030, near Ambrai Garden, opposite Shivaji Stadium, Vyankatesh Nagar, Sangli, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "Vyankatesh Nagar",
+    "street": "1030, near Ambrai Garden, opposite Shivaji Stadium",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.cars24.com/",
+    "phone": "+918929506672",
+    "phoneUnformatted": "+918929506672",
+    "location": {
+      "lat": 16.8626179,
+      "lng": 74.5732523
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRdShL2sYwTsRCjyXqaddbxA",
+    "categories": [
+      "Used car dealer",
+      "Audi dealer",
+      "BMW dealer",
+      "Car finance and loan company",
+      "Honda dealer",
+      "Hyundai dealer",
+      "Jeep dealer",
+      "Kia dealer",
+      "Suzuki dealer",
+      "Toyota dealer"
+    ],
+    "reviewsCount": 638,
+    "imagesCount": 209,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzQEB6iGher-3SbmlvK9pVFOwQ9uE3kYx3ElWUl2ftxcNiO2LUZZnDQBR0TT0BmsDKRmuj6mgWm79A-AJ6O7Am51693fvCm8JlY0HKVfre3BA9Senr_kZasGp1Qf2j7D0cNpRm8aw=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CARS24%20-%20Sangli%20Wheels%20%7C%20Sell%20Used%20Cars%20in%20Sangli&query_place_id=ChIJRdShL2sYwTsRCjyXqaddbxA"
+  },
+  {
+    "title": "Chintamani Motors Sangli",
+    "subTitle": "चिंतामणि मोटर्स सांगली",
+    "categoryName": "Car dealer",
+    "address": "4420, Plot No. 2,3,7,8, Magdum Industrial Park, near Vasantdada Industrial Estate, Vasantdada Industrial Estate, Sangli, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "Vasantdada Industrial Estate",
+    "street": "4420, Plot No. 2,3,7,8, Magdum Industrial Park, near Vasantdada Industrial Estate",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.chintamanimotors.in/",
+    "phone": "+918669998605",
+    "phoneUnformatted": "+918669998605",
+    "location": {
+      "lat": 16.8792071,
+      "lng": 74.5907874
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq_QMpjgZwTsRtWhj3DtSs54",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 67,
+    "imagesCount": 28,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxVf76_1n8jnvcxs9ZhDQIs-4zw8Aq8WRSyUsFo-hAQBopyYmYdRZuIIML_PQ7cZsq16QNH7LYwQmu_KmGV2FQoaSf38C_Zn8-0RK9Yh-9gseqeIxFvUFREJSfX_pm-e1cP71fr=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Chintamani%20Motors%20Sangli&query_place_id=ChIJq_QMpjgZwTsRtWhj3DtSs54"
+  },
+  {
+    "title": "Diamond Motors",
+    "subTitle": "डायमंड मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "Kolhapur - Sangli Hwy, Ram Nagar, Sangli, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "Ram Nagar",
+    "street": "Kolhapur - Sangli Hwy",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919764786651",
+    "phoneUnformatted": "+919764786651",
+    "location": {
+      "lat": 16.8464959,
+      "lng": 74.5626426
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1RizzNoZwTsRuwzPDdShkOk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMll3PIihx8KJhPNIv9_j5jheUCCxJAUF6JcgSz=w531-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Diamond%20Motors&query_place_id=ChIJ1RizzNoZwTsRuwzPDdShkOk"
+  },
+  {
+    "title": "Perfect Car Accessories",
+    "subTitle": "परफेक्ट कार एसेसरिज",
+    "categoryName": "Car accessories store",
+    "address": "Kolhapur Rd, Dattanagar, Sangli, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "Dattanagar",
+    "street": "Kolhapur Rd",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://digiwebcard.in/perfectcaraccessories",
+    "phone": "+919970117866",
+    "phoneUnformatted": "+919970117866",
+    "location": {
+      "lat": 16.8473624,
+      "lng": 74.5706674
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh54saGcYwTsRakLuaygFK30",
+    "categories": [
+      "Car accessories store",
+      "Auto accessories wholesaler",
+      "Auto body parts supplier",
+      "Car security system installer",
+      "Car stereo store"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMCvJAYRL1E0AdzoKIA7Iq7NUqXyYTA6Jzy_XyC=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Perfect%20Car%20Accessories&query_place_id=ChIJh54saGcYwTsRakLuaygFK30"
+  },
+  {
+    "title": "Reliable Motors- Quality Pre-owned Cars",
+    "subTitle": "रेलिअब्ले मोटर्स- क्वालिटी प्री-ओन्ड कार्स",
+    "categoryName": "Used car dealer",
+    "address": "Kolhapur - Sangli Hwy, opposite Uday Bhojnalaya, Ram Nagar, Sangli, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "Ram Nagar",
+    "street": "Kolhapur - Sangli Hwy, opposite Uday Bhojnalaya",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "location": {
+      "lat": 16.8460179,
+      "lng": 74.5627141
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJw5ec8DEZwTsR-0EUx2SThSQ",
+    "categories": [
+      "Used car dealer"
+    ],
+    "imagesCount": 19,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPHYbzuiNzsN2CuJdKJthdOPVWWytjuX3PZwGp9=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Reliable%20Motors-%20Quality%20Pre-owned%20Cars&query_place_id=ChIJw5ec8DEZwTsR-0EUx2SThSQ"
+  },
+  {
+    "title": "Reliable Tours & Travels",
+    "subTitle": "रेलिअब्ले टूर्स & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Reliable Tours & Travels, V, Lane No. 4, near jaydeep Servicing Center, Savarkar Colony, Vishrambag, Sangli, Sangli Miraj Kupwad, Maharashtra 416415, India",
+    "neighborhood": "Savarkar Colony, Vishrambag",
+    "street": "Reliable Tours & Travels, V, Lane No. 4, near jaydeep Servicing Center",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416415",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+917841047720",
+    "phoneUnformatted": "+917841047720",
+    "location": {
+      "lat": 16.8446113,
+      "lng": 74.5923801
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8wuFrEUZwTsRgKYjpoajxxY",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 163,
+    "imagesCount": 13,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9twveOBUESDSE_E4rJU2CGRkrNhmmxqv_uKiZ=w408-h342-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Reliable%20Tours%20%26%20Travels&query_place_id=ChIJ8wuFrEUZwTsRgKYjpoajxxY"
+  },
+  {
+    "title": "Sanjyot Tours & Travels.",
+    "subTitle": "संज्योत टूर्स & ट्रॅवल्स.",
+    "categoryName": "Car leasing service",
+    "address": "Nishant Colony, Sangli, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "Nishant Colony",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919765300324",
+    "phoneUnformatted": "+919765300324",
+    "location": {
+      "lat": 16.8508459,
+      "lng": 74.585613
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdb9iR3oYwTsRQmd5KJ00SnQ",
+    "categories": [
+      "Car leasing service",
+      "Airport shuttle service",
+      "Taxi service"
+    ],
+    "reviewsCount": 48,
+    "imagesCount": 7,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNPAXc257m94eiMWpKDbgCVLQGtdgBq9T7x2Bx4=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sanjyot%20Tours%20%26%20Travels.&query_place_id=ChIJdb9iR3oYwTsRQmd5KJ00SnQ"
+  },
+  {
+    "title": "The Car Shoppe",
+    "subTitle": "द कार शॉप",
+    "categoryName": "Car accessories store",
+    "address": "Shivaji Nagar North, opposite to Aapta Police Chowky, North Shivaji Nagar, Gokul Nagar, Sangli, Sangli Miraj Kupwad, Maharashtra 416416, India",
+    "neighborhood": "North Shivaji Nagar, Gokul Nagar",
+    "street": "Shivaji Nagar North, opposite to Aapta Police Chowky",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416416",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.instagram.com/the.car.shoppe",
+    "phone": "+919545511711",
+    "phoneUnformatted": "+919545511711",
+    "location": {
+      "lat": 16.8592742,
+      "lng": 74.5770232
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkd7ZamwYwTsRAocr7P4Ror8",
+    "categories": [
+      "Car accessories store"
+    ],
+    "reviewsCount": 18,
+    "imagesCount": 43,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPB0RS7toXA6y3OhDSjD3kuwITe0tztwfCO1Rga=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Car%20Shoppe&query_place_id=ChIJkd7ZamwYwTsRAocr7P4Ror8"
+  },
+  {
+    "title": "VG CABS",
+    "subTitle": "वीजी कैब्स",
+    "categoryName": "Car rental agency",
+    "address": "1, lane no 1, Shri complex, near dandekar hall, Savarkar Colony, Vishrambag, Sangli, Sangli Miraj Kupwad, Maharashtra 416415, India",
+    "neighborhood": "Savarkar Colony, Vishrambag",
+    "street": "1, lane no 1, Shri complex, near dandekar hall",
+    "city": "Sangli, Sangli Miraj Kupwad",
+    "postalCode": "416415",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://vgcabscom.net/",
+    "phone": "+919423742323",
+    "phoneUnformatted": "+919423742323",
+    "location": {
+      "lat": 16.8427741,
+      "lng": 74.5920636
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZWeTyxoZwTsR0iQ__9PkzVc",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 34,
+    "imagesCount": 15,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNkn08Vi8QiEU0bezomDVi_BkHfusPJvKRrCA8E=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VG%20CABS&query_place_id=ChIJZWeTyxoZwTsR0iQ__9PkzVc"
+  }
+]

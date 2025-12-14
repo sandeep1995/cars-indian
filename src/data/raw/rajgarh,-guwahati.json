@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Northeast Rentals",
+    "categoryName": "Car leasing service",
+    "address": "Bye Lane 12, Lachit Nagar, Rajgarh, Guwahati, Assam 781007, India",
+    "neighborhood": "Lachit Nagar",
+    "street": "Bye Lane 12",
+    "city": "Rajgarh, Guwahati",
+    "postalCode": "781007",
+    "state": "Assam",
+    "countryCode": "IN",
+    "website": "https://northeastrentals.in/",
+    "phone": "+917636046479",
+    "phoneUnformatted": "+917636046479",
+    "location": {
+      "lat": 26.1712675,
+      "lng": 91.7685388
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ93GPmUhZWjcRmPIl0-rWq1s",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 188,
+    "imagesCount": 78,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxRdEjod4H-FULk_b3VaSFf1TvXfrFQHHPSULmxOF505nhugEpvHZ-lhI3h6NAFa3sObaVMwkIANkd_PvFvyeufWtM2cmwdF1AjWood884dWJjWz6QfZwhR_cIkmmKgdYZ20pApdQ=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Northeast%20Rentals&query_place_id=ChIJ93GPmUhZWjcRmPIl0-rWq1s"
+  }
+]

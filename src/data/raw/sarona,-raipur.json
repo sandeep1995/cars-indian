@@ -1,0 +1,122 @@
+[
+  {
+    "title": "CarBuzz India",
+    "subTitle": "कार बज़",
+    "categoryName": "Car dealer",
+    "address": "opposite Shubh Honda, Sarona, Raipur, Chhattisgarh 492013, India",
+    "street": "opposite Shubh Honda",
+    "city": "Sarona, Raipur",
+    "postalCode": "492013",
+    "state": "Chhattisgarh",
+    "countryCode": "IN",
+    "website": "http://carbuzz.in/",
+    "phone": "+917400777000",
+    "phoneUnformatted": "+917400777000",
+    "location": {
+      "lat": 21.2365409,
+      "lng": 81.5859373
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc-VQVRHdKDoR18rE7nMtsHM",
+    "categories": [
+      "Car dealer",
+      "Auto restoration service"
+    ],
+    "reviewsCount": 201,
+    "imagesCount": 127,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYJu5ImsBxN5KluuWWhQY3k5IGq8G1pWpYonFU=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CarBuzz%20India&query_place_id=ChIJc-VQVRHdKDoR18rE7nMtsHM"
+  },
+  {
+    "title": "KMC Automall | Used Trucks in Raipur",
+    "subTitle": "केएमसी ऑटोमाल | यूज्ड ट्रक्स इन रायपुर",
+    "categoryName": "Motor vehicle dealer",
+    "address": "Ring Road No. 1, beside shubh honda, near tata jaika, Amanaka, Sarona, Raipur, Chhattisgarh 492010, India",
+    "neighborhood": "Amanaka",
+    "street": "Ring Road No. 1, beside shubh honda, near tata jaika",
+    "city": "Sarona, Raipur",
+    "postalCode": "492010",
+    "state": "Chhattisgarh",
+    "countryCode": "IN",
+    "website": "http://www.kmcautomall.in/",
+    "phone": "+919098310101",
+    "phoneUnformatted": "+919098310101",
+    "location": {
+      "lat": 21.2371431,
+      "lng": 81.586699
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwx7W9GveKDoR7vSnQiGKknk",
+    "categories": [
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 33,
+    "imagesCount": 65,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwNBtaNJDbyHL-3_opXCbLINfti05WoUwz3CnzvDWo7g_HifOw4Zq2sVcS52bUXdcV63zR1H-LxbIwmoFiiilsHqklCcQ7LtmNy49lZgtbU9VPgJY_z1fMzTrgV0dgG3Do6lh4=w408-h271-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KMC%20Automall%20%7C%20Used%20Trucks%20in%20Raipur&query_place_id=ChIJwx7W9GveKDoR7vSnQiGKknk"
+  }
+]

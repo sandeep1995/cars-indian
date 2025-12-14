@@ -1,0 +1,61 @@
+[
+  {
+    "title": "BHAROMON SATHI TRAVELS",
+    "subTitle": "ভারমণ সাথী ট্রাভেলস",
+    "categoryName": "Car rental agency",
+    "address": "35, UPENDRA BISWAS SARANI, MORE, Jadavpur, SULEKHA, Kolkata, West Bengal 700032, India",
+    "neighborhood": "Chittaranjan Colony, Jadavpur",
+    "street": "35, UPENDRA BISWAS SARANI, MORE",
+    "city": "SULEKHA, Kolkata",
+    "postalCode": "700032",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+917044095792",
+    "phoneUnformatted": "+917044095792",
+    "location": {
+      "lat": 22.4913914,
+      "lng": 88.3768606
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOVTmMWBxAjoRamF5gyhoPy8",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 34,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP14kzLEXBlH0ysOAkaXiMVHNbnZoprVLhcMDNJ=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=BHAROMON%20SATHI%20TRAVELS&query_place_id=ChIJOVTmMWBxAjoRamF5gyhoPy8"
+  }
+]

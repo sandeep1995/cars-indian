@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Ace Motors",
+    "subTitle": "ऐस मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "Military Rd, near Prime Academy, Bhavani Nagar, Marol, Andheri East, Mumbai, East, Maharashtra 400059, India",
+    "neighborhood": "Bhavani Nagar, Marol, Andheri East",
+    "street": "Military Rd, near Prime Academy",
+    "city": "Mumbai, East",
+    "postalCode": "400059",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+917506053087",
+    "phoneUnformatted": "+917506053087",
+    "location": {
+      "lat": 19.1196122,
+      "lng": 72.8850032
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjSH-PaLJ5zsRhAUzixuxTJY",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 14,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNDJwjk-T5e-i65jq7LJHCAsURcvUakv2CI_CmL=w408-h883-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ace%20Motors&query_place_id=ChIJjSH-PaLJ5zsRhAUzixuxTJY"
+  }
+]

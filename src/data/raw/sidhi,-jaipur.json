@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Baba Car Rental - self drive cars in jaipur, jaipur airport car rental car for rent or car on rent jaipur car rental",
+    "subTitle": "बाबा कार रेंटल - सेल्फ ड्राइव कार्स इन जयपुर, जयपुर एयरपोर्ट कार रेंटल कार फॉर रेंट ओर कार ऑन रेंट जयपुर कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "1st Floor , 05 Num. Office , Sidhi, Mark - Amit Juice Center Lend, vinayak complex, Tonk Rd, Adarsh Basti, Saraswati Colony, Tonk Phatak, Sidhi, Jaipur, Rajasthan 302006, India",
+    "neighborhood": "Adarsh Basti, Saraswati Colony, Tonk Phatak",
+    "street": "1st Floor , 05 Num. Office , Sidhi, Mark - Amit Juice Center Lend, vinayak complex, Tonk Rd",
+    "city": "Sidhi, Jaipur",
+    "postalCode": "302006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://babacarrental.site/",
+    "phone": "+919079942888",
+    "phoneUnformatted": "+919079942888",
+    "location": {
+      "lat": 26.8784302,
+      "lng": 75.7977456
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKyh-Qn-1bTkRejzefVFWv2U",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 96,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lovyqhS-8g7Q1g3GHvDVqQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=12.981663&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Baba%20Car%20Rental%20-%20self%20drive%20cars%20in%20jaipur%2C%20jaipur%20airport%20car%20rental%20car%20for%20rent%20or%20car%20on%20rent%20jaipur%20car%20rental&query_place_id=ChIJKyh-Qn-1bTkRejzefVFWv2U"
+  }
+]

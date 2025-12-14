@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Nandi tours and travels - Outstation cabs in Bangalore",
+    "categoryName": "Car rental agency",
+    "address": "32jayachamarejendta odeyar nagara, asrya Badavane, Kodigehalli, Bengaluru, Karnataka 560091, India",
+    "neighborhood": "32jayachamarejendta odeyar nagara, asrya Badavane",
+    "city": "Kodigehalli, Bengaluru",
+    "postalCode": "560091",
+    "state": "Karnataka",
+    "countryCode": "IN",
+    "website": "https://nanditoursandtravels.com/",
+    "phone": "+919148966567",
+    "phoneUnformatted": "+919148966567",
+    "location": {
+      "lat": 12.978198,
+      "lng": 77.4736114
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWZIeUgE9rjsRa49zoer8MJg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 32,
+    "imagesCount": 90,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQFTeaVLp0AOqj2kf53ku8if0RBT7q2BsZMJ1Q=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Nandi%20tours%20and%20travels%20-%20Outstation%20cabs%20in%20Bangalore&query_place_id=ChIJWZIeUgE9rjsRa49zoer8MJg"
+  }
+]

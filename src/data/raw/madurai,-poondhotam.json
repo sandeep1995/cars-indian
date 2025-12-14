@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Madurai Speed Tours and Travels",
+    "categoryName": "Car rental agency",
+    "address": "No.210, 20, Petchi Amman Padithurai Rd, Madurai Main, Madurai, Poondhotam, Tamil Nadu 625001, India",
+    "neighborhood": "Madurai Main",
+    "street": "No.210, 20, Petchi Amman Padithurai Rd",
+    "city": "Madurai, Poondhotam",
+    "postalCode": "625001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.speedtoursandtravels.com/",
+    "phone": "+917010137457",
+    "phoneUnformatted": "+917010137457",
+    "location": {
+      "lat": 9.9255264,
+      "lng": 78.11654
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxd-Y5iXFADsRBW92YoRhoGQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 69,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMnOwyGo14_ZuzMrkRhS6TxIcnO25DTNFpFdi5e=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Madurai%20Speed%20Tours%20and%20Travels&query_place_id=ChIJxd-Y5iXFADsRBW92YoRhoGQ"
+  }
+]

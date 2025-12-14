@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Urgent Taxis",
+    "subTitle": "अर्जेंट टैक्सिस",
+    "categoryName": "Car leasing service",
+    "address": "Shop No. 09, S. R. Complex, Railway Station Road, Masuri, Ghaziabad, Masuri, Uttar Pradesh 201302, India",
+    "neighborhood": "Masuri",
+    "street": "Shop No. 09, S. R. Complex, Railway Station Road",
+    "city": "Ghaziabad, Masuri",
+    "postalCode": "201302",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://urgent-taxis.grexa.site/",
+    "phone": "+918595066033",
+    "phoneUnformatted": "+918595066033",
+    "location": {
+      "lat": 28.6904129,
+      "lng": 77.5444291
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjXGNP2_zDDkRbBymW6EFFE4",
+    "categories": [
+      "Car leasing service",
+      "Airport shuttle service",
+      "Bus charter",
+      "Taxi service",
+      "Chauffeur service",
+      "Limousine service",
+      "Minibus taxi service",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 69,
+    "imagesCount": 151,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzE3sY4hztLYdruUndKEOM35CxmXzvYGImLXi9Ddlv_WAeHeNXraRc1jUtjDcAqBJsUvmxosyQ5jQ0zzGWo38uQdz8uZrYKmb0-j6J2r-qahQ-D3Q8nKBGGGTj0JveOI4NhUHcX9w=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Urgent%20Taxis&query_place_id=ChIJjXGNP2_zDDkRbBymW6EFFE4"
+  }
+]

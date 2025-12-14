@@ -1,0 +1,62 @@
+[
+  {
+    "title": "FLY SMART TRAVEL",
+    "categoryName": "Car rental agency",
+    "address": "Makan Number 265, Gandhi Aashram Village Post, Papri Wali Gali, Tahsil, Bhamori, Sardhana, Uttar Pradesh 250342, India",
+    "neighborhood": "Tahsil",
+    "street": "Makan Number 265, Gandhi Aashram Village Post, Papri Wali Gali",
+    "city": "Bhamori, Sardhana",
+    "postalCode": "250342",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://flysmarttravel.in/",
+    "phone": "+918048789537",
+    "phoneUnformatted": "+918048789537",
+    "location": {
+      "lat": 29.1450941,
+      "lng": 77.6163339
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQAAALdrDDkR8s_1pEqZAgk",
+    "categories": [
+      "Car rental agency",
+      "Travel agency",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=FLY%20SMART%20TRAVEL&query_place_id=ChIJAQAAALdrDDkR8s_1pEqZAgk"
+  }
+]

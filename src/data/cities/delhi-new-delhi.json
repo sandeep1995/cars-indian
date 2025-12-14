@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Car Ki Deal, Naraina - Luxury Cars Dealer in Delhi, Preused Car dealer in Delhi.",
+    "subTitle": "कार की डील, नारायणा - लक्जरी कार्स डीलर इन दिल्ली, प्रीयूज्ड कार डीलर इन दिल्ली.",
+    "categoryName": "Car dealer",
+    "address": "CB-390, Ring Rd, Industrial Area Phase I, Block C, Naraina Village, Naraina, Delhi, New Delhi, Delhi 110028, India",
+    "neighborhood": "Industrial Area Phase I, Block C, Naraina Village, Naraina",
+    "street": "CB-390, Ring Rd",
+    "city": "Delhi, New Delhi",
+    "postalCode": "110028",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "website": "https://carkideal.com/",
+    "phone": "+919810185531",
+    "phoneUnformatted": "+919810185531",
+    "location": {
+      "lat": 28.6266241,
+      "lng": 77.1341384
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyW9zkYADDTkRJZtNdHzvcEo",
+    "categories": [
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 94,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMHWxzpbfeTcEn9RM3qEqwr9mQnSXPmWGVslSjR=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Ki%20Deal%2C%20Naraina%20-%20Luxury%20Cars%20Dealer%20in%20Delhi%2C%20Preused%20Car%20dealer%20in%20Delhi.&query_place_id=ChIJyW9zkYADDTkRJZtNdHzvcEo"
+  },
+  {
+    "title": "Gursehaj motors",
+    "subTitle": "गुरसहाज मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "petrol pump, G-72, C Block, Preet Vihar, Delhi, New Delhi, Delhi 110092, India",
+    "neighborhood": "C Block, Preet Vihar",
+    "street": "petrol pump, G-72",
+    "city": "Delhi, New Delhi",
+    "postalCode": "110092",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "website": "https://www.instagram.com/invites/contact/?i=j6e3gfxqwnos&utm_content=kd1usx1..",
+    "phone": "+919810733656",
+    "phoneUnformatted": "+919810733656",
+    "location": {
+      "lat": 28.639674,
+      "lng": 77.2939163
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVWHq_Nv7DDkRuYgMEvLF0vk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 20,
+    "imagesCount": 92,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 8 AM, 10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNuqmi9TISHYhICqSgo4-4G10voSQOoROb9Ju16=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Gursehaj%20motors&query_place_id=ChIJVWHq_Nv7DDkRuYgMEvLF0vk"
+  }
+]

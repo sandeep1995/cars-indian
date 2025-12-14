@@ -1,0 +1,34 @@
+[
+  {
+    "title": "VISHWAKARMA TRAVELS",
+    "subTitle": "विश्वकर्मा ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Vishwakarma Bhawan, near HAWAI JAHAJ BUILDING, Supela, Ram Nagar, Bhilai, Chhattisgarh 490023, India",
+    "neighborhood": "Supela",
+    "street": "Vishwakarma Bhawan, near HAWAI JAHAJ BUILDING",
+    "city": "Ram Nagar, Bhilai",
+    "postalCode": "490023",
+    "state": "Chhattisgarh",
+    "countryCode": "IN",
+    "phone": "+919111156114",
+    "phoneUnformatted": "+919111156114",
+    "location": {
+      "lat": 21.2129046,
+      "lng": 81.3566106
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJZ4tUqhEjKToRtofwZOAw4QA",
+    "categories": [
+      "Car rental agency",
+      "Motorcycle rental agency",
+      "Scooter rental service"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 12,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMA5lBoswiHytglQHLwY3QtizUXaqA3B8ADhyFt=w408-h285-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VISHWAKARMA%20TRAVELS&query_place_id=ChIJZ4tUqhEjKToRtofwZOAw4QA"
+  }
+]

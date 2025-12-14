@@ -1,0 +1,62 @@
+[
+  {
+    "title": "LEMON CAR RENTALS",
+    "subTitle": "লেমন কার রেন্টাল",
+    "categoryName": "Car rental agency",
+    "address": "The Gateway Hotel Em Bypass, Raj Market, Ruby MoreEastern Metropolitan, GM-17, Rajdanga Main Rd, behind Taj, Kasba, BypassKolkata, West Bengal 700107, India",
+    "neighborhood": "Sector G, Kasba",
+    "street": "The Gateway Hotel Em Bypass, Raj Market, Ruby MoreEastern Metropolitan, GM-17, Rajdanga Main Rd, behind Taj",
+    "city": "BypassKolkata, Kolkata",
+    "postalCode": "700107",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.lemoncarrentals.in/",
+    "phone": "+919051851000",
+    "phoneUnformatted": "+919051851000",
+    "location": {
+      "lat": 22.5092627,
+      "lng": 88.4002238
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0-hgjI9xAjoRzBacWPMlogM",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM1v-vuZGZDxbQtxskSHunAradkCRXaUJxof79E=w586-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=LEMON%20CAR%20RENTALS&query_place_id=ChIJ0-hgjI9xAjoRzBacWPMlogM"
+  }
+]

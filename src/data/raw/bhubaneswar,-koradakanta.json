@@ -1,0 +1,62 @@
+[
+  {
+    "title": "CAR BAAZAR",
+    "subTitle": "କାର ବାଜାର",
+    "categoryName": "Used car dealer",
+    "address": "Khata No.459/207, Plot No.131, Bypass, Bhubaneswar, Koradakanta, Odisha 751025, India",
+    "street": "Khata No.459/207, Plot No.131, Bypass",
+    "city": "Bhubaneswar, Koradakanta",
+    "postalCode": "751025",
+    "state": "Odisha",
+    "countryCode": "IN",
+    "website": "https://carbaazar.com/",
+    "phone": "+919090066677",
+    "phoneUnformatted": "+919090066677",
+    "location": {
+      "lat": 20.2856337,
+      "lng": 85.8733195
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm6ZTz2gLGToRUrnKkT5wlM0",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 909,
+    "imagesCount": 82,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzkj-yMa8I0YhePldlZ-PSGhIedU-6Eev1chqPadeiQD5fVVJ111Px5dacvlDQ_Bl2KPsEJxmM6BncPnOBnFSGJsp0bF2-joMWxT0AGvbt_AsHsX7mo1051KYWItej8r7DAnJvH=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CAR%20BAAZAR&query_place_id=ChIJm6ZTz2gLGToRUrnKkT5wlM0"
+  }
+]

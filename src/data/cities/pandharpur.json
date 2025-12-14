@@ -1,0 +1,117 @@
+[
+  {
+    "title": "FAMOUS DEVKAR MOTORS देवकर मोटर्स",
+    "categoryName": "Car dealer",
+    "address": "NEAR BHUVNESHWARI MANDIR,JUNA, Kasegaon Rd, Pandharpur, Maharashtra 413304, India",
+    "street": "NEAR BHUVNESHWARI MANDIR,JUNA, Kasegaon Rd",
+    "city": "Pandharpur",
+    "postalCode": "413304",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "location": {
+      "lat": 17.6516389,
+      "lng": 75.3297516
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKYFMu9AZxDsR-v_auepFihE",
+    "categories": [
+      "Car dealer",
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 67,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOTArzYeb9U3z4NrhEYMxJTc2w2cvKbTAMNsosl=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=FAMOUS%20DEVKAR%20MOTORS%20%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%95%E0%A4%B0%20%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%B8&query_place_id=ChIJKYFMu9AZxDsR-v_auepFihE"
+  },
+  {
+    "title": "Pandharpur Car Cab",
+    "subTitle": "पंढरपुर कार कैब",
+    "categoryName": "Car rental agency",
+    "address": "Gokul Nagar, Isbavi, Pandharpur, Maharashtra 413304, India",
+    "neighborhood": "Gokul Nagar, Isbavi",
+    "city": "Pandharpur",
+    "postalCode": "413304",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://mywebside.in/%E0%A4%AA%E0%A4%82%E0%A4%A2%E0%A4%B0%E0%A4%AA%E0%A5%82%E0%A4%B0-%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%85%E0%A4%AC-",
+    "phone": "+919169205050",
+    "phoneUnformatted": "+919169205050",
+    "location": {
+      "lat": 17.6802878,
+      "lng": 75.3152191
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy0Pz678XxDsR0YyqrcVBAaE",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 23,
+    "imagesCount": 72,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOkHozEkwRpjAbTjy4hlZDEXRbsBQC95NNe2kc1=w408-h297-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Pandharpur%20Car%20Cab&query_place_id=ChIJy0Pz678XxDsR0YyqrcVBAaE"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Noori Travels",
+    "subTitle": "నూరి ట్రావెల్స్",
+    "categoryName": "Car rental agency",
+    "address": "Pillar Number 250, 1st Floor, Noori Travels 6-10-1271/1/1/B, Survey No.29/2, Rajendra Nagar, Shivarampally Jagir, Hyderabad, Telangana 500052, India",
+    "neighborhood": "Rajendra Nagar, Chintalmet",
+    "street": "Pillar Number 250, 1st Floor, Noori Travels 6-10-1271/1/1/B, Survey No.29/2",
+    "city": "Shivarampally Jagir, Hyderabad",
+    "postalCode": "500052",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "http://www.nooritravels.com/",
+    "phone": "+914023323232",
+    "phoneUnformatted": "+914023323232",
+    "location": {
+      "lat": 17.3401145,
+      "lng": 78.424971
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOVVVlUSXyzsRXao_4sfgdi4",
+    "categories": [
+      "Car rental agency",
+      "Chauffeur service",
+      "Transportation escort service",
+      "Transportation service"
+    ],
+    "reviewsCount": 392,
+    "imagesCount": 98,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzys0Cjidos5MyWZRoPuV08ellfRAbnDu46yBVawzz0ElW1EG5mhf_Lqj1Bp8t2q9dW-jwtamWPNge8UDQAflGBAiTwO6IWTInG3ux2lMIacBpBOo4nUvsZEszrh50hcoNmmyn2=w540-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Noori%20Travels&query_place_id=ChIJOVVVlUSXyzsRXao_4sfgdi4"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Samy cars",
+    "subTitle": "சாமி கார்ஸ்",
+    "categoryName": "Car dealer",
+    "address": "Star luxury Villa, Rama Krishna Nagar, Madurai, Anbu Nagar, Tamil Nadu 625107, India",
+    "neighborhood": "Rama Krishna Nagar",
+    "street": "Star luxury Villa",
+    "city": "Madurai, Anbu Nagar",
+    "postalCode": "625107",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 9.9587302,
+      "lng": 78.1969444
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA7Pl753FADsRNnvihEbXRYM",
+    "categories": [
+      "Car dealer",
+      "Chauffeur service"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 45,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPCSOafxVmal3Fi4jgmVar0CF-7lxc1SbHaCqfJ=w408-h906-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Samy%20cars&query_place_id=ChIJA7Pl753FADsRNnvihEbXRYM"
+  }
+]

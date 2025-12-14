@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Nano Zone",
+    "subTitle": "நானோ மண்டலம்",
+    "categoryName": "Car stereo store",
+    "address": "3, Palayur Rd, Jayasimmapuram, Pappanaickenpalayam, Coimbatore, Tamil Nadu 641037, India",
+    "neighborhood": "Jayasimmapuram",
+    "street": "3, Palayur Rd",
+    "city": "Pappanaickenpalayam, Coimbatore",
+    "postalCode": "641037",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919944220119",
+    "phoneUnformatted": "+919944220119",
+    "location": {
+      "lat": 11.0186732,
+      "lng": 76.9865277
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJw95abkpYqDsR4c-gSe6sGLg",
+    "categories": [
+      "Car stereo store",
+      "Auto restoration service",
+      "Car accessories store",
+      "Car security system installer",
+      "Seat dealer"
+    ],
+    "reviewsCount": 575,
+    "imagesCount": 315,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzQe4WUwIZdu5bk2wmgyZmJjbQV8iZn4qG0tw1te0gNGMgVKCbp4-LnGjuxYeiRWEaqoeOW4P1xN4IQ_CzA9_JX342fgMVvbxneouO8nssYbyjhIgbHshxSMMLWzAOr9aR76sBmDA=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Nano%20Zone&query_place_id=ChIJw95abkpYqDsR4c-gSe6sGLg"
+  },
+  {
+    "title": "Sunstickers car accessories",
+    "subTitle": "சன் ஸ்டிக்கர்கள்",
+    "categoryName": "Car accessories store",
+    "address": "1188, AV Road, Pappanaickenpalayam, Coimbatore, Tamil Nadu 641037, India",
+    "street": "1188, AV Road",
+    "city": "Pappanaickenpalayam, Coimbatore",
+    "postalCode": "641037",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919244331393",
+    "phoneUnformatted": "+919244331393",
+    "location": {
+      "lat": 11.0188931,
+      "lng": 76.989275
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFVt3KUtYqDsR7fkXeC0s2RI",
+    "categories": [
+      "Car accessories store"
+    ],
+    "reviewsCount": 136,
+    "imagesCount": 121,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMGtaZwJ05nq8z0gk56Adx2ewKs2vsh2jY8kF0g=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sunstickers%20car%20accessories&query_place_id=ChIJFVt3KUtYqDsR7fkXeC0s2RI"
+  }
+]

@@ -1,0 +1,2715 @@
+[
+  {
+    "title": "Agarwal Travels",
+    "categoryName": "Car leasing service",
+    "address": "9, Brakathambal St, behind Taj Coromandel, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",
+    "neighborhood": "Tirumurthy Nagar, Nungambakkam",
+    "street": "9, Brakathambal St, behind Taj Coromandel",
+    "city": "Chennai",
+    "postalCode": "600034",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://agarwaltravelschennai.in/",
+    "phone": "+919840077650",
+    "phoneUnformatted": "+919840077650",
+    "location": {
+      "lat": 13.0585105,
+      "lng": 80.2465652
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJybxqxeRnUjoRaAh46AlRI6A",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 133,
+    "imagesCount": 49,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM3PvsmPoKMHSnEdXw5FlYBZdJKhi6b2y6Bh82x=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Agarwal%20Travels&query_place_id=ChIJybxqxeRnUjoRaAh46AlRI6A"
+  },
+  {
+    "title": "AVR Cars",
+    "subTitle": "அவர் கார்ஸ்",
+    "categoryName": "Car dealer",
+    "address": "old: 93, New: 46, 1, Ponnusamy St, Royapettah, Chennai, Tamil Nadu 600014, India",
+    "neighborhood": "Ganapathy Colony, Royapettah",
+    "street": "old: 93, New: 46, 1, Ponnusamy St",
+    "city": "Chennai",
+    "postalCode": "600014",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919962685000",
+    "phoneUnformatted": "+919962685000",
+    "location": {
+      "lat": 13.0521491,
+      "lng": 80.2610325
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM0G-2jtmUjoRPDw3QPTQHqw",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sAXDYuxjjyDLBYecELAR5Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=4.6591682&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=AVR%20Cars&query_place_id=ChIJM0G-2jtmUjoRPDw3QPTQHqw"
+  },
+  {
+    "title": "Bala Tourist Service",
+    "subTitle": "பாலா டூரிஸ்ட் சர்வீஸ்",
+    "categoryName": "Car rental agency",
+    "address": "88, MGR Salai, Kodambakkam High Rd, Nungambakkam, Chennai, Tamil Nadu 600034, India",
+    "neighborhood": "Tirumurthy Nagar, Nungambakkam",
+    "street": "88, MGR Salai, Kodambakkam High Rd",
+    "city": "Chennai",
+    "postalCode": "600034",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.bala.co.in/",
+    "phone": "+914442135555",
+    "phoneUnformatted": "+914442135555",
+    "location": {
+      "lat": 13.0529478,
+      "lng": 80.2424851
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvzsCh11mUjoRWThfvc_MVrs",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 245,
+    "imagesCount": 103,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxDGMLR62hA17aEFOY8CWWhHse9OVvalKi-myP6HftwH1WhDZ9iL3JZwXHWSmNRDtQD4tVegxh2we2TOjRFaKa5HUAJrBncDlJKaF6MKMclhbGLISkXXfwTG_FNoio0S0T054mJqA=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bala%20Tourist%20Service&query_place_id=ChIJvzsCh11mUjoRWThfvc_MVrs"
+  },
+  {
+    "title": "Boom Cars",
+    "categoryName": "Used car dealer",
+    "address": "7, Pattullos Rd, Anna Salai, Royapettah, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Anna Salai, Royapettah",
+    "street": "7, Pattullos Rd",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://boomcars.in/",
+    "phone": "+919941000003",
+    "phoneUnformatted": "+919941000003",
+    "location": {
+      "lat": 13.0610732,
+      "lng": 80.2626591
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH2SL9P9nUjoRxkjC4fs_Gto",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 80,
+    "imagesCount": 220,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzD3cd0-E9mqpVO6YefVdQAI1kUPcECI8KtRORl1tz_zFeICJnlKAzxuaT-zW9TInjmWu90dJfUpQtF8_Q_xbc8UPSxoqlcHxfn-4S8xNUsYLuO_yf51-vYARexbZ9xZl2vO3gCyA=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Boom%20Cars&query_place_id=ChIJH2SL9P9nUjoRxkjC4fs_Gto"
+  },
+  {
+    "title": "Brits cars",
+    "categoryName": "Car dealer",
+    "address": "340, Sri Kumaran Complex, Paper Mills Road, Bunder Garden, Perambur, Chennai, Tamil Nadu 600011, India",
+    "neighborhood": "Bunder Garden, Perambur",
+    "street": "340, Sri Kumaran Complex, Paper Mills Road",
+    "city": "Chennai",
+    "postalCode": "600011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919080509858",
+    "phoneUnformatted": "+919080509858",
+    "location": {
+      "lat": 13.1090838,
+      "lng": 80.2420247
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhbeRghdlUjoRSjiLEtJ3mKo",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U-ii7tSFQ0s0ao2MXGXE9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=98.3899&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Brits%20cars&query_place_id=ChIJhbeRghdlUjoRSjiLEtJ3mKo"
+  },
+  {
+    "title": "CAR GAALERY",
+    "subTitle": "கார் காலெரி",
+    "categoryName": "Used car dealer",
+    "address": "Sho no.G4, No.116, P.H Road,, Sastri Nagar, Egmore, Opposite to hotel Abu Sarovar Portico, next to SBI bank, Chennai, Tamil Nadu 600084, India",
+    "neighborhood": "Egmore",
+    "street": "Sho no.G4, No.116, P.H Road,, Sastri Nagar, Egmore, Opposite to hotel Abu Sarovar Portico, next to SBI bank",
+    "city": "Chennai",
+    "postalCode": "600084",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+914428365500",
+    "phoneUnformatted": "+914428365500",
+    "location": {
+      "lat": 13.0785769,
+      "lng": 80.2521781
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmZ_cAXVmUjoRm0rNQWtfP6A",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 40,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 3 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYxHhsH68rrJSV_U_O4OxVjjVwCrrbKzewztTT=w519-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CAR%20GAALERY&query_place_id=ChIJmZ_cAXVmUjoRm0rNQWtfP6A"
+  },
+  {
+    "title": "Car Rental|Luxury Car Rental",
+    "subTitle": "கார் ரெண்டல்|லுக்சுரி கார் ரெண்டல்",
+    "categoryName": "Car rental agency",
+    "address": "No:5/2, E Spur Tank Rd, Mukta Gardens, Chetpet, Chennai, Tamil Nadu 600031, India",
+    "neighborhood": "Mukta Gardens, Chetpet",
+    "street": "No:5/2, E Spur Tank Rd",
+    "city": "Chennai",
+    "postalCode": "600031",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 13.0735753,
+      "lng": 80.2526502
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlxBnXXhnUjoRGo8Sbf-araU",
+    "categories": [
+      "Car rental agency",
+      "Car dealer",
+      "Car leasing service",
+      "Chauffeur service",
+      "Race car dealer",
+      "Travel agency",
+      "Wedding planner",
+      "Wedding service"
+    ],
+    "reviewsCount": 23,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOx-4pS-fnQoJyWKV0UKWkSycj_L3iMxB08J6uk=w480-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Rental%7CLuxury%20Car%20Rental&query_place_id=ChIJlxBnXXhnUjoRGo8Sbf-araU"
+  },
+  {
+    "title": "Carriage Care",
+    "categoryName": "Car wash",
+    "address": "148, Brick Kiln Rd, TNHB Colony, Purasaiwakkam, Chennai, Tamil Nadu 600012, India",
+    "neighborhood": "TNHB Colony, Purasaiwakkam",
+    "street": "148, Brick Kiln Rd",
+    "city": "Chennai",
+    "postalCode": "600012",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://carriagecare.in/",
+    "phone": "+917550001056",
+    "phoneUnformatted": "+917550001056",
+    "location": {
+      "lat": 13.0946425,
+      "lng": 80.2509598
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbdEOyzllUjoRJZeJpntWjI4",
+    "categories": [
+      "Car wash",
+      "Auto painting",
+      "Auto repair shop",
+      "Car detailing service",
+      "Window tinting service"
+    ],
+    "reviewsCount": 112,
+    "imagesCount": 147,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPwCpXxG41e9Zdm99uyNKKLX5Pulxfl_jFVLDV5=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Carriage%20Care&query_place_id=ChIJbdEOyzllUjoRJZeJpntWjI4"
+  },
+  {
+    "title": "Cars Bucks",
+    "categoryName": "Car rental agency",
+    "address": "22, Baba Nagar, Venkatesapuram Colony, Kolathur, Chennai, Tamil Nadu 600023, India",
+    "neighborhood": "Baba Nagar, Venkatesapuram Colony, Kolathur",
+    "street": "22",
+    "city": "Chennai",
+    "postalCode": "600023",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.carsbucks.in/",
+    "phone": "+919710887348",
+    "phoneUnformatted": "+919710887348",
+    "location": {
+      "lat": 13.0966959,
+      "lng": 80.2401019
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6qqOmVkUjoRh8W3XbmamM0",
+    "categories": [
+      "Car rental agency",
+      "Bus charter",
+      "Bus tour agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 14,
+    "imagesCount": 38,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPVN48OWnWf-x3tlVrJLz7sNH7r-fmuzpiZMdoH=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cars%20Bucks&query_place_id=ChIJq6qqOmVkUjoRh8W3XbmamM0"
+  },
+  {
+    "title": "Carzpro",
+    "subTitle": "கார்ஸ்ப்ரோ",
+    "categoryName": "Car wash",
+    "address": "14, Whannels Rd, Egmore, Chennai, Tamil Nadu 600008, India",
+    "neighborhood": "Egmore",
+    "street": "14, Whannels Rd",
+    "city": "Chennai",
+    "postalCode": "600008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://carzprocarwash.lyzoo.co.in/",
+    "phone": "+919176177771",
+    "phoneUnformatted": "+919176177771",
+    "location": {
+      "lat": 13.077765,
+      "lng": 80.2635296
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ--wPzrxnUjoRmGw93YcHc4g",
+    "categories": [
+      "Car wash",
+      "Auto restoration service",
+      "Car dealer"
+    ],
+    "reviewsCount": 304,
+    "imagesCount": 77,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwsSD3iktC66DiaAwo4TcTj2gxaOuMBYG2yWM770y4MvB29vN7fmadYvuazLzQ6m5wtDZOFQhTo3C7vhiyFrZryxVyMbRM_jY5EhwyBlbw48RzpwhYjKtdkCmRC26GY2p_DnOTjYQ=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Carzpro&query_place_id=ChIJ--wPzrxnUjoRmGw93YcHc4g"
+  },
+  {
+    "title": "CETUS Automotives",
+    "categoryName": "Car accessories store",
+    "address": "Old No. 43, 34, Vaidyanathan St, opp. to Valluvar Kottam, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",
+    "neighborhood": "Tirumurthy Nagar, Nungambakkam",
+    "street": "Old No. 43, 34, Vaidyanathan St, opp. to Valluvar Kottam",
+    "city": "Chennai",
+    "postalCode": "600034",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://cetusautomotives.com/",
+    "phone": "+918148758138",
+    "phoneUnformatted": "+918148758138",
+    "location": {
+      "lat": 13.0546165,
+      "lng": 80.2438572
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQZw3y49nUjoRROMgKHtYTcc",
+    "categories": [
+      "Car accessories store"
+    ],
+    "reviewsCount": 192,
+    "imagesCount": 234,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 3 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO13Fe9NpXE_prBy23JqmNFVgAHSyvXlJh0Ys_U=w408-h543-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CETUS%20Automotives&query_place_id=ChIJQZw3y49nUjoRROMgKHtYTcc"
+  },
+  {
+    "title": "Chennai Used Cars",
+    "categoryName": "Used car dealer",
+    "address": "No 6 Second Beach Lane, Parrys Corner, Parrys, Chennai, 600104, India",
+    "neighborhood": "Parrys, George Town",
+    "street": "No 6 Second Beach Lane, Parrys Corner",
+    "city": "Chennai",
+    "postalCode": "600104",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 13.0870924,
+      "lng": 80.2875634
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo_9QC1JvUjoRdir2LmOihjc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "openingHours": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Chennai%20Used%20Cars&query_place_id=ChIJo_9QC1JvUjoRdir2LmOihjc"
+  },
+  {
+    "title": "Colourful Self Drive Cars",
+    "categoryName": "Car leasing service",
+    "address": "86/202, Solaiappan St, Sanjeevarayanpet, Washermanpet, Chennai, Tamil Nadu 600021, India",
+    "neighborhood": "Sanjeevarayanpet, Washermanpet",
+    "street": "86/202, Solaiappan St",
+    "city": "Chennai",
+    "postalCode": "600021",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://colourfulcars.com/",
+    "phone": "+919500000743",
+    "phoneUnformatted": "+919500000743",
+    "location": {
+      "lat": 13.1188033,
+      "lng": 80.2872326
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz0zWEdNvUjoRZRGklAZb03U",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 144,
+    "imagesCount": 41,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOoa3pu-Iq281c3230EDRtHPIzfPC1Y8XNz8H1a=w408-h510-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Colourful%20Self%20Drive%20Cars&query_place_id=ChIJz0zWEdNvUjoRZRGklAZb03U"
+  },
+  {
+    "title": "DG Luxury Premium Cars",
+    "categoryName": "Used car dealer",
+    "address": "NO:576, Anna Salai, Teynampet, Thiru Vi Ka Kudiyiruppu, Teynampet, Chennai, Tamil Nadu 600006, India",
+    "neighborhood": "Teynampet, Thiru Vi Ka Kudiyiruppu, Teynampet",
+    "street": "NO:576, Anna Salai",
+    "city": "Chennai",
+    "postalCode": "600006",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://dgluxurycars.com/",
+    "phone": "+917550045550",
+    "phoneUnformatted": "+917550045550",
+    "location": {
+      "lat": 13.0493205,
+      "lng": 80.2496388
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH2EHcQhnUjoRKBB5jptR4mA",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 69,
+    "imagesCount": 78,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxMAtPDzqrhp8NHuNaU6xFRBzZg37Z2fwwiiULsz3SrbzAaR6HFka60EWbLC2oqdz6RpsoOTNXI6EonV8kDxkp-z-30400_gANQ1iXVDLA9LpX2MEsEKPkOUtOK3io0291-I_TrVQ=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=DG%20Luxury%20Premium%20Cars&query_place_id=ChIJH2EHcQhnUjoRKBB5jptR4mA"
+  },
+  {
+    "title": "Elite Cars",
+    "categoryName": "Used car dealer",
+    "address": "37 b, Kumarappa St, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",
+    "neighborhood": "Tirumurthy Nagar, Nungambakkam",
+    "street": "37 b, Kumarappa St",
+    "city": "Chennai",
+    "postalCode": "600034",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917200123355",
+    "phoneUnformatted": "+917200123355",
+    "location": {
+      "lat": 13.0579502,
+      "lng": 80.2445417
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzThsG15mUjoRPhgLrMiZScs",
+    "categories": [
+      "Used car dealer",
+      "Exporter"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzKS_SFsS9BOkWBZaxI7PMa7aev3g1mCV26BCMI1dVXZ8izD6SndFdUofRSdM6gQzkh9EtMqwkHcuU3V2h_hRLOp8wpZdZMgXc6TLUR_LoGbOEQoDDUftci8qcwlkGuF5UT2e4w0g=w408-h282-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Elite%20Cars&query_place_id=ChIJzThsG15mUjoRPhgLrMiZScs"
+  },
+  {
+    "title": "Evershine Luxury Car Rentals",
+    "categoryName": "Car rental agency",
+    "address": "Dno; 128, Mubarak Plaza, Angappa Naicken St, near Canara Bank, Parrys, George Town, Chennai, Tamil Nadu 600001, India",
+    "neighborhood": "Parrys, George Town",
+    "street": "Dno; 128, Mubarak Plaza, Angappa Naicken St, near Canara Bank",
+    "city": "Chennai",
+    "postalCode": "600001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 13.0899677,
+      "lng": 80.2895303
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzcR0ak5vUjoRto4Mspja2CU",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yvaj630dTZ_pggbCgbV0dA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=241.95186&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Evershine%20Luxury%20Car%20Rentals&query_place_id=ChIJzcR0ak5vUjoRto4Mspja2CU"
+  },
+  {
+    "title": "Express Travel Corporate Services Pvt Ltd",
+    "categoryName": "Car rental agency",
+    "address": "No.21, New, Old 12, New Tank Street, Nungambakkam, Chennai, Tamil Nadu 600034, India",
+    "neighborhood": "Tirumurthy Nagar, Nungambakkam",
+    "street": "No.21, New, Old 12, New Tank Street",
+    "city": "Chennai",
+    "postalCode": "600034",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://etconline.in/",
+    "phone": "+919791111275",
+    "phoneUnformatted": "+919791111275",
+    "location": {
+      "lat": 13.0533228,
+      "lng": 80.2440168
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmXEw1UJmUjoRHDW1Ci-hkQg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Sightseeing tour agency",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 116,
+    "imagesCount": 89,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9X_KxRFVNPGt5QTt6xovhvG-Mr5-yOtT6Ywb6=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Express%20Travel%20Corporate%20Services%20Pvt%20Ltd&query_place_id=ChIJmXEw1UJmUjoRHDW1Ci-hkQg"
+  },
+  {
+    "title": "Fida Carz",
+    "subTitle": "பிடா கார்ஸ்",
+    "categoryName": "Car rental agency",
+    "address": "51, Raja Muthiah Rd, Periamet, Park Town, Chennai, Tamil Nadu 600003, India",
+    "neighborhood": "Periamet, Park Town",
+    "street": "51, Raja Muthiah Rd",
+    "city": "Chennai",
+    "postalCode": "600003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919003271724",
+    "phoneUnformatted": "+919003271724",
+    "location": {
+      "lat": 13.0831151,
+      "lng": 80.2703873
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD2Vs7_1lUjoRzLIlpFnI2y8",
+    "categories": [
+      "Car rental agency",
+      "Auto repair shop"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMIJsp0W7J4-nAC9rbnOFtnB90NZIaUEX7WilaH=w408-h258-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Fida%20Carz&query_place_id=ChIJD2Vs7_1lUjoRzLIlpFnI2y8"
+  },
+  {
+    "title": "Fly self driven cars",
+    "categoryName": "Car rental agency",
+    "address": "Spencer Plaza Mall, F 96, Phase 2, 1st floor, Anna Salai, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Anna Salai",
+    "street": "Spencer Plaza Mall, F 96, Phase 2, 1st floor",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://flyselfdrive.com/",
+    "phone": "+919331429331",
+    "phoneUnformatted": "+919331429331",
+    "location": {
+      "lat": 13.0613,
+      "lng": 80.2611
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf5VzLzBnUjoRHIeu4Eyii-A",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Guest house",
+      "Serviced apartment"
+    ],
+    "reviewsCount": 215,
+    "imagesCount": 35,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsNAnTdkw89pZcIcA4Te_a4J1gV6pXyPknNE_w=w408-h283-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Fly%20self%20driven%20cars&query_place_id=ChIJf5VzLzBnUjoRHIeu4Eyii-A"
+  },
+  {
+    "title": "Formula Motors",
+    "subTitle": "ஃபார்முலா மோட்டார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "Car House, NO: 133, V P RAMAN ROAD, Krishnapuram, Royapettah, Chennai, Tamil Nadu 600014, India",
+    "neighborhood": "Krishnapuram, Royapettah",
+    "street": "Car House, NO: 133, V P RAMAN ROAD",
+    "city": "Chennai",
+    "postalCode": "600014",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://formulamotors.in/",
+    "phone": "+919566206229",
+    "phoneUnformatted": "+919566206229",
+    "location": {
+      "lat": 13.0477167,
+      "lng": 80.2660585
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhTt1n0lnUjoRM1ZCf4f4U68",
+    "categories": [
+      "Used car dealer",
+      "Auto insurance agency"
+    ],
+    "reviewsCount": 44,
+    "imagesCount": 44,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy_XJ6efNsmfgUckcs2UldSRTEu9xt1zbBK27Q5FaAAC-8ZevJM7xy72BTeCMoXLvTGW8WTWiX0YTaqQtJhRIW0HnSX9KDTmWVvx2MXOLhVQvF3jUJ-JnljA5erMmrbNbEfpCEkXg=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Formula%20Motors&query_place_id=ChIJhTt1n0lnUjoRM1ZCf4f4U68"
+  },
+  {
+    "title": "GJG FLEET",
+    "categoryName": "Car rental agency",
+    "address": "No 2/16, 6th lane, East, Mada Kovil street, Pudumanaikuppam, Royapuram, Chennai, Tamil Nadu 600013, India",
+    "neighborhood": "Panaimarathotti, Pudumanaikuppam, Royapuram",
+    "street": "No 2/16, 6th lane, East, Mada Kovil street",
+    "city": "Chennai",
+    "postalCode": "600013",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917092226644",
+    "phoneUnformatted": "+917092226644",
+    "location": {
+      "lat": 13.1113604,
+      "lng": 80.2973292
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj8KYDVpvUjoRNhTINv4rwKI",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOcdHS7K7PH8N3ox0gf9rIn7Vce1WDsRVRHVC1O=w420-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=GJG%20FLEET&query_place_id=ChIJj8KYDVpvUjoRNhTINv4rwKI"
+  },
+  {
+    "title": "Hot wheels Madras",
+    "categoryName": "Used car dealer",
+    "address": "22, Moore St, Parry's Corner, George Town, Chennai, Tamil Nadu 600001, India",
+    "neighborhood": "Parry's Corner, George Town",
+    "street": "22, Moore St",
+    "city": "Chennai",
+    "postalCode": "600001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 13.0944821,
+      "lng": 80.2908899
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiW4RMQBvUjoRXnTXxw1htoE",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 3,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyzSnEErWcy1zdPQ0TrVEKGb_W88GIHKC8XXo3B8iEC14VGngAPdyFgQSUTrLH2UxYg8O66OaqqPB3JoVqPZTiqnoUxEBkLxFqBkkCY6rai0QqHXbURGdzho3PcTNICqN5Djy9Hyy3rmHk=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Hot%20wheels%20Madras&query_place_id=ChIJiW4RMQBvUjoRXnTXxw1htoE"
+  },
+  {
+    "title": "IRONZA CARS RENTAL/TRAVELS",
+    "categoryName": "Car rental agency",
+    "address": "noor hotel, 9/21, ananda vinayagar koil main street, Vasantha nagar, Chinna Chembarambakkam, Ayanavaram, Chennai, Tamil Nadu 600023, India",
+    "neighborhood": "Vasantha nagar, Chinna Chembarambakkam, Ayanavaram",
+    "street": "noor hotel, 9/21, ananda vinayagar koil main street",
+    "city": "Chennai",
+    "postalCode": "600023",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://ironzacar.netlify.app/",
+    "phone": "+919150424059",
+    "phoneUnformatted": "+919150424059",
+    "location": {
+      "lat": 13.0989901,
+      "lng": 80.2356577
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3fVRNzxlUjoRR_LCpzqdq70",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 168,
+    "imagesCount": 19,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdjKPBcgpn_dt6__kj4K6gew8zkEnkL3UKYr0=w408-h542-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=IRONZA%20CARS%20RENTAL%2FTRAVELS&query_place_id=ChIJ3fVRNzxlUjoRR_LCpzqdq70"
+  },
+  {
+    "title": "Jaguar VST Grandeur",
+    "subTitle": "ஜாகுவார் விஎஸ்டி கிரான்டியூர்",
+    "categoryName": "Jaguar dealer",
+    "address": "VST Emerald Tower, Jaguar Landrover Showroom, New, 237, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600006, India",
+    "neighborhood": "Express Estate, Thousand Lights",
+    "street": "VST Emerald Tower, Jaguar Landrover Showroom, New, 237, Anna Salai",
+    "city": "Chennai",
+    "postalCode": "600006",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://retailers.jaguar.in/vstgrandeur-chennai",
+    "phone": "+919600053000",
+    "phoneUnformatted": "+919600053000",
+    "location": {
+      "lat": 13.0585126,
+      "lng": 80.2590999
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBzb-dhNmUjoR1jOAbJolJDU",
+    "categories": [
+      "Jaguar dealer",
+      "Car dealer",
+      "Race car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 341,
+    "imagesCount": 246,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyQ0vJfNGLYuf70uTxlKPDgd4OXthLdJpzZKst4JbcNIPin6xfszwPc-P4T7Hhw2oxE9sJXFpLd_cP3G_APSvzPl71sv5zEOiDSgkyP2qlwqtJY7hyXHLNFcDUInM77k9GGQVT_=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jaguar%20VST%20Grandeur&query_place_id=ChIJBzb-dhNmUjoR1jOAbJolJDU"
+  },
+  {
+    "title": "Jee Luxury",
+    "categoryName": "Car dealer",
+    "address": "Whites Rd, Indira Garden, Royapettah, Chennai, Tamil Nadu 600014, India",
+    "neighborhood": "Indira Garden, Royapettah",
+    "street": "Whites Rd",
+    "city": "Chennai",
+    "postalCode": "600014",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919150777777",
+    "phoneUnformatted": "+919150777777",
+    "location": {
+      "lat": 13.0576655,
+      "lng": 80.2631947
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJe1IhP_RnUjoR9XNPh0QYFsY",
+    "categories": [
+      "Car dealer"
+    ],
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gYaxA2PTCuhmshi6vdPvGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=169.08353&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jee%20Luxury&query_place_id=ChIJe1IhP_RnUjoR9XNPh0QYFsY"
+  },
+  {
+    "title": "KE MOTORS - Used & Second Hand Car Dealer in Chennai",
+    "categoryName": "Used car dealer",
+    "address": "61/1, MPM STREET, Kakkanji Colony, PERAMBUR, Vyasarpadi, Chennai, Tamil Nadu 600011, India",
+    "neighborhood": "Kakkanji Colony, PERAMBUR, Vyasarpadi",
+    "street": "61/1, MPM STREET",
+    "city": "Chennai",
+    "postalCode": "600011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://kemotors.in/",
+    "phone": "+919500064654",
+    "phoneUnformatted": "+919500064654",
+    "location": {
+      "lat": 13.1152465,
+      "lng": 80.2478672
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqXV4xrtlUjoRNLK4d2Yz4Qs",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 26,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPbkFXKLZ0zrlvm1kRu6KVSN6M0UncXxgQcw8O0=w408-h466-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KE%20MOTORS%20-%20Used%20%26%20Second%20Hand%20Car%20Dealer%20in%20Chennai&query_place_id=ChIJqXV4xrtlUjoRNLK4d2Yz4Qs"
+  },
+  {
+    "title": "Kothari Cars - Self drive car Rentals in Chennai | Vintage Rolls-Royce for Events | Monthly Rental Cars | Airport Pick & Drop",
+    "categoryName": "Car rental agency",
+    "address": "4, Reliance Rice Mill St, Sowcarpet, Peddanaickenpet, George Town, Chennai, Tamil Nadu 600001, India",
+    "neighborhood": "Sowcarpet, Peddanaickenpet, George Town",
+    "street": "4, Reliance Rice Mill St",
+    "city": "Chennai",
+    "postalCode": "600001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://kotharicars.com/",
+    "phone": "+919444331981",
+    "phoneUnformatted": "+919444331981",
+    "location": {
+      "lat": 13.1001953,
+      "lng": 80.2752671
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI9uSwvVlUjoRVtCD-SjycyE",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 31,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwuZleK9t-EV07H-DAfy1cmQtHftmgnIoXIfc3OxxNQ7UadpSMA4NF692oI-puVYAXVETaZ08tKQ2tqdN-LBjoLxOKMSNNHSciBFfTl-XTMk-WYZdkW85t23g3Q-a_9v7vvw9djoS5FPADe=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kothari%20Cars%20-%20Self%20drive%20car%20Rentals%20in%20Chennai%20%7C%20Vintage%20Rolls-Royce%20for%20Events%20%7C%20Monthly%20Rental%20Cars%20%7C%20Airport%20Pick%20%26%20Drop&query_place_id=ChIJI9uSwvVlUjoRVtCD-SjycyE"
+  },
+  {
+    "title": "La Maison Citroen Nungambakkam (VTK Automobiles Pvt Ltd)",
+    "categoryName": "Car dealer",
+    "address": "OLD NO 179, NEW NO 8, Kodambakkam High Rd, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",
+    "neighborhood": "Tirumurthy Nagar, Nungambakkam",
+    "street": "OLD NO 179, NEW NO 8, Kodambakkam High Rd",
+    "city": "Chennai",
+    "postalCode": "600034",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://vtk-chennai.citroen.in/",
+    "phone": "+919500022916",
+    "phoneUnformatted": "+919500022916",
+    "location": {
+      "lat": 13.0536856,
+      "lng": 80.2484959
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP4mFx-5nUjoRNTTxDr6sAR8",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 476,
+    "imagesCount": 230,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxDh6m8ABpbbggxkTefd8mJLvL12v94zGBEwLFKHQAglHqskEI_yWaoa_0if56bXmKtxFlgUvl8sOSjRVnYnIHU12_jMHxg8AeTiT6uNAZ8LoGvBEzyGaNW6vhY87rUSf2nnsUk=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=La%20Maison%20Citroen%20Nungambakkam%20(VTK%20Automobiles%20Pvt%20Ltd)&query_place_id=ChIJP4mFx-5nUjoRNTTxDr6sAR8"
+  },
+  {
+    "title": "Land Rover Vst Grandeur",
+    "categoryName": "Land Rover dealer",
+    "address": "VST Emerald Tower, Jaguar Land Rover, New, 237, Anna Salai, Chennai, Tamil Nadu 600006, India",
+    "neighborhood": "Express Estate, Royapettah",
+    "street": "VST Emerald Tower, Jaguar Land Rover, New, 237, Anna Salai",
+    "city": "Chennai",
+    "postalCode": "600006",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://retailers.landrover.in/vstgrandeur-chennai",
+    "phone": "+919600053000",
+    "phoneUnformatted": "+919600053000",
+    "location": {
+      "lat": 13.0584599,
+      "lng": 80.259146
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxUWjAKpnUjoRqe5Icumewjc",
+    "categories": [
+      "Land Rover dealer",
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "imagesCount": 48,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMXI0CHVo4SsU7iuGl5_6Q_1i_FHX9xgesfmlCH=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Land%20Rover%20Vst%20Grandeur&query_place_id=ChIJxUWjAKpnUjoRqe5Icumewjc"
+  },
+  {
+    "title": "Link4uglobal",
+    "subTitle": "லிங்க்4உஃலோபல்",
+    "categoryName": "Car dealer",
+    "address": "Link4uglobal, Sanphon, opposite to Marina Beach, Chennai, Tamil Nadu 600005, India",
+    "neighborhood": "Marina Beach, Triplicane",
+    "street": "Link4uglobal, Sanphon, opposite to Marina Beach",
+    "city": "Chennai",
+    "postalCode": "600005",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://link4uglobal.co.in/",
+    "phone": "+918547759428",
+    "phoneUnformatted": "+918547759428",
+    "location": {
+      "lat": 13.0555796,
+      "lng": 80.2836996
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVVVVFZloUjoRngfI_1a5AwA",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 162,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwlBtmzpgo2u7zN0zFvaYvg7N26-luXfRIPNvpfpyWvA96OhCIv810E2RX5QyCBAqw39ImnGQLBQf6-33Afg61TtZl3pyIz-rdbR_D8g_kLFQGwtxx5k80i8KzwQRqKmUsU_ltY1w=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Link4uglobal&query_place_id=ChIJVVVVFZloUjoRngfI_1a5AwA"
+  },
+  {
+    "title": "madras car rental",
+    "subTitle": "மெட்ராஸ் கார் ரெண்டல்",
+    "categoryName": "Car rental agency",
+    "address": "first floor, Centre,#119, 129, Gopathy Narayana Rd, Gangai Karai Puram, T. Nagar, Chennai, Tamil Nadu 600006, India",
+    "neighborhood": "Gangai Karai Puram, T. Nagar",
+    "street": "first floor, Centre,#119, 129, Gopathy Narayana Rd",
+    "city": "Chennai",
+    "postalCode": "600006",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://madrascarrental.com/",
+    "phone": "+919884833207",
+    "phoneUnformatted": "+919884833207",
+    "location": {
+      "lat": 13.051551,
+      "lng": 80.2495688
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWSO5iBVnUjoRu2-eg6_N4c8",
+    "categories": [
+      "Car rental agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 37,
+    "imagesCount": 54,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOCaY82kGplx2d1JGfLsKuqmBlRLoMYEuIIPdmY=w408-h268-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=madras%20car%20rental&query_place_id=ChIJWSO5iBVnUjoRu2-eg6_N4c8"
+  },
+  {
+    "title": "Mercedes-Benz Titanium Motors",
+    "subTitle": "டைட்டானியம் மோட்டார்ஸ்",
+    "categoryName": "Mercedes-Benz dealer",
+    "address": "#199, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Anna Salai, Thousand Lights",
+    "street": "#199, Anna Salai",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.titaniummotors.mercedes-benz.co.in/",
+    "phone": "+918190810000",
+    "phoneUnformatted": "+918190810000",
+    "location": {
+      "lat": 13.0626395,
+      "lng": 80.2640056
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE6ycEhdmUjoRLlMDekT4hDY",
+    "categories": [
+      "Mercedes-Benz dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 299,
+    "imagesCount": 373,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 4 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzgqqC_5F1yKKK-Y8NPLQAb_lqUCtuE5CD4mzNfwmoab0q2JVrZkNAFJzi06Rlu0NKHWL6fCZxEBYPJnShaBpfDfA3-wtL7P9br4bGY-OJdY_qERCG-wrCmfLUwmJjCemnIazg2BQ=w408-h304-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mercedes-Benz%20Titanium%20Motors&query_place_id=ChIJE6ycEhdmUjoRLlMDekT4hDY"
+  },
+  {
+    "title": "Modern Beauty Cars",
+    "subTitle": "நவீன அழகு கார்கள்",
+    "categoryName": "Car accessories store",
+    "address": "Gate No, #96/197, Near Melody Theatre & Opposite Express Avenue, 8, Thiru. Vika. Rd, Royapettah, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Border Thottam, Padupakkam, Royapettah",
+    "street": "Gate No, #96/197, Near Melody Theatre & Opposite Express Avenue, 8, Thiru. Vika. Rd",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+914442636315",
+    "phoneUnformatted": "+914442636315",
+    "location": {
+      "lat": 13.05984,
+      "lng": 80.2657006
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT55JO2pmUjoRCArErkcuqfM",
+    "categories": [
+      "Car accessories store",
+      "Car wash"
+    ],
+    "reviewsCount": 67,
+    "imagesCount": 38,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwrPKkHIVT5MfG-t1XP6xyOWLRR6Wlo5Mcz2gWDNXnSNUZlk28K91i2iqYq0SbycJX1nOCKZ48tyXIKIyqn7iocJ54g6R31MKVVRU0b2xqCcIK24sz1_VgZiFLnioeATHv4ZGa3gw=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Beauty%20Cars&query_place_id=ChIJT55JO2pmUjoRCArErkcuqfM"
+  },
+  {
+    "title": "MRV Car Jewels",
+    "subTitle": "மர்வ் கார் ஜூவல்ஸ்",
+    "categoryName": "Car accessories store",
+    "address": "1,State Bank Street, Thiru. Vika. Rd, Anna Salai, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Anna Salai",
+    "street": "1,State Bank Street, Thiru. Vika. Rd",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917397432871",
+    "phoneUnformatted": "+917397432871",
+    "location": {
+      "lat": 13.062499,
+      "lng": 80.266726
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBQXmzBlmUjoRZ17ps6ZBaU0",
+    "categories": [
+      "Car accessories store"
+    ],
+    "reviewsCount": 74,
+    "imagesCount": 94,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 2 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyRixHqaJ-9Q4yt70vh2KOHksm9lBcMxmMS5bIEBtX9XnJIV2-hniRznHy0jBvUs890Nh_oaHYyEZxbttNHdi4_Laprfau7rxc-47hY85cR9WSaQXSTgRkm1FbaS5FgHHzZ6Dr1=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MRV%20Car%20Jewels&query_place_id=ChIJBQXmzBlmUjoRZ17ps6ZBaU0"
+  },
+  {
+    "title": "New Premium Cars",
+    "categoryName": "Used car dealer",
+    "address": "backside of, ETHIRAJ COLLEGE FOR WOMEN, 12 C, Kasturi Mansion, Dr.Victoria Crescent, P.V Cheriyan Rd, s College, Egmore, Chennai, Tamil Nadu 600008, India",
+    "neighborhood": "s College, Egmore",
+    "street": "backside of, ETHIRAJ COLLEGE FOR WOMEN, 12 C, Kasturi Mansion, Dr.Victoria Crescent, P.V Cheriyan Rd",
+    "city": "Chennai",
+    "postalCode": "600008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 13.063381,
+      "lng": 80.2568781
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE71ZyFBnUjoRtkq0lmQGmOc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwPDkI6vntPrfcNMZ9iCYlZlO11esklt8_Rjzf_gVZU63p6a7LLifwl_t8zPiApDM6cxs2dZuxUI_kRuk7Bfair_0g7Np5jCn4hcFAGcDqHVEMBjkfB3idt7iEkEUfLFKI0PLwjsuBYv-Vw=w408-h542-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20Premium%20Cars&query_place_id=ChIJE71ZyFBnUjoRtkq0lmQGmOc"
+  },
+  {
+    "title": "Ntts Mobility Solutions Pvt Ltd",
+    "categoryName": "Car rental agency",
+    "address": "5/2, E Spur Tank Rd, Mukta Gardens, Chetpet, Chennai, Tamil Nadu 600031, India",
+    "neighborhood": "Mukta Gardens, Chetpet",
+    "street": "5/2, E Spur Tank Rd",
+    "city": "Chennai",
+    "postalCode": "600031",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.newtrackindia.com/",
+    "phone": "+919543024365",
+    "phoneUnformatted": "+919543024365",
+    "location": {
+      "lat": 13.0735753,
+      "lng": 80.2526502
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtX4aGnNmUjoRw8GrqYEy6OA",
+    "categories": [
+      "Car rental agency",
+      "Transportation escort service"
+    ],
+    "reviewsCount": 258,
+    "imagesCount": 44,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNZTWLuY8YiZu5tEvOvINxMxYYtaTHDLzRbxfzs=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ntts%20Mobility%20Solutions%20Pvt%20Ltd&query_place_id=ChIJtX4aGnNmUjoRw8GrqYEy6OA"
+  },
+  {
+    "title": "Peacock Travels",
+    "categoryName": "Car rental agency",
+    "address": "Whannels Rd, near Albert Theatre, Ansari Estate, Egmore, Chennai, Tamil Nadu 600008, India",
+    "neighborhood": "Ansari Estate, Egmore",
+    "street": "Whannels Rd, near Albert Theatre",
+    "city": "Chennai",
+    "postalCode": "600008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.peacocktravels.in/",
+    "phone": "+919962808223",
+    "phoneUnformatted": "+919962808223",
+    "location": {
+      "lat": 13.0774443,
+      "lng": 80.2641077
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ41m_GR1nUjoRwLLe6tWPsQc",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 67,
+    "imagesCount": 40,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP6Ys0DGgnok4Rbhdh5ArA9PyKxbSJ9Dd6GHgYi=w408-h885-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Peacock%20Travels&query_place_id=ChIJ41m_GR1nUjoRwLLe6tWPsQc"
+  },
+  {
+    "title": "RentAnyCar.in",
+    "subTitle": "எப்போதும் மீன்",
+    "categoryName": "Car rental agency",
+    "address": "No 21, Purasaivakkam High Rd, Pennagaram, Purasaiwakkam, Chennai, Tamil Nadu 600084, India",
+    "neighborhood": "Pennagaram, Purasaiwakkam",
+    "street": "No 21, Purasaivakkam High Rd",
+    "city": "Chennai",
+    "postalCode": "600084",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917823922922",
+    "phoneUnformatted": "+917823922922",
+    "location": {
+      "lat": 13.0861725,
+      "lng": 80.2562268
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJraUfX3VmUjoRXzfdg0ToYPE",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iHtUP7mHuCulZnTF99iOLQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=180.0208&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=RentAnyCar.in&query_place_id=ChIJraUfX3VmUjoRXzfdg0ToYPE"
+  },
+  {
+    "title": "Route66 Cars - Luxury Pre Owned Used Premium Car Dealership",
+    "categoryName": "Car dealer",
+    "address": "769, Anna Salai, next to Spencer plaza Exit gate, opposite to Axis Bank, Anna Salai, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Anna Salai",
+    "street": "769, Anna Salai, next to Spencer plaza Exit gate, opposite to Axis Bank",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917419166666",
+    "phoneUnformatted": "+917419166666",
+    "location": {
+      "lat": 13.0606097,
+      "lng": 80.2609989
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMQZ_xYFnUjoRzYKceqNVJKM",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 374,
+    "imagesCount": 282,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 1:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxqaJHC85HEuYv4EV4JI8rfWpnNCL8fhanThwp90MunMIuSL_fFZXtaVGQi2eTrN2-qWkyvogwqJHcY6upwrCgz-3VgG8YiEHIURdG2HB2vhzpnXMLLmhqf_aPQmxGFB1uuhXU=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Route66%20Cars%20-%20Luxury%20Pre%20Owned%20Used%20Premium%20Car%20Dealership&query_place_id=ChIJMQZ_xYFnUjoRzYKceqNVJKM"
+  },
+  {
+    "title": "SMS Luxe Carz",
+    "categoryName": "Car leasing service",
+    "address": "18/24, Nattal Garden 2nd St, Lakshmipuram, Chinnaiyan Colony, Perambur, Chennai, Tamil Nadu 600011, India",
+    "neighborhood": "Lakshmipuram, Chinnaiyan Colony, Perambur",
+    "street": "18/24, Nattal Garden 2nd St",
+    "city": "Chennai",
+    "postalCode": "600011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919176718005",
+    "phoneUnformatted": "+919176718005",
+    "location": {
+      "lat": 13.114726,
+      "lng": 80.245207
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr528oqtlUjoRm-RCWWeBJhI",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 90,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNAHy1jUaD9_CCCyACqzf_44t_CUoqlnyuZB0EU=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SMS%20Luxe%20Carz&query_place_id=ChIJr528oqtlUjoRm-RCWWeBJhI"
+  },
+  {
+    "title": "SPR TRAVELL S PVT LTD",
+    "categoryName": "Car rental agency",
+    "address": "3, Paper Mills Road, Jagannathan Colony, Perambur, Chennai, Tamil Nadu 600011, India",
+    "neighborhood": "Jagannathan Colony, Perambur",
+    "street": "3, Paper Mills Road",
+    "city": "Chennai",
+    "postalCode": "600011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://mikivcard.com/spr-travels",
+    "phone": "+919047208374",
+    "phoneUnformatted": "+919047208374",
+    "location": {
+      "lat": 13.1087732,
+      "lng": 80.2417392
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjy2cLQxlUjoRRWhy9x3KdAk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Car wash",
+      "Driver's license office",
+      "Learner driver training area",
+      "Outdoor activity organiser",
+      "Sightseeing tour agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 35,
+    "imagesCount": 45,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO5Td-Z37bB60JGb-ppmypoWy7-5fkN7ulELqsT=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SPR%20TRAVELL%20S%20PVT%20LTD&query_place_id=ChIJjy2cLQxlUjoRRWhy9x3KdAk"
+  },
+  {
+    "title": "Sri Meenakshi Travels Chennai",
+    "categoryName": "Car rental agency",
+    "address": "No:19, 18th West Cross St, MKB Nagar, Mahakavi Bharathiyar Nagar West, Mahakavi Bharathi Nagar, Vyasarpadi, Chennai, Tamil Nadu 600039, India",
+    "neighborhood": "MKB Nagar, Mahakavi Bharathiyar Nagar West, Mahakavi Bharathi Nagar, Vyasarpadi",
+    "street": "No:19, 18th West Cross St",
+    "city": "Chennai",
+    "postalCode": "600039",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.srimeenakshitravels.in/",
+    "phone": "+918939752522",
+    "phoneUnformatted": "+918939752522",
+    "location": {
+      "lat": 13.1255584,
+      "lng": 80.2582177
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiS4-CaxlUjoR7nzBCLfc7qY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 48,
+    "imagesCount": 333,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOBNpwD3NSMsGnWeM6RFPOg-84dU_eZ2SIMD-oE=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Meenakshi%20Travels%20Chennai&query_place_id=ChIJiS4-CaxlUjoR7nzBCLfc7qY"
+  },
+  {
+    "title": "Star Car Accessories",
+    "subTitle": "ஸ்டார் கார் அக்சஸ்ஸோரிஸ்",
+    "categoryName": "Car accessories store",
+    "address": "G.P ROAD, 189/P5L, Royapettah High Rd, opp. to E Residency, Border Thottam, Padupakkam, Triplicane, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Border Thottam, Padupakkam, Triplicane",
+    "street": "G.P ROAD, 189/P5L, Royapettah High Rd, opp. to E Residency",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919884061182",
+    "phoneUnformatted": "+919884061182",
+    "location": {
+      "lat": 13.0601118,
+      "lng": 80.2660877
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4YcGXIlnUjoR8YUEvbw9Z9E",
+    "categories": [
+      "Car accessories store",
+      "Auto accessories wholesaler",
+      "Auto market"
+    ],
+    "reviewsCount": 63,
+    "imagesCount": 49,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSxMs8p8J180JPLQXisbwntR_dLqkEX0s3cmpVnwYILcvzSp9GG8yG6WDZTlV3PrsY_qBXICMaudxeS9-l4OKGiVpPAD8nUBlUbXGRlgMndjaNrVIE3SfshCGwIMMVc0dOz8fS=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20Car%20Accessories&query_place_id=ChIJ4YcGXIlnUjoR8YUEvbw9Z9E"
+  },
+  {
+    "title": "T S Mahalingam and Sons",
+    "subTitle": "டி.எஸ் மகாலிங்கம் அண்ட் சன்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "Old# 240, 130, Royapettah High Rd, Royapettah, Chennai, Tamil Nadu 600014, India",
+    "neighborhood": "Azad Nagar, Royapettah",
+    "street": "Old# 240, 130, Royapettah High Rd",
+    "city": "Chennai",
+    "postalCode": "600014",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://tsmcars.com/",
+    "phone": "+914428133333",
+    "phoneUnformatted": "+914428133333",
+    "location": {
+      "lat": 13.0489302,
+      "lng": 80.2647588
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFVFmYTtmUjoRGQV5hOkMCx4",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 734,
+    "imagesCount": 83,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 2 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxl4EDYqvD2k5gvDuuQ3TvDVctBxvL9uRYvgPmTDwZN5LDtB-bPCuAq0LCOCs4mZzC1RzZ4dxs5fAUF7lSgoUSheZYN45B9uGA8S8JQZaAeCpI7cQ_uyk9EwAlXW9UMnhy-kBqh8g=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=T%20S%20Mahalingam%20and%20Sons&query_place_id=ChIJFVFmYTtmUjoRGQV5hOkMCx4"
+  },
+  {
+    "title": "Tata Motors Cars Showroom - Tafe Access, Anna Salai",
+    "categoryName": "Car dealer",
+    "address": "No 803, Addisons Building, opposite LIC Building, Anna Salai, Chennai, Tamil Nadu 600002, India",
+    "neighborhood": "Anna Salai",
+    "street": "No 803, Addisons Building, opposite LIC Building",
+    "city": "Chennai",
+    "postalCode": "600002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-tafe-access-anna-salai-car-dealer-anna-salai-chennai-77074/Home?utm_source=locator&utm_medium=googleplaces",
+    "phone": "+917045214937",
+    "phoneUnformatted": "+917045214937",
+    "location": {
+      "lat": 13.0642152,
+      "lng": 80.2660636
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkXw-ExtmUjoRL-l1wa2NOMo",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1225,
+    "imagesCount": 395,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpm7WJ1E5jp0HfRRrEicM4n7iPSbM8Lu1vuXBU=w506-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tata%20Motors%20Cars%20Showroom%20-%20Tafe%20Access%2C%20Anna%20Salai&query_place_id=ChIJkXw-ExtmUjoRL-l1wa2NOMo"
+  },
+  {
+    "title": "Tempo Traveller Rental in Chennai - All Travels",
+    "categoryName": "Car leasing service",
+    "address": "Trichy china Samy St, Periyar Nagar, Gopal Colony, Perambur, Chennai, Tamil Nadu 600011, India",
+    "neighborhood": "Periyar Nagar, Gopal Colony, Perambur",
+    "street": "Trichy china Samy St",
+    "city": "Chennai",
+    "postalCode": "600011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://gunatravelschennai.in/",
+    "phone": "+919176197693",
+    "phoneUnformatted": "+919176197693",
+    "location": {
+      "lat": 13.1122713,
+      "lng": 80.2378842
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW3MS4EZlUjoRmVDR184Xpu0",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 135,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSVxhp2QB-V0Eb9thLRv6b_stlUCAWbX4ayPvKp6VgUrpGANyZyf0eQn66ghfrGCxxVl_gZkMYlcsakWc3GY4I1eZADiBo49blJw6LTzOs9qxbcAJPOXnreB1SWn1PFnNJuQI=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tempo%20Traveller%20Rental%20in%20Chennai%20-%20All%20Travels&query_place_id=ChIJW3MS4EZlUjoRmVDR184Xpu0"
+  },
+  {
+    "title": "The Torque",
+    "subTitle": "தி டார்க்",
+    "categoryName": "Car dealer",
+    "address": "861, Poonamallee High Rd, Kilpauk, Chennai, Tamil Nadu 600010, India",
+    "neighborhood": "Kilpauk",
+    "street": "861, Poonamallee High Rd",
+    "city": "Chennai",
+    "postalCode": "600010",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.thetorque.in/",
+    "phone": "+919940419999",
+    "phoneUnformatted": "+919940419999",
+    "location": {
+      "lat": 13.0785953,
+      "lng": 80.2479666
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz-GpCClkUjoRZIF7kjeoITg",
+    "categories": [
+      "Car dealer",
+      "Auto repair shop"
+    ],
+    "reviewsCount": 164,
+    "imagesCount": 91,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNiAZg21DYmEiNA9hrJOzZZytHckpXg1ap4Vf4J=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Torque&query_place_id=ChIJz-GpCClkUjoRZIF7kjeoITg"
+  },
+  {
+    "title": "THROTTLE BOX",
+    "categoryName": "Car finance and loan company",
+    "address": "4th Floor, Sire Mansion, #621, Anna Salai, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006, India",
+    "neighborhood": "Thousand Lights West, Thousand Lights",
+    "street": "4th Floor, Sire Mansion, #621, Anna Salai",
+    "city": "Chennai",
+    "postalCode": "600006",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://throttleboxindia.com/",
+    "phone": "+919444423608",
+    "phoneUnformatted": "+919444423608",
+    "location": {
+      "lat": 13.0546257,
+      "lng": 80.2525386
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR3ZK_8dnUjoRxb_n83ZpDys",
+    "categories": [
+      "Car finance and loan company"
+    ],
+    "reviewsCount": 59,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOZT1qHMvRrPtZW0jmFz9MrM7yD7ahK7OaiUKg7=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=THROTTLE%20BOX&query_place_id=ChIJR3ZK_8dnUjoRxb_n83ZpDys"
+  },
+  {
+    "title": "Z CARS WORLD",
+    "categoryName": "Used car dealer",
+    "address": "66/137, Dr Natesan Rd, Sudandira Nagar, Triplicane, Chennai, Tamil Nadu 600005, India",
+    "neighborhood": "Sudandira Nagar, Triplicane",
+    "street": "66/137, Dr Natesan Rd",
+    "city": "Chennai",
+    "postalCode": "600005",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 13.0494883,
+      "lng": 80.274518
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_SC2ZuBnUjoRTY1noo_A09s",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM-16RtpC8pINk0ssoT9d85QSx1pVMjnnbgz4J5=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Z%20CARS%20WORLD&query_place_id=ChIJ_SC2ZuBnUjoRTY1noo_A09s"
+  }
+]

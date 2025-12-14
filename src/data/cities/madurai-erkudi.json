@@ -1,0 +1,60 @@
+[
+  {
+    "title": "SELFIE CARS - SELF DRIVEN CAR RENTAL AGENCY",
+    "categoryName": "Car rental agency",
+    "address": "2,Theni Road, Kirudhumal Nagar St, behind VVM MAHAL, Virattipathu, Madurai, Tamil Nadu 625016, India",
+    "neighborhood": "Virattipathu, HMS Colony, Ponmeni",
+    "street": "2,Theni Road, Kirudhumal Nagar St, behind VVM MAHAL",
+    "city": "Madurai, Erkudi",
+    "postalCode": "625016",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919790441718",
+    "phoneUnformatted": "+919790441718",
+    "location": {
+      "lat": 9.9322007,
+      "lng": 78.0801059
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJx7qo9BXPADsRMJBH_km0Nfw",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 222,
+    "imagesCount": 31,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNWVZe2uRHcGWyueq58IvT5-9LkXOW0xkZhrlTv=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SELFIE%20CARS%20-%20SELF%20DRIVEN%20CAR%20RENTAL%20AGENCY&query_place_id=ChIJx7qo9BXPADsRMJBH_km0Nfw"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Journey Pro - Car Rental Kolkata",
+    "subTitle": "জার্নি প্রো - কার রেন্টাল কলকাতা",
+    "categoryName": "Car rental agency",
+    "address": "4 A, beleghata, Ram Mohan Mullick Garden Ln, Beleghata, Lani, Kolkata, West Bengal 700010, India",
+    "neighborhood": "Subhas Sarobar Park, Phool Bagan, Beleghata",
+    "street": "4 A, beleghata, Ram Mohan Mullick Garden Ln",
+    "city": "Lani, Kolkata",
+    "postalCode": "700010",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://journey-pro-best-car.grexa.site/",
+    "phone": "+919883134280",
+    "phoneUnformatted": "+919883134280",
+    "location": {
+      "lat": 22.5657384,
+      "lng": 88.4061721
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP7svmPB1AjoRJ0OXa64M6qM",
+    "categories": [
+      "Car rental agency",
+      "Airline ticket agency",
+      "Bus ticket agency",
+      "Car leasing service",
+      "Train ticket agency"
+    ],
+    "reviewsCount": 50,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPO8OMOdUtkBcXjGkSqX4OpNeNG8Enh7XhRieOH=w408-h422-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Journey%20Pro%20-%20Car%20Rental%20Kolkata&query_place_id=ChIJP7svmPB1AjoRJ0OXa64M6qM"
+  }
+]

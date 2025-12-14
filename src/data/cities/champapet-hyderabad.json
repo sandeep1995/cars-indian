@@ -1,0 +1,64 @@
+[
+  {
+    "title": "SN Car Decors",
+    "subTitle": "ఎస్ ఎన్ కార్ డేకర్స్",
+    "categoryName": "Car accessories store",
+    "address": "17-1-382/K/2, opposite Amaravathi Bar, Champapet, Telangana 500079, India",
+    "neighborhood": "Vishnupuri Colony, APSRTC Officers Colony",
+    "street": "17-1-382/K/2, opposite Amaravathi Bar",
+    "city": "Champapet, Hyderabad",
+    "postalCode": "500079",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+919849120879",
+    "phoneUnformatted": "+919849120879",
+    "location": {
+      "lat": 17.3452021,
+      "lng": 78.5246366
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcY9ab-SZyzsRNQcvaVVE5c4",
+    "categories": [
+      "Car accessories store",
+      "Auto accessories wholesaler",
+      "Auto dent removal service",
+      "Auto painting"
+    ],
+    "reviewsCount": 532,
+    "imagesCount": 76,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPfBOrbsxVihtT6Eh8EyTiZvGNUPLcunCynUEZ7=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SN%20Car%20Decors&query_place_id=ChIJcY9ab-SZyzsRNQcvaVVE5c4"
+  }
+]

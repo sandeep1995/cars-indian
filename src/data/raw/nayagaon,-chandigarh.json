@@ -1,0 +1,58 @@
+[
+  {
+    "title": "D.S.AUTO DEALS",
+    "categoryName": "Used car dealer",
+    "address": "Shop no.1403, near Jugnu hotel, near bsnl tower, Adarsh Nagar, Nayagaon, Chandigarh, Punjab 160012, India",
+    "neighborhood": "Adarsh Nagar",
+    "street": "Shop no.1403, near Jugnu hotel, near bsnl tower",
+    "city": "Nayagaon, Chandigarh",
+    "postalCode": "160012",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "location": {
+      "lat": 30.7693284,
+      "lng": 76.7907678
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl4YDX6zzDzkROz65eBU4SYc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 229,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPd3GS_l_6KpLU3D6BPMANRYa0LsdXlYowx7L2w=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=D.S.AUTO%20DEALS&query_place_id=ChIJl4YDX6zzDzkROz65eBU4SYc"
+  }
+]

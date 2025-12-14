@@ -1,0 +1,62 @@
+[
+  {
+    "title": "SPN Cabs Madurai",
+    "categoryName": "Car leasing service",
+    "address": "430, Anna Nagar Main Road, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020, India",
+    "neighborhood": "Anna Nagar",
+    "street": "430, Anna Nagar Main Road",
+    "city": "Sathamangalam, Madurai",
+    "postalCode": "625020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://spncarrentals.com/",
+    "phone": "+917373483483",
+    "phoneUnformatted": "+917373483483",
+    "location": {
+      "lat": 9.9207223,
+      "lng": 78.1464
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMcv8P6PFADsRXLzMNofcLX8",
+    "categories": [
+      "Car leasing service",
+      "Kitchen supply store"
+    ],
+    "reviewsCount": 112,
+    "imagesCount": 75,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMut1VSTMuaPLl56ad6QWOeA9Nf-7zuTexo3AmL=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SPN%20Cabs%20Madurai&query_place_id=ChIJMcv8P6PFADsRXLzMNofcLX8"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Luxury auto rental 6",
+    "subTitle": "लक्जरी ऑटो रेंटल 6",
+    "categoryName": "Car leasing service",
+    "address": "MULTI-LEVEL CAR PARKING, IGI Airport Area, Sector 38, New Delhi, Noida, Delhi 110037, India",
+    "neighborhood": "Sector 38",
+    "street": "MULTI-LEVEL CAR PARKING, IGI Airport Area",
+    "city": "New Delhi, Noida",
+    "postalCode": "110037",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.5646198,
+      "lng": 77.3300943
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4zY-5vvlDDkRnPJXWRAGjgo",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSznWpv-DI6e2SzrUsmvwYHmZb_SQetiYsMapH46jbneCLPezyDOAFlrZrpN-ooEsD8CZGcKCXlY3nZ-OsPU7UAqryipUS3PXX51C5i4uA_OimLRUx5TcjuU6iAaHWiPHK3mQgwAgBiPPlkK=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20auto%20rental%206&query_place_id=ChIJ4zY-5vvlDDkRnPJXWRAGjgo"
+  }
+]

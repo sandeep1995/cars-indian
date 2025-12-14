@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Faith Cord",
+    "subTitle": "फेथ कॉर्ड",
+    "categoryName": "Used car dealer",
+    "address": "CB390, Ring Rd, Block CB, Naraina Village, Naraina, New Delhi:, New Delhi, Delhi 110028, India",
+    "neighborhood": "Block CB, Naraina Village, Naraina",
+    "street": "CB390, Ring Rd",
+    "city": "New Delhi:, New Delhi",
+    "postalCode": "110028",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "website": "http://faithcord.com/",
+    "phone": "+919999123401",
+    "phoneUnformatted": "+919999123401",
+    "location": {
+      "lat": 28.627832,
+      "lng": 77.1333372
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsV7kiRwDDTkROLYjKiBZI20",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 34,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxk57wjIVeToOqrFlMbMLujNFAPHUeJxYkMf1FIxXr779fTL7gAkcYrd-E5laIQTn12rLHZ_AakrXpcdqE3dSJlMkrDeh3RaCMSpT2LrCLfTJKxxpMeoucgYR9SfSZr37iTCVPV=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Faith%20Cord&query_place_id=ChIJsV7kiRwDDTkROLYjKiBZI20"
+  }
+]

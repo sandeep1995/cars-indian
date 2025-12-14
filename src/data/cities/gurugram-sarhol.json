@@ -1,0 +1,400 @@
+[
+  {
+    "title": "Book Airport Cab",
+    "subTitle": "बुक एयरपोर्ट कैब",
+    "price": null,
+    "categoryName": "Taxi service",
+    "address": "Plot No-17, Phase-4, Maruti Udyog, Sector 18, Gurugram, Sarhol, Haryana 122015, India",
+    "neighborhood": "Phase-4, Maruti Udyog, Sector 18",
+    "street": "Plot No-17",
+    "city": "Gurugram, Sarhol",
+    "postalCode": "122015",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "https://bookairportcab.com/",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4911886,
+      "lng": 77.0771034
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzUh4a0EZDTkR8LsDAuQRWEo",
+    "categories": [
+      "Taxi service"
+    ],
+    "fid": "0x390d19416b7848cd:0x4a5811e40203bbf0",
+    "cid": "5357051427741219824",
+    "reviewsCount": 450,
+    "reviewsDistribution": {
+      "oneStar": 11,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 32,
+      "fiveStar": 406
+    },
+    "imagesCount": 51,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:04:50.937Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Book%20Airport%20Cab&query_place_id=ChIJzUh4a0EZDTkR8LsDAuQRWEo",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.4955808,77.0907467,15.81639840039528z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 24,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOc0ruv03CT5SVhvLk6vJlkFJHmzU5JG8qdvg6S=w408-h272-k-no",
+    "kgmid": "/g/11s9p3kb_g",
+    "domain": "bookairportcab.com",
+    "scrapedUrls": [
+      "https://bookairportcab.com/",
+      "https://bookairportcab.com/cityride",
+      "https://bookairportcab.com/hotel",
+      "https://bookairportcab.com/railway",
+      "https://bookairportcab.com/insurance"
+    ],
+    "depth": 0,
+    "emails": [
+      "Care@bookairportcab.com",
+      "care@bookairportcab.com",
+      "customersupport@tataaig.com"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "08046800969"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "snapchats": [],
+    "threads": [],
+    "telegrams": [],
+    "reddits": [],
+    "whatsapps": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Mahindra First Choice Superstore - Gurgaon",
+    "subTitle": "महिंद्रा फर्स्ट च्वाइस",
+    "price": null,
+    "categoryName": "Used car dealer",
+    "address": "Plot No. 8, M.G.Road, Near Gurgaon Central Mall, Gurugram, Haryana 122002, India",
+    "neighborhood": "DLF Phase 2, Sector 25",
+    "street": "Plot No. 8, M.G.Road, Near Gurgaon Central Mall",
+    "city": "Gurugram, Sarhol",
+    "postalCode": "122002",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "https://dealers.mahindrafirstchoice.com/prestige-autoworld-used-cars-m-g-road-gurgaon-2280/home",
+    "phone": "+91 78248 69309",
+    "phoneUnformatted": "+917824869309",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 28.4797021,
+      "lng": 77.0772897
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJi82b5xgZDTkR-sOQQt4DLwA",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Vehicle inspection service"
+    ],
+    "fid": "0x390d1918e79bcd8b:0x2f03de4290c3fa",
+    "cid": "13233577039807482",
+    "reviewsCount": 218,
+    "reviewsDistribution": {
+      "oneStar": 29,
+      "twoStar": 12,
+      "threeStar": 22,
+      "fourStar": 38,
+      "fiveStar": 117
+    },
+    "imagesCount": 69,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:04:17.634Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Used goods": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahindra%20First%20Choice%20Superstore%20-%20Gurgaon&query_place_id=ChIJi82b5xgZDTkR-sOQQt4DLwA",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.4863828,77.0531042,13.816524103695718z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 47,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyQG_ha185R_2PBxflGNAUDAyU9F6htqsvZBGahKrcaUMp0PY2KZoT4UiLmAj5kx-4TFZ5kgsyyoU9BlpH1Rtycxyo-ICaeJhnrQ5zQ1ZgFMI9rp4LPOmWwFmhDoohILp1IBrvMtg=w408-h272-k-no",
+    "kgmid": "/g/1tgnkgbt",
+    "domain": "mahindrafirstchoice.com",
+    "scrapedUrls": [
+      "https://dealers.mahindrafirstchoice.com/",
+      "https://www.mahindrafirstchoice.com/about-us?utm_source=Mahindra-First-Choice&utm_medium=store_locator&utm_content=footer",
+      "https://www.mahindrafirstchoice.com/careers?utm_source=Mahindra-First-Choice&utm_medium=store_locator&utm_content=footer",
+      "https://www.mahindrafirstchoice.com/contact-us?utm_source=Mahindra-First-Choice&utm_medium=store_locator&utm_content=footer",
+      "https://www.mahindrafirstchoice.com/press-release?utm_source=Mahindra-First-Choice&utm_medium=store_locator&utm_content=footer"
+    ],
+    "depth": 0,
+    "emails": [
+      "help.mfcw@mahindra.com",
+      "grievances.mfcwl@mahindra.com"
+    ],
+    "phones": [
+      "0750 6701 248",
+      "0782 4869 313",
+      "0782 4869 327",
+      "0783 8283 539",
+      "0907 3990 303",
+      "0907 3990 306",
+      "0907 3990 309",
+      "0907 3990 311",
+      "0941 1761 376",
+      "0951 3482 748",
+      "0951 3882 111",
+      "0951 3882 112",
+      "0951 3882 182",
+      "0951 3882 929",
+      "0960 6045 082",
+      "0983 7010 365",
+      "0999 9230 175",
+      "9868259555",
+      "9930565555"
+    ],
+    "phonesUncertain": [
+      "0750 6701 248 10",
+      "0782 4869 313 10",
+      "0782 4869 327 09",
+      "0907 3990 303 10",
+      "0907 3990 306 09",
+      "0907 3990 309 10",
+      "0907 3990 311 08",
+      "0951 3882 112 10",
+      "0960 6045 082 10",
+      "0983 7010 365 09",
+      "0999 9230 175 10",
+      "1210020951",
+      "1221020941",
+      "1450010951",
+      "1761 376 10",
+      "2013010951",
+      "2447120951",
+      "2810010783",
+      "3482 748 10",
+      "3882 111 10",
+      "3882 182 10",
+      "3882 929 09",
+      "8283 539 10",
+      "9305 65555",
+      "993056555510",
+      "18002666006",
+      "40008324",
+      "993056555524"
+    ],
+    "linkedIns": [
+      "https://www.linkedin.com/company/mahindra-first-choice"
+    ],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/MahindraFirstChoiceWheels"
+    ],
+    "youtubes": [
+      "https://www.youtube.com/user/mfcwl"
+    ],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "snapchats": [],
+    "threads": [],
+    "telegrams": [],
+    "reddits": [],
+    "whatsapps": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Real Motorman Pvt. Ltd.",
+    "subTitle": "रियल मोटरमैन पीवीटी. एलटीडी.",
+    "price": null,
+    "categoryName": "Used car dealer",
+    "address": "J2/43 (Lower Ground Floor) DLF City, DLF Phase 2, Gurugram, Haryana 122002, India",
+    "neighborhood": "Heritage City, DLF Phase 2, Sector 25",
+    "street": "J2/43 (Lower Ground Floor) DLF City",
+    "city": "Gurugram, Sarhol",
+    "postalCode": "122002",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "phone": "+91 98110 29927",
+    "phoneUnformatted": "+919811029927",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.482901,
+      "lng": 77.086854
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVVVVxUQZDTkR4mm_9RUnqqc",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Motor vehicle dealer"
+    ],
+    "fid": "0x390d1944c5555555:0xa7aa2715f5bf69e2",
+    "cid": "12081511925645535714",
+    "reviewsCount": 199,
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:03:29.950Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 6:30 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Used goods": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Real%20Motorman%20Pvt.%20Ltd.&query_place_id=ChIJVVVVxUQZDTkR4mm_9RUnqqc",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.49151178033748,77.08348662219448,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYbZKDMjX3YBpU4b5Sxb18vYKWo3ahcucUdHpe=w424-h240-k-no",
+    "kgmid": "/g/1tg4v6vg",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  }
+]

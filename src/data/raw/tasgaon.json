@@ -1,0 +1,63 @@
+[
+  {
+    "title": "A V Tours and Travels",
+    "subTitle": "ए वि टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Galli No. 1, Sarswati Nagar, 18/82, Vasumbe Phata, Tasgaon, Maharashtra 416312, India",
+    "neighborhood": "Vasumbe Phata",
+    "street": "Galli No. 1, Sarswati Nagar, 18/82",
+    "city": "Tasgaon",
+    "postalCode": "416312",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919970040162",
+    "phoneUnformatted": "+919970040162",
+    "location": {
+      "lat": 17.0230135,
+      "lng": 74.6102659
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ61vRZc4_wTsRRw3cp-l2ZJY",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM2_ZpLZvPLsATOgXexaVI5fG_UY-ED82UDjPz3=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20V%20Tours%20and%20Travels&query_place_id=ChIJ61vRZc4_wTsRRw3cp-l2ZJY"
+  }
+]

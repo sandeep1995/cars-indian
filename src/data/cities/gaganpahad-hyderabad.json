@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Car Emporio",
+    "categoryName": "Used car dealer",
+    "address": "7-2-160, NH 44, Gaganpahad, Hyderabad, Telangana 500052, India",
+    "street": "7-2-160, NH 44",
+    "city": "Gaganpahad, Hyderabad",
+    "postalCode": "500052",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "location": {
+      "lat": 17.2989038,
+      "lng": 78.4186212
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIxHfTWiZyzsREv0XFEeVcfg",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 90,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSydgULPgVktlo7w5Y71Gphz6AOlvL0bBoTgrwrvL2mVcD2yYMOEFb7vEKk6P9JL1-XdO6oUzX9pRvJ6ecmXWrKjHRTYQwfIm4kWBJCYR9Z4hrqhDhJYxgpBzH8NC8znBxE2oFDO=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Emporio&query_place_id=ChIJIxHfTWiZyzsREv0XFEeVcfg"
+  },
+  {
+    "title": "SUNDER TRAVELS",
+    "categoryName": "Car rental agency",
+    "address": "H.7, Plot No.46,Shop No:1, behind Diamond kanta N, Gaganpahad, Hyderabad, Telangana 500052, India",
+    "neighborhood": "Umda Nagar",
+    "street": "H.7, Plot No.46,Shop No:1, behind Diamond kanta N",
+    "city": "Gaganpahad, Hyderabad",
+    "postalCode": "500052",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "https://sundertravelscabservice.com/",
+    "phone": "+919989304150",
+    "phoneUnformatted": "+919989304150",
+    "location": {
+      "lat": 17.3028123,
+      "lng": 78.4189595
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8RHWVIDwg2QRPDaYSS-blKQ",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Van rental agency"
+    ],
+    "reviewsCount": 83,
+    "imagesCount": 46,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRfgA_ubChB6IkgwQuwXpwM5Z5xU3OizB-6fQ4=w408-h335-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SUNDER%20TRAVELS&query_place_id=ChIJ8RHWVIDwg2QRPDaYSS-blKQ"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Used Cars - Moradabad",
+    "subTitle": "यूज्ड कार्स - मुरादाबाद",
+    "categoryName": "Used car dealer",
+    "address": "Rampur Rd, opposite Prem Wonder Land, Dalpatpur, Moradabad, Uttar Pradesh 244001, India",
+    "street": "Rampur Rd, opposite Prem Wonder Land",
+    "city": "Dalpatpur, Moradabad",
+    "postalCode": "244001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://dealers.mahindrafirstchoice.com/rn-motors-moradabad-used-cars-dalpatpur-moradabad-32834/home",
+    "phone": "+919837010365",
+    "phoneUnformatted": "+919837010365",
+    "location": {
+      "lat": 28.8350809,
+      "lng": 78.8195673
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMfjVHUb7CjkRhMphAMoGxQw",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Vehicle inspection service"
+    ],
+    "reviewsCount": 20,
+    "imagesCount": 31,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPAP6zhrktCJ4xESlyYxJBR2Hd3z7a2Ew1qnjnB=w408-h271-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Used%20Cars%20-%20Moradabad&query_place_id=ChIJMfjVHUb7CjkRhMphAMoGxQw"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Decent Car Bazaar",
+    "subTitle": "डिसेंट कार बाज़ार",
+    "categoryName": "Used car dealer",
+    "address": "Ujjain - Indore Rd, Jaisinghpura, Ujjain, Sawara Khedi, Madhya Pradesh 456010, India",
+    "neighborhood": "Jaisinghpura",
+    "street": "Ujjain - Indore Rd",
+    "city": "Ujjain, Sawara Khedi",
+    "postalCode": "456010",
+    "state": "Madhya Pradesh",
+    "countryCode": "IN",
+    "phone": "+919826524513",
+    "phoneUnformatted": "+919826524513",
+    "location": {
+      "lat": 23.1691216,
+      "lng": 75.7735863
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb0iKSkV0YzkRd7kN0MGtuSY",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 30,
+    "imagesCount": 76,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxo-G2bzXEBMrfhI2nVgpSlOA3KKjt96W7eLx3tZCbYWZYz1ZEDeuX3KpV78J7mvxL7Pa9YedpIm2iGBRjl2kmTgWcEkrQgwQPhTXgu2UfRHQFlreINnLUpT6bNjd7737jrrnUD9Q=w576-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Decent%20Car%20Bazaar&query_place_id=ChIJb0iKSkV0YzkRd7kN0MGtuSY"
+  },
+  {
+    "title": "Tanishka Travels ujjain taxi service",
+    "subTitle": "तनिष्का ट्रैवल्स उज्जैन टैक्सी सर्विस",
+    "categoryName": "Car leasing service",
+    "address": "Hotel maharaja, Indore Rd, opposite hotel mittal avenue, Shivalay Twp, Ujjain, Sawara Khedi, Madhya Pradesh 456010, India",
+    "neighborhood": "Shivalay Township",
+    "street": "Hotel maharaja, Indore Rd, opposite hotel mittal avenue",
+    "city": "Ujjain, Sawara Khedi",
+    "postalCode": "456010",
+    "state": "Madhya Pradesh",
+    "countryCode": "IN",
+    "website": "https://taxiserviceujjain.in/",
+    "phone": "+919752078431",
+    "phoneUnformatted": "+919752078431",
+    "location": {
+      "lat": 23.1603886,
+      "lng": 75.7799623
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtQPG3aF1YzkREo7rfQ-AyRQ",
+    "categories": [
+      "Car leasing service",
+      "Bus tour agency",
+      "Taxi service",
+      "Hotel",
+      "Minibus taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 434,
+    "imagesCount": 302,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSww2xHApn2t_p7QLluVbq3RyGiDvU_QjPCcANHzMKW2buw9L0RknmFw358r08wl1RasOUgQ5i3DXaMV1zKBixe8hq0TcpLjrko2Ca6oNfYjnFMWZj7uK9uUecBHBrTECEwh_5x2VQ=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tanishka%20Travels%20ujjain%20taxi%20service&query_place_id=ChIJtQPG3aF1YzkREo7rfQ-AyRQ"
+  }
+]

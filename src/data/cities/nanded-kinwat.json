@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Kinwat Har Har Mahadev tours travels",
+    "categoryName": "Car rental agency",
+    "address": "Bhokar - Kinwat Rd, rod, Nanded, Kinwat, Maharashtra 431811, India",
+    "neighborhood": "rod",
+    "street": "Bhokar - Kinwat Rd",
+    "city": "Nanded, Kinwat",
+    "postalCode": "431811",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918805457445",
+    "phoneUnformatted": "+918805457445",
+    "location": {
+      "lat": 19.5783959,
+      "lng": 78.2140926
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuXfwfBw_0jsR7sSd_D65g1U",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 24,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP7SndBnQP989raw_3pEfZNAZYjl1w_zyGbK8Y=w408-h964-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kinwat%20Har%20Har%20Mahadev%20tours%20travels&query_place_id=ChIJuXfwfBw_0jsR7sSd_D65g1U"
+  }
+]

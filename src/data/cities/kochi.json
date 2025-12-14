@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Alainder Luxury car rental",
+    "categoryName": "Car rental agency",
+    "address": "262G+QC2, Puthuvype, Kochi, Kerala 682508, India",
+    "neighborhood": "Puthuvype",
+    "street": "262G+QC2",
+    "city": "Kochi",
+    "postalCode": "682508",
+    "state": "Kerala",
+    "countryCode": "IN",
+    "location": {
+      "lat": 10.0018986,
+      "lng": 76.2260169
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk-tTkuISCDsRJ6xR2CNPn6M",
+    "categories": [
+      "Car rental agency"
+    ],
+    "openingHours": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alainder%20Luxury%20car%20rental&query_place_id=ChIJk-tTkuISCDsRJ6xR2CNPn6M"
+  },
+  {
+    "title": "Fiyas Rent A Car",
+    "categoryName": "Car rental agency",
+    "address": "2/660,PUNTHURUTHY BAVA ROAD, Kunnumpuram Rd, Fort Kochi, Kochi, Kerala 682001, India",
+    "neighborhood": "Kunnumupuram, Fort Kochi",
+    "street": "2/660,PUNTHURUTHY BAVA ROAD, Kunnumpuram Rd",
+    "city": "Kochi",
+    "postalCode": "682001",
+    "state": "Kerala",
+    "countryCode": "IN",
+    "phone": "+919037191659",
+    "phoneUnformatted": "+919037191659",
+    "location": {
+      "lat": 9.9647626,
+      "lng": 76.247117
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr_GJqXVtCDsRzMcqBksh-48",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 145,
+    "imagesCount": 36,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 3 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPzw0esmKR7uCRZid2Hp1bfFYPSe17wWqLogeRK=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Fiyas%20Rent%20A%20Car&query_place_id=ChIJr_GJqXVtCDsRzMcqBksh-48"
+  }
+]

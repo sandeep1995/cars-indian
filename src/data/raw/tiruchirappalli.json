@@ -1,0 +1,4109 @@
+[
+  {
+    "title": "5k Car Care",
+    "categoryName": "Car wash",
+    "address": "5k car care, No. 8/1 G, Land Mark - Ezham Suvai Restaurant, Major Saravanan Rd, Cantonment, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Cantonment",
+    "street": "5k car care, No. 8/1 G, Land Mark - Ezham Suvai Restaurant, Major Saravanan Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.5kcarcare.com/trichy-collector-office/index.html",
+    "phone": "+919150058595",
+    "phoneUnformatted": "+919150058595",
+    "location": {
+      "lat": 10.8016397,
+      "lng": 78.6749719
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj7CUssb1qjsRaZBTlHbvUzk",
+    "categories": [
+      "Car wash",
+      "Auto repair shop",
+      "Auto restoration service",
+      "Chauffeur service",
+      "Wheel alignment service"
+    ],
+    "reviewsCount": 225,
+    "imagesCount": 208,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxGcZJDuDsbHM9tXJq4cmIqzBP4cTCVxgVu-XrRlDllP9HockLopdJKGlOxmZ9-q3urQXkvFDWyZo6GT7lcPWg4o2Khp-PwUFdmB3mIMEHCmViuhrOrAdcPGQ-yxiPUsJTSIbbEOQ=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=5k%20Car%20Care&query_place_id=ChIJj7CUssb1qjsRaZBTlHbvUzk"
+  },
+  {
+    "title": "A-Square Rental Cars Private limited",
+    "categoryName": "Car rental agency",
+    "address": "QM4X+HR, Tiruchirappalli, Tamil Nadu 620007, India",
+    "street": "QM4X+HR",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.asquarecars.com/",
+    "phone": "+918012778095",
+    "phoneUnformatted": "+918012778095",
+    "location": {
+      "lat": 10.7564252,
+      "lng": 78.6996506
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxyC7eWWLqjsRHrQ16n0yNss",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 31,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSFmAI3-GvsadKPGxzRzxzns2YUgapiWhCeOar3aSba7UzKDJPO775GU-PqOCSz3XDu1Bd-bhnIkasAZAelDFPTu4LkeX75qbFGRXO8-WZ224drBGDTcSZdMBkL5D9TRdnF66dG74kSbBh=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=A-Square%20Rental%20Cars%20Private%20limited&query_place_id=ChIJxyC7eWWLqjsRHrQ16n0yNss"
+  },
+  {
+    "title": "ABU CARS BUYING SELLING AND CONSULTING",
+    "subTitle": "அபு கார்ஸ் புயிங் செல்லிங் அண்ட் கன்சல்டிங்",
+    "categoryName": "Used car dealer",
+    "address": "Backside, 7m, Siva Automobiles, Hidayath Nagar, Anna Nagar, T.V.S Tolgate, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Hidayath Nagar, Anna Nagar, T.V.S Tolgate",
+    "street": "Backside, 7m, Siva Automobiles",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.abucars.net/",
+    "phone": "+919942468666",
+    "phoneUnformatted": "+919942468666",
+    "location": {
+      "lat": 10.8152003,
+      "lng": 78.6882274
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ01eXtp64qjsRBh0vrSPJ09g",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0tY4j5UzR_bQgG0riw9plg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=39.596577&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=ABU%20CARS%20BUYING%20SELLING%20AND%20CONSULTING&query_place_id=ChIJ01eXtp64qjsRBh0vrSPJ09g"
+  },
+  {
+    "title": "ABU USED CARS",
+    "subTitle": "அபு ஸ்ட் கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "5/4/1, Kannadhasan St, opposite Durga Residency, Hidayath Nagar, Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Hidayath Nagar, Anna Nagar, Tennur",
+    "street": "5/4/1, Kannadhasan St, opposite Durga Residency",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.abucars.net/",
+    "phone": "+919688868283",
+    "phoneUnformatted": "+919688868283",
+    "location": {
+      "lat": 10.8153511,
+      "lng": 78.6914161
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgRvBJd_0qjsRDWZgBheynCE",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 20,
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOBbjpvCAQihtdDfDCfzB9eFrLj6db5lEhy57oL=w408-h244-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=ABU%20USED%20CARS&query_place_id=ChIJgRvBJd_0qjsRDWZgBheynCE"
+  },
+  {
+    "title": "AGR TRAVELS",
+    "subTitle": "அகர் டிராவல்ஸ்",
+    "categoryName": "Car leasing service",
+    "address": "No.12, 2nd St, Sundar Nagar, Tiruchirappalli, Tamil Nadu 620021, India",
+    "neighborhood": "Sundar Nagar",
+    "street": "No.12, 2nd St",
+    "city": "Tiruchirappalli",
+    "postalCode": "620021",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919791157991",
+    "phoneUnformatted": "+919791157991",
+    "location": {
+      "lat": 10.7680759,
+      "lng": 78.6853105
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn5Zw0Aj1qjsR6OP3741W6Oo",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 29,
+    "imagesCount": 13,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMfmWcrpHhBPPBqbnCOiCbyYVptXFygdK3cOOa0=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=AGR%20TRAVELS&query_place_id=ChIJn5Zw0Aj1qjsR6OP3741W6Oo"
+  },
+  {
+    "title": "ALL NEW GENUINE CARS",
+    "subTitle": "ஆல் நியூ ஜெனூயின் கார்ஸ்",
+    "categoryName": "Car dealer",
+    "address": "RM8P+5MG, Sivapragasam salai, near nexa showroom, Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Anna Nagar, Tennur",
+    "street": "RM8P+5MG, Sivapragasam salai, near nexa showroom",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 10.8154261,
+      "lng": 78.6867182
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk6ApeUf1qjsRbdLUKYqOgG4",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 27,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy5uFKAPMA5yMErQCcsqE_6_HFenur2CIxx4Ajc6NL5syPu0Rh6ht5Xtfo7yL6sV-VCFrLSfaTBxex3ZX974gp5ei1E-3wTtRWj1WEmrXEYBgKYmPzL17XI-Kr21tpwLgp3rBKN=w408-h723-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=ALL%20NEW%20GENUINE%20CARS&query_place_id=ChIJk6ApeUf1qjsRbdLUKYqOgG4"
+  },
+  {
+    "title": "Abdullah Motors ( Used Car dealer & Second hand car dealer )",
+    "categoryName": "Used car dealer",
+    "address": "137/5, Bharathiar Salai, Bharathiyar Salai, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Bharathiyar Salai, Sangillyandapuram",
+    "street": "137/5, Bharathiar Salai",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917373961616",
+    "phoneUnformatted": "+917373961616",
+    "location": {
+      "lat": 10.79968,
+      "lng": 78.688034
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9x9u6gr1qjsR1a2e8oGc_w0",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 2 to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz2ARTvCoTPeJaBi9eoO0xjutEW4t_ygwYYtk5Im9xLgO7BM63R_YEN5SbLruLEXnjuqBmUx0cz05isxsy6apQy4xtFccrnAnSeR2Fq6p6uHOHgNWX26Ob6au1iCd3nzHzRC8xu1Q=w408-h307-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Abdullah%20Motors%20(%20Used%20Car%20dealer%20%26%20Second%20hand%20car%20dealer%20)&query_place_id=ChIJ9x9u6gr1qjsR1a2e8oGc_w0"
+  },
+  {
+    "title": "Aishwariyam Cars",
+    "categoryName": "Car leasing service",
+    "address": "Indian Bank Colony, K K Nagar, Tiruchirappalli, Tamil Nadu 620021, India",
+    "neighborhood": "Indian Bank Colony, K K Nagar",
+    "city": "Tiruchirappalli",
+    "postalCode": "620021",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+918111075725",
+    "phoneUnformatted": "+918111075725",
+    "location": {
+      "lat": 10.7734889,
+      "lng": 78.6850265
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3U3WqvX1qjsRUdJsjvrkKKU",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 100,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx297N9FA6424F7Sy6bpDQEdklD00DScSFxe9TRIILjBo1BUAHuWJkGVeAck6KdDjm-6zuVo3fBuNKTGD-j1G3T1-JhbPI1aozirgC0yJFrg7uApie6M3l7_Z-6xVdlSD01Das=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Aishwariyam%20Cars&query_place_id=ChIJ3U3WqvX1qjsRUdJsjvrkKKU"
+  },
+  {
+    "title": "Anjanaya Cars",
+    "categoryName": "Car dealer",
+    "address": "RM2P+4P9, Birds Rd, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Melapudur, Cantonment",
+    "street": "RM2P+4P9, Birds Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 10.8002935,
+      "lng": 78.6868545
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_53xNBH1qjsRMx9IIrCzQzM",
+    "categories": [
+      "Car dealer"
+    ],
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=igRE4pjRHjidbFy1YfULEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=288.32697&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Anjanaya%20Cars&query_place_id=ChIJ_53xNBH1qjsRMx9IIrCzQzM"
+  },
+  {
+    "title": "Ayappan tours and travels",
+    "categoryName": "Car rental agency",
+    "address": "D-11, 6th Cross Rd E, West Thillai Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "West Thillai Nagar, Tennur",
+    "street": "D-11, 6th Cross Rd E",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://ayappan-tours.grexa.site/",
+    "phone": "+919442258860",
+    "phoneUnformatted": "+919442258860",
+    "location": {
+      "lat": 10.8232929,
+      "lng": 78.6815654
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWayZNgD1qjsRL3MW4Vvg5qo",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Rental car return location",
+      "Taxi service"
+    ],
+    "reviewsCount": 67,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNGJsyOnxNc4pcGXTpls5jxCm1CNM0pLj-Db6Bu=w408-h908-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ayappan%20tours%20and%20travels&query_place_id=ChIJWayZNgD1qjsRL3MW4Vvg5qo"
+  },
+  {
+    "title": "Baghavan Cars-Used car dealer,Second hand car dealer",
+    "subTitle": "பகவன் கார்ஸ்-ஸ்ட் கார் டீலர்,செகண்ட் ஹேன்ட் கார் டீலர்",
+    "categoryName": "Used car dealer",
+    "address": "C-83, 4th Cross Rd E, Thillai Nagar East, West Thillai Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "Thillai Nagar East, West Thillai Nagar, Tennur",
+    "street": "C-83, 4th Cross Rd E",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842469999",
+    "phoneUnformatted": "+919842469999",
+    "location": {
+      "lat": 10.8244812,
+      "lng": 78.6850302
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjWWm_tf1qjsRtbt3_uj3Rho",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 17,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy6b4-zJti-3IX3CD6fnHsvEXPXDeceCNGyi2C0e8tTkBc4JMZZBga7G82l9jhEHK5nVVN6fLo-HLSfvTXlGB8SB4aY2LbhtCtUZfAWt-3ojcCoTwQyLJOD1qPSwyttiS7yMSyDMg=w493-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Baghavan%20Cars-Used%20car%20dealer%2CSecond%20hand%20car%20dealer&query_place_id=ChIJjWWm_tf1qjsRtbt3_uj3Rho"
+  },
+  {
+    "title": "Book India Vacations",
+    "categoryName": "Car leasing service",
+    "address": "No 10, 51 A, Kajakadai Line, Palakarai, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620008, India",
+    "neighborhood": "Palakarai, Sangillyandapuram",
+    "street": "No 10, 51 A, Kajakadai Line",
+    "city": "Tiruchirappalli",
+    "postalCode": "620008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.bookindiavacations.com/",
+    "phone": "+918144977442",
+    "phoneUnformatted": "+918144977442",
+    "location": {
+      "lat": 10.814262,
+      "lng": 78.6934257
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoTNis8D1qjsRK74BgxW6ALY",
+    "categories": [
+      "Car leasing service",
+      "Airline ticket agency",
+      "Travel agency",
+      "Train ticket office"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdglxsEDR9jnUGMaps4_G8RhxRsJVENbV-NLPO=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Book%20India%20Vacations&query_place_id=ChIJoTNis8D1qjsRK74BgxW6ALY"
+  },
+  {
+    "title": "Bright Car",
+    "subTitle": "பிரைட் கார் ஆலோசனை & நீர் சேவை",
+    "categoryName": "Car wash",
+    "address": "Maris Theatre Complex, 5-F, Kottai Station Road, opp. வசந்த் & கோ, near LA Cinemas, Tiruchirappalli, Tamil Nadu 620002, India",
+    "street": "Maris Theatre Complex, 5-F, Kottai Station Road, opp. வசந்த் & கோ, near LA Cinemas",
+    "city": "Tiruchirappalli",
+    "postalCode": "620002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919788812376",
+    "phoneUnformatted": "+919788812376",
+    "location": {
+      "lat": 10.8274974,
+      "lng": 78.6904409
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP8DjUKX1qjsRcuABRoO6Do4",
+    "categories": [
+      "Car wash",
+      "Car dealer"
+    ],
+    "reviewsCount": 104,
+    "imagesCount": 102,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwzOPHUk6NRvMSZPNahXWnj--mO1CCWZux1idFp8dmqk3ZexXgijcRv7elnqe8Y190Rx6Pgx7QnUG0y4ZoUGeqmD5WPW-TGEMbOcQ9IP50ccvuC_wx1_609mtlvEizXW8ocQo2d_o75kD1R=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bright%20Car&query_place_id=ChIJP8DjUKX1qjsRcuABRoO6Do4"
+  },
+  {
+    "title": "CMK TRAVELS/call taxi&cabs",
+    "categoryName": "Car leasing service",
+    "address": "27, Karikalan St, Fatima Nagar, Woraiyur, Tiruchirappalli, Tamil Nadu 620003, India",
+    "neighborhood": "Fatima Nagar, Woraiyur",
+    "street": "27, Karikalan St",
+    "city": "Tiruchirappalli",
+    "postalCode": "620003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://cmktravels.in/",
+    "phone": "+919176587875",
+    "phoneUnformatted": "+919176587875",
+    "location": {
+      "lat": 10.8285457,
+      "lng": 78.6678141
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn4Uq0sH1qjsR-bB8THiQDx4",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 98,
+    "imagesCount": 65,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMLIt03m4pc6mabas2tzeI9s3_TB0vxGAzQtFE9=w408-h709-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CMK%20TRAVELS%2Fcall%20taxi%26cabs&query_place_id=ChIJn4Uq0sH1qjsR-bB8THiQDx4"
+  },
+  {
+    "title": "Car concept Trichy",
+    "categoryName": "Car dealer",
+    "address": "Dhinaa's Michelin tyre (தினா'ஸ் டயர்ஸ் உழவர் சந்தை மைதானம், Uzhavar santhai (உழவர் சந்தை, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Anna Nagar, Tennur",
+    "street": "Dhinaa's Michelin tyre (தினா'ஸ் டயர்ஸ் உழவர் சந்தை மைதானம், Uzhavar santhai (உழவர் சந்தை",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842499603",
+    "phoneUnformatted": "+919842499603",
+    "location": {
+      "lat": 10.8135335,
+      "lng": 78.6844299
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ0M6xnj1qjsRxYGks6U6754",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyyLAgriai7QyVjvNRabpXbaITF7qTC6posl78h5xFREtya_Df-Y0IJr_vfvoC2l4wd7xL-KnfEVBjKjdg8OHJScGl5eyA0--bG6FHD27bIrxCqe9qk40rOzE_lgtxqh5rExkCN8lC2Ky1J=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20concept%20Trichy&query_place_id=ChIJQ0M6xnj1qjsRxYGks6U6754"
+  },
+  {
+    "title": "Cobra Cars",
+    "categoryName": "Car dealer",
+    "address": "No,12, Seshapuram, Tennur Vandi Stand, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Thillai Nagar East, Tennur",
+    "street": "No,12, Seshapuram, Tennur Vandi Stand",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919159155255",
+    "phoneUnformatted": "+919159155255",
+    "location": {
+      "lat": 10.8191376,
+      "lng": 78.6848601
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe0a7MEv1qjsRJHPZTu5Mk7I",
+    "categories": [
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGHL9Aj9j87BNHz7l-Ynb7E3wov9-Yp2IizDs=w532-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cobra%20Cars&query_place_id=ChIJe0a7MEv1qjsRJHPZTu5Mk7I"
+  },
+  {
+    "title": "Delta Tours and Travels - taxi service in trichy",
+    "categoryName": "Car rental agency",
+    "address": "3rd Floor, GP RAJA Tower, No.86/3, Madurai Rd, Tharanallur, Tiruchirappalli, Tamil Nadu 620008, India",
+    "neighborhood": "Tharanallur",
+    "street": "3rd Floor, GP RAJA Tower, No.86/3, Madurai Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://thedeltatravels.com/",
+    "phone": "+918940262025",
+    "phoneUnformatted": "+918940262025",
+    "location": {
+      "lat": 10.8196491,
+      "lng": 78.6929164
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP5jVBKP1qjsRtI58DtituIk",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Bus company",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency",
+      "Travel lounge",
+      "Van rental agency"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 5,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMO-F-QYmsa3vYGsvoVKrgRlYlQqaTfzoc7gvbF=w408-h407-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Delta%20Tours%20and%20Travels%20-%20taxi%20service%20in%20trichy&query_place_id=ChIJP5jVBKP1qjsRtI58DtituIk"
+  },
+  {
+    "title": "Elite Car wash & Grooming",
+    "categoryName": "Car wash",
+    "address": "5,, NMK Colony First Street Circuit House Colony, TVS Tolgate, Tiruchirappalli, Tamil Nadu 620020, India",
+    "neighborhood": "TVS Tolgate, Sangillyandapuram",
+    "street": "5,, NMK Colony First Street Circuit House Colony",
+    "city": "Tiruchirappalli",
+    "postalCode": "620020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://elitegrooming.nowfloats.com/",
+    "phone": "+918608665966",
+    "phoneUnformatted": "+918608665966",
+    "location": {
+      "lat": 10.7895762,
+      "lng": 78.6942245
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ94iGVe71qjsROZKbFUo6Ruc",
+    "categories": [
+      "Car wash",
+      "Auto upholsterer",
+      "Paint store",
+      "Wheel alignment service"
+    ],
+    "reviewsCount": 190,
+    "imagesCount": 182,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPMDDKHYHuKlYidaDqxdxmjt45I8UVMvq3LTWZ7=w408-h724-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Elite%20Car%20wash%20%26%20Grooming&query_place_id=ChIJ94iGVe71qjsROZKbFUo6Ruc"
+  },
+  {
+    "title": "GT Hyundai",
+    "categoryName": "Car dealer",
+    "address": "SF NO -95, 5B, Chennai - Trichy Hwy, near ABT Parcel Service, Sanjeevi Nagar, Tiruchirappalli, Tamil Nadu 620010, India",
+    "neighborhood": "Sanjeevi Nagar",
+    "street": "SF NO -95, 5B, Chennai - Trichy Hwy, near ABT Parcel Service",
+    "city": "Tiruchirappalli",
+    "postalCode": "620010",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://gt-hyundai-trichy.com/",
+    "phone": "+917971266271",
+    "phoneUnformatted": "+917971266271",
+    "location": {
+      "lat": 10.8309038,
+      "lng": 78.7133712
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY8aj97P1qjsRMu_Rb93UI34",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1160,
+    "imagesCount": 415,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzY86yrkDi9jEr4tisyehS75AwaGPr_mJyQsLYasSvBltxudSzjezxZTjdNZVecm4w9CBLCmJuHORBxTgYsh1ZaIkWy83YclsNI3LBrAOnfwODqSzGjXe_sy-B90j63I4QrOdbiUQ=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=GT%20Hyundai&query_place_id=ChIJY8aj97P1qjsRMu_Rb93UI34"
+  },
+  {
+    "title": "GVRS Travels - Call Taxi Trichy | Taxi Service in Trichy",
+    "categoryName": "Car rental agency",
+    "address": "K.S.Complex, 12B/4, Williams Rd, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Melapudur, Cantonment",
+    "street": "K.S.Complex, 12B/4, Williams Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://gvrstravels.com/",
+    "phone": "+917708184865",
+    "phoneUnformatted": "+917708184865",
+    "location": {
+      "lat": 10.8000406,
+      "lng": 78.6830703
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVXg1Fe71qjsRHqmCc5WRxSQ",
+    "categories": [
+      "Car rental agency",
+      "Airline ticket agency",
+      "Bus company",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour operator",
+      "Van rental agency"
+    ],
+    "reviewsCount": 102,
+    "imagesCount": 75,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNuDrR9OSHtmb8jk63F5FzPX6FR9s_7Lx25SK9I=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=GVRS%20Travels%20-%20Call%20Taxi%20Trichy%20%7C%20Taxi%20Service%20in%20Trichy&query_place_id=ChIJVXg1Fe71qjsRHqmCc5WRxSQ"
+  },
+  {
+    "title": "HI5 CARS",
+    "categoryName": "Used car dealer",
+    "address": "43w/a, Promenade Road, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Melapudur, Cantonment",
+    "street": "43w/a, Promenade Road",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://instagram.com/hi5carstrichy?igshid=YmMyMTA2M2Y=",
+    "phone": "+919787600005",
+    "phoneUnformatted": "+919787600005",
+    "location": {
+      "lat": 10.8028549,
+      "lng": 78.689019
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH6M6wU71qjsRj8FCeJpM-HA",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN3bvjKTfQdbVn0eJvmF80EKmO3-TOQQNd0Jus=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=HI5%20CARS&query_place_id=ChIJH6M6wU71qjsRj8FCeJpM-HA"
+  },
+  {
+    "title": "HYDRA - CAR CARE LUXURY",
+    "categoryName": "Car wash",
+    "address": "RS motors, sports and games campus, behind kamala nikketan school, Andal Nagar, Kallagadu, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Andal Nagar, Kallagadu",
+    "street": "RS motors, sports and games campus, behind kamala nikketan school",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+916385271297",
+    "phoneUnformatted": "+916385271297",
+    "location": {
+      "lat": 10.8036288,
+      "lng": 78.6698296
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJsRKa9V6LqjsRwf-KC5yb6gQ",
+    "categories": [
+      "Car wash",
+      "Auto body shop",
+      "Auto restoration service",
+      "Auto window tinting service",
+      "Home health care service"
+    ],
+    "reviewsCount": 38,
+    "imagesCount": 64,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPKPmD1XbewTm3T1KqQ4hEyi2xkn0KVTjbintHy=w408-h543-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=HYDRA%20-%20CAR%20CARE%20LUXURY&query_place_id=ChIJsRKa9V6LqjsRwf-KC5yb6gQ"
+  },
+  {
+    "title": "Indian Cars (QUALITY USED CAR BUYING AND SELLING)",
+    "subTitle": "இந்திய கார்ஸ் (குவாலிட்டி ஸ்ட் கார் புயிங் அண்ட் செல்லிங்)",
+    "categoryName": "Car dealer",
+    "address": "Anna Nagar Rd, Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Anna Nagar, Tennur",
+    "street": "Anna Nagar Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919789337547",
+    "phoneUnformatted": "+919789337547",
+    "location": {
+      "lat": 10.8152973,
+      "lng": 78.6876185
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj9ZCgXL1qjsR8s3o66EmZ0s",
+    "categories": [
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMXLby3GFYTNxb-b2F6PuSKTUtrlm6sABwKlTyE=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Cars%20(QUALITY%20USED%20CAR%20BUYING%20AND%20SELLING)&query_place_id=ChIJj9ZCgXL1qjsR8s3o66EmZ0s"
+  },
+  {
+    "title": "JM SELF DRIVE CAR RENTAL SERVICE",
+    "categoryName": "Car leasing service",
+    "address": "104, Kallar St, Periyamilaguparai, Ponnagar Extension, Karumandapam, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Periyamilaguparai, Ponnagar Extension, Karumandapam",
+    "street": "104, Kallar St",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 10.7974997,
+      "lng": 78.6753701
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFcwcukn1qjsRZoUBQgloSNo",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_bmrE7HaZ-cfILUv08N58BDYFLd-siJw5Jo7a=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JM%20SELF%20DRIVE%20CAR%20RENTAL%20SERVICE&query_place_id=ChIJFcwcukn1qjsRZoUBQgloSNo"
+  },
+  {
+    "title": "Jeyam Cars Trichy",
+    "categoryName": "Used car dealer",
+    "address": "No. 6, New, Karur Bypass Rd, Annamalai Nagar, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "Annamalai Nagar",
+    "street": "No. 6, New, Karur Bypass Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.jeyamcars.in/",
+    "phone": "+919842488878",
+    "phoneUnformatted": "+919842488878",
+    "location": {
+      "lat": 10.829848,
+      "lng": 78.6863887
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNTseU7v1qjsR6x1zyT3fXbc",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Second hand store"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 54,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1kMunuw3CE9ASH9p8cRjjT3Ym8Bl0kElx-Tny2iMuVvGE_RKf7fnhu7Hsoc6kO_r0YKGHm0uPsShoqB8M-PZtA2PrUARE08FPK6CzJQ_iEG0ZpZntpCDgNma0SC7h4g3pFshw=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jeyam%20Cars%20Trichy&query_place_id=ChIJNTseU7v1qjsR6x1zyT3fXbc"
+  },
+  {
+    "title": "Jove Travels",
+    "categoryName": "Car rental agency",
+    "address": "No A29, Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Anna Nagar, Tennur",
+    "street": "No A29",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://jovetravelstrichy.com/",
+    "phone": "+919342242170",
+    "phoneUnformatted": "+919342242170",
+    "location": {
+      "lat": 10.813701,
+      "lng": 78.6860722
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMywBd8H1qjsRN7f12bZ3_S8",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 53,
+    "imagesCount": 53,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwBcyD4FJWzZYr-6p_y3pjDi2TBen0Go8N7bcair2PldOvLSoL_aV51v7vThzgvubuVXiVjc11eYp59UvO8Ti-x5EcY5NeC-futasiQf8YECqGq0etW4e5GLfjKSy9-xFfHWSuZwAD3Bdim=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jove%20Travels&query_place_id=ChIJMywBd8H1qjsRN7f12bZ3_S8"
+  },
+  {
+    "title": "Kanmani travels",
+    "subTitle": "கண்மணி டிராவல்ஸ்",
+    "categoryName": "Car rental agency",
+    "address": "old pal pannai, 40, Patel Nagar, A P Nagar, Tiruchirappalli, Tamil Nadu 620008, India",
+    "neighborhood": "Patel Nagar, A P Nagar",
+    "street": "old pal pannai, 40",
+    "city": "Tiruchirappalli",
+    "postalCode": "620008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919786220404",
+    "phoneUnformatted": "+919786220404",
+    "location": {
+      "lat": 10.8192279,
+      "lng": 78.7078018
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmyPYTJ71qjsRaFX80uwSUyY",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Tour operator",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMaCGS5riZn8za93Cy62UUuS4z3mAb5Tzq5qT5x=w415-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kanmani%20travels&query_place_id=ChIJmyPYTJ71qjsRaFX80uwSUyY"
+  },
+  {
+    "title": "Kavi Cars",
+    "categoryName": "Car dealer",
+    "address": "06, 1st Cross Rd, West Thillai Nagar, Thillai Nagar, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "West Thillai Nagar, Thillai Nagar",
+    "street": "06, 1st Cross Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842489770",
+    "phoneUnformatted": "+919842489770",
+    "location": {
+      "lat": 10.8261818,
+      "lng": 78.6826283
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ2SL7ir1qjsRMpoCilCQq1A",
+    "categories": [
+      "Car dealer",
+      "Auto parts store"
+    ],
+    "reviewsCount": 38,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwyKK3F-MRwiA7qoLwUBDc0-p6pTSHpu5uF_X9=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kavi%20Cars&query_place_id=ChIJQ2SL7ir1qjsRMpoCilCQq1A"
+  },
+  {
+    "title": "Kumaran Tours & Travels",
+    "categoryName": "Car rental agency",
+    "address": "No.31A /20, Weavers Colony, Salai Rd, Woraiyur, Tiruchirappalli, Tamil Nadu 620003, India",
+    "neighborhood": "Woraiyur",
+    "street": "No.31A /20, Weavers Colony, Salai Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.kumarantravels.co.in/",
+    "phone": "+919894920222",
+    "phoneUnformatted": "+919894920222",
+    "location": {
+      "lat": 10.8281756,
+      "lng": 78.6796831
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdaddAJj1qjsRzt-3UtNA2SM",
+    "categories": [
+      "Car rental agency",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 228,
+    "imagesCount": 47,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNlHODz-3EdvpBfQq4zWA6AlsCzC8CxTaIP7l6M=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kumaran%20Tours%20%26%20Travels&query_place_id=ChIJdaddAJj1qjsRzt-3UtNA2SM"
+  },
+  {
+    "title": "Lalu Taxi",
+    "categoryName": "Car rental agency",
+    "address": "Salai Rd, Thillai Nagar East, Woraiyur, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "Thillai Nagar East, Woraiyur",
+    "street": "Salai Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.lalutaxi.com/",
+    "phone": "+919594644444",
+    "phoneUnformatted": "+919594644444",
+    "location": {
+      "lat": 10.8270367,
+      "lng": 78.6842401
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJv1i7b_31qjsR88c_j7mxJF0",
+    "categories": [
+      "Car rental agency",
+      "Air taxi",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Motoring club",
+      "Taxicab Stand",
+      "Taxidermist",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 85,
+    "imagesCount": 79,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNVa6wpcBz5aI2KVjgZ4ILMRKfctE_vW7ox63kR=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Lalu%20Taxi&query_place_id=ChIJv1i7b_31qjsR88c_j7mxJF0"
+  },
+  {
+    "title": "Laxmi Cars - used car dealer in trichy, second hand cars in trichy",
+    "categoryName": "Used car dealer",
+    "address": "1st Floor, Bharathi nambi complex, No. 6, Circuit House Rd, near vistors banglow, TVS Tolgate, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620020, India",
+    "neighborhood": "TVS Tolgate, Sangillyandapuram",
+    "street": "1st Floor, Bharathi nambi complex, No. 6, Circuit House Rd, near vistors banglow",
+    "city": "Tiruchirappalli",
+    "postalCode": "620020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://laxmicars.nowfloats.com/",
+    "phone": "+919994369352",
+    "phoneUnformatted": "+919994369352",
+    "location": {
+      "lat": 10.7890448,
+      "lng": 78.6936003
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4Y-Gxpf1qjsROREvkNbOUqw",
+    "categories": [
+      "Used car dealer",
+      "Auto auction",
+      "Auto broker",
+      "Car dealer",
+      "Car finance and loan company",
+      "Motor vehicle dealer",
+      "Second hand store",
+      "Smart Car dealer",
+      "Used motorcycle dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNo791u5hArZA-sQWe_A9MExJJJFa4weS_2I5fO=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Laxmi%20Cars%20-%20used%20car%20dealer%20in%20trichy%2C%20second%20hand%20cars%20in%20trichy&query_place_id=ChIJ4Y-Gxpf1qjsROREvkNbOUqw"
+  },
+  {
+    "title": "MJ Cheers Car Promoters & Customs",
+    "categoryName": "Used car dealer",
+    "address": "Uzhavar Santhai Ground, 6th Cross, near Dhinaa's Tyres, Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Anna Nagar, Tennur",
+    "street": "Uzhavar Santhai Ground, 6th Cross, near Dhinaa's Tyres",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919629862210",
+    "phoneUnformatted": "+919629862210",
+    "location": {
+      "lat": 10.812787,
+      "lng": 78.6841031
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA8mz50H1qjsR1nST324IVb8",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw2NdRKcPI3Zdqix95yyra57A7EBuf3zLn9pUSI9c0N-ecOgJfQ8TYP_2mkLH93noc7XLoo89uGzkQivGNw3_95ALFIjv7G2MuBxHAV0c7QXo5h_N324EGXINue6BV3kbFn5MR1=w408-h344-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MJ%20Cheers%20Car%20Promoters%20%26%20Customs&query_place_id=ChIJA8mz50H1qjsR1nST324IVb8"
+  },
+  {
+    "title": "Moshiha Travels Woraiyur | Taxi Service in Woraiyur | Call Taxi in Woraiyur | 24 Hours Taxi Service in Woraiyur",
+    "categoryName": "Car leasing service",
+    "address": "7, North Achatikkara St, Woraiyur, Tiruchirappalli, Tamil Nadu 620003, India",
+    "neighborhood": "Woraiyur",
+    "street": "7, North Achatikkara St",
+    "city": "Tiruchirappalli",
+    "postalCode": "620003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://moshihatravels.in/",
+    "phone": "+919994943258",
+    "phoneUnformatted": "+919994943258",
+    "location": {
+      "lat": 10.8287234,
+      "lng": 78.6746366
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ8nfVQD1qjsR3hTC9JMHLsE",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 131,
+    "imagesCount": 154,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOLRw0Qde9ItPzOGUauNdEdozsbK5iJDQUNY6i7=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Moshiha%20Travels%20Woraiyur%20%7C%20Taxi%20Service%20in%20Woraiyur%20%7C%20Call%20Taxi%20in%20Woraiyur%20%7C%2024%20Hours%20Taxi%20Service%20in%20Woraiyur&query_place_id=ChIJJ8nfVQD1qjsR3hTC9JMHLsE"
+  },
+  {
+    "title": "Narmada Travels - Taxi and Cab Service in Trichy since 1982",
+    "categoryName": "Car rental agency",
+    "address": "A/9, Housing Unit, Salai Road, Woraiyur, Tiruchirappalli, Tamil Nadu 620003, India",
+    "street": "A/9, Housing Unit, Salai Road, Woraiyur",
+    "city": "Tiruchirappalli",
+    "postalCode": "620003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.narmadatrichy.com/",
+    "phone": "+914312762222",
+    "phoneUnformatted": "+914312762222",
+    "location": {
+      "lat": 10.8274515,
+      "lng": 78.6795078
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJidJ3AJj1qjsRiqdtBMaoenA",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 17,
+    "imagesCount": 3,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jfQpgqiucuJNiQ0-KG3o6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.59517&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Narmada%20Travels%20-%20Taxi%20and%20Cab%20Service%20in%20Trichy%20since%201982&query_place_id=ChIJidJ3AJj1qjsRiqdtBMaoenA"
+  },
+  {
+    "title": "OLX Franchise - TN 45 Cars",
+    "categoryName": "Used car dealer",
+    "address": "VANDI STAND, NO 12, Seshapuram, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Thillai Nagar East, Seshapuram, Tennur",
+    "street": "VANDI STAND, NO 12",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://bit.ly/4hgYkxU",
+    "phone": "+919791621627",
+    "phoneUnformatted": "+919791621627",
+    "location": {
+      "lat": 10.8190407,
+      "lng": 78.684855
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlX3w5Wb1qjsRR4jrZX3EjYQ",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 120,
+    "imagesCount": 77,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwINaUrNJJoJJo0_ufLCbf580i5MYs9_AYrokJsCITSAIFwu8Dq3kP6-gojAfkYLxAWHGE74b7ESQJy-YKvX-AJHk-n3_yUWuWqwSWbp_YBlwYrmRZCaDWHAF-dqWAyOJzJvtAIm0X_1xl3=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=OLX%20Franchise%20-%20TN%2045%20Cars&query_place_id=ChIJlX3w5Wb1qjsRR4jrZX3EjYQ"
+  },
+  {
+    "title": "Onroadz Car Rental - Self Drive Cars in Trichy | Self Driven Cars for Rent in Trichy",
+    "categoryName": "Car rental agency",
+    "address": "NO:14, Santhosh Nagar, Wireless Rd, opp. to Joy Hotel, Tiruchirappalli, Tamil Nadu 620007, India",
+    "street": "NO:14, Santhosh Nagar, Wireless Rd, opp. to Joy Hotel",
+    "city": "Tiruchirappalli",
+    "postalCode": "620007",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://onroadz.com/self-drive-cars-trichy/",
+    "phone": "+919655214888",
+    "phoneUnformatted": "+919655214888",
+    "location": {
+      "lat": 10.7551112,
+      "lng": 78.6971109
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu75tu1qLqjsRB0pLgcGfZO8",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 847,
+    "imagesCount": 302,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9Gp_9Mouyp0HNutKP75uldyJkE3WbV96ckxva=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Onroadz%20Car%20Rental%20-%20Self%20Drive%20Cars%20in%20Trichy%20%7C%20Self%20Driven%20Cars%20for%20Rent%20in%20Trichy&query_place_id=ChIJu75tu1qLqjsRB0pLgcGfZO8"
+  },
+  {
+    "title": "Phoenix Tours And Travels | Best Tour packages",
+    "categoryName": "Car rental agency",
+    "address": "2, 1st floor, kannan ravi tower, 60, Melachinthamani, Tiruchirappalli, Tamil Nadu 620002, India",
+    "neighborhood": "Chinthamani Bazaar, Melachinthamani",
+    "street": "2, 1st floor, kannan ravi tower, 60",
+    "city": "Tiruchirappalli",
+    "postalCode": "620002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://phoenixtour.in/",
+    "phone": "+919442444904",
+    "phoneUnformatted": "+919442444904",
+    "location": {
+      "lat": 10.8334504,
+      "lng": 78.6949074
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvaZ21Lb1qjsRU6sB17Rmj2M",
+    "categories": [
+      "Car rental agency",
+      "Boat tour agency",
+      "Bus tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 243,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOi_uGdPykzhlXcHsEc-PqhlR4QDmN_fznWInY=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Tours%20And%20Travels%20%7C%20Best%20Tour%20packages&query_place_id=ChIJvaZ21Lb1qjsRU6sB17Rmj2M"
+  },
+  {
+    "title": "Rajan Cars since 1952 Buy/Sell used cars",
+    "categoryName": "Used car dealer",
+    "address": "165, Madurai Main Rd, opp. Amma Hotel, Bharathi Nagar, Crawford Colony, Tiruchirappalli, Tamil Nadu 620012, India",
+    "neighborhood": "Bharathi Nagar, Crawford Colony",
+    "street": "165, Madurai Main Rd, opp. Amma Hotel",
+    "city": "Tiruchirappalli",
+    "postalCode": "620012",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842458666",
+    "phoneUnformatted": "+919842458666",
+    "location": {
+      "lat": 10.7840588,
+      "lng": 78.6766193
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJszPuQUj1qjsRAJui75-UoB4",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 110,
+    "imagesCount": 48,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO8SsOanlaG6oVvIIGBBFVHeG1nv_hyXtgfsJQ3=w408-h271-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rajan%20Cars%20since%201952%20Buy%2FSell%20used%20cars&query_place_id=ChIJszPuQUj1qjsRAJui75-UoB4"
+  },
+  {
+    "title": "Rockfort Cars",
+    "subTitle": "ராக்போர்ட் கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "c, 78, 10th Cross St, West Thillai Nagar, Thillai Nagar, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "West Thillai Nagar, Thillai Nagar",
+    "street": "c, 78, 10th Cross St",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 10.8207321,
+      "lng": 78.6822367
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpxrXbKH1qjsRELHs49VY58Q",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzyGOrTpEs0kvwlzZ9x_EgQLCIxG1G-jPOtc8Q-UMOV5W2Ag33F434c7SAzl9HW7poQmH39FIkLBw4CybJs80q9Suma5Ix7-jxLKSCxyEfUcxrQNxb_Y2ykJPsBjL31ABEvB_mV=w408-h496-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rockfort%20Cars&query_place_id=ChIJpxrXbKH1qjsRELHs49VY58Q"
+  },
+  {
+    "title": "Royal Cabs And Tours Trichy",
+    "subTitle": "ராயல் கேப்ஸ் அண்ட் டூர்ஸ் திருச்சி",
+    "categoryName": "Car rental agency",
+    "address": "203, Race Course Road, near jum jum tea stall, Kajamalai Colony, Tiruchirappalli, Tamil Nadu 620023, India",
+    "neighborhood": "Kajamalai Colony",
+    "street": "203, Race Course Road, near jum jum tea stall",
+    "city": "Tiruchirappalli",
+    "postalCode": "620023",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://royalcabsandtourstrichy.in/",
+    "phone": "+918124040408",
+    "phoneUnformatted": "+918124040408",
+    "location": {
+      "lat": 10.7769334,
+      "lng": 78.6925615
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR2IMFKBfqjsRB3t101abirs",
+    "categories": [
+      "Car rental agency",
+      "Airport",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Tourist attraction",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 178,
+    "imagesCount": 700,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNOdkH0IGJhm63pNB-NALl1yilEIePR4Ud3syv1=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Cabs%20And%20Tours%20Trichy&query_place_id=ChIJR2IMFKBfqjsRB3t101abirs"
+  },
+  {
+    "title": "Royal Cars",
+    "subTitle": "ராயல் கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "Petrol Pump, Annamalayar Fuels, mela chinthamani, Chathiram bus stand, Opposite to Kalaingar Arivalayam, near Bharat Petroleum, Tiruchirappalli, Tamil Nadu 620002, India",
+    "neighborhood": "Killa Chinthamani",
+    "street": "Petrol Pump, Annamalayar Fuels, mela chinthamani, Chathiram bus stand, Opposite to Kalaingar Arivalayam, near Bharat Petroleum",
+    "city": "Tiruchirappalli",
+    "postalCode": "620002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842365851",
+    "phoneUnformatted": "+919842365851",
+    "location": {
+      "lat": 10.835648,
+      "lng": 78.6897639
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl4Vykrv1qjsRBIlRNWSPvSo",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 33,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPUZLleaCHh9eXS1hdy3DVSBSPEhLhk-Ik_3kt2=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Cars&query_place_id=ChIJl4Vykrv1qjsRBIlRNWSPvSo"
+  },
+  {
+    "title": "Royal Picks",
+    "subTitle": "ராயல் பிக்ஸ் -",
+    "categoryName": "Car rental agency",
+    "address": "No:14, 13, Arul Jyothi St, near EB Office, Thendral Nagar, Tiruchirappalli, Tamil Nadu 620011, India",
+    "neighborhood": "Thendral Nagar",
+    "street": "No:14, 13, Arul Jyothi St, near EB Office",
+    "city": "Tiruchirappalli",
+    "postalCode": "620011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://royalpicks.in/self-drive-car-rental-trichy/",
+    "phone": "+919514145999",
+    "phoneUnformatted": "+919514145999",
+    "location": {
+      "lat": 10.7864503,
+      "lng": 78.7343222
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2YtBniiLqjsR276AgNmuA5M",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 60,
+    "imagesCount": 124,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlIoq7CsGZrhQKj3yNuMOXg56JUVRZZqQvrAVD=w408-h293-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Picks&query_place_id=ChIJ2YtBniiLqjsR276AgNmuA5M"
+  },
+  {
+    "title": "S.K.Self Drive and Trichy rental cars",
+    "categoryName": "Car leasing service",
+    "address": "17,A.R.S.Nagar,extension phase ll Airport, post, Tiruchirappalli, Tamil Nadu 620007, India",
+    "neighborhood": "Thiruvalarchi Patti",
+    "street": "17,A.R.S.Nagar,extension phase ll Airport, post",
+    "city": "Tiruchirappalli",
+    "postalCode": "620007",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.skcarrental.in/",
+    "phone": "+918526633633",
+    "phoneUnformatted": "+918526633633",
+    "location": {
+      "lat": 10.7436751,
+      "lng": 78.6998998
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtZyPAWb1qjsRpvljNc2wbhI",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 199,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMZUBb3HXBZEKZxQRMZMZk7wYlz4HkalauQrYiu=w408-h543-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=S.K.Self%20Drive%20and%20Trichy%20rental%20cars&query_place_id=ChIJtZyPAWb1qjsRpvljNc2wbhI"
+  },
+  {
+    "title": "Saaisri Tours & Travels",
+    "categoryName": "Car rental agency",
+    "address": "37/7, Bishop Rd, near KMC Kaveri hospital, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Tennur",
+    "street": "37/7, Bishop Rd, near KMC Kaveri hospital",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919943310010",
+    "phoneUnformatted": "+919943310010",
+    "location": {
+      "lat": 10.8163791,
+      "lng": 78.6805207
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXTBHb7n1qjsR_unoRFktWNk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 122,
+    "imagesCount": 91,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMs8rsjQNTEDbkRJIYZ44BIoaleBzshM8ZaGuV_=w408-h906-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Saaisri%20Tours%20%26%20Travels&query_place_id=ChIJXTBHb7n1qjsR_unoRFktWNk"
+  },
+  {
+    "title": "Sabreen Cabs",
+    "categoryName": "Car rental agency",
+    "address": "M.R Radha Colony, Senthaneerpuram, Ariyamangalam Area, Tiruchirappalli, Tamil Nadu 620004, India",
+    "neighborhood": "M.R Radha Colony, Senthaneerpuram, Ariyamangalam Area",
+    "city": "Tiruchirappalli",
+    "postalCode": "620004",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919659779997",
+    "phoneUnformatted": "+919659779997",
+    "location": {
+      "lat": 10.7966255,
+      "lng": 78.7141342
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcbydIjz1qjsRgh9UPvfxyus",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYxnmqeBlessskg79DlT7-9IdR8XFvBUw2K2pN=w408-h906-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sabreen%20Cabs&query_place_id=ChIJcbydIjz1qjsRgh9UPvfxyus"
+  },
+  {
+    "title": "Samar trichy car rental",
+    "categoryName": "Car rental agency",
+    "address": "1st, SH 49, Ponnagar Extension, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Ponnagar Extension, Karumandapam",
+    "street": "1st, SH 49",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919788372956",
+    "phoneUnformatted": "+919788372956",
+    "location": {
+      "lat": 10.7939852,
+      "lng": 78.678576
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg8fM_QH1qjsRWdywA2k5G_0",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency"
+    ],
+    "reviewsCount": 145,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNRspR_WXQ9ojpdiL1RDRH1NiJIvLHD9IvTkpaP=w487-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Samar%20trichy%20car%20rental&query_place_id=ChIJg8fM_QH1qjsRWdywA2k5G_0"
+  },
+  {
+    "title": "Shaai Travels",
+    "subTitle": "சாய் டிராவல்ஸ்",
+    "categoryName": "Car rental agency",
+    "address": "Palayam Bazaar Rd, Sakthi Mariamman Nagar, Palayam Bazar, Woraiyur, Tiruchirappalli, Tamil Nadu 620003, India",
+    "neighborhood": "Sakthi Mariamman Nagar, Palayam Bazar, Woraiyur",
+    "street": "Palayam Bazaar Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 10.8254577,
+      "lng": 78.677365
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJMy2a9Zb1qjsRZrGysVRhwu8",
+    "categories": [
+      "Car rental agency",
+      "Car dealer",
+      "Car leasing service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 33,
+    "imagesCount": 13,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM387YZSYRE3gpSZ8d8Ry3XkuO3j4NolSDxhMD1=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shaai%20Travels&query_place_id=ChIJMy2a9Zb1qjsRZrGysVRhwu8"
+  },
+  {
+    "title": "Sri Kandhan Travels - best car rental service in trichy, taxi booking in trichy, The best travel agency in trichy",
+    "categoryName": "Car rental agency",
+    "address": "Building, Sangeeth Mahal, 60, Tank Bank Road FSM, Subramaniyapuram, Tiruchirappalli, Tamil Nadu 620020, India",
+    "neighborhood": "Subramaniyapuram, Sangillyandapuram",
+    "street": "Building, Sangeeth Mahal, 60, Tank Bank Road FSM",
+    "city": "Tiruchirappalli",
+    "postalCode": "620020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919543921048",
+    "phoneUnformatted": "+919543921048",
+    "location": {
+      "lat": 10.7849914,
+      "lng": 78.7025361
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvbp56_T1qjsRQ2G8tG-wUxk",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency",
+      "Travel lounge",
+      "Van rental agency"
+    ],
+    "reviewsCount": 55,
+    "imagesCount": 62,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEFwzAdAH191WwzpTAt5l4EXQ5qizjJaoeelvu=w515-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Kandhan%20Travels%20-%20best%20car%20rental%20service%20in%20trichy%2C%20taxi%20booking%20in%20trichy%2C%20The%20best%20travel%20agency%20in%20trichy&query_place_id=ChIJvbp56_T1qjsRQ2G8tG-wUxk"
+  },
+  {
+    "title": "Sri Ram Travels",
+    "categoryName": "Car rental agency",
+    "address": "Barakath Complex, Karur Bypass Rd, near Kudamuritti check post, Killa Chinthamani, Tiruchirappalli, Tamil Nadu 620002, India",
+    "neighborhood": "Killa Chinthamani",
+    "street": "Barakath Complex, Karur Bypass Rd, near Kudamuritti check post",
+    "city": "Tiruchirappalli",
+    "postalCode": "620002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://sriramtravel.com/",
+    "phone": "+918667488424",
+    "phoneUnformatted": "+918667488424",
+    "location": {
+      "lat": 10.8389468,
+      "lng": 78.6860314
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEedrZen1qjsRvedXSVCTjHE",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Taxi service",
+      "Van rental agency"
+    ],
+    "reviewsCount": 239,
+    "imagesCount": 153,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-BCD7NsZvTpi9udGfBsJEyJ6-UOvtfpCBDUXq=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Ram%20Travels&query_place_id=ChIJEedrZen1qjsRvedXSVCTjHE"
+  },
+  {
+    "title": "Sri Seyon Travels- car rental service in trichy, best car rental in trichy, trichy travel contact number",
+    "categoryName": "Car rental agency",
+    "address": "2, 5th Cross, Vayalur Rd, Elango Street, Kumaran Nagar, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Banker's Colony Extension, Elango Street, Kumaran Nagar",
+    "street": "2, 5th Cross, Vayalur Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.travelsintrichy.in/",
+    "phone": "+919360607712",
+    "phoneUnformatted": "+919360607712",
+    "location": {
+      "lat": 10.8130239,
+      "lng": 78.6696648
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG9m3zWP1qjsROGJcCazEOb4",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 403,
+    "imagesCount": 721,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMB8JtKDdHoaBTT3nfm-czNq56-Mv94qHLaFcZv=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Seyon%20Travels-%20car%20rental%20service%20in%20trichy%2C%20best%20car%20rental%20in%20trichy%2C%20trichy%20travel%20contact%20number&query_place_id=ChIJG9m3zWP1qjsROGJcCazEOb4"
+  },
+  {
+    "title": "Sri garuda travels",
+    "categoryName": "Car rental agency",
+    "address": "TVS Tolgate, Hanifa Colony, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620020, India",
+    "neighborhood": "TVS Tolgate, Hanifa Colony, Sangillyandapuram",
+    "city": "Tiruchirappalli",
+    "postalCode": "620020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919361075629",
+    "phoneUnformatted": "+919361075629",
+    "location": {
+      "lat": 10.7913671,
+      "lng": 78.6967604
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0W-_RkT1qjsRVGVWmUwh1SA",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 60,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP4_h57YVK3BvVFNf1-rO9_CVNpaDvISWExBMpi=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sri%20garuda%20travels&query_place_id=ChIJ0W-_RkT1qjsRVGVWmUwh1SA"
+  },
+  {
+    "title": "Steer auto KUN",
+    "categoryName": "Used car dealer",
+    "address": "Old Palpannai, 2/1 & 2, 2, Chennai - Trichy Hwy, Ariyamangalam Area, Tiruchirappalli, Tamil Nadu 620004, India",
+    "neighborhood": "Ariyamangalam Area",
+    "street": "Old Palpannai, 2/1 & 2, 2, Chennai - Trichy Hwy",
+    "city": "Tiruchirappalli",
+    "postalCode": "620004",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.steerauto.com/",
+    "phone": "+919940009004",
+    "phoneUnformatted": "+919940009004",
+    "location": {
+      "lat": 10.8062384,
+      "lng": 78.7115743
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLdn0ll_1qjsRa86kV_KXSDk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 79,
+    "imagesCount": 85,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPfOjBbDfM2j_04VQZXBvqQXH0SeUegJFDE5lIS=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Steer%20auto%20KUN&query_place_id=ChIJLdn0ll_1qjsRa86kV_KXSDk"
+  },
+  {
+    "title": "Sun cars",
+    "subTitle": "சன் கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "Killa Chinthamani, Tiruchirappalli, Tamil Nadu 620002, India",
+    "neighborhood": "Killa Chinthamani",
+    "city": "Tiruchirappalli",
+    "postalCode": "620002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919942445265",
+    "phoneUnformatted": "+919942445265",
+    "location": {
+      "lat": 10.8360816,
+      "lng": 78.6891115
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXZX5V9D1qjsRQWpAuZykeFg",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 110,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwM3iZZ93baecVkf0iGBBF-p__M36pNf6FAhQzbHr8W-SIQX0XJCaQ-MmESPz2dAvuIMcUkYkh71lqK3gdfTvILzSCpQUY32JxMgc2OVshM2wMyTofmhWDWtIz-4vNZbhsJ2A9gvQyDxzLN=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sun%20cars&query_place_id=ChIJXZX5V9D1qjsRQWpAuZykeFg"
+  },
+  {
+    "title": "Super Kings Cars",
+    "categoryName": "Used car dealer",
+    "address": "9/2, Pudukkottai Highway, opposite Morais City Road, Thiruvalarchi Patti, Tiruchirappalli, Tamil Nadu 620007, India",
+    "neighborhood": "Thiruvalarchi Patti",
+    "street": "9/2, Pudukkottai Highway, opposite Morais City Road",
+    "city": "Tiruchirappalli",
+    "postalCode": "620007",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.carsbuyandsell.in/",
+    "phone": "+918048033461",
+    "phoneUnformatted": "+918048033461",
+    "location": {
+      "lat": 10.7481562,
+      "lng": 78.7122249
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBfYqapSLqjsRyfz5ExiTyJE",
+    "categories": [
+      "Used car dealer",
+      "Auto auction",
+      "Auto broker",
+      "Car dealer",
+      "Car finance and loan company",
+      "Car wash",
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 45,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMwLjYomyjWEA__lg_8uuYL3O1jtAB00sIpQoYA=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Super%20Kings%20Cars&query_place_id=ChIJBfYqapSLqjsRyfz5ExiTyJE"
+  },
+  {
+    "title": "THULASI TRAVELS & TOURS",
+    "categoryName": "Car rental agency",
+    "address": "Chathiram bus stand Analai-Thirupparaithurai, Road, Tiruchirappalli, Tamil Nadu 620002, India",
+    "neighborhood": "Melachinthamani",
+    "street": "Chathiram bus stand Analai-Thirupparaithurai, Road",
+    "city": "Tiruchirappalli",
+    "postalCode": "620002",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.thulasitravels.in/",
+    "phone": "+919443048876",
+    "phoneUnformatted": "+919443048876",
+    "location": {
+      "lat": 10.8335642,
+      "lng": 78.6920411
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQLUFt9bqjsRmeVzrbVqz2U",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Sightseeing tour agency",
+      "Tour agency",
+      "Tour operator",
+      "Van rental agency"
+    ],
+    "reviewsCount": 24,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN13ftVrcxZkQPrDQ5-WkIn3gdV_sgUTbWsoRBR=w408-h270-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=THULASI%20TRAVELS%20%26%20TOURS&query_place_id=ChIJAQLUFt9bqjsRmeVzrbVqz2U"
+  },
+  {
+    "title": "TRICHY CABS",
+    "categoryName": "Car dealer",
+    "address": "45 Trichy Airport opposit Road, Tamil Nadu 620007, India",
+    "street": "45 Trichy Airport opposit Road",
+    "city": "Tiruchirappalli",
+    "postalCode": "620007",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.instagram.com/alwin_trichy?igsh=MXJwZmdxd2k1YmpiaQ%3D%3D&utm_source=qr",
+    "phone": "+919629214636",
+    "phoneUnformatted": "+919629214636",
+    "location": {
+      "lat": 10.7596997,
+      "lng": 78.7065775
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-eloAmqLqjsRjJ7wBIC5N5M",
+    "categories": [
+      "Car dealer",
+      "Taxi service",
+      "Car leasing service",
+      "Car rental agency",
+      "Motoring club",
+      "Parking lot",
+      "Taxicab Stand",
+      "Travel agency",
+      "Wedding planner"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 414,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO1u5dqE_lFrg_EiT0IlPA7zGCnG1TqtptXhBQo=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=TRICHY%20CABS&query_place_id=ChIJ-eloAmqLqjsRjJ7wBIC5N5M"
+  },
+  {
+    "title": "TRICHY DEV CABS",
+    "categoryName": "Car rental agency",
+    "address": "NO 78, AVVAI STREET, Fatima Nagar, Woraiyur, Tiruchirappalli, Tamil Nadu 620003, India",
+    "neighborhood": "Fatima Nagar, Woraiyur",
+    "street": "NO 78, AVVAI STREET",
+    "city": "Tiruchirappalli",
+    "postalCode": "620003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.trichydevscabs.com/",
+    "phone": "+919940927933",
+    "phoneUnformatted": "+919940927933",
+    "location": {
+      "lat": 10.8293194,
+      "lng": 78.6664637
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNb7c1k31qjsRfz7fkxYwF2g",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 114,
+    "imagesCount": 544,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNrZaRyK16DtTqVTdOQcc1E3WqJOga3k-plhk2i=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=TRICHY%20DEV%20CABS&query_place_id=ChIJNb7c1k31qjsRfz7fkxYwF2g"
+  },
+  {
+    "title": "TWINS CARS (Pre-Owned Multi-Brand Cars Bazaar)",
+    "categoryName": "Car dealer",
+    "address": "4, Race Course Road, near Cake bee, Professors Colony, Tiruchirappalli, Tamil Nadu 620020, India",
+    "neighborhood": "Professors Colony",
+    "street": "4, Race Course Road, near Cake bee",
+    "city": "Tiruchirappalli",
+    "postalCode": "620020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://twinscars.nowfloats.com/",
+    "phone": "+918042755105",
+    "phoneUnformatted": "+918042755105",
+    "location": {
+      "lat": 10.783121,
+      "lng": 78.6980824
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJs38o7sr1qjsRb5hyFGghFZs",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzPr_FcLiMJP683gutdHgPuix4iFbSj4q65vK6SzxX_ukHXqki5V6g_dQlU9z1VV7qxp1Be3IfBzc_sV8r9bPhwxY1ipD_qVIefX0HSxCjf_eg4DiazgIRz45Jo8hYmgj05HGTd9w=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=TWINS%20CARS%20(Pre-Owned%20Multi-Brand%20Cars%20Bazaar)&query_place_id=ChIJs38o7sr1qjsRb5hyFGghFZs"
+  },
+  {
+    "title": "Tamilnadu Pickup Tours and Travels",
+    "categoryName": "Car leasing service",
+    "address": "No,16, 4th Cross Rd, Old Palpannai, Viswas Nagar, Tiruchirappalli, Tamil Nadu 620008, India",
+    "neighborhood": "Old Palpannai, Viswas Nagar",
+    "street": "No,16, 4th Cross Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.tpttravels.in/",
+    "phone": "+917397227117",
+    "phoneUnformatted": "+917397227117",
+    "location": {
+      "lat": 10.8174995,
+      "lng": 78.7085724
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM1coXQj1qjsRgMh3Nmhv-Sw",
+    "categories": [
+      "Car leasing service",
+      "Transportation service"
+    ],
+    "reviewsCount": 41,
+    "imagesCount": 47,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMH1uhRXbOccqzezBQSXI8bNbCa8tqw85kGmx3J=w408-h883-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tamilnadu%20Pickup%20Tours%20and%20Travels&query_place_id=ChIJM1coXQj1qjsRgMh3Nmhv-Sw"
+  },
+  {
+    "title": "Thillai Kali Cars",
+    "categoryName": "Car dealer",
+    "address": "B94, Park View St, Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
+    "neighborhood": "Anna Nagar, Tennur",
+    "street": "B94, Park View St",
+    "city": "Tiruchirappalli",
+    "postalCode": "620017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 10.8154384,
+      "lng": 78.6870931
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj_j-nwX1qjsRR1UO8PKjUEc",
+    "categories": [
+      "Car dealer",
+      "Travel agency"
+    ],
+    "reviewsCount": 19,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxwMJ6g8P5-EJ3rtlyqIpBO9gUu-QEue7d_5PfI34BQpzD0-5S9Grb2_wyBhZE6A7ZS2noFqd2wVvoH0CeZ3ST9nf170STeTDukNDKM8lEOAxH42VRyJ8cnZpRExqFgqgsU5pEN=w424-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Thillai%20Kali%20Cars&query_place_id=ChIJj_j-nwX1qjsRR1UO8PKjUEc"
+  },
+  {
+    "title": "Travel Matrix",
+    "subTitle": "ட்ராவல் மேட்ரிக்ஸ்",
+    "categoryName": "Car leasing service",
+    "address": "Thendral Nagar, K.K. Nagar, Tiruchirappalli, Tamil Nadu 620021, India",
+    "neighborhood": "Sathanur",
+    "street": "Thendral Nagar, K.K. Nagar",
+    "city": "Tiruchirappalli",
+    "postalCode": "620021",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.travelmatrix.co.in/",
+    "phone": "+918489769791",
+    "phoneUnformatted": "+918489769791",
+    "location": {
+      "lat": 10.7515482,
+      "lng": 78.692195
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzbvaQd2KqjsRBHlhY6QMXxQ",
+    "categories": [
+      "Car leasing service",
+      "Tour operator",
+      "Sightseeing tour agency"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 61,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlsJqLqwUXD2Ax4gYKQEGX6H3UxZIS-GIqTwzX=w408-h293-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Travel%20Matrix&query_place_id=ChIJzbvaQd2KqjsRBHlhY6QMXxQ"
+  },
+  {
+    "title": "Trichy City Raider",
+    "categoryName": "Car leasing service",
+    "address": "2nd Floor, 41, Chandra School Street, Kajamalai Colony, Tiruchirappalli, Tamil Nadu 620023, India",
+    "neighborhood": "Kajamalai Colony",
+    "street": "2nd Floor, 41, Chandra School Street",
+    "city": "Tiruchirappalli",
+    "postalCode": "620023",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+918870353176",
+    "phoneUnformatted": "+918870353176",
+    "location": {
+      "lat": 10.7748761,
+      "lng": 78.6923223
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUS5oyNb1qjsRCY4k6Z7w7Ic",
+    "categories": [
+      "Car leasing service",
+      "Air taxi",
+      "Taxi service"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 5,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM6QKlThW_q6D1X48fJ5CwcI_I9H5heiMnd2V4W=w408-h880-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Trichy%20City%20Raider&query_place_id=ChIJUS5oyNb1qjsRCY4k6Z7w7Ic"
+  },
+  {
+    "title": "Trichy ROYS Car Rental - Self Drive Cars in Trichy | Self Driven Cars for Rent in Trichy",
+    "categoryName": "Car leasing service",
+    "address": "Old building, near Kannappa hotel, Mannarpuram, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620020, India",
+    "neighborhood": "Mannarpuram, Sangillyandapuram",
+    "street": "Old building, near Kannappa hotel",
+    "city": "Tiruchirappalli",
+    "postalCode": "620020",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919344977337",
+    "phoneUnformatted": "+919344977337",
+    "location": {
+      "lat": 10.7853209,
+      "lng": 78.689823
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4TsC6Xf1qjsRE0BaOaGLj0E",
+    "categories": [
+      "Car leasing service",
+      "Leasing service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 110,
+    "imagesCount": 47,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOz0ZBbgvqaleYCxNrhbMOT6ky9fxQtqF8m4WhD=w408-h295-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Trichy%20ROYS%20Car%20Rental%20-%20Self%20Drive%20Cars%20in%20Trichy%20%7C%20Self%20Driven%20Cars%20for%20Rent%20in%20Trichy&query_place_id=ChIJ4TsC6Xf1qjsRE0BaOaGLj0E"
+  },
+  {
+    "title": "Trichy Tamizhini Travels திருச்சி தமிழினி டிராவல்ஸ்",
+    "categoryName": "Car rental agency",
+    "address": "TS rethinam pillai, Road, near airport, Tiruchirappalli, Tamil Nadu 620007, India",
+    "street": "TS rethinam pillai, Road, near airport",
+    "city": "Tiruchirappalli",
+    "postalCode": "620007",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+918680046939",
+    "phoneUnformatted": "+918680046939",
+    "location": {
+      "lat": 10.7565481,
+      "lng": 78.7056042
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUyP41UL1qjsR-Ew_N-Utjk8",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 50,
+    "imagesCount": 186,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMjQLVZbyk0fXdKLCA821skzQIBm7mlResAqII=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Trichy%20Tamizhini%20Travels%20%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%20%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%BF%E0%AE%A9%E0%AE%BF%20%E0%AE%9F%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%B5%E0%AE%B2%E0%AF%8D%E0%AE%B8%E0%AF%8D&query_place_id=ChIJUyP41UL1qjsR-Ew_N-Utjk8"
+  },
+  {
+    "title": "Trichy cars",
+    "categoryName": "Used car dealer",
+    "address": "1st Cross Rd, Sakthi Mariamman Nagar, West Thillai Nagar, Woraiyur, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "Sakthi Mariamman Nagar, West Thillai Nagar, Woraiyur",
+    "street": "1st Cross Rd",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919787710122",
+    "phoneUnformatted": "+919787710122",
+    "location": {
+      "lat": 10.8265769,
+      "lng": 78.6807355
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy3fUNl_1qjsRfiqmP3XYZlg",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 23,
+    "imagesCount": 17,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz6CmkKQbXs5sAUcT37d9sNqL8EUuZcQQHerQ_Mi_38ayT53R4xHTrWN-6LofBoyZEsDLVh6nzXMylWWhUtunGI6yd9wUGpieOk-bosKQUEErBj-9_6H00_SFbgvkRvWow22tRH=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Trichy%20cars&query_place_id=ChIJy3fUNl_1qjsRfiqmP3XYZlg"
+  },
+  {
+    "title": "Urbania Tours N Travels - Trichy Tours N Travels - Innova Car Rentals | Innova Crysta",
+    "subTitle": "திருச்சி வெங்கடேஸ்வரர் சுற்றுப்பயணங்கள் மற்றும் டிராவல்ஸ்",
+    "categoryName": "Car rental agency",
+    "address": "Amman Nagar, K K Nagar, Tiruchirappalli, Tamil Nadu 620021, India",
+    "neighborhood": "Amman Nagar, K K Nagar",
+    "city": "Tiruchirappalli",
+    "postalCode": "620021",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://trichyvenkateshwaratravels.com/force-urbania-tour-package/",
+    "phone": "+918056961898",
+    "phoneUnformatted": "+918056961898",
+    "location": {
+      "lat": 10.7653011,
+      "lng": 78.6856867
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXZqreVv1qjsRDuxBSTO1vrc",
+    "categories": [
+      "Car rental agency",
+      "Tour operator",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour agency",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMcb5AYa_6YuxJ7dIUuWWPczbT4lQ8tD865FzhH=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Urbania%20Tours%20N%20Travels%20-%20Trichy%20Tours%20N%20Travels%20-%20Innova%20Car%20Rentals%20%7C%20Innova%20Crysta&query_place_id=ChIJXZqreVv1qjsRDuxBSTO1vrc"
+  },
+  {
+    "title": "VPS Tours and Travels | Travels in Trichy | Tempo Traveller | Innova Crysta | Etios",
+    "categoryName": "Car rental agency",
+    "address": "40A/1, New Pandian St, Subramaniyapuram, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620026, India",
+    "neighborhood": "Subramaniyapuram, Sangillyandapuram",
+    "street": "40A/1, New Pandian St",
+    "city": "Tiruchirappalli",
+    "postalCode": "620026",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://vpstoursandtravels.com/",
+    "phone": "+919361887645",
+    "phoneUnformatted": "+919361887645",
+    "location": {
+      "lat": 10.7860495,
+      "lng": 78.703815
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRQyZRRr1qjsRjOiZOO7RUhw",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour operator",
+      "Van rental agency"
+    ],
+    "reviewsCount": 88,
+    "imagesCount": 161,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPNI4x4mkZdBP2U9X35hn59XITApoBoPwYbIDUx=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VPS%20Tours%20and%20Travels%20%7C%20Travels%20in%20Trichy%20%7C%20Tempo%20Traveller%20%7C%20Innova%20Crysta%20%7C%20Etios&query_place_id=ChIJRQyZRRr1qjsRjOiZOO7RUhw"
+  },
+  {
+    "title": "Vinoth self drive cars",
+    "subTitle": "வினோத் செல்ப் டிரைவ் கார்ஸ்",
+    "categoryName": "Car leasing service",
+    "address": "32 khajamalai road, opposite of sbg mahal, Kajamalai Colony, Tiruchirappalli, Tamil Nadu 620007, India",
+    "neighborhood": "Kajamalai Colony",
+    "street": "32 khajamalai road, opposite of sbg mahal",
+    "city": "Tiruchirappalli",
+    "postalCode": "620007",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.selfdrivecars.com/",
+    "phone": "+919944600156",
+    "phoneUnformatted": "+919944600156",
+    "location": {
+      "lat": 10.7686687,
+      "lng": 78.6940302
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaR_Yvd-LqjsRwNZsar_plWQ",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 125,
+    "imagesCount": 13,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMzILplZF5Bq3tM3GKj8hF1y6UWEp_7quIDLUQX=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Vinoth%20self%20drive%20cars&query_place_id=ChIJaR_Yvd-LqjsRwNZsar_plWQ"
+  },
+  {
+    "title": "Wheels On Deal",
+    "categoryName": "Used car dealer",
+    "address": "No.17.Manickam Arcade, GF.5, Municipal Office Rd, near Pla Maruti Showroom, Cantonment, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Melapudur, Cantonment",
+    "street": "No.17.Manickam Arcade, GF.5, Municipal Office Rd, near Pla Maruti Showroom",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+918122799557",
+    "phoneUnformatted": "+918122799557",
+    "location": {
+      "lat": 10.8035702,
+      "lng": 78.6874922
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_YQf6tT1qjsRc7J03IsC3-k",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 366,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMkC3Tt1OtLjit6q2xtRH6Bla84TKsF18GTYqmf=w408-h321-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Wheels%20On%20Deal&query_place_id=ChIJ_YQf6tT1qjsRc7J03IsC3-k"
+  },
+  {
+    "title": "World Acting Driver's Trichy",
+    "categoryName": "Car rental agency",
+    "address": "220, Sangillyandapuram Rd, near Mariyam Cinema, Sangliandapuram, Sangaliandalpuram, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "Sangliandapuram, Sangaliandalpuram",
+    "street": "220, Sangillyandapuram Rd, near Mariyam Cinema",
+    "city": "Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.justdial.com/Trichy/World-Acting-Driver-Service-Mariyam-Cinema-Bheema-Nagar/0431PX431-X431-240102175033-Y1A2_BZDET",
+    "phone": "+919047089047",
+    "phoneUnformatted": "+919047089047",
+    "location": {
+      "lat": 10.7982917,
+      "lng": 78.703787
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-9sgTBL1qjsR6-gimIW9GyQ",
+    "categories": [
+      "Car rental agency",
+      "Auto repair shop",
+      "Car leasing service",
+      "Driver's license office",
+      "Carriage ride service",
+      "Driving school",
+      "Pile driving service",
+      "Taxi service",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 290,
+    "imagesCount": 277,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPyhstJ46fcyWnJEKz2QhGbv1U_s_eYPeMm_Vkm=w532-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=World%20Acting%20Driver's%20Trichy&query_place_id=ChIJ-9sgTBL1qjsR6-gimIW9GyQ"
+  },
+  {
+    "title": "Zoya self drive rental cars",
+    "categoryName": "Car rental agency",
+    "address": "3A, Thanjavur Rd, near Masjid, Mahalakshmi Nagar, Tiruchirappalli, Tamil Nadu 620008, India",
+    "neighborhood": "Mahalakshmi Nagar",
+    "street": "3A, Thanjavur Rd, near Masjid",
+    "city": "Tiruchirappalli",
+    "postalCode": "620008",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://zoyacars.in/",
+    "phone": "+918976690108",
+    "phoneUnformatted": "+918976690108",
+    "location": {
+      "lat": 10.8101576,
+      "lng": 78.7083745
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiYx3PLH1qjsRbUm5sRFqCjk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 32,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyxqP9jK6-kt5cTqW3S8xpSaNmugjBmMfjzhUJjpA44HmFMVjaMXFL3mcChByAK6TNlncISRSloAhrsESvLaNY5FMjaXlK2x7sLhu-MNTld1nQSNuRkBuxBO0N0bTAUCZ9PXohE=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Zoya%20self%20drive%20rental%20cars&query_place_id=ChIJiYx3PLH1qjsRbUm5sRFqCjk"
+  },
+  {
+    "title": "car rental trichy",
+    "subTitle": "கார் ரெண்டல் திருச்சி",
+    "categoryName": "Car rental agency",
+    "address": "ishwarya Apartments, Officers colony, Puthur, Tennur, Tiruchirappalli, Tamil Nadu 620018, India",
+    "neighborhood": "Officers colony, Puthur, Tennur",
+    "street": "ishwarya Apartments",
+    "city": "Tiruchirappalli",
+    "postalCode": "620018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://carrentaltrichy.com/",
+    "phone": "+918903610965",
+    "phoneUnformatted": "+918903610965",
+    "location": {
+      "lat": 10.8251884,
+      "lng": 78.682424
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQAAQJ71qjsRr_YfiIZmsUs",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5TNsKXuszWEY95GTgtpPmw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.34224&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=car%20rental%20trichy&query_place_id=ChIJAQAAQJ71qjsRr_YfiIZmsUs"
+  },
+  {
+    "title": "safe track (call taxi in trichy - car rent travels-cabs in trichy- cabs service-tempo traveller)",
+    "categoryName": "Car rental agency",
+    "address": "2nd Floor, M.R.G Centre, SF 01, Karur Bypass Rd, near MM Foam Exclusive- Chandini Agencies, Killa Chinthamani, Tiruchirappalli, Tamil Nadu 620003, India",
+    "neighborhood": "Killa Chinthamani",
+    "street": "2nd Floor, M.R.G Centre, SF 01, Karur Bypass Rd, near MM Foam Exclusive- Chandini Agencies",
+    "city": "Tiruchirappalli",
+    "postalCode": "620003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.safetrack2020.com/",
+    "phone": "+919282202020",
+    "phoneUnformatted": "+919282202020",
+    "location": {
+      "lat": 10.8388542,
+      "lng": 78.6856248
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX59XmJP1qjsROmWrnjgFmKQ",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 59,
+    "imagesCount": 46,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOXh520rJFBgF0t0Aig2muJkEc7Sye6ybGW75t6=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=safe%20track%20(call%20taxi%20in%20trichy%20-%20car%20rent%20travels-cabs%20in%20trichy-%20cabs%20service-tempo%20traveller)&query_place_id=ChIJX59XmJP1qjsROmWrnjgFmKQ"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Joyfull Carz - Best Car Dealers",
+    "categoryName": "Used car dealer",
+    "address": "near tamara wedding event, near by bangalore, JP Nagar 9th Phase, Golahalli, Anjanapura, Bengaluru, Karnataka 560108, India",
+    "neighborhood": "JP Nagar 9th Phase, Golahalli",
+    "street": "near tamara wedding event, near by bangalore",
+    "city": "Anjanapura, Bengaluru",
+    "postalCode": "560108",
+    "state": "Karnataka",
+    "countryCode": "IN",
+    "phone": "+919066110602",
+    "phoneUnformatted": "+919066110602",
+    "location": {
+      "lat": 12.8596898,
+      "lng": 77.5680867
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbddYKTsVrjsR8zhrPU7h1Yk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 55,
+    "imagesCount": 86,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12 to 8 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 8 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 8 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 8 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 to 8 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 8 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 8 AM, 10 AM to 12 AM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMtnK8aqBq6dUg3SItB_YNJFak0gRY6bPGbkBwV=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Joyfull%20Carz%20-%20Best%20Car%20Dealers&query_place_id=ChIJbddYKTsVrjsR8zhrPU7h1Yk"
+  }
+]

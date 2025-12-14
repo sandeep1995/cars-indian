@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Mercedes-Benz Prime Star Kanpur Service and Sales Center",
+    "subTitle": "मर्सिडीज-बेंज प्राइम स्टार",
+    "categoryName": "Car dealer",
+    "address": "Khasra #259, Jhansi-Kanpur Highway, Kisan Nagar, NH 19, Kanpur, Uttar Pradesh 209304, India",
+    "street": "Khasra #259, Jhansi-Kanpur Highway, Kisan Nagar, NH 19",
+    "city": "Kanpur, Bhisar",
+    "postalCode": "209304",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.primestar.mercedes-benz.co.in/",
+    "phone": "+917310373737",
+    "phoneUnformatted": "+917310373737",
+    "location": {
+      "lat": 26.419342,
+      "lng": 80.14666
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMXStSltJnDkRJ4nejBzDmOQ",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 68,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyYilX9lNt9CH2ET1uDnfNvmF05wZo4ADx1nV24Zl0xohEGf2Hw99N-i1kyLsFLWa61D-IPLzH4H_AtTASRguFhWo2ZtovQ2ErCd_IxPCuCbV5_ZYqV070KzgLzWC8aK40a3dOb372jEoc=w408-h362-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mercedes-Benz%20Prime%20Star%20Kanpur%20Service%20and%20Sales%20Center&query_place_id=ChIJMXStSltJnDkRJ4nejBzDmOQ"
+  }
+]

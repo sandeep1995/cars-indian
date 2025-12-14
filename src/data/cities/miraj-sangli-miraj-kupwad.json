@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Tricolor Auto Pvt Ltd",
+    "subTitle": "ट्राइकलर ऑटो पर्वत लि",
+    "categoryName": "Motor vehicle dealer",
+    "address": "No 13, Sangli - Miraj Rd, Vishrambag, Miraj, Sangli Miraj Kupwad, Maharashtra 416415, India",
+    "neighborhood": "Vishrambag",
+    "street": "No 13, Sangli - Miraj Rd",
+    "city": "Miraj, Sangli Miraj Kupwad",
+    "postalCode": "416415",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.tricolor.com/en-US",
+    "phone": "+918556990838",
+    "phoneUnformatted": "+918556990838",
+    "location": {
+      "lat": 16.8500987,
+      "lng": 74.5916244
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSTQI-bIjwTsRNjLSIfZDUAY",
+    "categories": [
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 30,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzMwShAjg1s7BGjlz1Xh82_n7GuxyU55Z1ZsfM22_urKZFmDXeXE4ourhYgjRsU4NVYdAhGFh7ZszbmCZdPw7iNgZhwCbQMPLajMKxg9BCEXibAtDvw2ggRTwQZNIZNeCPdGqVf=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tricolor%20Auto%20Pvt%20Ltd&query_place_id=ChIJSTQI-bIjwTsRNjLSIfZDUAY"
+  }
+]

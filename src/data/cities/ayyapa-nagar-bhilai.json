@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Meraj tour and travels bhilai",
+    "subTitle": "मेराज टूर एंड ट्रैवल्स भिलाई",
+    "categoryName": "Car leasing service",
+    "address": "Street no 03, Junwani Rd, Kohka Housing Board, Ayyapa Nagar, Bhilai, Chhattisgarh 490023, India",
+    "neighborhood": "Kohka Housing Board",
+    "street": "Street no 03, Junwani Rd",
+    "city": "Ayyapa Nagar, Bhilai",
+    "postalCode": "490023",
+    "state": "Chhattisgarh",
+    "countryCode": "IN",
+    "phone": "+917869954593",
+    "phoneUnformatted": "+917869954593",
+    "location": {
+      "lat": 21.2150348,
+      "lng": 81.3345734
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ8-OQJs9KToRsJgNtWjFnqw",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOG5KoeAPUszhb2RgVuIUe0U4WD-D-7s5EwhKCp=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Meraj%20tour%20and%20travels%20bhilai&query_place_id=ChIJJ8-OQJs9KToRsJgNtWjFnqw"
+  }
+]

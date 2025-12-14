@@ -1,0 +1,120 @@
+[
+  {
+    "title": "HR travels",
+    "categoryName": "Car rental agency",
+    "address": "11, Kamarajar Rd, Jeeva Nagar, Kuppakonam Pudur, K K Pudur, Coimbatore, Tamil Nadu 641038, India",
+    "neighborhood": "Jeeva Nagar, Kuppakonam Pudur",
+    "street": "11, Kamarajar Rd",
+    "city": "K K Pudur, Coimbatore",
+    "postalCode": "641038",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://kovaihrtravels.com/",
+    "phone": "+919655096550",
+    "phoneUnformatted": "+919655096550",
+    "location": {
+      "lat": 11.0336211,
+      "lng": 76.9483324
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXWJi7SdZqDsRvC1qZFZcIpE",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Rental car return location"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCpBEaEuuZ-ggQDyd35M207dSmGSFN953kvLWx=w408-h543-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=HR%20travels&query_place_id=ChIJXWJi7SdZqDsRvC1qZFZcIpE"
+  },
+  {
+    "title": "MARUTHAMALAI MURUGAN CARS",
+    "subTitle": "மருதமலை முருகன் கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "23/1, PERIYA SUBBANNAN STREET, near by PUNJAB NATIONAL BANK, opposite to KINGSTAR TAILORS, Kuppakonam Pudur, K K Pudur, Coimbatore, Tamil Nadu 641038, India",
+    "neighborhood": "Kuppakonam Pudur",
+    "street": "23/1, PERIYA SUBBANNAN STREET, near by PUNJAB NATIONAL BANK, opposite to KINGSTAR TAILORS",
+    "city": "K K Pudur, Coimbatore",
+    "postalCode": "641038",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "location": {
+      "lat": 11.0274778,
+      "lng": 76.9474943
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ1qIK41YqDsR4eOyHl58D_Y",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 33,
+    "imagesCount": 408,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOwP2SIPr9_eKaf0yl79OXw6_UdBSRe01BNacE=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MARUTHAMALAI%20MURUGAN%20CARS&query_place_id=ChIJJ1qIK41YqDsR4eOyHl58D_Y"
+  }
+]

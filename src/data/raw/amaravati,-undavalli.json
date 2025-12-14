@@ -1,0 +1,58 @@
+[
+  {
+    "title": "GK SELF DRIVE CARS AND TRAVELS",
+    "categoryName": "Car rental agency",
+    "address": "FHVR+QH8, Undavalli, Amaravati, Undavalli, Andhra Pradesh 522501, India",
+    "neighborhood": "Undavalli",
+    "street": "FHVR+QH8",
+    "city": "Amaravati, Undavalli",
+    "postalCode": "522501",
+    "state": "Andhra Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 16.4944179,
+      "lng": 80.5914545
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvSmJWQDxNToRPJlfvqFnnAQ",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxdTmdBr-XmvLVKwLyw0M1xXwFpXi82H2FGbaEpQmw8lRDkUH-nI_u0jK0Z-wvr920vUdmqWYi8dpzyTYBQa7-a10kfQnGvyvsOh3bg5ceoufiXsWhyC0Or56w58nxYZJ6l9r5SPDp19W34=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=GK%20SELF%20DRIVE%20CARS%20AND%20TRAVELS&query_place_id=ChIJvSmJWQDxNToRPJlfvqFnnAQ"
+  }
+]

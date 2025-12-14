@@ -1,0 +1,60 @@
+[
+  {
+    "title": "The Best Choice",
+    "categoryName": "Used car dealer",
+    "address": "Laxmi Market, near Shani Mandir, Sector 8, Rourkela, Raurkela Industrialship, Odisha 769009, India",
+    "neighborhood": "Sector 8",
+    "street": "Laxmi Market, near Shani Mandir",
+    "city": "Rourkela, Raurkela Industrialship",
+    "postalCode": "769009",
+    "state": "Odisha",
+    "countryCode": "IN",
+    "phone": "+917008377051",
+    "phoneUnformatted": "+917008377051",
+    "location": {
+      "lat": 22.2473923,
+      "lng": 84.842412
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtQ1mSjgfIDoRW9ITEwz6yrc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 2 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN7_0hzq8tzyomBY0962zNSSqEmPjQRNBS8QUC5=w408-h498-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Best%20Choice&query_place_id=ChIJtQ1mSjgfIDoRW9ITEwz6yrc"
+  }
+]

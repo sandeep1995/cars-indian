@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Rapidx Car Rental",
+    "subTitle": "रैपिड कार रेंटल",
+    "categoryName": "Car leasing service",
+    "address": "Badrish Apartment, Ln. No. 5, Banjarawala, Kargigrant, Dehradun, Uttarakhand 248121, India",
+    "neighborhood": "Banjarawala",
+    "street": "Badrish Apartment, Ln. No. 5",
+    "city": "Kargigrant, Dehradun",
+    "postalCode": "248121",
+    "state": "Uttarakhand",
+    "countryCode": "IN",
+    "website": "https://rapidxcarrental.in/self-drive-car-rental-dehradun/",
+    "location": {
+      "lat": 30.2828875,
+      "lng": 78.02885
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU_nkQbQpCTkRku-f8GGdgRs",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOHNjyRx1o8tUxEea9KtJlwdDWHnrs5V0wZEHkZ=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rapidx%20Car%20Rental&query_place_id=ChIJU_nkQbQpCTkRku-f8GGdgRs"
+  }
+]

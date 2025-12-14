@@ -1,0 +1,31 @@
+[
+  {
+    "title": "ZOOM CAR",
+    "subTitle": "জুম কার",
+    "categoryName": "Car rental agency",
+    "address": "TAPABAN CITY, Arrah Kalinagar, BAMUNARA, Durgapur, West Bengal 713212, India",
+    "neighborhood": "Arrah Kalinagar",
+    "street": "TAPABAN CITY",
+    "city": "BAMUNARA, Durgapur",
+    "postalCode": "713212",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/zoom-car-durgapur/about",
+    "location": {
+      "lat": 23.51258,
+      "lng": 87.3767021
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjyIuAQpx9zkRLUcLZF2_SPE",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 16,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyn35xPaIa3dKYxf3R-xgL6-NnIKMCeLQdldM-fqK8s3h27AsgQiBTltCtEIsWlGGcoCRWLkPmUuM_pYs1jpFP4HRGcAtIA-RxuQmJzJCUDj58BdCS2__gOs3BQizHiMq57yPdD7A=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=ZOOM%20CAR&query_place_id=ChIJjyIuAQpx9zkRLUcLZF2_SPE"
+  }
+]

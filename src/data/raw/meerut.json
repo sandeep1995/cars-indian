@@ -1,0 +1,1030 @@
+[
+  {
+    "title": "Ayansh Travels",
+    "subTitle": "अयांश ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "358/A Nehru Nagar, Street Number 4, near Chavi Beauty Palour, Meerut, Uttar Pradesh 250001, India",
+    "neighborhood": "Panchsheel Colony",
+    "street": "358/A Nehru Nagar, Street Number 4, near Chavi Beauty Palour",
+    "city": "Meerut",
+    "postalCode": "250001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918791922977",
+    "phoneUnformatted": "+918791922977",
+    "location": {
+      "lat": 28.9701795,
+      "lng": 77.7254077
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-QirGkplDDkR3TwDb8hLlNo",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service"
+    ],
+    "reviewsCount": 32,
+    "imagesCount": 4,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJGoWZeR-5wGJmLHZkPrlh0cXBHRXjNrfScSdC=w408-h414-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ayansh%20Travels&query_place_id=ChIJ-QirGkplDDkR3TwDb8hLlNo"
+  },
+  {
+    "title": "Car Solution",
+    "subTitle": "कार सोल्यूशन",
+    "categoryName": "Car dealer",
+    "address": "Car Solution Jatoli, NH-58, merrut, NH58, Meerut, Uttar Pradesh 250001, India",
+    "neighborhood": "Shradhapuri Phase 2",
+    "street": "Car Solution Jatoli, NH-58, merrut, NH58",
+    "city": "Meerut",
+    "postalCode": "250001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919548470170",
+    "phoneUnformatted": "+919548470170",
+    "location": {
+      "lat": 29.02908,
+      "lng": 77.669443
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4wZHFiJlDDkRDMq7F4p7FEU",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 14,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOX6pC8hj333qb3KVu5Ex44GeIPzVaOH4bmOfMn=w456-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Solution&query_place_id=ChIJ4wZHFiJlDDkRDMq7F4p7FEU"
+  },
+  {
+    "title": "Car dekho meerut",
+    "subTitle": "कार देखो मेरठ",
+    "categoryName": "Car rental agency",
+    "address": "4th Floor, Krishna Tower, near dr Vivek Jain Clinic, Ramgarhi, Meerut, Uttar Pradesh 250004, India",
+    "neighborhood": "Ramgarhi",
+    "street": "4th Floor, Krishna Tower, near dr Vivek Jain Clinic",
+    "city": "Meerut",
+    "postalCode": "250004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.9670475,
+      "lng": 77.7375291
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHw_js7RlDDkRcLnhDlvQbMc",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TmGigc_AlPnJLNDNkt6-NA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.58212&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20dekho%20meerut&query_place_id=ChIJHw_js7RlDDkRcLnhDlvQbMc"
+  },
+  {
+    "title": "Car ghar car sales",
+    "subTitle": "आर टी मोटर्स मेरठ कारें",
+    "categoryName": "Car dealer",
+    "address": "Garh Rd, near Radha Govind School, Jai Bhim Nagar, Meerut, Uttar Pradesh 250004, India",
+    "neighborhood": "Jai Bhim Nagar",
+    "street": "Garh Rd, near Radha Govind School",
+    "city": "Meerut",
+    "postalCode": "250004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://carghar.net/",
+    "phone": "+919389038579",
+    "phoneUnformatted": "+919389038579",
+    "location": {
+      "lat": 28.9508712,
+      "lng": 77.7608112
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaYHPSuxkDDkR5Zs4eF36S_U",
+    "categories": [
+      "Car dealer",
+      "Loan agency"
+    ],
+    "reviewsCount": 27,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpeURGDwzeuvg74wW_ldm_WkcU-gQPOoj4Qlgz=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20ghar%20car%20sales&query_place_id=ChIJaYHPSuxkDDkR5Zs4eF36S_U"
+  },
+  {
+    "title": "Choudhary Motors",
+    "subTitle": "चौधरी मोटर्स",
+    "categoryName": "Car dealer",
+    "address": "326/1, Roorkee Road, Modipuram, near Dev Mandir Modipuram meerut, Meerut, Uttar Pradesh 250110, India",
+    "neighborhood": "N B Colony, Modipuram",
+    "street": "326/1, Roorkee Road, Modipuram, near Dev Mandir Modipuram meerut",
+    "city": "Meerut",
+    "postalCode": "250110",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919675018128",
+    "phoneUnformatted": "+919675018128",
+    "location": {
+      "lat": 29.0526509,
+      "lng": 77.7075245
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ76EnzptvDDkRdnviwlClMg8",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/jcBXOoxdilQIivnAPmAt1S0Vtl3M9lHHQAU2a1Hy9fHz1kROAxKPDKqILxKJxe4p=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Choudhary%20Motors&query_place_id=ChIJ76EnzptvDDkRdnviwlClMg8"
+  },
+  {
+    "title": "City Motors",
+    "subTitle": "सिटी मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "XP8M+C5C, Disha Chamber, Garh Road, Shastri Nagar, near Raja Rani Mandap, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Sector 3, Shastri Nagar",
+    "street": "XP8M+C5C, Disha Chamber, Garh Road, Shastri Nagar, near Raja Rani Mandap",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917017210391",
+    "phoneUnformatted": "+917017210391",
+    "location": {
+      "lat": 28.966057,
+      "lng": 77.7328919
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZx8ExblkDDkRRj4Nu_hVg7Y",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 PM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh4.googleusercontent.com/yOYd13xveT9NXXBVkIU7gX0C3jkSI0cWfrgShabfv-dkLEFXK9r1zfbSdIrkCpMX=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=City%20Motors&query_place_id=ChIJZx8ExblkDDkRRj4Nu_hVg7Y"
+  },
+  {
+    "title": "Detailing Dreams Meerut",
+    "subTitle": "डिटेलिंग ड्रीम्स मेरठ",
+    "categoryName": "Car wash",
+    "address": "243, Shatabdi Nagar, Sector 3, Industrial Area, Meerut, Uttar Pradesh 250103, India",
+    "neighborhood": "Shatabdi Nagar, Sector 3, Industrial Area",
+    "street": "243",
+    "city": "Meerut",
+    "postalCode": "250103",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://detailingdreams.in/",
+    "phone": "+918445500776",
+    "phoneUnformatted": "+918445500776",
+    "location": {
+      "lat": 28.9150265,
+      "lng": 77.6558466
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAXrdwVZjDDkRr_bKtKldQaE",
+    "categories": [
+      "Car wash",
+      "Auto body shop",
+      "Auto painting",
+      "Auto restoration service",
+      "Bike wash",
+      "Car accessories store",
+      "Powder coating service"
+    ],
+    "reviewsCount": 189,
+    "imagesCount": 82,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyjHZt8Zvc_aK2Zc7ZKZCp1go7cB9s6KNzBJ97I_8zdvvR8omHHxRT9dR_JaLQWQwZKd6Jl7osTlfnOVrJt0MRsX3Su75nO3ViDsHu9io4GxqNR6apdKOeR58QlNPwQt8sfihE=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Detailing%20Dreams%20Meerut&query_place_id=ChIJAXrdwVZjDDkRr_bKtKldQaE"
+  },
+  {
+    "title": "Fine Motors",
+    "subTitle": "फाइन मोटर्स",
+    "categoryName": "Car dealer",
+    "address": "Shyam Nagar, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Shyam Nagar",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918630899857",
+    "phoneUnformatted": "+918630899857",
+    "location": {
+      "lat": 28.9426146,
+      "lng": 77.7246026
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4WddUF5jDDkRTYT_2P0YL0c",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 17,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwXwcqfCO6zZo8Wi1jvckJ6OLS8780qWxB7XPnSNPCl2sTekS3eV7LLSC80wHHiXV9wi-sU7NHkM3gL6qQ1BuAtuvDgsygjheH4s_R3rkytbSDySJ8izEJUkQm6OrUKs7g_suQ=w532-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Fine%20Motors&query_place_id=ChIJ4WddUF5jDDkRTYT_2P0YL0c"
+  },
+  {
+    "title": "Imperial Services (Luxury Car Hire)",
+    "subTitle": "इंपीरियल सर्विसेस (लग्जरी कार हीरे)",
+    "categoryName": "Car rental agency",
+    "address": "Pilokhari road, near Pilokhari Police Station, Shyam Nagar, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Shyam Nagar",
+    "street": "Pilokhari road, near Pilokhari Police Station",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.imperial-services.in/",
+    "phone": "+919358777770",
+    "phoneUnformatted": "+919358777770",
+    "location": {
+      "lat": 28.9635057,
+      "lng": 77.7062311
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ8GNR1pjDDkRj7l-KpviVCo",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Limousine service"
+    ],
+    "reviewsCount": 84,
+    "imagesCount": 273,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMZOH7e3jUMnMJ4nwwc8WaDwZpYmikPqg2-B3-e=w408-h309-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Imperial%20Services%20(Luxury%20Car%20Hire)&query_place_id=ChIJZ8GNR1pjDDkRj7l-KpviVCo"
+  },
+  {
+    "title": "Indian luxury Tour & Travels Meerut",
+    "subTitle": "इंडियन लक्जरी टूर & ट्रैवल्स मेरठ",
+    "categoryName": "Car rental agency",
+    "address": "1293, Hapur Rd, opp. Noor Jahan Farm House, Islamabad, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Islamabad",
+    "street": "1293, Hapur Rd, opp. Noor Jahan Farm House",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.9572073,
+      "lng": 77.7185864
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJrzM6bwBlDDkR7N0k5OEgZ2A",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PhHZB7BnDI9zOjkO7Afzcg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=280.25336&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Indian%20luxury%20Tour%20%26%20Travels%20Meerut&query_place_id=ChIJrzM6bwBlDDkR7N0k5OEgZ2A"
+  },
+  {
+    "title": "Jyoti Travels",
+    "subTitle": "ज्योति ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Jyoti travels, 65-b old 517, Kaliyagarhi Rd, near pnb bank, Kaliyagarhi, Jagrati Vihar, Meerut, Uttar Pradesh 250004, India",
+    "neighborhood": "Kaliyagarhi, Jagrati Vihar",
+    "street": "Jyoti travels, 65-b old 517, Kaliyagarhi Rd, near pnb bank",
+    "city": "Meerut",
+    "postalCode": "250004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919760423374",
+    "phoneUnformatted": "+919760423374",
+    "location": {
+      "lat": 28.95524,
+      "lng": 77.748063
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRwBAI017DDkRcp3IRi-0gzc",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 140,
+    "imagesCount": 39,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNvGeoPLxM2TbcdZUuoQjm56YR9sXW3C6rYL9L4=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jyoti%20Travels&query_place_id=ChIJRwBAI017DDkRcp3IRi-0gzc"
+  },
+  {
+    "title": "Khan's prestige Rides",
+    "subTitle": "खान'स प्रेस्टीज राइड्स",
+    "categoryName": "Car rental agency",
+    "address": "1464/6, Lisari Rd, Tarapuri, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Tarapuri",
+    "street": "1464/6, Lisari Rd",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.9580962,
+      "lng": 77.7001852
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ246T-_FlDDkRcBO4ZkSo_iU",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ndh5OJylRlyRfcb_mesEdA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=106.416695&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Khan's%20prestige%20Rides&query_place_id=ChIJ246T-_FlDDkRcBO4ZkSo_iU"
+  },
+  {
+    "title": "Luxury Travels",
+    "subTitle": "लक्जरी ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "1293, Hapur Rd, opp. Noor Jahan Farm House, Ahmad Nagar, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Ahmad Nagar",
+    "street": "1293, Hapur Rd, opp. Noor Jahan Farm House",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919058151898",
+    "phoneUnformatted": "+919058151898",
+    "location": {
+      "lat": 28.9529695,
+      "lng": 77.7203193
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJG2g-ygdlDDkRnZAvXkKtTWI",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 22,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMf1n_4ZQwN2XtXmPW6UVeoWZpYDSWrLMXPMTxZ=w408-h545-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Travels&query_place_id=ChIJG2g-ygdlDDkRnZAvXkKtTWI"
+  },
+  {
+    "title": "Meerut",
+    "subTitle": "मेरठ",
+    "categoryName": "Used car dealer",
+    "address": "201/B, Garh Rd, near Radha Govind School, Jai Bhim Nagar, Meerut, Uttar Pradesh 250004, India",
+    "neighborhood": "Jai Bhim Nagar",
+    "street": "201/B, Garh Rd, near Radha Govind School",
+    "city": "Meerut",
+    "postalCode": "250004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.950708,
+      "lng": 77.7609702
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsUmFHQB7DDkR-Fu3wz5_zG0",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BHfzgCZq4gV1f1FsMKQUaw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=28.738438&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Meerut&query_place_id=ChIJsUmFHQB7DDkR-Fu3wz5_zG0"
+  },
+  {
+    "title": "Meerut luxury rental car",
+    "subTitle": "मेरठ लक्जरी रेंटल कार",
+    "categoryName": "Car rental agency",
+    "address": "XP68+3W9, Hapur Rd, Umar Nagar, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Umar Nagar",
+    "street": "XP68+3W9, Hapur Rd",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.9601506,
+      "lng": 77.717371
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHa3CVABlDDkRYGti_BfjdyU",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx1rxS9m0WNXZ5MaUR_v7vra-l12HtizT_F5Ib-XhGYwWmttgr4sNOcE0xJ7NY1kk-dKZnjgxWrXuOil6iS10XO_-H17yzH8lSjl6_UudEkNu03PFO6U4MsbWRdzOnJi5D4Ex0W=w408-h436-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Meerut%20luxury%20rental%20car&query_place_id=ChIJHa3CVABlDDkRYGti_BfjdyU"
+  },
+  {
+    "title": "NEXA (RadhaGovind Wheels, Meerut, Garh Road)",
+    "subTitle": "नेक्सा (राधागोविंद व्हील्स, मेरठ, गढ़ रोड)",
+    "categoryName": "Car dealer",
+    "address": "Garh Rd, opposite Medical College, sector-5, jagriti vihar, Jagrati Vihar, Meerut, Uttar Pradesh 250004, India",
+    "neighborhood": "sector-5, jagriti vihar, Jagrati Vihar",
+    "street": "Garh Rd, opposite Medical College",
+    "city": "Meerut",
+    "postalCode": "250004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.nexaofgarhroad.com/",
+    "phone": "+918062512747",
+    "phoneUnformatted": "+918062512747",
+    "location": {
+      "lat": 28.959615,
+      "lng": 77.7480866
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcQzE7MF7DDkR5CMCVR-9pGg",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1544,
+    "imagesCount": 256,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOy0exdVs7MXumeTenNcbRaGMUpFYB_BwKkDRba=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NEXA%20(RadhaGovind%20Wheels%2C%20Meerut%2C%20Garh%20Road)&query_place_id=ChIJcQzE7MF7DDkR5CMCVR-9pGg"
+  },
+  {
+    "title": "Safe Luxury Car Rental Meerut",
+    "subTitle": "सेफ लक्जरी कार रेंटल मेरठ",
+    "categoryName": "Car rental agency",
+    "address": "WPPG+PRM, B Block, Lohia Nagar, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "B Block, Lohia Nagar",
+    "street": "WPPG+PRM",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.saferentacar.in/location/meerut",
+    "location": {
+      "lat": 28.9368253,
+      "lng": 77.7270592
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCeQvyONjDDkRdgX7gJt9MwQ",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzttbqbQimJZfxkt27pYXkM4d-XStVYldyE7DHrIjNHVlf2Nb47vUqGgDe2aRQm-8W4-HyQ-XVoty27ozdsNvcNieMKcwezgza7DtDUCQo-9I0WVgEGQTFe060Via0keU98xT26=w408-h529-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Safe%20Luxury%20Car%20Rental%20Meerut&query_place_id=ChIJCeQvyONjDDkRdgX7gJt9MwQ"
+  },
+  {
+    "title": "Samudra Hyundai Meerut (Authorized Sales & Service Outlet)",
+    "subTitle": "समुद्र हुंडई",
+    "categoryName": "Hyundai dealer",
+    "address": "37, Garh Rd, near vishal mega mart, Kalyan, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Kalyan",
+    "street": "37, Garh Rd, near vishal mega mart",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.hyundai.com/in/en/Shopping/ShoppingTools/FindDealer/index.html",
+    "phone": "+917971266525",
+    "phoneUnformatted": "+917971266525",
+    "location": {
+      "lat": 28.9690422,
+      "lng": 77.7248942
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ90CVxbhkDDkRNnW0_GR5WGc",
+    "categories": [
+      "Hyundai dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 3058,
+    "imagesCount": 212,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyHP4VncsXHnh-F4OLjU-L9sbezQuGDoHNLQQYL5wbIo6flG5JJ7HSt1nvdCpKcndom58hXqQQwF1FJElfs4JhaYLyscSkZQEXyqXY5fbRqBO7riawLU9yugN44kkfDeBlRtkta=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Samudra%20Hyundai%20Meerut%20(Authorized%20Sales%20%26%20Service%20Outlet)&query_place_id=ChIJ90CVxbhkDDkRNnW0_GR5WGc"
+  },
+  {
+    "title": "Shiva Tourism - Taxi & Tempo Traveller Services In Meerut",
+    "subTitle": "शिवा टूरिज्म - टैक्सी & टेम्पो ट्रैवलर सर्विसेस इन मेरठ",
+    "categoryName": "Car rental agency",
+    "address": "169/2, Rohta Rd, Tej Vihar, Fazalpur, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "Tej Vihar, Fazalpur",
+    "street": "169/2, Rohta Rd",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.shivatourism.com/",
+    "phone": "+918958979797",
+    "phoneUnformatted": "+918958979797",
+    "location": {
+      "lat": 28.9923179,
+      "lng": 77.6666823
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtXzrLmxnDDkRzik0dRNv7DQ",
+    "categories": [
+      "Car rental agency",
+      "Airline ticket agency",
+      "Airport",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 559,
+    "imagesCount": 158,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYxtbqk5COzx-VEuIYSrIVWIbgZat9QL2l_pt4=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Tourism%20-%20Taxi%20%26%20Tempo%20Traveller%20Services%20In%20Meerut&query_place_id=ChIJtXzrLmxnDDkRzik0dRNv7DQ"
+  },
+  {
+    "title": "Shri Laxmi Travels",
+    "subTitle": "श्री लक्ष्मी ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "K 154, H Block, L Block, Ambedkar Chawk, Shastri Nagar, Meerut, Uttar Pradesh 250002, India",
+    "neighborhood": "H Block, L Block, Ambedkar Chawk, Shastri Nagar",
+    "street": "K 154",
+    "city": "Meerut",
+    "postalCode": "250002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.shrilaxmitravels.org/",
+    "phone": "+919897120296",
+    "phoneUnformatted": "+919897120296",
+    "location": {
+      "lat": 28.9553893,
+      "lng": 77.7310002
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5VzvoxZlDDkRXVgv89Vwtyo",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Taxicab Stand",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency",
+      "Travel clinic"
+    ],
+    "reviewsCount": 145,
+    "imagesCount": 27,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrTXENblqJFdG-VC-M0qxhPMj98GK7Il_x7-2l=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Laxmi%20Travels&query_place_id=ChIJ5VzvoxZlDDkRXVgv89Vwtyo"
+  },
+  {
+    "title": "Super Cars",
+    "subTitle": "सुपर कार्स",
+    "categoryName": "Used car dealer",
+    "address": "73, Boundary Rd, Lal Kothi, Lalkurti Bazaar, Meerut Cantt, Meerut, Uttar Pradesh 250001, India",
+    "neighborhood": "Lal Kothi, Lalkurti Bazaar, Meerut Cantt",
+    "street": "73, Boundary Rd",
+    "city": "Meerut",
+    "postalCode": "250001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917409777744",
+    "phoneUnformatted": "+917409777744",
+    "location": {
+      "lat": 28.9964579,
+      "lng": 77.7101008
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU9bNpQRlDDkRjalgTc4vycg",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 112,
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzWwX-MoyDvJGODHNCZp5CFtF_UsLZPmM1teOCWbVHjSKq4SD7ezIytoWDEQPPRtt8tm_q_-X-NiJzv57rI_xrNmGDlTp6Hxvc2UsPNFcor62Q3QIPmXiSwusaFAX_zvEZAkr1l=w408-h290-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Super%20Cars&query_place_id=ChIJU9bNpQRlDDkRjalgTc4vycg"
+  },
+  {
+    "title": "VR MOTORS",
+    "subTitle": "वीआर मोटर्स",
+    "categoryName": "Car dealer",
+    "address": "716, Mangal Pandey Nagar Rd, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004, India",
+    "neighborhood": "Mangal Pandey Nagar, Ramgarhi",
+    "street": "716, Mangal Pandey Nagar Rd",
+    "city": "Meerut",
+    "postalCode": "250004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://vrmotors1.odoo.com/",
+    "location": {
+      "lat": 28.969721,
+      "lng": 77.7337809
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo4CpAPjPUA8Ry1aBgU695wA",
+    "categories": [
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMWTkBIe9h5kcCrOZmdjln13liCuK3q2IL7SSf8=w408-h904-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VR%20MOTORS&query_place_id=ChIJo4CpAPjPUA8Ry1aBgU695wA"
+  }
+]

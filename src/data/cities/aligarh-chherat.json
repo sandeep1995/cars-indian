@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Car Daddy",
+    "subTitle": "कार डैडी",
+    "categoryName": "Car dealer",
+    "address": "Car daddy, Anoop Shahar Road, near welcome garden, Hamdard Nagar, Aligarh, Chherat, Uttar Pradesh 202122, India",
+    "neighborhood": "Hamdard Nagar",
+    "street": "Car daddy, Anoop Shahar Road, near welcome garden",
+    "city": "Aligarh, Chherat",
+    "postalCode": "202122",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 27.9574926,
+      "lng": 78.0893954
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE3TuBWyldDkRL4WgTtNT_9k",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 54,
+    "imagesCount": 42,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzf86h3Kw9fHeVigIznXkgERMRhdD1o0am7yLvJFpMpL8ykcP2y3jrB4dtRsLJNV4vdgf9O5xztvcLAvVOQ6_suUqYerrWZw8QTR_bS3EVRuKWDgYcOJeQTy_9qN5FGSKR1-Wna=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Daddy&query_place_id=ChIJE3TuBWyldDkRL4WgTtNT_9k"
+  }
+]

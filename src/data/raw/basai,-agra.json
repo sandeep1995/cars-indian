@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Agra Tourist Guide",
+    "subTitle": "आगरा टूरिस्ट गाइड",
+    "categoryName": "Car rental agency",
+    "address": "44Z Neeti Bagh, Tajganj, Uttar Pradesh 282001, India",
+    "neighborhood": "Tajganj",
+    "street": "44Z Neeti Bagh, Tajganj",
+    "city": "Basai, Agra",
+    "postalCode": "282001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://alamgirtajmahalguide.com/",
+    "phone": "+919837519998",
+    "phoneUnformatted": "+919837519998",
+    "location": {
+      "lat": 27.1495948,
+      "lng": 78.0440987
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy1GfQ2pxdDkRyzNTP7BVjJs",
+    "categories": [
+      "Car rental agency",
+      "Tour operator",
+      "Homestay",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tourist attraction",
+      "Tourist information center"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 14,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIMMGeI9n_GKEW1ktQ5kgKKM9OuYta3sznxbTR=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Agra%20Tourist%20Guide&query_place_id=ChIJy1GfQ2pxdDkRyzNTP7BVjJs"
+  },
+  {
+    "title": "Dura cabs services | Self Drive Car Rental | One Way Cab Service",
+    "subTitle": "दूर कैब्स सर्विसेस | सेल्फ ड्राइव कार रेंटल | वन वे कैब सर्विस",
+    "categoryName": "Car leasing service",
+    "address": "First Floor, Shop No.16, Kripadham Complex, Kh No.287/1, Fatehabad Rd, Tourist Complex Area, Near Man Singh Palace, Mauja, Tajganj, Basai, Agra, Uttar Pradesh 282001, India",
+    "neighborhood": "Tourist Complex Area, Near Man Singh Palace, Mauja, Tajganj",
+    "street": "First Floor, Shop No.16, Kripadham Complex, Kh No.287/1, Fatehabad Rd",
+    "city": "Basai, Agra",
+    "postalCode": "282001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.duracabs.com/",
+    "phone": "+917088873331",
+    "phoneUnformatted": "+917088873331",
+    "location": {
+      "lat": 27.1626214,
+      "lng": 78.0396504
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJV8RZeV1xdDkRMZp_KYsA4xg",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Currency exchange service",
+      "Minibus taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 43,
+    "imagesCount": 66,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPz7hB4osXfvtxBlvKIO3cKyQoM5nq-Se_pRyzs=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dura%20cabs%20services%20%7C%20Self%20Drive%20Car%20Rental%20%7C%20One%20Way%20Cab%20Service&query_place_id=ChIJV8RZeV1xdDkRMZp_KYsA4xg"
+  }
+]

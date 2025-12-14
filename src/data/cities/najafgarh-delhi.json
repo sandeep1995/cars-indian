@@ -1,0 +1,62 @@
+[
+  {
+    "title": "VS Luxury Car Rental",
+    "subTitle": "वीएस लक्जरी कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "J 286+7QF, Najafgarh Rd, Ranaji Enclave, Masudabad, Najafgarh, Delhi, 110043, India",
+    "neighborhood": "Ranaji Enclave, Masudabad, Najafgarh",
+    "street": "J 286+7QF, Najafgarh Rd",
+    "city": "Najafgarh, Delhi",
+    "postalCode": "110043",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "website": "https://vsluxurycarrental.com/",
+    "phone": "+919198486186",
+    "phoneUnformatted": "+919198486186",
+    "location": {
+      "lat": 28.6182286,
+      "lng": 77.0130128
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL48lEZ0FDTkRsWkGQnoZBAY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPsVbiTnDn8XUGZztxzrMpSCQWfxJr-b5yhnFMn=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VS%20Luxury%20Car%20Rental&query_place_id=ChIJL48lEZ0FDTkRsWkGQnoZBAY"
+  }
+]

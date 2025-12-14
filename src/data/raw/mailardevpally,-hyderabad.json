@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Car max cars sales & purchase",
+    "categoryName": "Used car dealer",
+    "address": "Shop no:1, kattedan road, beside hayat hotel, Milardevpally, Vyasapuri, Udamgadda, Chandrayangutta, Mailardevpally, Hyderabad, Telangana 500005, India",
+    "neighborhood": "Milardevpally, Vyasapuri, Udamgadda, Chandrayangutta",
+    "street": "Shop no:1, kattedan road, beside hayat hotel",
+    "city": "Mailardevpally, Hyderabad",
+    "postalCode": "500005",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+917032898231",
+    "phoneUnformatted": "+917032898231",
+    "location": {
+      "lat": 17.3156063,
+      "lng": 78.4554529
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh-Och2O9yzsRnFc0n3bmLVU",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "2 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9Z1j76_a95PtS6UIZRmKbzfq90wxugn4cF1Io=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20max%20cars%20sales%20%26%20purchase&query_place_id=ChIJh-Och2O9yzsRnFc0n3bmLVU"
+  }
+]

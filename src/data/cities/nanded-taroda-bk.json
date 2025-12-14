@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Rishabh Tour's and Travels, Nanded",
+    "subTitle": "रिषभ तौर'से एंड ट्रेवल्स, नांदेड़",
+    "categoryName": "Car rental agency",
+    "address": "Near, railway station road, Balaji Nagar, Nanded, Taroda Bk., Maharashtra 431605, India",
+    "neighborhood": "Balaji Nagar",
+    "street": "Near, railway station road",
+    "city": "Nanded, Taroda Bk.",
+    "postalCode": "431605",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918380910003",
+    "phoneUnformatted": "+918380910003",
+    "location": {
+      "lat": 19.185366,
+      "lng": 77.3036302
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyUppQADX0TsReqAm1s1dORM",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP4y16NFxfFPuAdOCUZuVPf8wBKQY7DW3_0UqTP=w408-h620-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rishabh%20Tour's%20and%20Travels%2C%20Nanded&query_place_id=ChIJyUppQADX0TsReqAm1s1dORM"
+  }
+]

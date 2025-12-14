@@ -1,0 +1,30 @@
+[
+  {
+    "title": "S & S Tour And Travels",
+    "subTitle": "এস & এস ট্যুর এন্ড ট্রাভেলস",
+    "categoryName": "Car rental agency",
+    "address": "Laa Jawaab Hotel, opp. Shiv Mandir, Railpar, Sitladanga, Asansol, West Bengal 713302, India",
+    "neighborhood": "Railpar",
+    "street": "Laa Jawaab Hotel, opp. Shiv Mandir",
+    "city": "Sitladanga, Asansol",
+    "postalCode": "713302",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.6967266,
+      "lng": 86.9700338
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJtcH8LeEf9zkRv7-bahR7TyY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3akcknFKWPgRXRi3kKsZQw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=111.658875&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=S%20%26%20S%20Tour%20And%20Travels&query_place_id=ChIJtcH8LeEf9zkRv7-bahR7TyY"
+  }
+]

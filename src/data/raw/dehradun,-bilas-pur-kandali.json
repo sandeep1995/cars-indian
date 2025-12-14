@@ -1,0 +1,31 @@
+[
+  {
+    "title": "EZgo Cabs",
+    "subTitle": "इज़्ज़ो कैब्स",
+    "categoryName": "Car leasing service",
+    "address": "near Panchyat Ghar, Kaulagarh, Dehradun, Bilas Pur Kandali, Uttarakhand 248195, India",
+    "neighborhood": "Kaulagarh",
+    "street": "near Panchyat Ghar",
+    "city": "Dehradun, Bilas Pur Kandali",
+    "postalCode": "248195",
+    "state": "Uttarakhand",
+    "countryCode": "IN",
+    "location": {
+      "lat": 30.3495704,
+      "lng": 78.0067077
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl0WrzabVCDkRggKbVxaW79A",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 13,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMHTX_AAe9EudPORrqhL00NMy3a6ZZJ5usscWDU=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=EZgo%20Cabs&query_place_id=ChIJl0WrzabVCDkRggKbVxaW79A"
+  }
+]

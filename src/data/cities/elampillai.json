@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Arul Travels",
+    "categoryName": "Car rental agency",
+    "address": "5/326, Chinnamariyamman Kovil Rd, streat, Thappakkuttai, Elampillai, Tamil Nadu 637502, India",
+    "neighborhood": "streat, Thappakkuttai",
+    "street": "5/326, Chinnamariyamman Kovil Rd",
+    "city": "Elampillai",
+    "postalCode": "637502",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919787873376",
+    "phoneUnformatted": "+919787873376",
+    "location": {
+      "lat": 11.6088722,
+      "lng": 77.9930243
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk5EymWLjqzsRJ8rFzuv3jpY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 65,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO15axuajr_X9zXwwiDVjIJaSBpJUpFQz7sJjtP=w408-h906-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Arul%20Travels&query_place_id=ChIJk5EymWLjqzsRJ8rFzuv3jpY"
+  }
+]

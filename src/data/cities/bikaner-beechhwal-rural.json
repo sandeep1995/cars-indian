@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Bhawani travels",
+    "subTitle": "भवानी ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "near Roadways bus stand, Samta Nagar, Bikaner, Beechhwal Rural, Rajasthan 334001, India",
+    "neighborhood": "Samta Nagar",
+    "street": "near Roadways bus stand",
+    "city": "Bikaner, Beechhwal Rural",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.bhawanitravels.in/",
+    "phone": "+918875319807",
+    "phoneUnformatted": "+918875319807",
+    "location": {
+      "lat": 28.0370485,
+      "lng": 73.3261101
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZT6Pc2TdPzkRdS49oqqW0rM",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 157,
+    "imagesCount": 18,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-gw2fdHGNaM0NNX3HUfTSKD3zoJe-FAvm2p68=w408-h610-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bhawani%20travels&query_place_id=ChIJZT6Pc2TdPzkRdS49oqqW0rM"
+  }
+]

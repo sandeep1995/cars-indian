@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Auto Pride",
+    "subTitle": "ఆటో ప్రైడ్",
+    "categoryName": "Used car dealer",
+    "address": "# 1-8-30, 5/5, Minister Rd, Ramgopalpet, Secunderabad, Telangana 500003, India",
+    "neighborhood": "Patigadda, Ramgopalpet",
+    "street": "# 1-8-30, 5/5, Minister Rd",
+    "city": "Secunderabad, Hyderabad",
+    "postalCode": "500003",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+914066807776",
+    "phoneUnformatted": "+914066807776",
+    "location": {
+      "lat": 17.434909,
+      "lng": 78.4834963
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkwjWXwSayzsRsMpsZ_TIhQk",
+    "categories": [
+      "Used car dealer",
+      "Chauffeur service"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFuMGtmGNWMIevcC31FcEXZfSBIC1x3qINiAxxWytZHApp2naIuMjXiJIMqTLTvcq9WJpRrnJxGZjHARbKSkfkzFbxr1sqQ6WFul9nCymyL11me8p1ww7QujjdWWihwI6V1rukhpOWlxNCX8x2EjVUOo5ttus4slQswiNs6WOE91AZzkcrc3J8UfSPsh6gIj3-dnJo=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Pride&query_place_id=ChIJkwjWXwSayzsRsMpsZ_TIhQk"
+  },
+  {
+    "title": "MUJEEB CARS (CHILKALGUDA) best second hand car dealer in Hyderabad",
+    "categoryName": "Used car dealer",
+    "address": "Plot no.518/1, near Chandra concept school, Chilkalguda, Padmarao Nagar, Secunderabad, Hyderabad, Telangana 500061, India",
+    "neighborhood": "Chilkalguda, Padmarao Nagar",
+    "street": "Plot no.518/1, near Chandra concept school",
+    "city": "Secunderabad, Hyderabad",
+    "postalCode": "500061",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+917095061026",
+    "phoneUnformatted": "+917095061026",
+    "location": {
+      "lat": 17.4285985,
+      "lng": 78.5114417
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh8cRG7OZyzsR-X6O9rwI7Y4",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMzOQFj4q9x7TX5QcR7NDyKy6-kjtFwF_B5bFMk=w408-h541-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MUJEEB%20CARS%20(CHILKALGUDA)%20best%20second%20hand%20car%20dealer%20in%20Hyderabad&query_place_id=ChIJh8cRG7OZyzsR-X6O9rwI7Y4"
+  },
+  {
+    "title": "The Car Shop",
+    "categoryName": "Car dealer",
+    "address": "J.B. Residency, 1-8-285, PG Road, Sindhi Colony, Begumpet, Secunderabad, Hyderabad, Telangana 500003, India",
+    "neighborhood": "Sindhi Colony, Begumpet",
+    "street": "J.B. Residency, 1-8-285, PG Road",
+    "city": "Secunderabad, Hyderabad",
+    "postalCode": "500003",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "https://www.facebook.com/thecarshop245/",
+    "phone": "+919100955559",
+    "phoneUnformatted": "+919100955559",
+    "location": {
+      "lat": 17.4414517,
+      "lng": 78.4807325
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTYDbbNqbyzsRuZF2rzwjN40",
+    "categories": [
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 42,
+    "imagesCount": 34,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 4 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyfzyyEayoHoRcBp9Nneun69rDAk30gz0rM4F2vy8QQCn8g9sr3-ez2XucMbtchH0cu1CtPH3Ysvb3VOQYeuD6Q2dAtgaHw2WIN7hCnFpRFn2h7gl7kvEcwV2Sk8eJoeRaUzVh8OxWnxZc=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Car%20Shop&query_place_id=ChIJTYDbbNqbyzsRuZF2rzwjN40"
+  }
+]

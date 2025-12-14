@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Selfiecabs",
+    "subTitle": "செல்பிஎகாப்ஸ்",
+    "categoryName": "Car rental agency",
+    "address": "33/1, gnavel, colony, East St, Teppakulam, Madurai, Tamil Nadu 625009, India",
+    "neighborhood": "Teppakulam",
+    "street": "33/1, gnavel, colony, East St",
+    "city": "Madurai, Meenakshi Nagar",
+    "postalCode": "625009",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://selfiecabs.in/",
+    "phone": "+918695666111",
+    "phoneUnformatted": "+918695666111",
+    "location": {
+      "lat": 9.9070885,
+      "lng": 78.1500319
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaQlL2DfFADsRr6CqEK9OzUg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour agency",
+      "Tour operator",
+      "Tourist attraction"
+    ],
+    "reviewsCount": 49,
+    "imagesCount": 7,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wsYO4-0HwTCgdly0fL6vCQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=301.1769&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Selfiecabs&query_place_id=ChIJaQlL2DfFADsRr6CqEK9OzUg"
+  }
+]

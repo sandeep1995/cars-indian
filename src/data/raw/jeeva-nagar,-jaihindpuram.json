@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Shara Cabs Service",
+    "categoryName": "Car rental agency",
+    "address": "169, th street, Meenambigai Nagar, Jeeva Nagar, Jaihindpuram, Tamil Nadu 625011, India",
+    "neighborhood": "Meenambigai Nagar",
+    "street": "169, th street",
+    "city": "Jeeva Nagar, Jaihindpuram",
+    "postalCode": "625011",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.sharacabs.in/",
+    "phone": "+917339230531",
+    "phoneUnformatted": "+917339230531",
+    "location": {
+      "lat": 9.897781,
+      "lng": 78.1044334
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdaawc5rPADsRQPivBQn4S8s",
+    "categories": [
+      "Car rental agency",
+      "Airport",
+      "Car leasing service",
+      "Taxi service",
+      "Hospitality and tourism school",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 397,
+    "imagesCount": 86,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNWC5jhCjzQe5hBfOTas6sWFhmI0L3c1HO3gLeo=w408-h510-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shara%20Cabs%20Service&query_place_id=ChIJdaawc5rPADsRQPivBQn4S8s"
+  }
+]

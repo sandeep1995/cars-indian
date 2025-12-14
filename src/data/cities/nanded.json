@@ -1,0 +1,28 @@
+[
+  {
+    "title": "टॅक्सी सर्विसेस",
+    "categoryName": "Car rental agency",
+    "address": "MHADA Colony, Nanded, Maharashtra 431603, India",
+    "neighborhood": "MHADA Colony",
+    "city": "Nanded",
+    "postalCode": "431603",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "location": {
+      "lat": 19.1193324,
+      "lng": 77.3167131
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJ2Yz5xUXW0TsRLyC12fB-Jx8",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lnFDRghvgm66266wIjJWow&cb_client=search.gws-prod.gps&w=408&h=240&yaw=83.50906&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%9F%E0%A5%85%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%80%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%B8&query_place_id=ChIJ2Yz5xUXW0TsRLyC12fB-Jx8"
+  }
+]

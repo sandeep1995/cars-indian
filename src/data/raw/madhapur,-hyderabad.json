@@ -1,0 +1,61 @@
+[
+  {
+    "title": "4wheelz pre owned cars",
+    "categoryName": "Used car dealer",
+    "address": "Madhapur Rd, Ayyappa Society, Sarojini Naidu Nagar, Borabanda, Madhapur, Hyderabad, Telangana 500081, India",
+    "neighborhood": "Ayyappa Society, Sarojini Naidu Nagar, Borabanda",
+    "street": "Madhapur Rd",
+    "city": "Madhapur, Hyderabad",
+    "postalCode": "500081",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "http://4wheelz.co.in/",
+    "phone": "+918575684444",
+    "phoneUnformatted": "+918575684444",
+    "location": {
+      "lat": 17.450809,
+      "lng": 78.396241
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUaIIuN6RyzsRZKFNmbsGBKY",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 466,
+    "imagesCount": 772,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwOdKuPNCjC62ILAe_-dCxEgiVrnRxwETOfNFIu9sKfx9JX3_QlWcsQ4vA4U56W5ihkq2_P3ICDGd2iOF2IcEECtgMDk2Rz3AfisIyQ60E33GjslVx00i78Ge0NXFNaHqRHYSyMpA=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=4wheelz%20pre%20owned%20cars&query_place_id=ChIJUaIIuN6RyzsRZKFNmbsGBKY"
+  }
+]

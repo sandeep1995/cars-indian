@@ -1,0 +1,848 @@
+[
+  {
+    "title": "BTS",
+    "subTitle": "बीटीएस",
+    "categoryName": "Car leasing service",
+    "address": "Shop No. 4, vishal Megha Mart, GS Road, near Bharat Oli Center, Bikaner, Rajasthan 334001, India",
+    "street": "Shop No. 4, vishal Megha Mart, GS Road, near Bharat Oli Center",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://bikanertravelsolution.in/",
+    "location": {
+      "lat": 28.0122572,
+      "lng": 73.3145864
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEfzdcmDdPzkRdA9zUviiBRM",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipONIQKJWFB41HvjcKVHQ5eP3CxZC9F9oiULbc2e=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=BTS&query_place_id=ChIJEfzdcmDdPzkRdA9zUviiBRM"
+  },
+  {
+    "title": "Bikaner Travel Car Taxi Service",
+    "subTitle": "बीकानेर सफर",
+    "categoryName": "Car rental agency",
+    "address": "B-117 Vallabh Garden, Bikaner, Rajasthan 334003, India",
+    "neighborhood": "Vallabh Garden",
+    "street": "B-117 Vallabh Garden",
+    "city": "Bikaner",
+    "postalCode": "334003",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+917073965444",
+    "phoneUnformatted": "+917073965444",
+    "location": {
+      "lat": 27.9955514,
+      "lng": 73.3514368
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ____v2rnPzkRIrHtvirBbM0",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Taxicab Stand",
+      "Travel agency"
+    ],
+    "reviewsCount": 51,
+    "imagesCount": 30,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4NLLWwmY4ALJZ1PTOz_Qw-ghcywlEn-J8gRYs=w408-h381-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bikaner%20Travel%20Car%20Taxi%20Service&query_place_id=ChIJ____v2rnPzkRIrHtvirBbM0"
+  },
+  {
+    "title": "Bikaner tourist tour Traveling agency",
+    "subTitle": "बीकानेर टूरिस्ट टूर ट्रैवलिंग एजेंसी",
+    "categoryName": "Car rental agency",
+    "address": "Pawan Puri, Industrial Area, Sardar Patel Colony, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Pawan Puri, Industrial Area, Sardar Patel Colony",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+917792075123",
+    "phoneUnformatted": "+917792075123",
+    "location": {
+      "lat": 27.9869593,
+      "lng": 73.3326236
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJs3TCX6rnPzkRsuH2oelt1A4",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9RMuybaTQcX5EYVybe9-Avzq1Bl9iuGWswk-g=w408-h273-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bikaner%20tourist%20tour%20Traveling%20agency&query_place_id=ChIJs3TCX6rnPzkRsuH2oelt1A4"
+  },
+  {
+    "title": "Bittu",
+    "subTitle": "बिट्टू",
+    "categoryName": "Car rental agency",
+    "address": "Vimal Bhawan, Ke Pass, Sarvodya Basti, Bikaner, Rajasthan 334004, India",
+    "neighborhood": "Sarvodya Basti",
+    "street": "Vimal Bhawan, Ke Pass",
+    "city": "Bikaner",
+    "postalCode": "334004",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.0357491,
+      "lng": 73.2965707
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD4MVgjzdPzkRmU4XwKHXNyA",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 423,
+    "imagesCount": 27,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwrimBqqw3r6Se9QdlgwFdAAHiuG4AkiwcZ_pM74JDLJyuqX5fpFbfCwEhR-BTwj1VKoH4S1DFLC-OwD4Kygcmc7DySorzjrPEiJc_uTPPXBBaNSX1zWbhVf7JF3ZZiCrOY5wf73TlpmlTl=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Bittu&query_place_id=ChIJD4MVgjzdPzkRmU4XwKHXNyA"
+  },
+  {
+    "title": "CK Parihar Tour & Travels",
+    "subTitle": "सी. के. परिहार टूर & ट्रेवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Old Gajner Rd, opp. SBI bank, Antyodaya Nagar, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Antyodaya Nagar",
+    "street": "Old Gajner Rd, opp. SBI bank",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://ckptours.in/",
+    "phone": "+919166645301",
+    "phoneUnformatted": "+919166645301",
+    "location": {
+      "lat": 28.0239539,
+      "lng": 73.2900296
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ4rAvEXdPzkRP7z9TYx1M08",
+    "categories": [
+      "Car rental agency",
+      "Bus charter",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service"
+    ],
+    "reviewsCount": 107,
+    "imagesCount": 108,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP3xGJHLr12YtPZux-ir3QW37W7YeNBsozU0_2S=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CK%20Parihar%20Tour%20%26%20Travels&query_place_id=ChIJJ4rAvEXdPzkRP7z9TYx1M08"
+  },
+  {
+    "title": "Dunac Automobiles Pvt. Ltd",
+    "subTitle": "दुनाक ऑटोमोबिल्स पीवीटी. एलटीडी",
+    "categoryName": "Smart Car dealer",
+    "address": "Antyodaya Nagar, Bikaner, Rajasthan 334004, India",
+    "neighborhood": "Antyodaya Nagar",
+    "city": "Bikaner",
+    "postalCode": "334004",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919772280225",
+    "phoneUnformatted": "+919772280225",
+    "location": {
+      "lat": 28.0242907,
+      "lng": 73.2904834
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW8giXuPdPzkR4uVEaePzyII",
+    "categories": [
+      "Smart Car dealer"
+    ],
+    "reviewsCount": 308,
+    "imagesCount": 46,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyxR9g7sCN5iFGhWOdcL9dhSbahxD2Ustrdh2RtSBaH3bXnXKEw2CjMzkeYfec7_fd3DxC92Z4vvBLWpYxw2l8dqoM33tQ4zvfnHUOU7B5De8qCstZdn3euFMeyj_stLRaKjMk=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dunac%20Automobiles%20Pvt.%20Ltd&query_place_id=ChIJW8giXuPdPzkR4uVEaePzyII"
+  },
+  {
+    "title": "Freedom Cars Self Drive Car Rental & Car Hire",
+    "subTitle": "फ्रीडम कार्स",
+    "categoryName": "Car rental agency",
+    "address": "G 104 pearl paradise near nagar nigam, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Mehron Ka Bas",
+    "street": "G 104 pearl paradise near nagar nigam",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.freedomcars.in/",
+    "phone": "+919660013554",
+    "phoneUnformatted": "+919660013554",
+    "location": {
+      "lat": 28.028435,
+      "lng": 73.321655
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH8NhUCjdPzkRmUk5IxVjl0w",
+    "categories": [
+      "Car rental agency",
+      "Car detailing service",
+      "Car leasing service",
+      "Chauffeur service",
+      "Car wash",
+      "Self service car wash",
+      "Taxi service",
+      "Taxicab Stand",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 152,
+    "imagesCount": 57,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPLScVPURGQLhITA9Bzbz3jqfKcj5czVag1Z6h0=w408-h727-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Freedom%20Cars%20Self%20Drive%20Car%20Rental%20%26%20Car%20Hire&query_place_id=ChIJH8NhUCjdPzkRmUk5IxVjl0w"
+  },
+  {
+    "title": "Good luck",
+    "subTitle": "गुड लक",
+    "categoryName": "Car leasing service",
+    "address": "Rani Bazar, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Rani Bazar",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+918824920259",
+    "phoneUnformatted": "+918824920259",
+    "location": {
+      "lat": 28.0030454,
+      "lng": 73.3171345
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn61Ho4znPzkR1VbfNIjLHwc",
+    "categories": [
+      "Car leasing service",
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 58,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yXEPTnVSsIp5dIOqxBlgVw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=228.35776&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Good%20luck&query_place_id=ChIJn61Ho4znPzkR1VbfNIjLHwc"
+  },
+  {
+    "title": "Jmb tour bikaner",
+    "subTitle": "जेएमबी टूर बीकानेर",
+    "categoryName": "Car leasing service",
+    "address": "Kothari stand, Kuchilpura, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Kuchilpura",
+    "street": "Kothari stand",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://jmbtourbikaner.blogspot.com/?m=1",
+    "location": {
+      "lat": 28.0228928,
+      "lng": 73.3119935
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzVzbeprdPzkR-skiGOB2KMs",
+    "categories": [
+      "Car leasing service",
+      "Car rental agency"
+    ],
+    "reviewsCount": 42,
+    "imagesCount": 40,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOC4rO8J38cfZAzbipH6aMNQzNR0Qaqp3mvtImM=w466-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jmb%20tour%20bikaner&query_place_id=ChIJzVzbeprdPzkR-skiGOB2KMs"
+  },
+  {
+    "title": "Kadwasara tour and travels",
+    "subTitle": "कड़वासरा टूर एंड ट्रैवल्स",
+    "categoryName": "Car leasing service",
+    "address": "railway station, Kuchilpura, Bikaner, Rajasthan 334402, India",
+    "neighborhood": "Kuchilpura",
+    "street": "railway station",
+    "city": "Bikaner",
+    "postalCode": "334402",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://kadwasaratravels.com/",
+    "phone": "+918104437098",
+    "phoneUnformatted": "+918104437098",
+    "location": {
+      "lat": 28.0228928,
+      "lng": 73.3119935
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI39mUIzdPzkRTRj9i-QXFTg",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 26,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzs0m9wHJaSqksGFxllt4vl681tnM5otQKMxTIKpq2likkfaSoCnYADvat-ZfEUh7ruHtXtZpmhcwAwEi_VnO-oc32jBGO-BIOboCllbuRbo4MLBP1obQqlQgpXXYim4h4vx-o=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kadwasara%20tour%20and%20travels&query_place_id=ChIJI39mUIzdPzkRTRj9i-QXFTg"
+  },
+  {
+    "title": "Maruti True Value ( Dudi Automobiles Pvt Ltd )",
+    "subTitle": "मारुति ट्रू वैल्यू ( डूडी ऑटोमोबिल्स पीवीटी एलटीडी )",
+    "categoryName": "Used car dealer",
+    "address": "NH-11, Jaisalmer Rd, near DUDI HONDA, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Murlidhar Vyas Colony",
+    "street": "NH-11, Jaisalmer Rd, near DUDI HONDA",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.0246591,
+      "lng": 73.2706588
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH9gHEZfDPzkRZW7i8S7wC5o",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 127,
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwaQk2kRsFs1nFCNgC1QJq8xZQNRW37_WxPvAIp4_gXi1nZ7mgTBhyiBInlYFYwuRUFsG6-IyQTeMkgsPSn2ysoIvSBHimlvxR8bGZe3DL6IiykUy0ZEIPluObg-DUTyySxx-OE=w519-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maruti%20True%20Value%20(%20Dudi%20Automobiles%20Pvt%20Ltd%20)&query_place_id=ChIJH9gHEZfDPzkRZW7i8S7wC5o"
+  },
+  {
+    "title": "Morvi Kia",
+    "subTitle": "मोरवी किआ",
+    "categoryName": "Car dealer",
+    "address": "opposite Rail Dada Bari, Gopeshwar Basti, Gangashahar, Bikaner, Rajasthan 334401, India",
+    "neighborhood": "Gopeshwar Basti, Gangashahar",
+    "street": "opposite Rail Dada Bari",
+    "city": "Bikaner",
+    "postalCode": "334401",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=RJ&city=N44",
+    "phone": "+918094936666",
+    "phoneUnformatted": "+918094936666",
+    "location": {
+      "lat": 27.9968596,
+      "lng": 73.3074779
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL4HMXKLnPzkRpoTkK__6ikE",
+    "categories": [
+      "Car dealer",
+      "Kia dealer"
+    ],
+    "reviewsCount": 254,
+    "imagesCount": 166,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 4 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNzZuh2Az752BjPVVfaLW4QT1YODeRwFBIyl8KH=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Morvi%20Kia&query_place_id=ChIJL4HMXKLnPzkRpoTkK__6ikE"
+  },
+  {
+    "title": "Olacabs Bikaner",
+    "subTitle": "ओलाकैब्स बीकानेर",
+    "categoryName": "Car rental agency",
+    "address": "G-103, pearl paradise, near nagar nigam, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Mehron Ka Bas",
+    "street": "G-103, pearl paradise, near nagar nigam",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919660013554",
+    "phoneUnformatted": "+919660013554",
+    "location": {
+      "lat": 28.028469,
+      "lng": 73.32164
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMbkwaHbdPzkRE6oMq-TFgCc",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 101,
+    "imagesCount": 55,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7NBxm1P-fSF11HCOohSvrV3zPuZYzbx-sPnEk=w408-h271-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Olacabs%20Bikaner&query_place_id=ChIJMbkwaHbdPzkRE6oMq-TFgCc"
+  },
+  {
+    "title": "Our Rajasthan Taxi Service Bikaner",
+    "categoryName": "Car rental agency",
+    "address": "7/11, M P Colony, Bikaner, Rajasthan 334004, India",
+    "neighborhood": "M P Colony",
+    "street": "7/11",
+    "city": "Bikaner",
+    "postalCode": "334004",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.ourrajasthantaxiservicebikaner.com/",
+    "phone": "+918118830211",
+    "phoneUnformatted": "+918118830211",
+    "location": {
+      "lat": 28.0410964,
+      "lng": 73.2943526
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh4mYk4vdPzkRZu2ldk-7Qdw",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency"
+    ],
+    "reviewsCount": 1577,
+    "imagesCount": 834,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMR0_SSwqcYPgCEEXZQ-E_36pvGabNswRMgVa2A=w408-h545-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Our%20Rajasthan%20Taxi%20Service%20Bikaner&query_place_id=ChIJh4mYk4vdPzkRZu2ldk-7Qdw"
+  },
+  {
+    "title": "Piyush Tours & Travels",
+    "subTitle": "पियूष टूर्स & ट्रैवल्स",
+    "categoryName": "Car leasing service",
+    "address": "near Shiv Temple, behind Rani Bazar, Chopra Katla, Panchmukh, Rani Bazar, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Chopra Katla, Panchmukh, Rani Bazar",
+    "street": "near Shiv Temple, behind Rani Bazar",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+917568715606",
+    "phoneUnformatted": "+917568715606",
+    "location": {
+      "lat": 28.0043526,
+      "lng": 73.3199857
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgzmJjWbnPzkR_c7pM0b6jDM",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 40,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxntGrnJaEMctDGnARBuNcdCWebbCKreMq7TKBdiBp9DS-NcksOBA3h_Qe55MzgpULov_D08e8vHyVxL1FUr-OnvCgIHjyu4rq_HYFFjJh42C5ALvIiptAXEVOloyIrizS9oexPwlJ6y-fh=w408-h302-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Piyush%20Tours%20%26%20Travels&query_place_id=ChIJgzmJjWbnPzkR_c7pM0b6jDM"
+  },
+  {
+    "title": "Tard cab taxi service bikaner",
+    "subTitle": "तर्ड कैब टैक्सी सर्विस बीकानेर",
+    "categoryName": "Car rental agency",
+    "address": "ward no 6, mataji mandir ke piche, gali Karmisar, Murlidhar Vyas Colony, Bikaner, Rajasthan 334001, India",
+    "neighborhood": "Murlidhar Vyas Colony",
+    "street": "ward no 6, mataji mandir ke piche, gali Karmisar",
+    "city": "Bikaner",
+    "postalCode": "334001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.0226569,
+      "lng": 73.2824279
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZRioRADpPzkRVqdCEXnCnWI",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 35,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM_ipGzK7j9jzZjsjBYy-JZf35KcHoDiW8yX2fb=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tard%20cab%20taxi%20service%20bikaner&query_place_id=ChIJZRioRADpPzkRVqdCEXnCnWI"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "SABYASACHI CAR SERVICE",
+    "subTitle": "সব্যসাচী কার সার্ভিস",
+    "categoryName": "Car rental agency",
+    "address": "River View Colony, Burnpur, Riverside Twp, West Bengal 713325, India",
+    "neighborhood": "River View Colony, Burnpur",
+    "city": "Riverside Twp",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+918250393494",
+    "phoneUnformatted": "+918250393494",
+    "location": {
+      "lat": 23.6485022,
+      "lng": 86.9413543
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL-_mPsQf9zkRQ8UTESB8aOo",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 68,
+    "imagesCount": 32,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPTqZd-mtm9ciOKiyls7cXO3bOEloKSCvHBDbo=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SABYASACHI%20CAR%20SERVICE&query_place_id=ChIJL-_mPsQf9zkRQ8UTESB8aOo"
+  }
+]

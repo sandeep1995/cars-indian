@@ -1,0 +1,202 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCities, getDealersByCitySlug, isLikelyUsedLuxuryDealer } from '../../../lib/dealers';
+
+export function getStaticPaths() {
+	return getCities().map((c) => ({
+		params: { city: c.citySlug },
+		props: { cityName: c.cityName },
+	}));
+}
+
+const { cityName } = Astro.props as { cityName: string };
+const citySlug = Astro.params.city!;
+const dealers = getDealersByCitySlug(citySlug);
+const featured = dealers.filter((d) => isLikelyUsedLuxuryDealer(d)).slice(0, 20);
+
+const title = `${cityName} Pre-owned Luxury Car Dealers`;
+const description = `Find pre-owned luxury car dealers in ${cityName}. Browse reviews, locations, and contact details.`;
+
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'CollectionPage',
+	name: title,
+	description,
+};
+---
+
+<Layout title={title} description={description} jsonLd={jsonLd}>
+	<div class="container">
+		<header class="top">
+			<div>
+				<nav class="crumbs">
+					<a href="/">Home</a>
+					<span class="muted">/</span>
+					<a href="/pre-owned-luxury-cars">Pre-owned luxury cars</a>
+					<span class="muted">/</span>
+					<span>{cityName}</span>
+				</nav>
+				<h1>{cityName}</h1>
+				<p class="muted">{dealers.length} dealers</p>
+			</div>
+			<a class="btn" href="/pre-owned-luxury-cars">All cities</a>
+		</header>
+
+		{featured.length ? (
+			<section class="card section">
+				<h2>Featured dealers</h2>
+				<div class="grid">
+					{featured.map((d) => (
+						<a class="dealer" href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`}>
+							<div class="name">{d.title}</div>
+							<div class="meta">
+								{typeof d.totalScore === 'number' ? (
+									<span class="pill">{d.totalScore.toFixed(1)} ★</span>
+								) : null}
+								{typeof d.reviewsCount === 'number' ? (
+									<span class="muted">{d.reviewsCount} reviews</span>
+								) : null}
+							</div>
+							{d.neighborhood || d.address ? (
+								<div class="muted addr">{d.neighborhood ?? d.address}</div>
+							) : null}
+						</a>
+					))}
+				</div>
+			</section>
+		) : null}
+
+		<section class="card section">
+			<h2>All dealers</h2>
+			<div class="list">
+				{dealers.map((d) => (
+					<a class="row" href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`}>
+						<div>
+							<div class="name">{d.title}</div>
+							<div class="muted small">{d.categoryName}</div>
+							{d.neighborhood || d.address ? (
+								<div class="muted small">{d.neighborhood ?? d.address}</div>
+							) : null}
+						</div>
+						<div class="right">
+							{typeof d.totalScore === 'number' ? (
+								<div class="pill">{d.totalScore.toFixed(1)} ★</div>
+							) : null}
+							{typeof d.reviewsCount === 'number' ? (
+								<div class="muted small">{d.reviewsCount} reviews</div>
+							) : null}
+						</div>
+					</a>
+				))}
+			</div>
+		</section>
+	</div>
+
+	<style>
+		.top {
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-between;
+			gap: 16px;
+			margin-bottom: 16px;
+		}
+		.crumbs {
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			flex-wrap: wrap;
+			margin-bottom: 8px;
+		}
+		.crumbs a {
+			color: rgba(238, 242, 255, 0.88);
+			text-decoration: none;
+		}
+		h1 {
+			margin: 0;
+			font-size: 30px;
+			letter-spacing: -0.02em;
+		}
+		h2 {
+			margin: 0 0 10px;
+			font-size: 18px;
+		}
+		.section {
+			margin-bottom: 14px;
+		}
+		.grid {
+			display: grid;
+			grid-template-columns: repeat(1, minmax(0, 1fr));
+			gap: 10px;
+		}
+		.dealer {
+			display: block;
+			text-decoration: none;
+			padding: 12px;
+			border-radius: 12px;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			background: rgba(0, 0, 0, 0.18);
+		}
+		.dealer:hover {
+			background: rgba(0, 0, 0, 0.24);
+		}
+		.meta {
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			margin-top: 6px;
+		}
+		.addr {
+			margin-top: 6px;
+		}
+		.pill {
+			display: inline-flex;
+			align-items: center;
+			padding: 4px 8px;
+			border-radius: 999px;
+			background: rgba(99, 102, 241, 0.25);
+			border: 1px solid rgba(99, 102, 241, 0.35);
+			font-weight: 650;
+			font-size: 12px;
+		}
+		.list {
+			display: flex;
+			flex-direction: column;
+			gap: 8px;
+		}
+		.row {
+			display: flex;
+			justify-content: space-between;
+			gap: 12px;
+			text-decoration: none;
+			padding: 12px;
+			border-radius: 12px;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			background: rgba(0, 0, 0, 0.18);
+		}
+		.row:hover {
+			background: rgba(0, 0, 0, 0.24);
+		}
+		.name {
+			font-weight: 650;
+		}
+		.small {
+			font-size: 13px;
+		}
+		.right {
+			text-align: right;
+			min-width: 96px;
+		}
+		@media (min-width: 720px) {
+			.grid {
+				grid-template-columns: repeat(2, minmax(0, 1fr));
+			}
+		}
+		@media (min-width: 1024px) {
+			.grid {
+				grid-template-columns: repeat(3, minmax(0, 1fr));
+			}
+		}
+	</style>
+</Layout>
+
+

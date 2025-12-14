@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Millennium Car Zone",
+    "subTitle": "मिलेनियम कार जोन",
+    "categoryName": "Used car dealer",
+    "address": "Shop no5.soliteri 1,link road ,opp infinity mall, 2, Malad West, City, Maharashtra 400064, India",
+    "neighborhood": "Malad, Ekta Nagar, Malad West",
+    "street": "Shop no5.soliteri 1,link road ,opp infinity mall, 2",
+    "city": "City, Mumbai",
+    "postalCode": "400064",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.millenniumcarzone.com/",
+    "phone": "+919967947560",
+    "phoneUnformatted": "+919967947560",
+    "location": {
+      "lat": 19.1843474,
+      "lng": 72.8363205
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ49kIkju35zsRCA0uq4l9BJ8",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDcFjRv1uhSuqNxr4k3bLPQWZrN6IrmMgG-VeN=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Millennium%20Car%20Zone&query_place_id=ChIJ49kIkju35zsRCA0uq4l9BJ8"
+  }
+]

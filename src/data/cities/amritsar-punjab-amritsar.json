@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Amritsar Car Hire | Self Drive Car in Amritsar, Taxi Hire in Amritsar Airport",
+    "subTitle": "ਅੰਮ੍ਰਿਤਸਰ ਕਾਰ ਹੀਰੇ | ਸੈਲਫ਼ ਡਰਾਈਵ ਕਾਰ ਇਨ ਅੰਮ੍ਰਿਤਸਰ, ਟੈਕਸੀ ਹੀਰੇ ਇਨ ਅੰਮ੍ਰਿਤਸਰ ਏਅਰਪੋਰਟ",
+    "categoryName": "Car rental agency",
+    "address": "54, Goal Bagh, opposite Railway Station, Amritsar, Punjab, Punjab 143001, India",
+    "neighborhood": "Narain Nagar, Goal Bagh",
+    "street": "54, Goal Bagh, opposite Railway Station",
+    "city": "Amritsar, Punjab, Amritsar",
+    "postalCode": "143001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://www.amritsarcarhire.com/",
+    "phone": "+919311087582",
+    "phoneUnformatted": "+919311087582",
+    "location": {
+      "lat": 31.6312986,
+      "lng": 74.8680094
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqaoQT9BkGTkRVbV1k5q_SA4",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 43,
+    "imagesCount": 168,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO1ywYVhssAp7lA5DX58Qcqu7CQyRr7iDmX20TN=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Amritsar%20Car%20Hire%20%7C%20Self%20Drive%20Car%20in%20Amritsar%2C%20Taxi%20Hire%20in%20Amritsar%20Airport&query_place_id=ChIJqaoQT9BkGTkRVbV1k5q_SA4"
+  }
+]

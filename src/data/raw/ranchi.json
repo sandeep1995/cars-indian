@@ -1,0 +1,4257 @@
+[
+  {
+    "title": "AVNS Travel",
+    "subTitle": "एवंस ट्रैवल",
+    "categoryName": "Car rental agency",
+    "address": "159/C, Rd Number 4D, Ashok Kunj, Ashok Nagar, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Ashok Kunj, Ashok Nagar",
+    "street": "159/C, Rd Number 4D",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "http://www.avnstravel.com/",
+    "phone": "+916200126705",
+    "phoneUnformatted": "+916200126705",
+    "location": {
+      "lat": 23.3464584,
+      "lng": 85.3020765
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsye2zwPh9DkRy2Z4TgA0xXQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 63,
+    "imagesCount": 53,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOW0fskwek5u8T6iuN-erENfkQaKgmB6LmYtZU=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=AVNS%20Travel&query_place_id=ChIJsye2zwPh9DkRy2Z4TgA0xXQ"
+  },
+  {
+    "title": "Anvi Travels",
+    "subTitle": "अन्वी ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Haidar Ali Rd, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kokar",
+    "street": "Haidar Ali Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://anvitravels.in/",
+    "phone": "+917903484289",
+    "phoneUnformatted": "+917903484289",
+    "location": {
+      "lat": 23.3797327,
+      "lng": 85.3596997
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJS6HXmgrj9DkRIcnfCJ42Acs",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Chauffeur service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 66,
+    "imagesCount": 13,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCXNJBwu6zPLr6eHXTtEJuQWwSra8-ziqPo2t5=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Anvi%20Travels&query_place_id=ChIJS6HXmgrj9DkRIcnfCJ42Acs"
+  },
+  {
+    "title": "Apsara cab",
+    "subTitle": "अप्सरा कैब",
+    "categoryName": "Car leasing service",
+    "address": "near nucleus energy pump Namkum, Lowadih, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Lowadih",
+    "street": "near nucleus energy pump Namkum",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "http://apsaracab.com/",
+    "location": {
+      "lat": 23.359795,
+      "lng": 85.362529
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIZ6576rj9DkRJte_kkCZFUI",
+    "categories": [
+      "Car leasing service"
+    ],
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UhmOxTJT6tLaEjJ5Bp--rQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=239.71083&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Apsara%20cab&query_place_id=ChIJIZ6576rj9DkRJte_kkCZFUI"
+  },
+  {
+    "title": "Audi Ranchi",
+    "subTitle": "ऑडी रांची",
+    "categoryName": "Audi dealer",
+    "address": "11 A, Purulia Rd, near Kantatoli, Dangartoli, Chowk, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Dangartoli, Chowk",
+    "street": "11 A, Purulia Rd, near Kantatoli",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://dealers.myaudi.in/audi-service-ranchi-audi-dealer-purulia-road-ranchi-122022/Home",
+    "phone": "+919124255300",
+    "phoneUnformatted": "+919124255300",
+    "location": {
+      "lat": 23.365608,
+      "lng": 85.3431551
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnRpbPnfh9DkRtgeyjjKWofk",
+    "categories": [
+      "Audi dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 824,
+    "imagesCount": 337,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzvgD1iIItQY6bEbP-KiqNPoh_KC92DCWn3Mqc4EVmyb6SEU-MeyljjZRDMoWFuGpeluGWRaA7_IqXWY6ktxtElrK5HDsYIZhzguLLFxwQKfOa7qkFs1j9hcGfLrny57K-cfHWO=w480-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Audi%20Ranchi&query_place_id=ChIJnRpbPnfh9DkRtgeyjjKWofk"
+  },
+  {
+    "title": "Auto X Change",
+    "subTitle": "ऑटो एक्स चेंज",
+    "categoryName": "Used car dealer",
+    "address": "98JH+QHW, Karamtoli Rd, near Aadivasi Hostel, Karamtoli, Ahirtoli, Ranchi, Jharkhand 834008, India",
+    "neighborhood": "Karamtoli, Ahirtoli",
+    "street": "98JH+QHW, Karamtoli Rd, near Aadivasi Hostel",
+    "city": "Ranchi",
+    "postalCode": "834008",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.cars24.com/sell-used-car-ranchi/?utm_source=gmb&utm_medium=organic&utm_campaign=franchise",
+    "phone": "+918929506692",
+    "phoneUnformatted": "+918929506692",
+    "location": {
+      "lat": 23.381986,
+      "lng": 85.328959
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZYzMeRbh9DkR1uzzXuJbbQY",
+    "categories": [
+      "Used car dealer",
+      "Finance broker",
+      "Insurance agency"
+    ],
+    "reviewsCount": 199,
+    "imagesCount": 143,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyhyOBWSyh3hkEku4xI9Vxad2hqswYKccFJIgfrx7vDhBsqkoT6PpHtm0Vf-gzfRCkU6T3_bZE65m35I4U3CAECvuRIaWCzLUQwmoP1Ayzai8h6dkMEv6cJGazSeAE6VdAk4uO9Wg=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20X%20Change&query_place_id=ChIJZYzMeRbh9DkR1uzzXuJbbQY"
+  },
+  {
+    "title": "Automart Lifestyle Garage | A Unit of 3M Car Care Ranchi",
+    "subTitle": "ऑटोमार्ट लाइफस्टाइल गैरेज | ए यूनिट ऑफ़ 3म कार केयर रांची",
+    "categoryName": "Car leasing service",
+    "address": "St. Francis School Road, Chetan Toli Rd, beside Sevex Technologies, Harmu Housing Colony, Tangra, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Harmu Housing Colony, Tangra",
+    "street": "St. Francis School Road, Chetan Toli Rd, beside Sevex Technologies",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919771432700",
+    "phoneUnformatted": "+919771432700",
+    "location": {
+      "lat": 23.3567207,
+      "lng": 85.29924
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf6SrmG_h9DkR7tee0DCUggM",
+    "categories": [
+      "Car leasing service",
+      "Auto restoration service",
+      "Auto body shop"
+    ],
+    "reviewsCount": 38,
+    "imagesCount": 37,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO2_qnqu0r8MjcJvjELhEFEbjQOjjNE6BpndfAf=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Automart%20Lifestyle%20Garage%20%7C%20A%20Unit%20of%203M%20Car%20Care%20Ranchi&query_place_id=ChIJf6SrmG_h9DkR7tee0DCUggM"
+  },
+  {
+    "title": "Avis Car Rental",
+    "subTitle": "एविस कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "opposite Ranchi University, Saraswati Market, Morabadi, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Saraswati Market, Morabadi",
+    "street": "opposite Ranchi University",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919534183115",
+    "phoneUnformatted": "+919534183115",
+    "location": {
+      "lat": 23.3714478,
+      "lng": 85.3235361
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6Wzp65vh9DkRSU3XjuFIex8",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gbxl-Deqw0HuszTsFbjp0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=100.26057&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Avis%20Car%20Rental&query_place_id=ChIJ6Wzp65vh9DkRSU3XjuFIex8"
+  },
+  {
+    "title": "BOOM CARS Self Drive Car Rental in Ranchi",
+    "subTitle": "बूम कार्स",
+    "categoryName": "Car leasing service",
+    "address": "Ratu Rd, beside Mall of ranchi, Kumhartoli, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kumhartoli",
+    "street": "Ratu Rd, beside Mall of ranchi",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+916207209930",
+    "phoneUnformatted": "+916207209930",
+    "location": {
+      "lat": 23.3787546,
+      "lng": 85.3141266
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY4D-a3zh9DkR2PYpGlC5DpQ",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 87,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPDXyRRpB9C-3dv-HI9YNVG8nCuupuPctMDjo_-=w408-h379-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=BOOM%20CARS%20Self%20Drive%20Car%20Rental%20in%20Ranchi&query_place_id=ChIJY4D-a3zh9DkR2PYpGlC5DpQ"
+  },
+  {
+    "title": "Barira Motor Concept",
+    "subTitle": "बरीरा मोटर कॉन्सेप्ट",
+    "categoryName": "Car accessories store",
+    "address": "Ratan talkies, Mahatma Gandhi Main Rd, opp. Hotel Sartaj, Maulana Azad Colony, Hindpiri, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Maulana Azad Colony, Hindpiri",
+    "street": "Ratan talkies, Mahatma Gandhi Main Rd, opp. Hotel Sartaj",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+918709115375",
+    "phoneUnformatted": "+918709115375",
+    "location": {
+      "lat": 23.3605153,
+      "lng": 85.3258746
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF-X8I8Hh9DkROwLON7H6XVg",
+    "categories": [
+      "Car accessories store",
+      "Auto accessories wholesaler",
+      "Auto body shop",
+      "Auto dent removal service",
+      "Auto market",
+      "Auto painting",
+      "Auto repair shop",
+      "Auto restoration service",
+      "Auto window tinting service",
+      "RV detailing service"
+    ],
+    "reviewsCount": 349,
+    "imagesCount": 126,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy7eIxvTqIbCLCFKNDk2DGPHKn_TDtvFXLbaoIJNMW-eZRZHgUfmuJUWQeWye6neFdDS-2N086OkjLMpAvweD9pBbShuswgdDdXbaDPamh79aZxR5Y-rPVd0Ei-UUkoJz2R5HU=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Barira%20Motor%20Concept&query_place_id=ChIJF-X8I8Hh9DkROwLON7H6XVg"
+  },
+  {
+    "title": "CAR RENTAL,CAB and Driver services",
+    "subTitle": "कार रेंटल सिर्विस एंड ड्राइवर सेंटर",
+    "categoryName": "Car rental agency",
+    "address": "Piska more, Vikash Nagar, Ranchi, Jharkhand 834005, India",
+    "neighborhood": "Vikash Nagar",
+    "street": "Piska more",
+    "city": "Ranchi",
+    "postalCode": "834005",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+918777736157",
+    "phoneUnformatted": "+918777736157",
+    "location": {
+      "lat": 23.3817948,
+      "lng": 85.2973905
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3fKtxXDh9DkRPRbkPO5Dfgk",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 74,
+    "imagesCount": 64,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5:30 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOvZbCscGUT_DZ0_HTbJidP6FdI7XEsXGKcmOqN=w408-h723-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CAR%20RENTAL%2CCAB%20and%20Driver%20services&query_place_id=ChIJ3fKtxXDh9DkRPRbkPO5Dfgk"
+  },
+  {
+    "title": "CITY CAR RENTAL | SELF DRIVEN | CAR RENTAL | RANCHI",
+    "subTitle": "सिटी कार रेंटल | सेल्फ ड्रिवन | कार रेंटल | रांची",
+    "categoryName": "Car rental agency",
+    "address": "Chowk, Dangratoli, near reliance, Ranchi, Jharkhand 834012, India",
+    "neighborhood": "New Barhi Toli",
+    "street": "Chowk, Dangratoli, near reliance",
+    "city": "Ranchi",
+    "postalCode": "834012",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.367855,
+      "lng": 85.3399121
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd6ButoHh9DkRwy1jFgtFqVs",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMfWsNi-v-4Ca2NUxGZy-Dhq54AcUhGMVFt6BPT=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CITY%20CAR%20RENTAL%20%7C%20SELF%20DRIVEN%20%7C%20CAR%20RENTAL%20%7C%20RANCHI&query_place_id=ChIJd6ButoHh9DkRwy1jFgtFqVs"
+  },
+  {
+    "title": "CYORIDES self drive car rental in ranchi",
+    "subTitle": "सिोराइड्स",
+    "categoryName": "Car rental agency",
+    "address": "Lotus Apartment, Bariatu Rd, Karamtoli, Chowk, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Karamtoli, Chowk",
+    "street": "Lotus Apartment, Bariatu Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+917903128788",
+    "phoneUnformatted": "+917903128788",
+    "location": {
+      "lat": 23.3869047,
+      "lng": 85.3363029
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJxYsgtfh9DkRhGT0SGaSz_c",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 460,
+    "imagesCount": 52,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMzKlD_CknH_57wK3wESnW1aeifDpyRHAN3bR8i=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CYORIDES%20self%20drive%20car%20rental%20in%20ranchi&query_place_id=ChIJJxYsgtfh9DkRhGT0SGaSz_c"
+  },
+  {
+    "title": "Capital Tour & Travels - Innova Car On Rent In Ranchi For (Local & Outstation)",
+    "subTitle": "कैपिटल टूर & ट्रैवल्स - इनोवा कार ऑन रेंट इन रांची फॉर (लोकल & आउटस्टेशन)",
+    "categoryName": "Car rental agency",
+    "address": "near SBI Branch Industrial Estate, Lalpur, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Lalpur",
+    "street": "near SBI Branch Industrial Estate",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://capitaltourtravelsinnovacarrentranchi.blogspot.com/",
+    "phone": "+919472706550",
+    "phoneUnformatted": "+919472706550",
+    "location": {
+      "lat": 23.3763615,
+      "lng": 85.3555365
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgzwNrcfj9DkRLMW089qYOy0",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 24,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIH8gyXlzvcCf7emNzdmq6JFj9PWhXW71CDbM3=w408-h258-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Capital%20Tour%20%26%20Travels%20-%20Innova%20Car%20On%20Rent%20In%20Ranchi%20For%20(Local%20%26%20Outstation)&query_place_id=ChIJgzwNrcfj9DkRLMW089qYOy0"
+  },
+  {
+    "title": "Car Connection",
+    "subTitle": "कार कनेक्शन",
+    "categoryName": "Car dealer",
+    "address": "G-3, Alokapuri Complex, Lalpur, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Lalpur",
+    "street": "G-3, Alokapuri Complex",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.3706901,
+      "lng": 85.3386172
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP2U56rnh9DkRkE_HXHxTTu0",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 72,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpNHaVLWyRw3MhRHHCn5ICL78Cs8ay0vvHb9YXHXqeNOKAjMv90TOjSVt5IvohAR4fC8TFjRaD9M4rerweKERq0FvUgZK_q-Bf_AYq81sVHdVumOX-qauvu2tsMgXb4mS_xD_B=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Connection&query_place_id=ChIJP2U56rnh9DkRkE_HXHxTTu0"
+  },
+  {
+    "title": "Car Rent Ranchi - Car Hire In Ranchi ( Local Sightseeing/Outstation )",
+    "subTitle": "कार रेंट रांची - कार हीरे इन रांची ( लोकल साइटसीइंग/आउटस्टेशन )",
+    "categoryName": "Car rental agency",
+    "address": "near HP Petrol Pump, Kantatoli, Lowadih, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kantatoli, Lowadih",
+    "street": "near HP Petrol Pump",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://carrentranchi.blogspot.com/",
+    "phone": "+919431571373",
+    "phoneUnformatted": "+919431571373",
+    "location": {
+      "lat": 23.3614601,
+      "lng": 85.3539207
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTftwSnPh9DkRrl35LWMsfXA",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 45,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM-jcJdduuFPVZPaAI6s3jlMypAtJeOqT7bxUj0=w408-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Rent%20Ranchi%20-%20Car%20Hire%20In%20Ranchi%20(%20Local%20Sightseeing%2FOutstation%20)&query_place_id=ChIJTftwSnPh9DkRrl35LWMsfXA"
+  },
+  {
+    "title": "Car Rental Ranchi",
+    "subTitle": "कार रेंटल रांची",
+    "categoryName": "Car rental agency",
+    "address": "Sujata Cinema Hall, Near, Mahatma Gandhi Main Rd, Hindpiri, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Hindpiri",
+    "street": "Sujata Cinema Hall, Near, Mahatma Gandhi Main Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919835223225",
+    "phoneUnformatted": "+919835223225",
+    "location": {
+      "lat": 23.3524689,
+      "lng": 85.3236605
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW7w5E8rh9DkRFOGK_SPWu6U",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Rental car return location",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Tourist attraction",
+      "Travel agency"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOciPRBxEItStjnyQpImpJ6GELg3OmsEFM_xO-m=w460-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Rental%20Ranchi&query_place_id=ChIJW7w5E8rh9DkRFOGK_SPWu6U"
+  },
+  {
+    "title": "Car Rental Ranchi",
+    "subTitle": "कार रेंटल रांची",
+    "categoryName": "Car leasing service",
+    "address": "Booty Rd, near ALAM Hospital, Bariatu, Ranchi, Jharkhand 834009, India",
+    "neighborhood": "Bariatu",
+    "street": "Booty Rd, near ALAM Hospital",
+    "city": "Ranchi",
+    "postalCode": "834009",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919122338393",
+    "phoneUnformatted": "+919122338393",
+    "location": {
+      "lat": 23.398534,
+      "lng": 85.3544527
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJexLto_Xh9DkR1tbO1eo52UE",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 43,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP79XE38m2qG4FW6LopWgLBWKdBqWGGRIgjc2u5=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Rental%20Ranchi&query_place_id=ChIJexLto_Xh9DkR1tbO1eo52UE"
+  },
+  {
+    "title": "Car Rental Ranchi",
+    "subTitle": "कार रेंटल रांची",
+    "categoryName": "Car rental agency",
+    "address": "Shop No. 01, Kishoreganj, Harmu Rd, near Indian Overseas Bank, Harmu, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Harmu",
+    "street": "Shop No. 01, Kishoreganj, Harmu Rd, near Indian Overseas Bank",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://topcarrentalranchi.blogspot.com/",
+    "phone": "+919431552082",
+    "phoneUnformatted": "+919431552082",
+    "location": {
+      "lat": 23.3688245,
+      "lng": 85.3111413
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGylwU0jh9DkR727WfoMK6R4",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFE63nIIAtrAEcxLDf7epDMjzXfsYBJ2z2KxhY=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Rental%20Ranchi&query_place_id=ChIJGylwU0jh9DkR727WfoMK6R4"
+  },
+  {
+    "title": "Car junction",
+    "subTitle": "कार जंक्शन",
+    "categoryName": "Car accessories store",
+    "address": "Car junction pandra ranchi Opp jai furniture, near kajaria tiles, Pandra, Ranchi, Jharkhand 834005, India",
+    "neighborhood": "Pandra",
+    "street": "Car junction pandra ranchi Opp jai furniture, near kajaria tiles",
+    "city": "Ranchi",
+    "postalCode": "834005",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+916206342611",
+    "phoneUnformatted": "+916206342611",
+    "location": {
+      "lat": 23.3870789,
+      "lng": 85.2821395
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKaDoOe_h9DkRSq01qutNdjo",
+    "categories": [
+      "Car accessories store"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 36,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMjgEG_3brzNH6Dt4DPuH5ZI_Aw0hh9TWWqMAil=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20junction&query_place_id=ChIJKaDoOe_h9DkRSq01qutNdjo"
+  },
+  {
+    "title": "Crystal Tour & Travels | Tour Planner In Ranchi ( Domestic & International )",
+    "subTitle": "क्रिस्टल टूर & ट्रैवल्स | टूर प्लानर इन रांची ( डोमेस्टिक & इंटरनेशनल )",
+    "categoryName": "Car rental agency",
+    "address": "Near Kishorganj, Road No.1, Harmu Rd, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kumhartoli",
+    "street": "Near Kishorganj, Road No.1, Harmu Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919431505330",
+    "phoneUnformatted": "+919431505330",
+    "location": {
+      "lat": 23.3699236,
+      "lng": 85.3114597
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc0BJFy_h9DkRFOyH9PHCN54",
+    "categories": [
+      "Car rental agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 13,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPTfgxw9KXLUkNziNyTTYf5Sh6zyG5vU6G44Xbg=w520-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Crystal%20Tour%20%26%20Travels%20%7C%20Tour%20Planner%20In%20Ranchi%20(%20Domestic%20%26%20International%20)&query_place_id=ChIJc0BJFy_h9DkRFOyH9PHCN54"
+  },
+  {
+    "title": "DK TRAVELS RANCHI",
+    "subTitle": "डीके ट्रैवल्स रांची",
+    "categoryName": "Car leasing service",
+    "address": "Imli Chowk, SBI ATM, Harmu, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "SBI ATM, Harmu",
+    "street": "Imli Chowk",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://jharkhandcab.in/",
+    "phone": "+919798590107",
+    "phoneUnformatted": "+919798590107",
+    "location": {
+      "lat": 23.3616762,
+      "lng": 85.3060031
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwZd_kIHh9DkRc5OG0SYd79U",
+    "categories": [
+      "Car leasing service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 35,
+    "imagesCount": 55,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPa5Nb6Kf7d5bSgGVfBWE5iL0-LKR20pzW22oJK=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=DK%20TRAVELS%20RANCHI&query_place_id=ChIJwZd_kIHh9DkRc5OG0SYd79U"
+  },
+  {
+    "title": "Dream Drive Self Drive Car Rental Ranchi",
+    "subTitle": "ड्रीम ड्राइव सेल्फ ड्राइव कार रेंटल रांची",
+    "categoryName": "Car rental agency",
+    "address": "Rebloon Implex, Vasudev Nagar, 802/8th Floor C Block, beside Maruti clinic, near Mangal Tower, Kantatoli, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Bargaon, Basudeb Nagar, Kantatoli, Lalpur",
+    "street": "Rebloon Implex, Vasudev Nagar, 802/8th Floor C Block, beside Maruti clinic, near Mangal Tower",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://dream-drive.co.in/",
+    "location": {
+      "lat": 23.367392,
+      "lng": 85.3477192
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2-hdMIDh9DkRNHbYLPm3wYw",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 109,
+    "imagesCount": 76,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUu5P-gtgB-JaCEDQgy7rv9tSCESrPjidX0F_g=w408-h510-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dream%20Drive%20Self%20Drive%20Car%20Rental%20Ranchi&query_place_id=ChIJ2-hdMIDh9DkRNHbYLPm3wYw"
+  },
+  {
+    "title": "Dream cars",
+    "subTitle": "ड्रीम कार्स",
+    "categoryName": "Used car dealer",
+    "address": "Kokar Industrial Area, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kokar Industrial Area, Kokar",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919386773396",
+    "phoneUnformatted": "+919386773396",
+    "location": {
+      "lat": 23.3732911,
+      "lng": 85.3528316
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJozGlkC7h9DkRs5syDgbZvBM",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSypSGLbdbyxGdgVw2QiLiMGFO7kasaCpHHFrRVY3-wrQI7B4Y2ToCiFCoM2Ov9Y9FnCwD9S-4lK-BEUHeEP8Io-CAFkEzmuEKJ5z__WcO4MfckkjEznBruUx7H6JnbGd1sfhjcr5w=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dream%20cars&query_place_id=ChIJozGlkC7h9DkRs5syDgbZvBM"
+  },
+  {
+    "title": "Drigo Self Drive Car Rental inn Ranchii",
+    "subTitle": "दृग सेल्फ ड्राइव कार रेंटल इन रांची",
+    "categoryName": "Car rental agency",
+    "address": "103 E, Rebloon implex, near maruti clinic, Bargaon, Basudeb Nagar, Lalpur, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Bargaon, Basudeb Nagar, Lalpur",
+    "street": "103 E, Rebloon implex, near maruti clinic",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919572090249",
+    "phoneUnformatted": "+919572090249",
+    "location": {
+      "lat": 23.3673801,
+      "lng": 85.3475535
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD9azjAnj9DkRiVLXDRgxmco",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Leasing service"
+    ],
+    "reviewsCount": 188,
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtm3V3lHvK5fZKsNa7P8O4V6GYec803NtXxI-jtCI-yA3spIqLeEFKLN4XLSJGWEnF-SvQjC-5ke99712I12JudVw8wPeRm9rLaXDMAEgSSbe_pyGH4wLz1i3yIlI_QJJeL14=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Drigo%20Self%20Drive%20Car%20Rental%20inn%20Ranchii&query_place_id=ChIJD9azjAnj9DkRiVLXDRgxmco"
+  },
+  {
+    "title": "DriveOn",
+    "subTitle": "ड्राइव आन",
+    "categoryName": "Car rental agency",
+    "address": "Near, behind New Masjid, Jora Talab, Ranchi, Jharkhand 834009, India",
+    "neighborhood": "Jora Talab, Tukitoli",
+    "street": "Near, behind New Masjid",
+    "city": "Ranchi",
+    "postalCode": "834009",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://driveon.co.in/",
+    "phone": "+918789221223",
+    "phoneUnformatted": "+918789221223",
+    "location": {
+      "lat": 23.3929606,
+      "lng": 85.355976
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjeXPojLj9DkR5peXy7IIlPo",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Driving school",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 257,
+    "imagesCount": 57,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMF-SLkXqVT_989zRoOvaazSg51bB7Dz4-8lBxD=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=DriveOn&query_place_id=ChIJjeXPojLj9DkR5peXy7IIlPo"
+  },
+  {
+    "title": "Eco Cab - Cab Service In Ranchi ( Ranchi Airport & Outstations )",
+    "subTitle": "इको कैब - कैब सर्विस इन रांची ( रांची एयरपोर्ट & आउटस्टेशंस )",
+    "categoryName": "Car rental agency",
+    "address": "Eco Cab, Harmu Rd, Tongritoli, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Tongritoli",
+    "street": "Eco Cab, Harmu Rd",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://ecocabcabserviceinranchi.blogspot.com/",
+    "phone": "+919430137311",
+    "phoneUnformatted": "+919430137311",
+    "location": {
+      "lat": 23.3595962,
+      "lng": 85.3080806
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeR54bXvh9DkR2gMcUlgXsCs",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5Qb72pPcrW-1JUi_1yVlXSSv2dK547fQz_OG6=w408-h577-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Eco%20Cab%20-%20Cab%20Service%20In%20Ranchi%20(%20Ranchi%20Airport%20%26%20Outstations%20)&query_place_id=ChIJeR54bXvh9DkR2gMcUlgXsCs"
+  },
+  {
+    "title": "Ganpati Travel Solutions",
+    "subTitle": "गणपति ट्रैवल सॉल्यूशंस",
+    "categoryName": "Car rental agency",
+    "address": "near Maa Ram Pyari Ortho Hospital, Burdwan Compound, Lalpur, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Burdwan Compound, Lalpur",
+    "street": "near Maa Ram Pyari Ortho Hospital",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://ganpatitravelsolutions.in/",
+    "phone": "+919304951630",
+    "phoneUnformatted": "+919304951630",
+    "location": {
+      "lat": 23.381011,
+      "lng": 85.3352129
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGaEn6PXh9DkRV0VXelchcqY",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator",
+      "Tourist attraction",
+      "Travel agency"
+    ],
+    "reviewsCount": 146,
+    "imagesCount": 64,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM3IpFLsL18S_BEYtYcIuTvvRpo4zBeLxxJdayk=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ganpati%20Travel%20Solutions&query_place_id=ChIJGaEn6PXh9DkRV0VXelchcqY"
+  },
+  {
+    "title": "Gupta Tour's & Travel",
+    "subTitle": "गुप्ता तौर'स & ट्रैवल",
+    "categoryName": "Car leasing service",
+    "address": "sujata cinema hall Patel compound, near Mahatma Gandhi Main Road, Hindpiri, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Hindpiri",
+    "street": "sujata cinema hall Patel compound, near Mahatma Gandhi Main Road",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+916203213200",
+    "phoneUnformatted": "+916203213200",
+    "location": {
+      "lat": 23.3532722,
+      "lng": 85.3238543
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD4vppx7h9DkRSYYXqHLwhz8",
+    "categories": [
+      "Car leasing service",
+      "Car rental agency",
+      "Rental car return location",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Tourist attraction",
+      "Tourist information center",
+      "Travel agency"
+    ],
+    "reviewsCount": 95,
+    "imagesCount": 35,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDQ_VBRLlMK472hUzVvClUB2501kVSmx25F31Y=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Gupta%20Tour's%20%26%20Travel&query_place_id=ChIJD4vppx7h9DkRSYYXqHLwhz8"
+  },
+  {
+    "title": "Himanshu travels and Holidays",
+    "subTitle": "हिमांशु ट्रैवल्स एंड होलीडेज",
+    "categoryName": "Car rental agency",
+    "address": "Ashok path Radium Road, chowk, Kutchery, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kutchery, Ahirtoli",
+    "street": "Ashok path Radium Road, chowk",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://1gtmvgzgpf9szajawgqsnw-on.drv.tw/webhimanshu/",
+    "phone": "+917903596514",
+    "phoneUnformatted": "+917903596514",
+    "location": {
+      "lat": 23.3799835,
+      "lng": 85.3255449
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeb1oUNnh9DkRIueAJmJYsVI",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency"
+    ],
+    "reviewsCount": 26,
+    "imagesCount": 64,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIdN9AAobF7QCHCSXSa3AhM5I-WUzFZ9MvOEsm=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Himanshu%20travels%20and%20Holidays&query_place_id=ChIJeb1oUNnh9DkRIueAJmJYsVI"
+  },
+  {
+    "title": "Indian Cab Service",
+    "subTitle": "इंडियन कैब सर्विस",
+    "categoryName": "Car rental agency",
+    "address": "New madhukam Mukhy path, Kumhartoli, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kumhartoli",
+    "street": "New madhukam Mukhy path",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+918210124420",
+    "phoneUnformatted": "+918210124420",
+    "location": {
+      "lat": 23.3737143,
+      "lng": 85.3055244
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm9d1uaLh9DkR89MuGXKgF34",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Tourist information center"
+    ],
+    "reviewsCount": 49,
+    "imagesCount": 19,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNg18tI5BJYV5vxH1x2xaceEVLIswI1xEleZrwX=w408-h542-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Cab%20Service&query_place_id=ChIJm9d1uaLh9DkR89MuGXKgF34"
+  },
+  {
+    "title": "Indus Cab - Innova Crysta Car Rental In Ranchi (City Or Outstations)",
+    "subTitle": "इंडस कैब - इनोवा क्रिस्टा कार रेंटल इन रांची (सिटी ओर आउटस्टेशंस)",
+    "categoryName": "Car rental agency",
+    "address": "Kishori Singh Yadav Chowk, Ward Number 20, Road, Ratu, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Ward Number 20, Road, Ratu",
+    "street": "Kishori Singh Yadav Chowk",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.induscab.com/",
+    "phone": "+919431785593",
+    "phoneUnformatted": "+919431785593",
+    "location": {
+      "lat": 23.3780762,
+      "lng": 85.3176517
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ8puamXh9DkR3oV622XFOIU",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 52,
+    "imagesCount": 77,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 11:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNrjTHgiuW2jzyWgHQ31E7_lel1OwxT2XeRp7sq=w519-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Indus%20Cab%20-%20Innova%20Crysta%20Car%20Rental%20In%20Ranchi%20(City%20Or%20Outstations)&query_place_id=ChIJJ8puamXh9DkR3oV622XFOIU"
+  },
+  {
+    "title": "Innova On Rent - Ranchi",
+    "subTitle": "इनोवा ऑन रेंट - रांची",
+    "categoryName": "Car rental agency",
+    "address": "Innova On Rent, Pragati Path, near Balaji Fuels, Bahu Bazar, Dhumsatoli, Kathartoli, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Bahu Bazar, Dhumsatoli, Kathartoli",
+    "street": "Innova On Rent, Pragati Path, near Balaji Fuels",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919430136220",
+    "phoneUnformatted": "+919430136220",
+    "location": {
+      "lat": 23.3577697,
+      "lng": 85.3382518
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfVd7vMdThwAR2Ubax4vfFyE",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 18,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMsZmx07qbboV2WRcYe3F4zSB9fe_NDnxoD-bmw=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Innova%20On%20Rent%20-%20Ranchi&query_place_id=ChIJfVd7vMdThwAR2Ubax4vfFyE"
+  },
+  {
+    "title": "Insta Tour & Travels-Ranchi",
+    "subTitle": "इंस्टा टूर & ट्रेवल्स-रांची",
+    "categoryName": "Car rental agency",
+    "address": "Koker Chowk Bus Stop kokar, chowk, opp. power sub pin code, Shanti Nagar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "New Adarsh Nagar, Shanti Nagar",
+    "street": "Koker Chowk Bus Stop kokar, chowk, opp. power sub pin code",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.facebook.com/profile.php?id=61550945202308",
+    "phone": "+916202063929",
+    "phoneUnformatted": "+916202063929",
+    "location": {
+      "lat": 23.3768677,
+      "lng": 85.3598721
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeQF2EKLj9DkRFVcwKsZEluk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 472,
+    "imagesCount": 102,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9QKgRQ1Stt59Ax4XxHL-mB2CuiJ-Ab5jgiILx=w408-h431-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Insta%20Tour%20%26%20Travels-Ranchi&query_place_id=ChIJeQF2EKLj9DkRFVcwKsZEluk"
+  },
+  {
+    "title": "K P Jeep Ranchi",
+    "subTitle": "के पि जीप रांची",
+    "categoryName": "Car dealer",
+    "address": "Hazaribagh Rd, near SBI, Kokar Industrial Area, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kokar Industrial Area, Kokar",
+    "street": "Hazaribagh Rd, near SBI",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "http://kpautomobiles.jeep-india.com/",
+    "phone": "+917781017910",
+    "phoneUnformatted": "+917781017910",
+    "location": {
+      "lat": 23.3763169,
+      "lng": 85.3541256
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoW6XY2Lh9DkRPZpNKGQ1X0o",
+    "categories": [
+      "Car dealer",
+      "Jeep dealer"
+    ],
+    "reviewsCount": 729,
+    "imagesCount": 152,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyk3fyDtheVWHwq2c8Grr9ONZPpSG9_cE-XkkLf1Q8PFlSiSWEe_Ne0BS0l3rP38P2LUG6qvei2F8x8vulr9Mq_HovrHCIiDWXx4bpVcU5t1WbexUS91qWaGpY6j8mZHEYEmYJmcA=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=K%20P%20Jeep%20Ranchi&query_place_id=ChIJoW6XY2Lh9DkRPZpNKGQ1X0o"
+  },
+  {
+    "title": "LK motors",
+    "subTitle": "एलके मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "15, Kokar Industrial Area, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kokar Industrial Area, Kokar",
+    "street": "15",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919508293276",
+    "phoneUnformatted": "+919508293276",
+    "location": {
+      "lat": 23.3761651,
+      "lng": 85.3532058
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-aYgYZrh9DkR3qqN5-EJPBc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 8 AM, 9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzWY1LBmiE-abYkUfLUE7vWIHFQKJ4LFk5crDZkNfHIlgBAyqZsppnkLGqt7uE5dQ5eDaPzY-sYVIIA8divHOxJObFL6QeLd5V6VZI1YTpsWQd_SXSFx6F9Tx01TOf3vKeGuSxYRg=w408-h935-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=LK%20motors&query_place_id=ChIJ-aYgYZrh9DkR3qqN5-EJPBc"
+  },
+  {
+    "title": "LUXURY TOUR & TRAVELS",
+    "subTitle": "लक्जरी टूर & ट्रैवल्स",
+    "categoryName": "Car leasing service",
+    "address": "Opp Galaxia Mall, Ratu Rd, Piska More, Ranchi, Jharkhand 834005, India",
+    "neighborhood": "Piska More, Vikash Nagar",
+    "street": "Opp Galaxia Mall, Ratu Rd",
+    "city": "Ranchi",
+    "postalCode": "834005",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+917979933934",
+    "phoneUnformatted": "+917979933934",
+    "location": {
+      "lat": 23.381571,
+      "lng": 85.2997649
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWzOx-abh9DkRkMuK5kStqQ8",
+    "categories": [
+      "Car leasing service",
+      "Auto parts store",
+      "Car rental agency",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 129,
+    "imagesCount": 307,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN4yMK09-5nn-2zk0ulhwxMd_SX1Lnn0CFjwgIh=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=LUXURY%20TOUR%20%26%20TRAVELS&query_place_id=ChIJWzOx-abh9DkRkMuK5kStqQ8"
+  },
+  {
+    "title": "La Maison Citroën Ranchi - K P Automobiles",
+    "subTitle": "ला मैसन सिट्रोएन रांची - के पि ऑटोमोबिल्स",
+    "categoryName": "Citroen dealer",
+    "address": "Hazaribagh Rd, above Jeep Showroom, near Bank of India, Kokar Industrial Area, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kokar Industrial Area, Kokar",
+    "street": "Hazaribagh Rd, above Jeep Showroom, near Bank of India",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://kpautomobiles-ranchi.citroen.in/",
+    "phone": "+919065523821",
+    "phoneUnformatted": "+919065523821",
+    "location": {
+      "lat": 23.3763185,
+      "lng": 85.3541569
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC4GlWgDj9DkRbvQ3FAxppjY",
+    "categories": [
+      "Citroen dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 27,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO5odD5SptFgY65FanF3IoQEZkoyTMI6WMyXj9Y=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=La%20Maison%20Citro%C3%ABn%20Ranchi%20-%20K%20P%20Automobiles&query_place_id=ChIJC4GlWgDj9DkRbvQ3FAxppjY"
+  },
+  {
+    "title": "Luxury Cab - Wedding Luxury Car Rental In Ranchi",
+    "subTitle": "लक्जरी कैब - वेडिंग लक्जरी कार रेंटल इन रांची",
+    "categoryName": "Car leasing service",
+    "address": "Luxury Cab, Near Nilam Enem Horo Marg, Sujata Chowk, Mahatma Gandhi Main Rd, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kanka",
+    "street": "Luxury Cab, Near Nilam Enem Horo Marg, Sujata Chowk, Mahatma Gandhi Main Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://luxurycabweddingluxurycarrentalranchi.blogspot.com/",
+    "phone": "+919431559092",
+    "phoneUnformatted": "+919431559092",
+    "location": {
+      "lat": 23.3538845,
+      "lng": 85.3251398
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfVLN-Vvh9DkReS1Am-3S35s",
+    "categories": [
+      "Car leasing service"
+    ],
+    "imagesCount": 77,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1H9_EdQnzkzOCkyp2mXh2UoItHTPml7Jo340t=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Cab%20-%20Wedding%20Luxury%20Car%20Rental%20In%20Ranchi&query_place_id=ChIJfVLN-Vvh9DkReS1Am-3S35s"
+  },
+  {
+    "title": "Maharaja tour's and wedding",
+    "subTitle": "महाराजा तौर'स एंड वेडिंग",
+    "categoryName": "Car rental agency",
+    "address": "Karbala Tank Rd, New Barhi Toli, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "New Barhi Toli",
+    "street": "Karbala Tank Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://jsdl.in/DT-51R51PJLGS1",
+    "phone": "+917372888818",
+    "phoneUnformatted": "+917372888818",
+    "location": {
+      "lat": 23.3682939,
+      "lng": 85.3307668
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8c3T6ZLh9DkR5QVv86nBoAM",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 11,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPVFJueUL8_rW5Yo93GgEkoZUHw7lOYGN0yUy87=w408-h906-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maharaja%20tour's%20and%20wedding&query_place_id=ChIJ8c3T6ZLh9DkR5QVv86nBoAM"
+  },
+  {
+    "title": "Mahavir Enterprises Tour & Travels - Best Car Rental in Ranchi",
+    "subTitle": "महावीर एंटरप्राइजेज टूर एंड ट्रेवल्स",
+    "categoryName": "Car rental agency",
+    "address": "3, shop, Road, Dwarkapuri Rd, Chutia, Dwarakapuri, Ranchi, Jharkhand 834010, India",
+    "neighborhood": "Chutia, Dwarakapuri",
+    "street": "3, shop, Road, Dwarkapuri Rd",
+    "city": "Ranchi",
+    "postalCode": "834010",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.mahavirtourtravels.com/",
+    "phone": "+919708996893",
+    "phoneUnformatted": "+919708996893",
+    "location": {
+      "lat": 23.3463131,
+      "lng": 85.3498997
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxcDFN-rh9DkRhA4x4B-UlBA",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 328,
+    "imagesCount": 205,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN6SgXwFwhPvam60Rtyb0Z9gMwJLZ5KLXOTbNTi=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahavir%20Enterprises%20Tour%20%26%20Travels%20-%20Best%20Car%20Rental%20in%20Ranchi&query_place_id=ChIJxcDFN-rh9DkRhA4x4B-UlBA"
+  },
+  {
+    "title": "Maruti Suzuki True Value (Premsons Motors, Ranchi, Kokar)",
+    "subTitle": "मारुति सुजुकी ट्रू वैल्यू (प्रेमसंस मोटर्स, रांची, कोकर)",
+    "categoryName": "Used car dealer",
+    "address": "Chowk, opposite Barnwal Tent House, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kokar",
+    "street": "Chowk, opposite Barnwal Tent House",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.truevalueofkokarranchi.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "phone": "+918037530406",
+    "phoneUnformatted": "+918037530406",
+    "location": {
+      "lat": 23.3773075,
+      "lng": 85.358788
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_ZxFE9nj9DkRd_rpxM7UDWA",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 893,
+    "imagesCount": 384,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSy_KbqASLt1IsrRZidoYeMnRwe5uHLshKmiMuAjR6plZJJVxm7VJVndsu9tqJBoTRt5OlfS6CVHcWFMCBbFaBami482ei4lYkoteAS4QKLXgJJOBnsqzU8LlhQFEjeWuW4Fnc=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maruti%20Suzuki%20True%20Value%20(Premsons%20Motors%2C%20Ranchi%2C%20Kokar)&query_place_id=ChIJ_ZxFE9nj9DkRd_rpxM7UDWA"
+  },
+  {
+    "title": "OM SAI TOUR AND TRAVELS",
+    "subTitle": "ओम साई टूर एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "No 52, Hinoo Main Rd, Hinoo, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Hinoo",
+    "street": "No 52, Hinoo Main Rd",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919386530109",
+    "phoneUnformatted": "+919386530109",
+    "location": {
+      "lat": 23.329484,
+      "lng": 85.3154475
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb1HMkczh9DkRUxSKS9bbDsY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYZ-ka58eTTfy2LVLwDJoAWhcU8_8-L_rr7nYX=w408-h267-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=OM%20SAI%20TOUR%20AND%20TRAVELS&query_place_id=ChIJb1HMkczh9DkRUxSKS9bbDsY"
+  },
+  {
+    "title": "Pratik Automobiles - Mahindra",
+    "subTitle": "प्रतीक ऑटोमोबिल्स - महिंद्रा",
+    "categoryName": "Car dealer",
+    "address": "Old Hazaribagh Road, Patel Chowk, near Govt Bus Stand, Ranchi, Jharkhand 834011, India",
+    "neighborhood": "Sirom Toly, Gosaintola",
+    "street": "Old Hazaribagh Road, Patel Chowk, near Govt Bus Stand",
+    "city": "Ranchi",
+    "postalCode": "834011",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.pratikautomobiles.co.in/",
+    "phone": "+919117299992",
+    "phoneUnformatted": "+919117299992",
+    "location": {
+      "lat": 23.349987,
+      "lng": 85.329355
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoU7nZqPh9DkRwRUVhi4AI9o",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1160,
+    "imagesCount": 212,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSweNQBjZsPYJ1SBhVWk2MC0BjY1fi3uNN-fcoM7IPYDLxP8vuTZVZpnCVkN1m7CD5snSpVNQ5VBAFWLbY-NGGq6etOXeXlbTa4njTbbPiD-h9IS6n61AMcab24jeLTgD2sbXZly=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Pratik%20Automobiles%20-%20Mahindra&query_place_id=ChIJoU7nZqPh9DkRwRUVhi4AI9o"
+  },
+  {
+    "title": "REAL VALUE",
+    "subTitle": "रियल वैल्यू",
+    "categoryName": "Used car dealer",
+    "address": "Hazaribagh Rd, Kokar Industrial Area, Shanti Nagar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kokar Industrial Area, Shanti Nagar",
+    "street": "Hazaribagh Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "http://www.poddarmotors.com/",
+    "phone": "+918873002702",
+    "phoneUnformatted": "+918873002702",
+    "location": {
+      "lat": 23.3713196,
+      "lng": 85.3530281
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcwlLGH3h9DkR8KDMdeZrbbw",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 242,
+    "imagesCount": 137,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFk5aL-OYfndmfcYDUx_rfpvW4fz73g4qdLxOB=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=REAL%20VALUE&query_place_id=ChIJcwlLGH3h9DkR8KDMdeZrbbw"
+  },
+  {
+    "title": "Rana Automobiles",
+    "subTitle": "राणा ऑटोमोबाइल",
+    "categoryName": "Used car dealer",
+    "address": "98QP+975, Bariatu Rd, karamtoli chowk, Ranchi, Jharkhand 834008, India",
+    "neighborhood": "karamtoli chowk",
+    "street": "98QP+975, Bariatu Rd",
+    "city": "Ranchi",
+    "postalCode": "834008",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919835160928",
+    "phoneUnformatted": "+919835160928",
+    "location": {
+      "lat": 23.3883966,
+      "lng": 85.3357463
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj7YpnUDh9DkRhhxM1KSoT_w",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 83,
+    "imagesCount": 38,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy7LB2sp9vBwsgcHIByxrbWak56xT2L6hzyBjWatxXDU_UCQyn597RBCa2Ew-0RR8N3y6B_s3w2sz3OD5s6rlMENx5mJ5XP0dZnStDHsZXMkYRPER90PEJST6_H5HZKGxr0rJ0s=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rana%20Automobiles&query_place_id=ChIJj7YpnUDh9DkRhhxM1KSoT_w"
+  },
+  {
+    "title": "Ranchi Car Hire - Ranchi Cab Hire Service (Outstation Taxi Hire)",
+    "subTitle": "रांची कार हीरे - रांची कैब हीरे सर्विस (आउटस्टेशन टैक्सी हीरे)",
+    "categoryName": "Car rental agency",
+    "address": "Shop No. 02, Near Oxford Public School, Pragati, Chowk, Bahu Bazaar - Lowadih Bypass Rd, Ranchi, Jharkhand 834011, India",
+    "neighborhood": "Bhuiyan Toli, Samlong",
+    "street": "Shop No. 02, Near Oxford Public School, Pragati, Chowk, Bahu Bazaar - Lowadih Bypass Rd",
+    "city": "Ranchi",
+    "postalCode": "834011",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.ranchicarhire.com/",
+    "phone": "+919431717210",
+    "phoneUnformatted": "+919431717210",
+    "location": {
+      "lat": 23.3546379,
+      "lng": 85.3506961
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0Q734J3h9DkRe1CM9u-rjVU",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 46,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN8daFUtJHjJhhyMYdWdDYI6GHTdtj7Zup17Yoc=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ranchi%20Car%20Hire%20-%20Ranchi%20Cab%20Hire%20Service%20(Outstation%20Taxi%20Hire)&query_place_id=ChIJ0Q734J3h9DkRe1CM9u-rjVU"
+  },
+  {
+    "title": "Ranchi Car Rental",
+    "subTitle": "रांची कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "Near Indusind Bank, Tagore Hill Road, Balihar Rd, Antu Chowk, Morabadi Antu, Chowk, Morabadi, Ranchi, Jharkhand 834008, India",
+    "neighborhood": "Morabadi",
+    "street": "Near Indusind Bank, Tagore Hill Road, Balihar Rd, Antu Chowk, Morabadi Antu, Chowk",
+    "city": "Ranchi",
+    "postalCode": "834008",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/ranchicarrental/",
+    "phone": "+919431361550",
+    "phoneUnformatted": "+919431361550",
+    "location": {
+      "lat": 23.3952401,
+      "lng": 85.3351882
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEcK_fhjh9DkRdE6PWEW97kY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 96,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO6iIe-YmsajJPguOltKCpWrj_KTHHycERaPclq=w408-h307-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ranchi%20Car%20Rental&query_place_id=ChIJEcK_fhjh9DkRdE6PWEW97kY"
+  },
+  {
+    "title": "Ranchi Taxi Services",
+    "subTitle": "रांची टैक्सी सर्विसेस",
+    "categoryName": "Car dealer",
+    "address": "Shivpuri colony, Natraj inclave, phase 2, Hinoo, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Quraishi Mohalla, Natraj inclave, phase 2, Hinoo",
+    "street": "Shivpuri colony",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.ranchitaxiservices.com/",
+    "location": {
+      "lat": 23.3312778,
+      "lng": 85.3194375
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe-Hh61bh9DkR05k53hhj17U",
+    "categories": [
+      "Car dealer",
+      "Taxi service",
+      "Indian Motorcycle dealer",
+      "Transportation service",
+      "Used car dealer",
+      "Used motorcycle dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 3,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOH7J6JJqebK2X1IazVQsULNm9LI4CWfaW-QKog=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ranchi%20Taxi%20Services&query_place_id=ChIJe-Hh61bh9DkR05k53hhj17U"
+  },
+  {
+    "title": "Ranchi Taxi Tours (Local Rental & Outstation Trips)",
+    "subTitle": "रांची टैक्सी टूर",
+    "categoryName": "Car leasing service",
+    "address": "Rd Number 3, Swarnarekha Nagar Colony, Namkum, Ranchi, Jharkhand 834010, India",
+    "neighborhood": "Swarnarekha Nagar Colony, Namkum",
+    "street": "Rd Number 3",
+    "city": "Ranchi",
+    "postalCode": "834010",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://ranchi-taxi-tour.com/",
+    "phone": "+919942849982",
+    "phoneUnformatted": "+919942849982",
+    "location": {
+      "lat": 23.3490099,
+      "lng": 85.3559211
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-10rVjDj9DkRZMkMwIWxKdk",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Tourist information center",
+      "Travel agency"
+    ],
+    "reviewsCount": 704,
+    "imagesCount": 493,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOD1rxFkgfdFH68-QXtTmLdFoc4ubpZoZ0pZj4B=w408-h374-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ranchi%20Taxi%20Tours%20(Local%20Rental%20%26%20Outstation%20Trips)&query_place_id=ChIJ-10rVjDj9DkRZMkMwIWxKdk"
+  },
+  {
+    "title": "Ranchi Taxi tss journey",
+    "subTitle": "टीएसएस जर्नी रांची",
+    "categoryName": "Car rental agency",
+    "address": "Ground Floor, Tagore Hill road Ranchi, Morabadi Pin Code: 834008, Ranchi, Jharkhand 834008, India",
+    "neighborhood": "Van Vrindavan Colony, Morabadi",
+    "street": "Ground Floor, Tagore Hill road Ranchi, Morabadi Pin Code: 834008",
+    "city": "Ranchi",
+    "postalCode": "834008",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.tssjourneyranchi.com/",
+    "phone": "+918861148919",
+    "phoneUnformatted": "+918861148919",
+    "location": {
+      "lat": 23.4009142,
+      "lng": 85.3393629
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVXl4yJzh9DkRSG5HWW-76T4",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 237,
+    "imagesCount": 88,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNfr8j9RoNXaxbRa-paWqQV30fqCFhWd0mayvzD=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ranchi%20Taxi%20tss%20journey&query_place_id=ChIJVXl4yJzh9DkRSG5HWW-76T4"
+  },
+  {
+    "title": "Rent Car",
+    "subTitle": "रेंट कार",
+    "categoryName": "Car rental agency",
+    "address": "989Q+XQF, Lalpur, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Lalpur",
+    "street": "989Q+XQF",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+917830301127",
+    "phoneUnformatted": "+917830301127",
+    "location": {
+      "lat": 23.3698749,
+      "lng": 85.3394259
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ03exlBPh9DkR92jVvk8cd-E",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwbYC3TBFrxSsccby0x6wFTxRR6tGwnl8EBq_k=w408-h510-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rent%20Car&query_place_id=ChIJ03exlBPh9DkR92jVvk8cd-E"
+  },
+  {
+    "title": "Rudransh Motorentals Pvt Ltd",
+    "subTitle": "रुद्रांश मोटोरेंटल्स पीवीटी एलटीडी",
+    "categoryName": "Car rental agency",
+    "address": "Shop no-103, Prarthana Heights Prathana Heights, Ratu Rd, near Mall Of Ranchi, Kumhartoli, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kumhartoli",
+    "street": "Shop no-103, Prarthana Heights Prathana Heights, Ratu Rd, near Mall Of Ranchi",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://carkingranchi.com/",
+    "phone": "+919470987216",
+    "phoneUnformatted": "+919470987216",
+    "location": {
+      "lat": 23.3786951,
+      "lng": 85.3157543
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ24x4w-rh9DkRz4gmUD3vFxU",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Van rental agency"
+    ],
+    "reviewsCount": 60,
+    "imagesCount": 18,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMccR7SzMboLRViIxvQnR4LaGIRB1tUhzq_6kwg=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rudransh%20Motorentals%20Pvt%20Ltd&query_place_id=ChIJ24x4w-rh9DkRz4gmUD3vFxU"
+  },
+  {
+    "title": "SAHU TRAVELS SOLUTION RANCHI",
+    "subTitle": "साहू ट्रैवल्स सोल्यूशन रांची",
+    "categoryName": "Car rental agency",
+    "address": "near Oxford school, Lower Chutia, Samlong, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Lower Chutia, Samlong",
+    "street": "near Oxford school",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.sahutravelsolution.com/",
+    "location": {
+      "lat": 23.3550336,
+      "lng": 85.3483729
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc3lsC1fh9DkRRpNgQID3Tzc",
+    "categories": [
+      "Car rental agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 119,
+    "imagesCount": 57,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOooBDfNeT4ytP2cP8pIkQ5E9qkFL_fgQAL-tHr=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SAHU%20TRAVELS%20SOLUTION%20RANCHI&query_place_id=ChIJc3lsC1fh9DkRRpNgQID3Tzc"
+  },
+  {
+    "title": "Sai tour's & travel",
+    "subTitle": "साई तौर'स & ट्रैवल",
+    "categoryName": "Car rental agency",
+    "address": "Station Rd, Sirom Toly, Kishan Singh Colony, Gosaintola, Ranchi, Jharkhand 834011, India",
+    "neighborhood": "Sirom Toly, Kishan Singh Colony, Gosaintola",
+    "street": "Station Rd",
+    "city": "Ranchi",
+    "postalCode": "834011",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919525149612",
+    "phoneUnformatted": "+919525149612",
+    "location": {
+      "lat": 23.3495386,
+      "lng": 85.3318192
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn9kDXGDh9DkRWSuU8v4giDg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNiNeEpmPfq3s5F2yFhU9M09iVN6-UUDDu86Gyq=w408-h617-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sai%20tour's%20%26%20travel&query_place_id=ChIJn9kDXGDh9DkRWSuU8v4giDg"
+  },
+  {
+    "title": "Second Hand Car Dealers",
+    "subTitle": "सेकंड हाथ कार डीलर्स",
+    "categoryName": "Used car dealer",
+    "address": "502, Kanke Rd, Jawahar Nagar, Nagra Toli, Ranchi, Jharkhand 834008, India",
+    "neighborhood": "Jawahar Nagar, Nagra Toli",
+    "street": "502, Kanke Rd",
+    "city": "Ranchi",
+    "postalCode": "834008",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.3978785,
+      "lng": 85.3147583
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk9a7tSDh9DkRbBz9D9Cmq20",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 2 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JUxpuNopftjXRf5keAxvrg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=0.42181978&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Second%20Hand%20Car%20Dealers&query_place_id=ChIJk9a7tSDh9DkRbBz9D9Cmq20"
+  },
+  {
+    "title": "Shiv Shakti Travels",
+    "subTitle": "शिव शक्ति ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Haidar Ali Rd, New Colony, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "New Colony, Kokar",
+    "street": "Haidar Ali Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://shivshaktitravelcab.in/",
+    "phone": "+916205499309",
+    "phoneUnformatted": "+916205499309",
+    "location": {
+      "lat": 23.3805102,
+      "lng": 85.3588095
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCyhVb7rj9DkRd01b7iClP-o",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKA2fbi9mB9SgQRIcUGtdgMyHfoKa1Z8N5AH0L=w408-h290-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Shakti%20Travels&query_place_id=ChIJCyhVb7rj9DkRd01b7iClP-o"
+  },
+  {
+    "title": "Singh taxi service",
+    "subTitle": "सिंह टैक्सी सर्विस",
+    "categoryName": "Car rental agency",
+    "address": "Krishnapuri Rd, Chutia, Krishna Puri, Gosaintola, Ranchi, Jharkhand 834011, India",
+    "neighborhood": "Chutia, Krishna Puri, Gosaintola",
+    "street": "Krishnapuri Rd",
+    "city": "Ranchi",
+    "postalCode": "834011",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://singhtaxiservices.in/",
+    "phone": "+918002685626",
+    "phoneUnformatted": "+918002685626",
+    "location": {
+      "lat": 23.3440489,
+      "lng": 85.3459203
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-3akkEbh9DkRy1PYp3Ykiio",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 632,
+    "imagesCount": 770,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN_eoCK9qBNhJIk4YjmikZUaDQynV7zZh4f8epF=w408-h883-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Singh%20taxi%20service&query_place_id=ChIJ-3akkEbh9DkRy1PYp3Ykiio"
+  },
+  {
+    "title": "Sky cab",
+    "subTitle": "स्काई कैब",
+    "categoryName": "Car rental agency",
+    "address": "Pokhar Toli Rd, near birsa Munda airport, Saket Nagar, Hinoo, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Saket Nagar, Hinoo",
+    "street": "Pokhar Toli Rd, near birsa Munda airport",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "http://www.skycabs.co.in/",
+    "phone": "+919471548968",
+    "phoneUnformatted": "+919471548968",
+    "location": {
+      "lat": 23.3258317,
+      "lng": 85.329513
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW9k1vEHh9DkRNN5jhAYzYMI",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 212,
+    "imagesCount": 27,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOiXywVZ5Kbob2-tDz5VdCh_kJzH9CP32CMAz0=w408-h307-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sky%20cab&query_place_id=ChIJW9k1vEHh9DkRNN5jhAYzYMI"
+  },
+  {
+    "title": "Star Motors - Best Used Car Dealer in Ranchi",
+    "subTitle": "स्टार मोटर्स - बेस्ट यूज्ड कार डीलर इन रांची",
+    "categoryName": "Used car dealer",
+    "address": "N Samaj St, opp. Mahila PolyTechnic, Tharpakhna, New Barhi Toli, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Tharpakhna, New Barhi Toli",
+    "street": "N Samaj St, opp. Mahila PolyTechnic",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+918210196593",
+    "phoneUnformatted": "+918210196593",
+    "location": {
+      "lat": 23.3709475,
+      "lng": 85.3298701
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg-aG1efh9DkR3P3TDs3qRE8",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwv_DBl1TmcturaKctREqTaeDIwmwKz4elOjnmBFgh94lpnUO_BUux8UnK6VMMPSsUu6RXayIMThvCRm9eb7w5LrO7T_pX0f6fZE8uNaeSuwg_kzItXT9ulfNFNHOvDQWbaC7bQsA=w408-h612-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20Motors%20-%20Best%20Used%20Car%20Dealer%20in%20Ranchi&query_place_id=ChIJg-aG1efh9DkR3P3TDs3qRE8"
+  },
+  {
+    "title": "Sun Light Travels | Best car rental service in ranchi",
+    "subTitle": "सुन लाइट ट्रैवल्स | बेस्ट कार रेंटल सर्विस इन रांची",
+    "categoryName": "Car rental agency",
+    "address": "Bariyatu, Joda Talab Rd, talaw, Bariatu, Ranchi, Jharkhand 834009, India",
+    "neighborhood": "talaw, Bariatu",
+    "street": "Bariyatu, Joda Talab Rd",
+    "city": "Ranchi",
+    "postalCode": "834009",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/sun-light-travels/best-tour-and-travel-agency-in-ranchi-sunlight-travels",
+    "phone": "+917488641591",
+    "phoneUnformatted": "+917488641591",
+    "location": {
+      "lat": 23.3933126,
+      "lng": 85.3589088
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ366rnBfj9DkRLAY_cQOrL6w",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Wedding service"
+    ],
+    "reviewsCount": 139,
+    "imagesCount": 151,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyiROOTqWiu4QRUJ_qGy7oU7ACN35SqdyJSlL39D8VO0-5C5kYf2x8Nn1xZWfk6EPSiXF3X44leKKQ0R9EdgsVDVjysXYhhY_VrdNSYSGI1gMaZ2h5-D_33IJAHz0iTQ3bEkW4h5Q=w408-h724-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sun%20Light%20Travels%20%7C%20Best%20car%20rental%20service%20in%20ranchi&query_place_id=ChIJ366rnBfj9DkRLAY_cQOrL6w"
+  },
+  {
+    "title": "THE ICONIC CAR",
+    "subTitle": "द आइकॉनिक कार",
+    "categoryName": "Car dealer",
+    "address": "OLD, H.B ROAD, opposite HANUMAN MANDIR, New Adarsh Nagar, CHOWK, Kokar, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "New Adarsh Nagar, CHOWK, Kokar",
+    "street": "OLD, H.B ROAD, opposite HANUMAN MANDIR",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.3771355,
+      "lng": 85.3600312
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA8LMEPjj9DkRUlIr19VeIB8",
+    "categories": [
+      "Car dealer"
+    ],
+    "imagesCount": 2,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyrZTdw_RcNbjZ-Es3dbNj_-57Vx9H99nKGndivWSS2GphxzocWHxRSCvBHHlrO4WhnWdTosVpgGzIhna3NFdTNDHIUmsJM8mu-3Tg46OSWVoaU6Pws-P2ydkezaS7BZ0H0gFQKua9Gios=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=THE%20ICONIC%20CAR&query_place_id=ChIJA8LMEPjj9DkRUlIr19VeIB8"
+  },
+  {
+    "title": "Thakurji Travels & Carrier",
+    "subTitle": "ठाकुरजी ट्रैवल्स & कैरियर",
+    "categoryName": "Car rental agency",
+    "address": "974H+8WV, Harmu, Doranda, Ranchi, Jharkhand 834004, India",
+    "neighborhood": "Dugdugiyatoli, Doranda",
+    "street": "974H+8WV, Harmu",
+    "city": "Ranchi",
+    "postalCode": "834004",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "http://www.thakurjitravels.com/",
+    "location": {
+      "lat": 23.3558732,
+      "lng": 85.2797832
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJidu6il7h9DkR0Ex6To-Pou0",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 55,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-bymnlmnEawRLHteBD7qCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.56668&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Thakurji%20Travels%20%26%20Carrier&query_place_id=ChIJidu6il7h9DkR0Ex6To-Pou0"
+  },
+  {
+    "title": "The Wheels Used Car Showroom / Used Car Showroom/ Second Hand Car Showroom in Ranchi",
+    "subTitle": "द व्हील्स यूज्ड कार शोरूम / यूज्ड कार शोरूम/ सेकंड हैंड कार शोरूम इन रांची",
+    "categoryName": "Used car dealer",
+    "address": "Adil Complex, Bariatu Rd, Bariatu, Ranchi, Jharkhand 834009, India",
+    "neighborhood": "Bariatu",
+    "street": "Adil Complex, Bariatu Rd",
+    "city": "Ranchi",
+    "postalCode": "834009",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://thewheelsusedcarshowrooom.site/",
+    "phone": "+918092601117",
+    "phoneUnformatted": "+918092601117",
+    "location": {
+      "lat": 23.3974753,
+      "lng": 85.3545777
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVYbaeaPh9DkRe9iEOmDK40Y",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 35,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSVK2FSr6BVMUrl9Ex6Mp5oUG2QbTie8e0u0mcBobKWGl9-Xqx3j-ghvZFQ2fhgNMYtzpXk1P-P-txnlODA_EEtSpJHg7Y-9VvfXCywuq6mNJ0u-ZRK4LrLrf7_Y8wcT-6Nx6v_A=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Wheels%20Used%20Car%20Showroom%20%2F%20Used%20Car%20Showroom%2F%20Second%20Hand%20Car%20Showroom%20in%20Ranchi&query_place_id=ChIJVYbaeaPh9DkRe9iEOmDK40Y"
+  },
+  {
+    "title": "Titanium Exclusive Plus - Pre-Owned Cars",
+    "subTitle": "टाइटेनियम एक्सक्लूसिव प्लस - प्री-ओन्ड कार्स",
+    "categoryName": "Used car dealer",
+    "address": "Chauhan Complex, Kanke Rd, near Rock Garden, Rock Garden, Gandhi Nagar, Ranchi, Jharkhand 834008, India",
+    "neighborhood": "Rock Garden, Gandhi Nagar",
+    "street": "Chauhan Complex, Kanke Rd, near Rock Garden",
+    "city": "Ranchi",
+    "postalCode": "834008",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919772103088",
+    "phoneUnformatted": "+919772103088",
+    "location": {
+      "lat": 23.4014696,
+      "lng": 85.3146516
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSY8Pg_bh9DkRxtFuR9Ly-vk",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Used auto parts store"
+    ],
+    "reviewsCount": 43,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPDF8W2NmM-ORrtWEZMahvYi4EQobxhun2zVgfh=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Titanium%20Exclusive%20Plus%20-%20Pre-Owned%20Cars&query_place_id=ChIJSY8Pg_bh9DkRxtFuR9Ly-vk"
+  },
+  {
+    "title": "Toyota Innova Crysta Hire In Ranchi",
+    "subTitle": "टोयोटा इनोवा क्रिस्टा हीरे इन रांची",
+    "categoryName": "Car rental agency",
+    "address": "11/3, Harmu Colony Road, Chowk, Harmu, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Harmu",
+    "street": "11/3, Harmu Colony Road, Chowk",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://toyotainnovacrystahireinranchi.blogspot.com/",
+    "phone": "+919431559886",
+    "phoneUnformatted": "+919431559886",
+    "location": {
+      "lat": 23.3597453,
+      "lng": 85.3022509
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJleRCI5fh9DkRMXKIDEBUJLs",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMoab9tLtAaPtA-rsOFsWCxrSjLn-RiWgAGACm8=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Toyota%20Innova%20Crysta%20Hire%20In%20Ranchi&query_place_id=ChIJleRCI5fh9DkRMXKIDEBUJLs"
+  },
+  {
+    "title": "Travel Continental",
+    "subTitle": "ट्रैवल कॉन्टिनेंटल",
+    "categoryName": "Car rental agency",
+    "address": "H.no. 175, near Nigam Park, Harmu Housing Colony, Harmu, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Harmu Housing Colony, Harmu",
+    "street": "H.no. 175, near Nigam Park",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+917903005947",
+    "phoneUnformatted": "+917903005947",
+    "location": {
+      "lat": 23.3617941,
+      "lng": 85.3115808
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg_Hgv_Dh9DkRnYOmJ1bDpNA",
+    "categories": [
+      "Car rental agency",
+      "Bus charter",
+      "Bus tour agency",
+      "Tour operator",
+      "Currency exchange service",
+      "Travel agency",
+      "Visa and passport office",
+      "Visa consulting service"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 236,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNr4HbD8KJGb5gWPeXCDqznBqI6epyeBuJ5O9Mw=w408-h271-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Travel%20Continental&query_place_id=ChIJg_Hgv_Dh9DkRnYOmJ1bDpNA"
+  },
+  {
+    "title": "Trip mento - Book Tempo Traveller Winger 12 15 17 26 Seater Rent Booking Ranchi | Car Booking | Car Rental Services Ranchi",
+    "subTitle": "ट्रिप मेंतो - बुक टेम्पो ट्रैवलर विंगर 12 15 17 26 सीटर रेंट बुकिंग रांची | कार बुकिंग | कार रेंटल सर्विसेस रांची",
+    "categoryName": "Car rental agency",
+    "address": "Central Ashoka, C-3, opp. Road Number 3, Central Ashoka Colony, Harmu Housing Colony, Ashok Nagar, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Central Ashoka Colony, Harmu Housing Colony, Ashok Nagar",
+    "street": "Central Ashoka, C-3, opp. Road Number 3",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.tripmento.co.in/",
+    "phone": "+919007144778",
+    "phoneUnformatted": "+919007144778",
+    "location": {
+      "lat": 23.3514249,
+      "lng": 85.306184
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKSIsnpYf9TkRWVBB4j4LZ4U",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Tour operator"
+    ],
+    "reviewsCount": 20,
+    "imagesCount": 17,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPfD9CUqX1SQ3AhmK_UYyD4zBR0ZtGfIU6zm8tQ=w640-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Trip%20mento%20-%20Book%20Tempo%20Traveller%20Winger%2012%2015%2017%2026%20Seater%20Rent%20Booking%20Ranchi%20%7C%20Car%20Booking%20%7C%20Car%20Rental%20Services%20Ranchi&query_place_id=ChIJKSIsnpYf9TkRWVBB4j4LZ4U"
+  },
+  {
+    "title": "Universal Motors ( Used Car Dealers )",
+    "subTitle": "यूनिवर्सल मोटर्स ( यूज्ड कार डीलर्स )",
+    "categoryName": "Used car dealer",
+    "address": "Bypass Rd, Ashok Kunj, Ashok Nagar, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Ashok Kunj, Ashok Nagar",
+    "street": "Bypass Rd",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919304195415",
+    "phoneUnformatted": "+919304195415",
+    "location": {
+      "lat": 23.343872,
+      "lng": 85.3015133
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ2mfsAPh9DkRjh6UL_qLEqc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxazlRgGn5Cnu4jfEOk6LNqqb5pYKCIaDbN6cs0YFD3clFiEa5_JyartgvB6WxUUNO-apjKPA2n7zJQ1EATcg2_yqhL7Bfl_FXCCIYo9x__WNxPF_cmxvJgT0Sv9m9FCFQewYUhkw=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Universal%20Motors%20(%20Used%20Car%20Dealers%20)&query_place_id=ChIJZ2mfsAPh9DkRjh6UL_qLEqc"
+  },
+  {
+    "title": "Used Car Showroom",
+    "subTitle": "यूज्ड कार शोरूम",
+    "categoryName": "Motor vehicle dealer",
+    "address": "99M9+MP3, Santman Nagar, Ranchi, Jharkhand 834012, India",
+    "neighborhood": "Santman Nagar",
+    "street": "99M9+MP3",
+    "city": "Ranchi",
+    "postalCode": "834012",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.3841301,
+      "lng": 85.3692835
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnfoBVF3j9DkRW4a5S0UY_1I",
+    "categories": [
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwbj4EjXA_FAh-dNFEHpXbpfokLqTY3wvfKpkrBzBvxeABWXXpdDk7HcNVG7-e5WN17JPiOpUQcxoUs38gy0TTemhl-RghqmclwprLopaaMH0D945ulg_ETECLGy1KyCouVz5eH=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Used%20Car%20Showroom&query_place_id=ChIJnfoBVF3j9DkRW4a5S0UY_1I"
+  },
+  {
+    "title": "Volkswagen Ranchi Circuit House Area - Showroom",
+    "subTitle": "वोक्सवैगन रांची",
+    "categoryName": "Volkswagen dealer",
+    "address": "Karamtoli Road, Jail Chowk, near Deputy Para, opp. Adiwasi hostel, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Ahirtoli",
+    "street": "Karamtoli Road, Jail Chowk, near Deputy Para, opp. Adiwasi hostel",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919570695865",
+    "phoneUnformatted": "+919570695865",
+    "location": {
+      "lat": 23.3804138,
+      "lng": 85.3285483
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJQMaX5Xg9DkRpcEXulnSmMU",
+    "categories": [
+      "Volkswagen dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 280,
+    "imagesCount": 73,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzaZcjnpqjYD3cb6GdMwCShBzKBEZzU6AwKnwtZelRGettSyvbupeiRBSJOdSasjkbE0DZyEOdgcf6FfEahl7D0ZgqM4FVZCmGTak-kcq4kqRLKsebMJn8RJ4bhePaCIplo7QDQ=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Volkswagen%20Ranchi%20Circuit%20House%20Area%20-%20Showroom&query_place_id=ChIJJQMaX5Xg9DkRpcEXulnSmMU"
+  },
+  {
+    "title": "Vrinda Car Hire & Rental - Car Rental In Ranchi (Local/Outstation)",
+    "subTitle": "वृंदा कार हीरे & रेंटल - कार रेंटल इन रांची (लोकल/आउटस्टेशन)",
+    "categoryName": "Car rental agency",
+    "address": "Shiv Durga Mandir Lane, Ratu Rd, Ranchi, Jharkhand 834001, India",
+    "neighborhood": "Kumhartoli",
+    "street": "Shiv Durga Mandir Lane, Ratu Rd",
+    "city": "Ranchi",
+    "postalCode": "834001",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "https://www.vrindacarhirerental.in/",
+    "phone": "+919771982105",
+    "phoneUnformatted": "+919771982105",
+    "location": {
+      "lat": 23.3800086,
+      "lng": 85.3052899
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiyf5X1fh9DkRCb0Rd5st1oQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 49,
+    "imagesCount": 105,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOOycaI1_BVWo7QumXn67Flq_bf0LB8mY0Sru9H=w408-h278-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Vrinda%20Car%20Hire%20%26%20Rental%20-%20Car%20Rental%20In%20Ranchi%20(Local%2FOutstation)&query_place_id=ChIJiyf5X1fh9DkRCb0Rd5st1oQ"
+  },
+  {
+    "title": "Wed Luxury Cars",
+    "subTitle": "वेड लक्जरी कार्स",
+    "categoryName": "Car leasing service",
+    "address": "Argora Chowk, Pipartoli, Argora, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Pipartoli, Argora",
+    "street": "Argora Chowk",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+919534118428",
+    "phoneUnformatted": "+919534118428",
+    "location": {
+      "lat": 23.3504746,
+      "lng": 85.2979752
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJ7bTyPVjh9DkR4Q-mlFE5uBc",
+    "categories": [
+      "Car leasing service"
+    ],
+    "imagesCount": 6,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOzItKA0yKWzyvWAJ1xdg56fAw0aij8VSZmNqpv=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Wed%20Luxury%20Cars&query_place_id=ChIJ7bTyPVjh9DkR4Q-mlFE5uBc"
+  },
+  {
+    "title": "Wed-In-Wheels",
+    "subTitle": "वेद-इन-व्हील्स",
+    "categoryName": "Car rental agency",
+    "address": "Foto Me Plot No. HI/206, near Sahjanand Chowk P.S, Harmu Housing Colony, Argora, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Harmu Housing Colony, Argora",
+    "street": "Foto Me Plot No. HI/206, near Sahjanand Chowk P.S",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "website": "http://wedinwheels.com/",
+    "phone": "+919304716076",
+    "phoneUnformatted": "+919304716076",
+    "location": {
+      "lat": 23.3585569,
+      "lng": 85.3061343
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIwerv1bg9DkRwR0FVVmcVoQ",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 80,
+    "imagesCount": 138,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyRZuDv5s2396rILXUqxhH75IVBI-KafEEtUitTIrl36h5MmQNx2qHjdh17TZp7ahgrteLQBDHfY4f8PD4zi2v9ChOxdaVHLwXhXBJbm36MV3FfEzYcIYX-DorQrz0QPi899Hzp1A=w408-h271-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Wed-In-Wheels&query_place_id=ChIJIwerv1bg9DkRwR0FVVmcVoQ"
+  },
+  {
+    "title": "ZillionMiles - Wedding Luxury Car Rental in Ranchi",
+    "subTitle": "जिलेनमाइल्स - वेडिंग लक्जरी कार रेंटल इन रांची",
+    "categoryName": "Car leasing service",
+    "address": "Ground Floor, ADIFA Complex, G12, opposite Kadru Masjid, Rahat Colony, Kadru, Delatoli, Ranchi, Jharkhand 834002, India",
+    "neighborhood": "Rahat Colony, Kadru, Delatoli",
+    "street": "Ground Floor, ADIFA Complex, G12, opposite Kadru Masjid",
+    "city": "Ranchi",
+    "postalCode": "834002",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+917549938338",
+    "phoneUnformatted": "+917549938338",
+    "location": {
+      "lat": 23.3505661,
+      "lng": 85.3113314
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJpSN-uazh9DkRGbgs6JCwbM8",
+    "categories": [
+      "Car leasing service"
+    ],
+    "imagesCount": 16,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM3ICv9cUA8RPJdMMREtRMYYWZma4ba2U3Q-AzR=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=ZillionMiles%20-%20Wedding%20Luxury%20Car%20Rental%20in%20Ranchi&query_place_id=ChIJpSN-uazh9DkRGbgs6JCwbM8"
+  }
+]

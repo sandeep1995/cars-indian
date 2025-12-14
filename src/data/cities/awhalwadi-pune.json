@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Speed-Way Tours & Travels",
+    "subTitle": "स्पीड-वे टूर्स & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "A701, Utsav Residency, road, Kalubai Nagar, Wagholi, Awhalwadi, Pune, Maharashtra 412207, India",
+    "neighborhood": "Kalubai Nagar, Wagholi",
+    "street": "A701, Utsav Residency, road",
+    "city": "Awhalwadi, Pune",
+    "postalCode": "412207",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.speedwaytravels.org/",
+    "phone": "+919168613533",
+    "phoneUnformatted": "+919168613533",
+    "location": {
+      "lat": 18.5760487,
+      "lng": 73.9842885
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLZ3pO7jBwjsRrJl20X-zBt4",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPBbm9edx8OE3agFU5NOqbgfX3Uc2m1y0ECyCVa=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Speed-Way%20Tours%20%26%20Travels&query_place_id=ChIJLZ3pO7jBwjsRrJl20X-zBt4"
+  }
+]

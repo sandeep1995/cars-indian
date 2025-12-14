@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Krishna Hyundai",
+    "subTitle": "कृष्ण ह्युंडई",
+    "categoryName": "Hyundai dealer",
+    "address": "Plot No.97-98 Shivdaspur, D-65/13838, DLW Rd, Lahartara Boulia, Lehertara Industrial Estate, Varanasi, Maruadih Rly. Settlement, Uttar Pradesh 221103, India",
+    "neighborhood": "Lahartara Boulia, Lehertara Industrial Estate",
+    "street": "Plot No.97-98 Shivdaspur, D-65/13838, DLW Rd",
+    "city": "Varanasi, Maruadih Rly. Settlement",
+    "postalCode": "221103",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://krishnaup.hyundaimotor.in/",
+    "phone": "+917375939001",
+    "phoneUnformatted": "+917375939001",
+    "location": {
+      "lat": 25.3097859,
+      "lng": 82.9673514
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE7EWND8tjjkRQN2XWP1gqMg",
+    "categories": [
+      "Hyundai dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 965,
+    "imagesCount": 147,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 4 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy8dCjJBswWZmU6luYkzSKP4V3_xnsDwRJwuonhfXsEHtFbkLn03_cEXFlR8c0u8vgEa7Abhbnbvo8sBKH6dSVFiMrd5myCztGo6n8wz9mWSkq9i418_aBq6erOVqWlXiBzH_57=w480-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Krishna%20Hyundai&query_place_id=ChIJE7EWND8tjjkRQN2XWP1gqMg"
+  }
+]

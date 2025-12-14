@@ -1,0 +1,4379 @@
+[
+  {
+    "title": ",.",
+    "subTitle": ",॰",
+    "categoryName": "Used car dealer",
+    "address": "Metro Station, Plot no 6, Shop no 3 & 4 Swaroop Park, Main, Grand Trunk Rd, near Shyam Park, Sahibabad, Ghaziabad, Uttar Pradesh 201005, India",
+    "neighborhood": "Sector 4, Rajendra Nagar, Sahibabad",
+    "street": "Metro Station, Plot no 6, Shop no 3 & 4 Swaroop Park, Main, Grand Trunk Rd, near Shyam Park",
+    "city": "Ghaziabad",
+    "postalCode": "201005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.6801345,
+      "lng": 77.3703718
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJn2UWhPX6DDkRx5bPkC17Yao",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S_7YRvzWX-eErmYYPXCOGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=111.78449&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=%2C.&query_place_id=ChIJn2UWhPX6DDkRx5bPkC17Yao"
+  },
+  {
+    "title": "Aarti tour and travels",
+    "subTitle": "आरती टूर एंड ट्रैवल्स",
+    "categoryName": "Car leasing service",
+    "address": "Shop no-6, veer plaza market society, NH-24, Avantika Extension, Mahagunpuram, Ghaziabad, Uttar Pradesh 201002, India",
+    "neighborhood": "Avantika Extension, Mahagunpuram",
+    "street": "Shop no-6, veer plaza market society, NH-24",
+    "city": "Ghaziabad",
+    "postalCode": "201002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919319422345",
+    "phoneUnformatted": "+919319422345",
+    "location": {
+      "lat": 28.6669536,
+      "lng": 77.4777259
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcZhPtJnzDDkRZFZYo9CsN0o",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Tourist attraction"
+    ],
+    "reviewsCount": 41,
+    "imagesCount": 60,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOObEA9pftMyElZNDgk-pXV-GiQ72TQ2_FO1SjY=w408-h530-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Aarti%20tour%20and%20travels&query_place_id=ChIJcZhPtJnzDDkRZFZYo9CsN0o"
+  },
+  {
+    "title": "Akash Luxury",
+    "subTitle": "आकाश लक्जरी",
+    "categoryName": "Car rental agency",
+    "address": "House No 206, near by Sai Mandir Marg, Chabra Colony, Vikram Enclave, Shalimar Garden, Sahibabad, Ghaziabad, Uttar Pradesh 201006, India",
+    "neighborhood": "Chabra Colony, Vikram Enclave, Shalimar Garden, Sahibabad",
+    "street": "House No 206, near by Sai Mandir Marg",
+    "city": "Ghaziabad",
+    "postalCode": "201006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.690625,
+      "lng": 77.334859
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1blfjFL6DDkRegidJOUyRb8",
+    "categories": [
+      "Car rental agency"
+    ],
+    "openingHours": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Akash%20Luxury&query_place_id=ChIJ1blfjFL6DDkRegidJOUyRb8"
+  },
+  {
+    "title": "Anubhav Solutions For Travel Pvt Ltd Car Rental Company",
+    "subTitle": "अनुभव सोलुटिओंस फॉर ट्रैवल प्राइवेट लिमिटेड/",
+    "categoryName": "Car rental agency",
+    "address": "Shop no-106, Satyam Building, near RDC, RDC, Block 1, P & T Colony, Raj Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+    "neighborhood": "RDC, Block 1, P & T Colony, Raj Nagar",
+    "street": "Shop no-106, Satyam Building, near RDC",
+    "city": "Ghaziabad",
+    "postalCode": "201002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://astsolutions.in/",
+    "location": {
+      "lat": 28.6726492,
+      "lng": 77.4419917
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwXM365XxDDkRcIgVqlFrHk0",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 152,
+    "imagesCount": 293,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPzvCHEJ4zmEksIJdwJT3jXt4ifg6FizSzoBdIc=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Anubhav%20Solutions%20For%20Travel%20Pvt%20Ltd%20Car%20Rental%20Company&query_place_id=ChIJwXM365XxDDkRcIgVqlFrHk0"
+  },
+  {
+    "title": "Arihant Tourist | Urbania Tempo Traveller on Rent in Delhi-NCR | Serving Since 1975",
+    "subTitle": "अरिहंत टूरिस्ट | अर्बनिया टेम्पो ट्रैवलर ऑन रेंट इन दिल्ली-एनसीआर | सर्विंग सीन्स 1975",
+    "categoryName": "Car rental agency",
+    "address": "Rajnagar Residency, A-605, Vikas Nagar, Raj Nagar Extension, Ghaziabad, Uttar Pradesh 201017, India",
+    "neighborhood": "Vikas Nagar, Raj Nagar Extension",
+    "street": "Rajnagar Residency, A-605",
+    "city": "Ghaziabad",
+    "postalCode": "201017",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.arihanttourist.com/",
+    "phone": "+919719281920",
+    "phoneUnformatted": "+919719281920",
+    "location": {
+      "lat": 28.6965947,
+      "lng": 77.4363119
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwfwSfClUDDkRVzar_k928yY",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Van rental agency",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 100,
+    "imagesCount": 43,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNKCX-qpqBhHsX4siXQ7sLx-ia6ok3YJM1iWoS2=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Arihant%20Tourist%20%7C%20Urbania%20Tempo%20Traveller%20on%20Rent%20in%20Delhi-NCR%20%7C%20Serving%20Since%201975&query_place_id=ChIJwfwSfClUDDkRVzar_k928yY"
+  },
+  {
+    "title": "Audi Rent Delhi",
+    "subTitle": "ऑडी रेंट दिल्ली",
+    "categoryName": "Car rental agency",
+    "address": "Office No:- 510 Ground Floor, 4/5, Sector 1, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "neighborhood": "Sector 1, Vasundhara",
+    "street": "Office No:- 510 Ground Floor, 4/5",
+    "city": "Ghaziabad",
+    "postalCode": "201012",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://audirentdelhi.com/",
+    "phone": "+919999852595",
+    "phoneUnformatted": "+919999852595",
+    "location": {
+      "lat": 28.6631626,
+      "lng": 77.3905451
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUUiJma3xDDkRUDZ7QygnI3U",
+    "categories": [
+      "Car rental agency",
+      "Carriage ride service",
+      "Corporate office",
+      "Leasing service",
+      "Limousine service",
+      "Transportation escort service",
+      "Transportation service",
+      "Van rental agency",
+      "Wedding service"
+    ],
+    "reviewsCount": 207,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxVGcjsk7ddoG0eMI_DLK1HP8f4fyi_Inw6LZ1pZ59CHV4NLIuqVAqTPPfA6ysIuonMA4eqLiiNqxuASjS0EwDXZ0ln0m9SxOg6xA0F4w4nKiKMKaIl3MDincx-2Ex2c0E0uxqCRw=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Audi%20Rent%20Delhi&query_place_id=ChIJUUiJma3xDDkRUDZ7QygnI3U"
+  },
+  {
+    "title": "Auto Giant",
+    "subTitle": "ऑटो जायंट",
+    "categoryName": "Car dealer",
+    "address": "Niti Khand 3, Manoj Vihar, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Niti Khand 3, Manoj Vihar, Indirapuram",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.6459504,
+      "lng": 77.3755836
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJ32n4rT37DDkRCRH9qNNYD9k",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 34,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOjX53qybdync9EC1RSASwSQuwX5AUpwEs-DBsD=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Giant&query_place_id=ChIJ32n4rT37DDkRCRH9qNNYD9k"
+  },
+  {
+    "title": "BEST RIDES SHARE CAR RENTAL SERVICES",
+    "subTitle": "बेस्ट राइड्स शेयर कार रेंटल सर्विसेस",
+    "categoryName": "Car rental agency",
+    "address": "C/24, C Block Rd, Indira Colony, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005, India",
+    "neighborhood": "Indira Colony, Rajendra Nagar, Sahibabad",
+    "street": "C/24, C Block Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://bestrideshare.com/",
+    "location": {
+      "lat": 28.6733662,
+      "lng": 77.3778804
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT4bSAQ5nEjkRTFJcwzdo3_4",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP7scmwUzkIlQGP4JcRP8BfCPW2lxTPSjhNcEXc=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=BEST%20RIDES%20SHARE%20CAR%20RENTAL%20SERVICES&query_place_id=ChIJT4bSAQ5nEjkRTFJcwzdo3_4"
+  },
+  {
+    "title": "Budget Wheels",
+    "subTitle": "बजट व्हील्स",
+    "categoryName": "Used car dealer",
+    "address": "Jaipuria Sunrise Plaza, SD166, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Ahinsa Khand 1, Indirapuram",
+    "street": "Jaipuria Sunrise Plaza, SD166",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://budgetwheels.in/",
+    "phone": "+918062208175",
+    "phoneUnformatted": "+918062208175",
+    "location": {
+      "lat": 28.6410327,
+      "lng": 77.3778161
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd2aN5sn7DDkRgB0LaZbw5aM",
+    "categories": [
+      "Used car dealer",
+      "Audi dealer",
+      "BMW dealer",
+      "Car dealer",
+      "Hyundai dealer",
+      "MG dealer"
+    ],
+    "reviewsCount": 96,
+    "imagesCount": 230,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNRcN5WcZBERPGDVURo4sZp6-RFnr_1YoCWXRKn=w408-h491-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Budget%20Wheels&query_place_id=ChIJd2aN5sn7DDkRgB0LaZbw5aM"
+  },
+  {
+    "title": "CARS CLUB",
+    "subTitle": "कार्स क्लब",
+    "categoryName": "Used car dealer",
+    "address": "SHOP NO 9 LOWER GROUND FLOOR, near ICICI BANK LTD, Niti Khand 3, Niti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Niti Khand 3, Niti Khand 2, Indirapuram",
+    "street": "SHOP NO 9 LOWER GROUND FLOOR, near ICICI BANK LTD",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919899354209",
+    "phoneUnformatted": "+919899354209",
+    "location": {
+      "lat": 28.64598,
+      "lng": 77.3749784
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3fjKfgr7DDkRII0RftRsn3Y",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 18,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFzhwUJPDDgYE0amgBM4Ap-wLNVLOgQll0u97y=w408-h305-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CARS%20CLUB&query_place_id=ChIJ3fjKfgr7DDkRII0RftRsn3Y"
+  },
+  {
+    "title": "CARTRADE Ghaziabad",
+    "subTitle": "कारट्रेड गाजियाबाद",
+    "categoryName": "Used car dealer",
+    "address": "SD 190A, Jaipuria Sunrise Plaza, Mall Road, Behind Jaipuria Mall, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Ahinsa Khand 1, Indirapuram",
+    "street": "SD 190A, Jaipuria Sunrise Plaza, Mall Road, Behind Jaipuria Mall",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.cartrade.com/buy-used-cars/ghaziabad/c/",
+    "phone": "+919212231069",
+    "phoneUnformatted": "+919212231069",
+    "location": {
+      "lat": 28.6413917,
+      "lng": 77.3779864
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdfDrB6v6DDkR7CbmNInQEJ0",
+    "categories": [
+      "Used car dealer",
+      "Car finance and loan company"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP_DckwjywGtgzy_7tEG4neAjDoqqh04Px54kXa=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CARTRADE%20Ghaziabad&query_place_id=ChIJdfDrB6v6DDkR7CbmNInQEJ0"
+  },
+  {
+    "title": "CARVEDA First choice (CFC)",
+    "subTitle": "कार्वेद फर्स्ट चॉइस (सीएफसी)",
+    "categoryName": "Used car dealer",
+    "address": "Shop no, Fowara Chowk, 4 E3c, near Meerut Road, New Arya Nagar, Sector 21, Meerut Road Industrial Area, Ghaziabad, Uttar Pradesh 201001, India",
+    "neighborhood": "New Arya Nagar, Sector 21, Meerut Road Industrial Area",
+    "street": "Shop no, Fowara Chowk, 4 E3c, near Meerut Road",
+    "city": "Ghaziabad",
+    "postalCode": "201001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919810725725",
+    "phoneUnformatted": "+919810725725",
+    "location": {
+      "lat": 28.679245,
+      "lng": 77.4255485
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz3mU7YLxDDkR6SlhRdLolmI",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Vehicle inspection service"
+    ],
+    "reviewsCount": 31,
+    "imagesCount": 105,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyoB3k1zIRZXB-FqhrafaHy9usHuIs8yngoT8wB_lPBe8im6RrTdGVtHkLI8QXqqb75cHDy-dv6F8e49n6DKIWWGAc53kdtjdrpVNFbuuB-wub33v5vtvPEoNXGVv_-XDqQjf8x=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CARVEDA%20First%20choice%20(CFC)&query_place_id=ChIJz3mU7YLxDDkR6SlhRdLolmI"
+  },
+  {
+    "title": "CaRsStOrE 7x24",
+    "subTitle": "करस्टोर 7एक्स24",
+    "categoryName": "Car dealer",
+    "address": "B-36, Gagan Vihar, Sahibabad, Ghaziabad, Uttar Pradesh 201006, India",
+    "neighborhood": "Gagan Vihar, Sahibabad",
+    "street": "B-36",
+    "city": "Ghaziabad",
+    "postalCode": "201006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.carsstore7x24.in/",
+    "phone": "+918860446146",
+    "phoneUnformatted": "+918860446146",
+    "location": {
+      "lat": 28.7018418,
+      "lng": 77.3263778
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT8wQ6BT7DDkR3HXTP0aDMfI",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 6,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNnvTJ1sAZgWgT7um27xk8CouMxcYIfkW_fvScu=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CaRsStOrE%207x24&query_place_id=ChIJT8wQ6BT7DDkR3HXTP0aDMfI"
+  },
+  {
+    "title": "Cabigo24. Tour and travel company | taxi services in ghaziabad",
+    "subTitle": "कैबिगो24. टूर एंड ट्रैवल कंपनी | टैक्सी सर्विसेस इन गाजियाबाद",
+    "categoryName": "Car leasing service",
+    "address": "ansal sumangalm rdc, 362-A, RDC, Block 1, P & T Colony, Raj Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+    "neighborhood": "RDC, Block 1, P & T Colony, Raj Nagar",
+    "street": "ansal sumangalm rdc, 362-A",
+    "city": "Ghaziabad",
+    "postalCode": "201002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.cabigo24.com/",
+    "phone": "+919990101406",
+    "phoneUnformatted": "+919990101406",
+    "location": {
+      "lat": 28.6732653,
+      "lng": 77.4403999
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi3Nyo6CXogEREVa_trMEWG0",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "School bus service",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 54,
+    "imagesCount": 34,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMQ2BOlsvN4ZpL8f5hbHjrOmw2ZPjwTy_YJwk7q=w408-h378-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cabigo24.%20Tour%20and%20travel%20company%20%7C%20taxi%20services%20in%20ghaziabad&query_place_id=ChIJi3Nyo6CXogEREVa_trMEWG0"
+  },
+  {
+    "title": "Car Dekho Mauli Motors",
+    "subTitle": "कार देखो मौली मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "UG-74, Cloud 9, Vaishali Rd, Sector 3F, Sector-1, Vaishali, Ghaziabad, Uttar Pradesh 201019, India",
+    "neighborhood": "Sector 3F, Sector-1, Vaishali",
+    "street": "UG-74, Cloud 9, Vaishali Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201019",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919311334300",
+    "phoneUnformatted": "+919311334300",
+    "location": {
+      "lat": 28.6416697,
+      "lng": 77.3370763
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ75DkD7_7DDkRshxMBPf8GA0",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNmn0v2WwqCa8CWJQIttNRF9Y4FGXld_T1Vr79D=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Dekho%20Mauli%20Motors&query_place_id=ChIJ75DkD7_7DDkRshxMBPf8GA0"
+  },
+  {
+    "title": "Car Expo",
+    "subTitle": "कार एक्सपो",
+    "categoryName": "Used car dealer",
+    "address": "Akshra Apartment, G-357, Abhay Khand 3, Pocket 3, Shakti Khand -3, Indirapuram, Ghaziabad, Uttar Pradesh 201020, India",
+    "neighborhood": "Abhay Khand 3, Pocket 3, Shakti Khand -3, Indirapuram",
+    "street": "Akshra Apartment, G-357",
+    "city": "Ghaziabad",
+    "postalCode": "201020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.carexpoindrapuram.in/",
+    "phone": "+918062463529",
+    "phoneUnformatted": "+918062463529",
+    "location": {
+      "lat": 28.6398918,
+      "lng": 77.346013
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh6l9RwT7DDkRKkzzwQnOLmA",
+    "categories": [
+      "Used car dealer",
+      "Auto auction",
+      "Auto broker",
+      "Car dealer"
+    ],
+    "reviewsCount": 26,
+    "imagesCount": 155,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgnrckmHlj4KGXdhF_NarRUzmgCj70lrAC3LKW=w408-h286-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Expo&query_place_id=ChIJh6l9RwT7DDkRKkzzwQnOLmA"
+  },
+  {
+    "title": "Car World",
+    "subTitle": "कार दुनिया",
+    "categoryName": "Car dealer",
+    "address": "MCFH+XG6, Block G, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+    "neighborhood": "Block G, Patel Nagar 3, Patel Nagar",
+    "street": "MCFH+XG6",
+    "city": "Ghaziabad",
+    "postalCode": "201001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919810463838",
+    "phoneUnformatted": "+919810463838",
+    "location": {
+      "lat": 28.6749116,
+      "lng": 77.4287507
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-_MFSbLxDDkRcKOvzdSRsqI",
+    "categories": [
+      "Car dealer",
+      "Car accessories store",
+      "Car repair and maintenance service"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P1-tbctWLmFOjZD7OSSKyA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=220.33434&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20World&query_place_id=ChIJ-_MFSbLxDDkRcKOvzdSRsqI"
+  },
+  {
+    "title": "CarDekhen Self drive car rentals",
+    "subTitle": "कारदेखें सेल्फ ड्राइव कार रेंटल्स",
+    "categoryName": "Car rental agency",
+    "address": "Gf.01, ambuj city, Bahrampur, Vijay Nagar, Ghaziabad, Uttar Pradesh 201009, India",
+    "neighborhood": "Bahrampur, Vijay Nagar",
+    "street": "Gf.01, ambuj city",
+    "city": "Ghaziabad",
+    "postalCode": "201009",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://cardekhen.com/",
+    "phone": "+917678497810",
+    "phoneUnformatted": "+917678497810",
+    "location": {
+      "lat": 28.63234,
+      "lng": 77.4132288
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuyamY_TvDDkRFeaYnYMLshw",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 259,
+    "imagesCount": 61,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMygZ6TRRV0yJWPPf1vut2fi1CacYnQOUWQ2Dvr=w408-h543-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CarDekhen%20Self%20drive%20car%20rentals&query_place_id=ChIJuyamY_TvDDkRFeaYnYMLshw"
+  },
+  {
+    "title": "Cars360",
+    "subTitle": "एमएसडी ऑटो प्लस",
+    "categoryName": "Used car dealer",
+    "address": "Plot no 9, 482, Link Road, Vaishali Extension, Sector 9, Vaishali, Ghaziabad, Uttar Pradesh 201019, India",
+    "neighborhood": "Vaishali Extension, Sector 9, Vaishali",
+    "street": "Plot no 9, 482, Link Road",
+    "city": "Ghaziabad",
+    "postalCode": "201019",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.cars360.co/",
+    "phone": "+919910080365",
+    "phoneUnformatted": "+919910080365",
+    "location": {
+      "lat": 28.654522,
+      "lng": 77.346487
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPbD1uFPwDDkRC8e8O2JkRT8",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 28,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyaZ5gKTdtrpTU5hP1sDR9lY4BLgN5YI2-oVuHCSmrkn9lZD8wPwvP6jT2ckgu-UCNJ7NYKfvlRA9d9v1SgF8n_BqiW1oamP6QLmSaDV7Q-wwIZTVA0myAusGz80ZUD3DeAWEG7ZA=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Cars360&query_place_id=ChIJPbD1uFPwDDkRC8e8O2JkRT8"
+  },
+  {
+    "title": "CarsZoo",
+    "subTitle": "कार्सजू",
+    "categoryName": "Car rental agency",
+    "address": "Plot no.14, 80 Feet Rd, Vikram Enclave, Shalimar Garden, Sahibabad, Ghaziabad, Uttar Pradesh 201006, India",
+    "neighborhood": "Vikram Enclave, Shalimar Garden, Sahibabad",
+    "street": "Plot no.14, 80 Feet Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://wa.me/918377888752",
+    "phone": "+918377888752",
+    "phoneUnformatted": "+918377888752",
+    "location": {
+      "lat": 28.6941899,
+      "lng": 77.3396217
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0RiuDKv7DDkR66pYqUl1Qoo",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 13,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 AM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNSw-LH0FPtyS9C76tugFTKNAVWoowRZhcvP8c6=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CarsZoo&query_place_id=ChIJ0RiuDKv7DDkR66pYqUl1Qoo"
+  },
+  {
+    "title": "Castrol Service - Shree Balaji Motors PStop",
+    "subTitle": "श्री बालाजी मोटर्स",
+    "categoryName": "Car repair and maintenance service",
+    "address": "E/3, Meerut Rd, New Arya Nagar, Sector 21, Meerut Road Industrial Area, Ghaziabad, Uttar Pradesh 201001, India",
+    "neighborhood": "New Arya Nagar, Sector 21, Meerut Road Industrial Area",
+    "street": "E/3, Meerut Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919999441399",
+    "phoneUnformatted": "+919999441399",
+    "location": {
+      "lat": 28.6795918,
+      "lng": 77.425356
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlUT6Oq3xDDkRCGWcdUAUZiY",
+    "categories": [
+      "Car repair and maintenance service",
+      "Auto bodywork mechanic",
+      "Auto radiator repair service",
+      "Car wash",
+      "Oil change service",
+      "Repair service"
+    ],
+    "reviewsCount": 71,
+    "imagesCount": 14,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIXa97rYjUqhWScA3FObjvI5mh2Exs5ax8Slix=w408-h680-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Castrol%20Service%20-%20Shree%20Balaji%20Motors%20PStop&query_place_id=ChIJlUT6Oq3xDDkRCGWcdUAUZiY"
+  },
+  {
+    "title": "Certified Pre Owned Cars - Ghaziabad",
+    "subTitle": "सर्टिफाइड प्री ओन्ड कार्स - गाजियाबाद",
+    "categoryName": "Used car dealer",
+    "address": "above Doctor Bhabha Marg, Ramprastha Colony, Block D, Chander Nagar, Surya Nagar, Ghaziabad, Uttar Pradesh 201011, India",
+    "neighborhood": "Ramprastha Colony, Block D, Chander Nagar, Surya Nagar",
+    "street": "above Doctor Bhabha Marg",
+    "city": "Ghaziabad",
+    "postalCode": "201011",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.carandbike.com/used/sell-your-car?utm_source=GMB",
+    "phone": "+919930565555",
+    "phoneUnformatted": "+919930565555",
+    "location": {
+      "lat": 28.6638172,
+      "lng": 77.3223804
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSboD1D_7DDkR3g4APiRSw6o",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Vehicle inspection service"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 9,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwEdgYrB9v2Fwnb3gspw8xwmNTzOFqMTuQ4eGGDNTf5RFfQDai-EA2mq0K-55vhFvu7WF3Y901M9GwH7u0T0YiR-abH-rZVUQa_3sVUx1jgUkPXIUPupcwKIelQwhCNDNpGEsZ8=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Certified%20Pre%20Owned%20Cars%20-%20Ghaziabad&query_place_id=ChIJSboD1D_7DDkR3g4APiRSw6o"
+  },
+  {
+    "title": "Choudhary NB Tour & Travel",
+    "subTitle": "चौधरी एनबी टूर & ट्रैवल",
+    "categoryName": "Car leasing service",
+    "address": "Vaishnavi Kunj, 1/7, Sector 2, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005, India",
+    "neighborhood": "Sector 2, Rajendra Nagar, Sahibabad",
+    "street": "Vaishnavi Kunj, 1/7",
+    "city": "Ghaziabad",
+    "postalCode": "201005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://nbtourandtravels.com/",
+    "phone": "+917532940786",
+    "phoneUnformatted": "+917532940786",
+    "location": {
+      "lat": 28.6910078,
+      "lng": 77.3498326
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnx8S-hP7DDkROb_FnhnSeMw",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 9,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMluxvVAECCT0kih9d6Inyq6wxIVB9sNTdVpENE=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Choudhary%20NB%20Tour%20%26%20Travel&query_place_id=ChIJnx8S-hP7DDkROb_FnhnSeMw"
+  },
+  {
+    "title": "Classic Car Rental (self drive cars)",
+    "subTitle": "क्लासिक कार रेंटल (सेल्फ ड्राइव कार्स)",
+    "categoryName": "Car leasing service",
+    "address": "Tulasi Niketan, Bhopura, Sahibabad, Ghaziabad, Uttar Pradesh 201006, India",
+    "neighborhood": "Tulasi Niketan, Bhopura, Sahibabad",
+    "city": "Ghaziabad",
+    "postalCode": "201006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://classicrental.in/",
+    "phone": "+918882353700",
+    "phoneUnformatted": "+918882353700",
+    "location": {
+      "lat": 28.6986875,
+      "lng": 77.3245625
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCbqKAgD7DDkR4T2kTost7rc",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 27,
+    "imagesCount": 47,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMpxs_rl6R8P-GQLdNNdP_9WGq-I6vzBbhxSK9I=w408-h342-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Car%20Rental%20(self%20drive%20cars)&query_place_id=ChIJCbqKAgD7DDkR4T2kTost7rc"
+  },
+  {
+    "title": "DREAM CAR AUTO SOLUTIONS - Used Car Dealer in Vasundhra",
+    "subTitle": "ड्रीम कार ऑटो सॉल्यूशंस - यूज्ड कार डीलर इन वसुंधरा",
+    "categoryName": "Used car dealer",
+    "address": "12/427, 315/12, Friend's Society, Sector 12, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "neighborhood": "Friend's Society, Sector 12, Vasundhara",
+    "street": "12/427, 315/12",
+    "city": "Ghaziabad",
+    "postalCode": "201012",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.dreamcarautosolutions.in/",
+    "phone": "+918062429981",
+    "phoneUnformatted": "+918062429981",
+    "location": {
+      "lat": 28.664132,
+      "lng": 77.3641832
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ31JFjpr7DDkRdRbTMP260JA",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 165,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMziTkmQqZKkyHltnH0rREL4zZp9hI-g1Yzugwi=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=DREAM%20CAR%20AUTO%20SOLUTIONS%20-%20Used%20Car%20Dealer%20in%20Vasundhra&query_place_id=ChIJ31JFjpr7DDkRdRbTMP260JA"
+  },
+  {
+    "title": "DS Car & Bike Rental",
+    "subTitle": "डीएस कार & बाइक रेंटल",
+    "categoryName": "Car leasing service",
+    "address": "56/1, 16, B Ln, Pocket B, Sector 16, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "neighborhood": "Pocket B, Sector 16, Vasundhara",
+    "street": "56/1, 16, B Ln",
+    "city": "Ghaziabad",
+    "postalCode": "201012",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918130110716",
+    "phoneUnformatted": "+918130110716",
+    "location": {
+      "lat": 28.6548001,
+      "lng": 77.3524266
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQcQS4T37DDkRWELOZQzjVnk",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 38,
+    "imagesCount": 126,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPbU6Q5bU32uwbMhnAr_hsqsW0oohOpZVzZFDka=w408-h525-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=DS%20Car%20%26%20Bike%20Rental&query_place_id=ChIJQcQS4T37DDkRWELOZQzjVnk"
+  },
+  {
+    "title": "Devika Motors By Used Car Destination",
+    "subTitle": "देविका मोटर्स बाय यूज्ड कार डेस्टिनेशन",
+    "categoryName": "Used car dealer",
+    "address": "GF-2 Devika Chamber, RDC, Raj Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+    "neighborhood": "RDC, Block 1, P & T Colony, Raj Nagar",
+    "street": "GF-2 Devika Chamber",
+    "city": "Ghaziabad",
+    "postalCode": "201002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919999747629",
+    "phoneUnformatted": "+919999747629",
+    "location": {
+      "lat": 28.6724787,
+      "lng": 77.440852
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWaR4MtjxDDkRAgpt7NX5bjA",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 19,
+    "imagesCount": 74,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOHWAbC9I3nNud3xh18P0gzrqLTOo4DAiuSrIKN=w408-h537-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Devika%20Motors%20By%20Used%20Car%20Destination&query_place_id=ChIJWaR4MtjxDDkRAgpt7NX5bjA"
+  },
+  {
+    "title": "Devraj Travels",
+    "subTitle": "देवराज ट्रेवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Gate No.1, Shop No.1, Grand Trunk Rd, Amrit Nagar, Bulandshahr Road Industrial Area, Ghaziabad, Uttar Pradesh 201009, India",
+    "neighborhood": "Amrit Nagar, Bulandshahr Road Industrial Area",
+    "street": "Gate No.1, Shop No.1, Grand Trunk Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201009",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919354269601",
+    "phoneUnformatted": "+919354269601",
+    "location": {
+      "lat": 28.6445021,
+      "lng": 77.4468504
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ02WcyfjvDDkRQ0Rb_ueH6yQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 5,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMaTShUw20XGCtA2PeSVhiPJ-gNOm-wixOfNOs8=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Devraj%20Travels&query_place_id=ChIJ02WcyfjvDDkRQ0Rb_ueH6yQ"
+  },
+  {
+    "title": "Friends Luxury Car Rentel",
+    "subTitle": "फ्रेंड्स लक्जरी कार रेंटेल",
+    "categoryName": "Car rental agency",
+    "address": "Main Chirori, Banthla Flyover, near Friends Automobile Bike Showroom, Loni, Ghaziabad, Uttar Pradesh 201102, India",
+    "neighborhood": "Loni",
+    "street": "Main Chirori, Banthla Flyover, near Friends Automobile Bike Showroom",
+    "city": "Ghaziabad",
+    "postalCode": "201102",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.7423432,
+      "lng": 77.3092018
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJde6lwyr5DDkR2lHIqVcVTGc",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPb1eCJUXrjUt2g3h7sMEdoTc7S7q8F0l0R5--w=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Friends%20Luxury%20Car%20Rentel&query_place_id=ChIJde6lwyr5DDkR2lHIqVcVTGc"
+  },
+  {
+    "title": "Ghaziabad Taxi Service | Taxi Service in Ghaziabad | Cab Service in Ghaziabad",
+    "subTitle": "गाजियाबाद टैक्सी सर्विस | टैक्सी सर्विस इन गाजियाबाद | कैब सर्विस इन गाजियाबाद",
+    "categoryName": "Car rental agency",
+    "address": "Bunker Mart, LIG-189, Madhuban Bapudham, Sadarpur, Ghaziabad, Uttar Pradesh 201013, India",
+    "neighborhood": "Madhuban Bapudham, Sadarpur",
+    "street": "Bunker Mart, LIG-189",
+    "city": "Ghaziabad",
+    "postalCode": "201013",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919811869546",
+    "phoneUnformatted": "+919811869546",
+    "location": {
+      "lat": 28.7092068,
+      "lng": 77.4867412
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg4xY3M_zDDkRDv1_EGjjado",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 9,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPcc0IQ38_FGrpFqx7kz93zLKZ7CdeF92Eqizy=w408-h425-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ghaziabad%20Taxi%20Service%20%7C%20Taxi%20Service%20in%20Ghaziabad%20%7C%20Cab%20Service%20in%20Ghaziabad&query_place_id=ChIJg4xY3M_zDDkRDv1_EGjjado"
+  },
+  {
+    "title": "GoMyholiday",
+    "subTitle": "गोमीहॉलिडे",
+    "categoryName": "Car leasing service",
+    "address": "GF-08, parsvnath paradise, Grand Trunk Rd, Om nagar Mohan Nagar, Mohan Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005, India",
+    "neighborhood": "Om nagar Mohan Nagar, Mohan Nagar, Sahibabad",
+    "street": "GF-08, parsvnath paradise, Grand Trunk Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.gomyholiday.com/",
+    "phone": "+919953607808",
+    "phoneUnformatted": "+919953607808",
+    "location": {
+      "lat": 28.6784342,
+      "lng": 77.3722802
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1dWow9r55S0RRbqnL7jkNaE",
+    "categories": [
+      "Car leasing service",
+      "Tour operator",
+      "Homestay",
+      "Tour agency",
+      "Travel agency",
+      "Visa consulting service"
+    ],
+    "reviewsCount": 14,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m4D8BIrlEO4-Mbm_qksTiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=343.62665&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=GoMyholiday&query_place_id=ChIJ1dWow9r55S0RRbqnL7jkNaE"
+  },
+  {
+    "title": "Grand Motoren - Used Car Dealer in Indirapuram",
+    "subTitle": "ग्रांड मोटरों - यूज्ड कार डीलर इन इंदिरापुरम",
+    "categoryName": "Used car dealer",
+    "address": "F-7, 1st floor, Niti Khand 3, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Niti Khand 3, Shakti Khand 2, Indirapuram",
+    "street": "F-7, 1st floor",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.grandmotoren.in/",
+    "phone": "+918069245321",
+    "phoneUnformatted": "+918069245321",
+    "location": {
+      "lat": 28.6459649,
+      "lng": 77.3756485
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe6Ikp6n6DDkR05vbqqQY7EM",
+    "categories": [
+      "Used car dealer",
+      "Audi dealer",
+      "BMW dealer",
+      "Car dealer",
+      "Hyundai dealer",
+      "Mercedes-Benz dealer",
+      "MG dealer"
+    ],
+    "reviewsCount": 14,
+    "imagesCount": 35,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPBhyZbZRTagVQR-AbEEZ7fWAMdsOysLN1ODyNM=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Motoren%20-%20Used%20Car%20Dealer%20in%20Indirapuram&query_place_id=ChIJe6Ikp6n6DDkR05vbqqQY7EM"
+  },
+  {
+    "title": "HARDIK Travels Tempo Traveller",
+    "subTitle": "हार्दिक ट्रैवल्स टेम्पो ट्रैवलर",
+    "categoryName": "Car rental agency",
+    "address": "Jaipuria Sunrise Green Plaza, SE - 184, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Ahinsa Khand 1, Indirapuram",
+    "street": "Jaipuria Sunrise Green Plaza, SE - 184",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.hardiktravels.com/",
+    "phone": "+919773716939",
+    "phoneUnformatted": "+919773716939",
+    "location": {
+      "lat": 28.6410215,
+      "lng": 77.3758276
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG5ssQ8z7DDkRUWkU1k_zrhg",
+    "categories": [
+      "Car rental agency",
+      "Minibus taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 237,
+    "imagesCount": 56,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJF5qMWM44-sWVq7-pqd9fh0a3dx6AExvtov2G=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=HARDIK%20Travels%20Tempo%20Traveller&query_place_id=ChIJG5ssQ8z7DDkRUWkU1k_zrhg"
+  },
+  {
+    "title": "Hindon Motors",
+    "subTitle": "हिंडन मोटर्स",
+    "categoryName": "Car repair and maintenance service",
+    "address": "C 6-8, Express Market, Ambedkar Road, Ghaziabad, Uttar Pradesh 201001, India",
+    "neighborhood": "Kallupura, Naya Ganj",
+    "street": "C 6-8, Express Market, Ambedkar Road",
+    "city": "Ghaziabad",
+    "postalCode": "201001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.hindonmotors.com/",
+    "phone": "+918882017818",
+    "phoneUnformatted": "+918882017818",
+    "location": {
+      "lat": 28.6647038,
+      "lng": 77.4336269
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOY2sM8jxDDkRTclObGDFen8",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "reviewsCount": 308,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw33oM4PzEr0XrfUxBM9w8WJ34gL_NwdK8CTGEFkHUONlCldsppyLbIDyxfGEdWqkAombVNZrXpzEpdtqp4ImdAgK3UOMM-tlsjCk0B9yB5-Msi-LnCmsQMVxAPaHCLT4Jq_7m8eg=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Hindon%20Motors&query_place_id=ChIJOY2sM8jxDDkRTclObGDFen8"
+  },
+  {
+    "title": "Insta Cars - Used Car Dealer in Indirapuram",
+    "subTitle": "इंस्टा कार्स - यूज्ड कार डीलर इन इंदिरापुरम",
+    "categoryName": "Used car dealer",
+    "address": "Plot No 30, near St. Francis School, Gyan Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201020, India",
+    "neighborhood": "Gyan Khand 1, Indirapuram",
+    "street": "Plot No 30, near St. Francis School",
+    "city": "Ghaziabad",
+    "postalCode": "201020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.instacarsdealer.in/",
+    "phone": "+918062429969",
+    "phoneUnformatted": "+918062429969",
+    "location": {
+      "lat": 28.642165,
+      "lng": 77.348211
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJQZ-7NHxDDkRViQRxyCp51U",
+    "categories": [
+      "Used car dealer",
+      "Auto painting",
+      "Car dealer",
+      "Car wash",
+      "Repair service"
+    ],
+    "reviewsCount": 34,
+    "imagesCount": 114,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPav4gt6c2w9sfT54pZb7rG8nmNNK-f3111RptP=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Insta%20Cars%20-%20Used%20Car%20Dealer%20in%20Indirapuram&query_place_id=ChIJJQZ-7NHxDDkRViQRxyCp51U"
+  },
+  {
+    "title": "JD Cabs - Self Drive Cars",
+    "subTitle": "जेडी कैब्स - सेल्फ ड्राइव कार्स",
+    "categoryName": "Car rental agency",
+    "address": "6th Floor, Multi Level Parking, Block-F, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201019, India",
+    "neighborhood": "Block-F, Sector 4, Vaishali",
+    "street": "6th Floor, Multi Level Parking",
+    "city": "Ghaziabad",
+    "postalCode": "201019",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.jdcabs.net/",
+    "phone": "+919810774790",
+    "phoneUnformatted": "+919810774790",
+    "location": {
+      "lat": 28.6431896,
+      "lng": 77.3363198
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ99-n9237DDkRSXCx0-sgrc4",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 86,
+    "imagesCount": 11,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPiOzg9rhgxK-hREczI8UCOdihzRAQTIG8LPBA=w408-h527-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JD%20Cabs%20-%20Self%20Drive%20Cars&query_place_id=ChIJ99-n9237DDkRSXCx0-sgrc4"
+  },
+  {
+    "title": "JD Self Drive Car",
+    "subTitle": "जेडी सेल्फ ड्राइव कार",
+    "categoryName": "Car rental agency",
+    "address": "2nd Floor, Garden Apartments, Multi Level Parking, Vaishali, Ghaziabad, Uttar Pradesh 201010, India",
+    "neighborhood": "Sector 4, Vaishali",
+    "street": "2nd Floor, Garden Apartments, Multi Level Parking",
+    "city": "Ghaziabad",
+    "postalCode": "201010",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://jdrentalcar.in/",
+    "phone": "+919899606035",
+    "phoneUnformatted": "+919899606035",
+    "location": {
+      "lat": 28.6510815,
+      "lng": 77.3408194
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdehdFU77DDkRpBRgHnCFIvI",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 103,
+    "imagesCount": 38,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWEkv5AoGpZuTKjOReQ6-c-WJxhNuimr2btqbH=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JD%20Self%20Drive%20Car&query_place_id=ChIJdehdFU77DDkRpBRgHnCFIvI"
+  },
+  {
+    "title": "JMB Tour And Travels | Tempo Traveller in Ghaziabad | Tempo Traveller on rent in Ghaziabad | Car Rental in Ghaziabad",
+    "subTitle": "जेएमबी टूर एंड ट्रैवल्स | टेम्पो ट्रैवलर इन गाजियाबाद | टेम्पो ट्रैवलर ऑन रेंट इन गाजियाबाद | कार रेंटल इन गाजियाबाद",
+    "categoryName": "Car rental agency",
+    "address": "House No. 501, Valmiki Mandir Rd, Sector 23, Raispur, Ghaziabad, Uttar Pradesh 201002, India",
+    "neighborhood": "Sector 23, Raispur",
+    "street": "House No. 501, Valmiki Mandir Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://jmbtourtravels.in/",
+    "phone": "+918178881567",
+    "phoneUnformatted": "+918178881567",
+    "location": {
+      "lat": 28.6935316,
+      "lng": 77.462479
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC03gMzHxDDkRWLBXt989T6U",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Van rental agency"
+    ],
+    "reviewsCount": 57,
+    "imagesCount": 122,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMay4AgAYpAm_g0GgLKQVwKMfCZaZ4gB2WOecuP=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JMB%20Tour%20And%20Travels%20%7C%20Tempo%20Traveller%20in%20Ghaziabad%20%7C%20Tempo%20Traveller%20on%20rent%20in%20Ghaziabad%20%7C%20Car%20Rental%20in%20Ghaziabad&query_place_id=ChIJC03gMzHxDDkRWLBXt989T6U"
+  },
+  {
+    "title": "JPM Travels - Outstation Car/Cab/Taxi Rental/Hire/Booking",
+    "subTitle": "जेपीएम ट्रैवल्स - आउटस्टेशन कार/सीएबी/टैक्सी रेंटल/हीरे/बुकिंग",
+    "categoryName": "Car rental agency",
+    "address": "231, Central Market, near Shipra Mall, Shiv Vihar, Shipra Suncity, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Shiv Vihar, Shipra Suncity, Indirapuram",
+    "street": "231, Central Market, near Shipra Mall",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.justdial.com/Delhi/Jpm-Tours-And-Travels-Vaibhav-Khand-Indirapuram/011PXX11-XX11-190228115511-J7W3_BZDET",
+    "phone": "+918130775456",
+    "phoneUnformatted": "+918130775456",
+    "location": {
+      "lat": 28.6367139,
+      "lng": 77.3740265
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA9M9hczlDDkRL1yoWzlN78Q",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 20,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOzfGHZVJPHfQ0Lkk-fxvR0JGYcTpmo0t0qTZgp=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JPM%20Travels%20-%20Outstation%20Car%2FCab%2FTaxi%20Rental%2FHire%2FBooking&query_place_id=ChIJA9M9hczlDDkRL1yoWzlN78Q"
+  },
+  {
+    "title": "Kapil Tour and Travels",
+    "subTitle": "कपिल टूर एंड ट्रैवल्स",
+    "categoryName": "Car leasing service",
+    "address": "H, Adarsh Nagar, Nandgram, Sewa Nagar, Ghaziabad, Uttar Pradesh 201003, India",
+    "neighborhood": "Adarsh Nagar, Nandgram, Sewa Nagar",
+    "street": "H",
+    "city": "Ghaziabad",
+    "postalCode": "201003",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://kapiltourandtravels.in/",
+    "phone": "+919220879397",
+    "phoneUnformatted": "+919220879397",
+    "location": {
+      "lat": 28.6862774,
+      "lng": 77.4057908
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIVy6X3DVtCkR2HevZCyj9BA",
+    "categories": [
+      "Car leasing service",
+      "Air taxi",
+      "Bus tour agency",
+      "Taxi service",
+      "Rental car return location",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 17,
+    "imagesCount": 35,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNx2jfQTmBhHYJe7mw5pPLDCU3gDAi8jy_7RDOE=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kapil%20Tour%20and%20Travels&query_place_id=ChIJIVy6X3DVtCkR2HevZCyj9BA"
+  },
+  {
+    "title": "Krishna Tour & Travels",
+    "subTitle": "कृष्णा टूर & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "shop no 6, Officer colony, Raj Nagar Extension, Ghaziabad, Uttar Pradesh 201003, India",
+    "neighborhood": "Raj Nagar Extension",
+    "street": "shop no 6, Officer colony",
+    "city": "Ghaziabad",
+    "postalCode": "201003",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://travelagencyinghaziabad.com/",
+    "phone": "+917055357249",
+    "phoneUnformatted": "+917055357249",
+    "location": {
+      "lat": 28.7052619,
+      "lng": 77.4278928
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8cyurlDxDDkRKYMBLMIUaL4",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 36,
+    "imagesCount": 156,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNQTuuUZl5PTSSqsKrJGkbfa3ShKDwE9c-kmy5v=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Krishna%20Tour%20%26%20Travels&query_place_id=ChIJ8cyurlDxDDkRKYMBLMIUaL4"
+  },
+  {
+    "title": "Krishna Tour & Travels Service",
+    "subTitle": "कृष्णा टूर & ट्रैवल्स सर्विस",
+    "categoryName": "Car leasing service",
+    "address": "Krishna Homes, Plot No 30 , Kh No 737, Noor Nagar, Deepak Colony, Sehani Khurd, Ghukna, Ghaziabad, Uttar Pradesh 201003, India",
+    "neighborhood": "Noor Nagar, Deepak Colony, Sehani Khurd, Ghukna",
+    "street": "Krishna Homes, Plot No 30 , Kh No 737",
+    "city": "Ghaziabad",
+    "postalCode": "201003",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://krishnatourtravels.live/index.html",
+    "phone": "+918941991353",
+    "phoneUnformatted": "+918941991353",
+    "location": {
+      "lat": 28.6958816,
+      "lng": 77.4159578
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNW417tLxDDkRQ2sOQHU5Dog",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 29,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOr36KaWw0Lr17xxnBs3Iaj2xxNoGO32zxXiy3z=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Krishna%20Tour%20%26%20Travels%20Service&query_place_id=ChIJNW417tLxDDkRQ2sOQHU5Dog"
+  },
+  {
+    "title": "Kumar's Car World || The Best Used Car Dealer In Ghaziabad",
+    "subTitle": "कुमार्स कार दुनिया",
+    "categoryName": "Used car dealer",
+    "address": "Cinema Link Road, opp. Galaxie, Vaishali Extension, Sector 9, Vaishali, Ghaziabad, Uttar Pradesh 201019, India",
+    "neighborhood": "Vaishali Extension, Sector 9, Vaishali",
+    "street": "Cinema Link Road, opp. Galaxie",
+    "city": "Ghaziabad",
+    "postalCode": "201019",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.kumarscarworld.com/",
+    "phone": "+919810235292",
+    "phoneUnformatted": "+919810235292",
+    "location": {
+      "lat": 28.6545068,
+      "lng": 77.3463583
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQAALMH6DDkRsQ33yLyk3hU",
+    "categories": [
+      "Used car dealer",
+      "Auto body shop",
+      "Auto broker",
+      "Auto painting",
+      "Car dealer",
+      "Car finance and loan company",
+      "Financial consultant"
+    ],
+    "reviewsCount": 168,
+    "imagesCount": 44,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKsb8PuPFQs0iJvQG6Ea0mKvNCfEfLMeW6yJL2=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kumar's%20Car%20World%20%7C%7C%20The%20Best%20Used%20Car%20Dealer%20In%20Ghaziabad&query_place_id=ChIJAQAALMH6DDkRsQ33yLyk3hU"
+  },
+  {
+    "title": "La Maison Citroën Ghaziabad",
+    "subTitle": "ला मैसन सिट्रोएन गाजियाबाद",
+    "categoryName": "Car dealer",
+    "address": "Plot no 117, Meerut Rd, Guldhar Main, Meerut Road Industrial Area, Ghaziabad, Uttar Pradesh 201017, India",
+    "neighborhood": "Guldhar Main, Meerut Road Industrial Area",
+    "street": "Plot no 117, Meerut Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201017",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://dream-ghaziabad.citroen.in/",
+    "phone": "+919289913399",
+    "phoneUnformatted": "+919289913399",
+    "location": {
+      "lat": 28.7050975,
+      "lng": 77.4521044
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ10mh6W_xDDkRdw6xD-0s14M",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1239,
+    "imagesCount": 81,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyQUKDYKG8XV1H1HpJ3dxOsxFM3e1Roa6vsKeVFSSXDEJKsh6fdYwkZip9dfk-wG5aWQJ0k-8OcS7XwCTCO_m3Bf_s6gCaiB0506HeZYkWDmoW8Z0QFaXXEu9zAic-WXI7udW8T=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=La%20Maison%20Citro%C3%ABn%20Ghaziabad&query_place_id=ChIJ10mh6W_xDDkRdw6xD-0s14M"
+  },
+  {
+    "title": "Letsvroomcars",
+    "subTitle": "लेट्सव्रूमचर्स",
+    "categoryName": "Used car dealer",
+    "address": "Ground, KRISHNA APRA, G-61, Niti Khand 3, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Niti Khand 3, Shakti Khand 2, Indirapuram",
+    "street": "Ground, KRISHNA APRA, G-61",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919555520781",
+    "phoneUnformatted": "+919555520781",
+    "location": {
+      "lat": 28.6459649,
+      "lng": 77.3756485
+    },
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJh67Un1j7DDkRCY1BkX9piIg",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOwu46muMGb2V9GZSjqq3ogJaMhPItCJzLI7WGa=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Letsvroomcars&query_place_id=ChIJh67Un1j7DDkRCY1BkX9piIg"
+  },
+  {
+    "title": "Luxury Car Decor",
+    "subTitle": "लक्जरी कार डेकोर",
+    "categoryName": "Car stereo store",
+    "address": "HIG 34, Block B, Brij Vihar, Surya Nagar, Ghaziabad, Uttar Pradesh 201011, India",
+    "neighborhood": "Block B, Brij Vihar, Surya Nagar",
+    "street": "HIG 34",
+    "city": "Ghaziabad",
+    "postalCode": "201011",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918882652168",
+    "phoneUnformatted": "+918882652168",
+    "location": {
+      "lat": 28.669992,
+      "lng": 77.3330758
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGzuP8VX7DDkRZ69Tsb57AcQ",
+    "categories": [
+      "Car stereo store"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 68,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJoX7NeIDxsBHvpJT8dIgGoXbhMwPNJ_NakC5K=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Car%20Decor&query_place_id=ChIJGzuP8VX7DDkRZ69Tsb57AcQ"
+  },
+  {
+    "title": "Luxury Car Rental For Wedding",
+    "subTitle": "लक्जरी कार रेंटल फॉर वेडिंग",
+    "categoryName": "Car rental agency",
+    "address": "Back Side Of, SA-32, Ahinsa Khand 1 Jaipuria, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Ahinsa Khand 1, Indirapuram",
+    "street": "Back Side Of, SA-32, Ahinsa Khand 1 Jaipuria",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://saferentacar.in/?utm_campaign=gmb",
+    "phone": "+918400041919",
+    "phoneUnformatted": "+918400041919",
+    "location": {
+      "lat": 28.6406232,
+      "lng": 77.3775274
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9XhKo3X7DDkRPesRcejJBI4",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 68,
+    "imagesCount": 32,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxEUj7Vxz9Gopl2d0jqroY47uu47Tu0iICqSEffhV7dA1IbQJLgcQz8tZOBjfxW99J0AUMwA216rCErcRTT_MNENYrvIRG_5yKf0SziVVeLFPFSV92n4FaX3eG7WQWReHqsoN0yzg=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Car%20Rental%20For%20Wedding&query_place_id=ChIJ9XhKo3X7DDkRPesRcejJBI4"
+  },
+  {
+    "title": "Luxury wed car rental",
+    "subTitle": "लक्जरी वेड कार रेंटल",
+    "categoryName": "Car leasing service",
+    "address": "PLOT NO 10, Sector 1, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "neighborhood": "Sector 1, Vasundhara",
+    "street": "PLOT NO 10",
+    "city": "Ghaziabad",
+    "postalCode": "201012",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.6666475,
+      "lng": 77.3871539
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk7zcJGvxDDkRub2MdtlQLO4",
+    "categories": [
+      "Car leasing service"
+    ],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20wed%20car%20rental&query_place_id=ChIJk7zcJGvxDDkRub2MdtlQLO4"
+  },
+  {
+    "title": "M R Hyundai Showroom & Service, Shalimar Garden, Sahibabad",
+    "subTitle": "एं आर हुंडई शोरूम & सर्विस, शालीमार गार्डन, साहिबाबाद",
+    "categoryName": "Car dealer",
+    "address": "Loni Rd, opp. Shalimar Garden, Pasonda, Sahibabad, Ghaziabad, Uttar Pradesh 201006, India",
+    "neighborhood": "Pasonda, Sahibabad",
+    "street": "Loni Rd, opp. Shalimar Garden",
+    "city": "Ghaziabad",
+    "postalCode": "201006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://mr-hyundai-shalimargarden-sahibabad.com/",
+    "phone": "+919312821182",
+    "phoneUnformatted": "+919312821182",
+    "location": {
+      "lat": 28.6934825,
+      "lng": 77.3451238
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMcv9VWv7DDkRqUqZ8VZVYig",
+    "categories": [
+      "Car dealer",
+      "Hyundai dealer"
+    ],
+    "reviewsCount": 3069,
+    "imagesCount": 234,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxEfchnoMft8K2HohNWByYPDb201-BsvDVPrE4WQ5Xtfuri9BnnfNF5i33J3-ctQc5vBXv9ENDY1-Y4PgfsLTRjLTiMQUeejxIVvKQGSBaTCEPC_zSvM9kySyI6o8qchHovm50F=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=M%20R%20Hyundai%20Showroom%20%26%20Service%2C%20Shalimar%20Garden%2C%20Sahibabad&query_place_id=ChIJMcv9VWv7DDkRqUqZ8VZVYig"
+  },
+  {
+    "title": "MG Motor Crystal Auto Showroom",
+    "subTitle": "एमजी मोटर क्रिस्टल ऑटो शोरूम",
+    "categoryName": "MG dealer",
+    "address": "Ground Floor, Block G, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+    "neighborhood": "Block G, Patel Nagar 3, Patel Nagar",
+    "street": "Ground Floor",
+    "city": "Ghaziabad",
+    "postalCode": "201001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://dealers.mgmotor.co.in/mg-motor-crystal-auto-showroom-car-dealer-patel-nagar-3-ghaziabad-371850/Home",
+    "phone": "+919999514321",
+    "phoneUnformatted": "+919999514321",
+    "location": {
+      "lat": 28.6762154,
+      "lng": 77.4275094
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgdqatQnxDDkRmy2_czvfk6Q",
+    "categories": [
+      "MG dealer",
+      "Car dealer",
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 652,
+    "imagesCount": 79,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 AM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxg0jZK-5Yxr52UzOHRA80zKGiqKSrJp38LCLHupV0y37JHKn_kHHxbDbmexdJu_BTN5mzkN8o5fU0oPoPzNWK4A1BqV4xHQbePy_jIg9Wgje2NunA3L8wdPhuSdWbUsJNlw-N2=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MG%20Motor%20Crystal%20Auto%20Showroom&query_place_id=ChIJgdqatQnxDDkRmy2_czvfk6Q"
+  },
+  {
+    "title": "Motorkarz.com",
+    "subTitle": "मोटर्कर्ज़.कॉम",
+    "categoryName": "Car dealer",
+    "address": "Plot No. 1, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Shakti Khand 2, Indirapuram",
+    "street": "Plot No. 1",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.motorkarz.com/",
+    "phone": "+919871597337",
+    "phoneUnformatted": "+919871597337",
+    "location": {
+      "lat": 28.6465196,
+      "lng": 77.3654728
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVaPDil37DDkRhhhniSVAehQ",
+    "categories": [
+      "Car dealer",
+      "Audi dealer",
+      "BMW dealer",
+      "Hyundai dealer",
+      "Kia dealer",
+      "Land Rover dealer",
+      "Lexus dealer",
+      "Mercedes-Benz dealer",
+      "Porsche dealer",
+      "Volvo dealer"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzhW1lECZjxoDzxAQFUMNtvWs4xuO28XZBpmq3SYCRzGHJxM5d3HcWYqaQ220YqLS2Opv4JYTchO1OR4xJzqgfOFMcR4ug4fzM_uc9IN_5RzqRy1uGBN4wy02ix4R6_NAg6JWgb77TFetCB=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Motorkarz.com&query_place_id=ChIJVaPDil37DDkRhhhniSVAehQ"
+  },
+  {
+    "title": "National Tour & Travels : GHAZIABAD CAB CAR RENTAL, OUTSTATION TAXI SERVICE, TAXI SERVICE IN GHAZIABAD, TAXI SERVICE NEAR ME",
+    "subTitle": "नेशनल टूर & ट्रैवल्स : गाजियाबाद कैब कार रेंटल, आउटस्टेशन टैक्सी सर्विस, टैक्सी सर्विस इन गाजियाबाद, टैक्सी सर्विस नियर में",
+    "categoryName": "Car leasing service",
+    "address": "Plot Number 16, South Side Laxmi Vihar, near Chaudhary Petrol Pump, Loha Mandi, Bulandshahr Road Industrial Area, Ghaziabad, Uttar Pradesh 201009, India",
+    "neighborhood": "Loha Mandi, Bulandshahr Road Industrial Area",
+    "street": "Plot Number 16, South Side Laxmi Vihar, near Chaudhary Petrol Pump",
+    "city": "Ghaziabad",
+    "postalCode": "201009",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://nationaltourtravels.com/contact-us/",
+    "phone": "+918447970660",
+    "phoneUnformatted": "+918447970660",
+    "location": {
+      "lat": 28.6412369,
+      "lng": 77.4520152
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvcBVkSXvDDkRO3oMIn-c8hs",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 269,
+    "imagesCount": 41,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4w-X6BOye9C_JUv10SsSBkKA7i9rO4ewSeuNs=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=National%20Tour%20%26%20Travels%20%3A%20GHAZIABAD%20CAB%20CAR%20RENTAL%2C%20OUTSTATION%20TAXI%20SERVICE%2C%20TAXI%20SERVICE%20IN%20GHAZIABAD%2C%20TAXI%20SERVICE%20NEAR%20ME&query_place_id=ChIJvcBVkSXvDDkRO3oMIn-c8hs"
+  },
+  {
+    "title": "OTOKAR INDIA",
+    "subTitle": "ऑटोकर इंडिया",
+    "categoryName": "Used car dealer",
+    "address": "VAISHALI, 482/9, Sahibabad, Ghaziabad, Uttar Pradesh 201019, India",
+    "neighborhood": "Vaishali Extension, Sector 9, Sahibabad",
+    "street": "VAISHALI, 482/9",
+    "city": "Ghaziabad",
+    "postalCode": "201019",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.thecarshop.co.in/",
+    "phone": "+918588815409",
+    "phoneUnformatted": "+918588815409",
+    "location": {
+      "lat": 28.6544926,
+      "lng": 77.3463371
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWTswNfPxDDkRPW86INr2Nq0",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Vehicle inspection service"
+    ],
+    "reviewsCount": 115,
+    "imagesCount": 87,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOEgcZuvF-SoohHe8VF5dr7GT1qPOnk6Odwdp-Q=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=OTOKAR%20INDIA&query_place_id=ChIJWTswNfPxDDkRPW86INr2Nq0"
+  },
+  {
+    "title": "Olx Auto Ak auto Deals",
+    "subTitle": "ओएलएक्स ऑटो एके ऑटो डील्स",
+    "categoryName": "Car dealer",
+    "address": "Jaipuria Mall, Sa-144&146 (UGF, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Ahinsa Khand 1, Indirapuram",
+    "street": "Jaipuria Mall, Sa-144&146 (UGF",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.akautodeals.in/",
+    "phone": "+918062429522",
+    "phoneUnformatted": "+918062429522",
+    "location": {
+      "lat": 28.6406299,
+      "lng": 77.3783263
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnRScj2v7DDkRSGLQmTj5F0M",
+    "categories": [
+      "Car dealer",
+      "Auto auction",
+      "Auto broker",
+      "Consignment shop",
+      "Used auto parts store",
+      "Used car dealer",
+      "Used motorcycle dealer",
+      "Used truck dealer"
+    ],
+    "reviewsCount": 144,
+    "imagesCount": 239,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz8_rHUloauyTguuHSlhzEgw8TUacHKtAuM3X_KwKwhNXfbbXy0hCco7mRzRMrqIR23qgUquryxkqCNayU-Vl3VxvQ3_RQDcmhHhycNYohWMreEayjz0MbhtAWV9Y6De1YtdfZR=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Olx%20Auto%20Ak%20auto%20Deals&query_place_id=ChIJnRScj2v7DDkRSGLQmTj5F0M"
+  },
+  {
+    "title": "Paramount Cars",
+    "subTitle": "पैरामाउंट कार्स",
+    "categoryName": "Used car dealer",
+    "address": "Plot No. 99, Meerut Rd, New Arya Nagar, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+    "neighborhood": "New Arya Nagar, Patel Nagar 3, Patel Nagar",
+    "street": "Plot No. 99, Meerut Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.6781268,
+      "lng": 77.4252541
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG8JqX6HxDDkRNUAvYo9GQeI",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 14,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPZT7OegTS7x8Tr8ClHNYM9Ecj2EDc0L0D8VdSv=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Paramount%20Cars&query_place_id=ChIJG8JqX6HxDDkRNUAvYo9GQeI"
+  },
+  {
+    "title": "Prime Rides self drive car rentals",
+    "subTitle": "प्राइम राइड्स सेल्फ ड्राइव कार रेंटल्स",
+    "categoryName": "Car rental agency",
+    "address": "S-17 IInd Floor, Aditya Mall, above Icici Bank, Aditya Mega City, Nyay Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Aditya Mega City, Nyay Khand 2, Indirapuram",
+    "street": "S-17 IInd Floor, Aditya Mall, above Icici Bank",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.primerides.in/",
+    "phone": "+918800003304",
+    "phoneUnformatted": "+918800003304",
+    "location": {
+      "lat": 28.6386121,
+      "lng": 77.3621061
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCRV92xz7DDkRGshs4O0N21w",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 520,
+    "imagesCount": 45,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMsCzKVKRR5OjexIZ8uSfq5Hq7aW_fnHt9f3vHO=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Prime%20Rides%20self%20drive%20car%20rentals&query_place_id=ChIJCRV92xz7DDkRGshs4O0N21w"
+  },
+  {
+    "title": "Quick Luxury Cars",
+    "subTitle": "क्विक लक्जरी कार्स",
+    "categoryName": "Car rental agency",
+    "address": "E1, Suraksha Apartment, Abhay Khand 3, Pocket 4, Abhay Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201020, India",
+    "neighborhood": "Abhay Khand 3, Pocket 4, Abhay Khand, Indirapuram",
+    "street": "E1, Suraksha Apartment",
+    "city": "Ghaziabad",
+    "postalCode": "201020",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919899946298",
+    "phoneUnformatted": "+919899946298",
+    "location": {
+      "lat": 28.6384408,
+      "lng": 77.3447178
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqfkPOW_7DDkRZGIrwaL2F4I",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 26,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMOmMtI--fJXC_lQxWt70FD2IoxXNfglxCclBC_=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Quick%20Luxury%20Cars&query_place_id=ChIJqfkPOW_7DDkRZGIrwaL2F4I"
+  },
+  {
+    "title": "R.K CAR RENTAL SERVICE",
+    "subTitle": "आर.के कार रेंटल सर्विस",
+    "categoryName": "Car rental agency",
+    "address": "Sector 10, Brahmaputra Enclave, B-21/102, Siddharth Vihar, Indirapuram, Ghaziabad, Uttar Pradesh 201009, India",
+    "neighborhood": "Siddharth Vihar, Indirapuram",
+    "street": "Sector 10, Brahmaputra Enclave, B-21/102",
+    "city": "Ghaziabad",
+    "postalCode": "201009",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://rkcarrentalservice.com/",
+    "phone": "+918851859459",
+    "phoneUnformatted": "+918851859459",
+    "location": {
+      "lat": 28.6602224,
+      "lng": 77.407719
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuTAzPgD7DDkRUOV1HgEVnyo",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAGdaRSDmzIqbjb9YaF699ZrBQrJUDO6YA0aoT=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=R.K%20CAR%20RENTAL%20SERVICE&query_place_id=ChIJuTAzPgD7DDkRUOV1HgEVnyo"
+  },
+  {
+    "title": "RenTrip Bike & Car Rentals - Ghaziabad",
+    "subTitle": "रेंट्रिप बाइक & कार रेंटल्स - गाजियाबाद",
+    "categoryName": "Car rental agency",
+    "address": "Metro Station Arthala, 204, T-1, Parsavnath Sterling, Arthala, Ghaziabad, Uttar Pradesh 201007, India",
+    "neighborhood": "Loni Industrial Area, Mohan Nagar",
+    "street": "Metro Station Arthala, 204, T-1, Parsavnath Sterling, Arthala",
+    "city": "Ghaziabad",
+    "postalCode": "201007",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.rentrip.in/rent-car/ghaziabad",
+    "phone": "+918800779391",
+    "phoneUnformatted": "+918800779391",
+    "location": {
+      "lat": 28.6768911,
+      "lng": 77.3969977
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFVVVJTPlDDkRwE7tiZOnPhI",
+    "categories": [
+      "Car rental agency",
+      "Bicycle rental service",
+      "Motorcycle rental agency",
+      "Scooter rental service",
+      "Tour operator"
+    ],
+    "reviewsCount": 185,
+    "imagesCount": 97,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOr9u-H5FZz6AeXskM78ZmEXyP4u1YJiyPbkN3m=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=RenTrip%20Bike%20%26%20Car%20Rentals%20-%20Ghaziabad&query_place_id=ChIJFVVVJTPlDDkRwE7tiZOnPhI"
+  },
+  {
+    "title": "Royal Luxury Car Rentals",
+    "subTitle": "रॉयल लक्जरी कार रेंटल्स",
+    "categoryName": "Car rental agency",
+    "address": "300, Bhowapur Gaon, Bhuapur Village, Kaushambi, Ghaziabad, Uttar Pradesh 201010, India",
+    "neighborhood": "Bhowapur Gaon, Bhuapur Village, Kaushambi",
+    "street": "300",
+    "city": "Ghaziabad",
+    "postalCode": "201010",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://royalluxurycarrentals.in/",
+    "phone": "+919818789375",
+    "phoneUnformatted": "+919818789375",
+    "location": {
+      "lat": 28.6389703,
+      "lng": 77.319445
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwYE6LcP7DDkRAMAPzmnq4EM",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 70,
+    "imagesCount": 54,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPrUYX7i6qKJeXmxkZNP01x5MI6_CSl1IOfDFsL=w408-h273-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Luxury%20Car%20Rentals&query_place_id=ChIJwYE6LcP7DDkRAMAPzmnq4EM"
+  },
+  {
+    "title": "S l car house",
+    "subTitle": "एस् एल कार हाउस",
+    "categoryName": "Car dealer",
+    "address": "7/19, Sector 2, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005, India",
+    "neighborhood": "Sector 2, Rajendra Nagar, Sahibabad",
+    "street": "7/19",
+    "city": "Ghaziabad",
+    "postalCode": "201005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+917982883848",
+    "phoneUnformatted": "+917982883848",
+    "location": {
+      "lat": 28.6879036,
+      "lng": 77.3579824
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqyFBv_P7DDkRfSwYeCnY76M",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzA6d1pkIBClWnzmUucmBOb57h1HAkyMfcyNaC82yPEtMMdnOloXK3HYkQpQxbjPBPq3-6XHlInds-q3c21C6yR3U2GYQplu1ypWsKvBGSOIV_tFsbAP7vLHW73lFk4zzt2Cgbi=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=S%20l%20car%20house&query_place_id=ChIJqyFBv_P7DDkRfSwYeCnY76M"
+  },
+  {
+    "title": "SAKSHI TOUR & TRAVELS",
+    "subTitle": "साक्षी टूर & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "House No. 456, Radha Colony, near Shiv Mandir, Sanjay Nagar, Lal Kuan, Ghaziabad, Uttar Pradesh 201002, India",
+    "neighborhood": "Sanjay Nagar, Lal Kuan",
+    "street": "House No. 456, Radha Colony, near Shiv Mandir",
+    "city": "Ghaziabad",
+    "postalCode": "201002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://sakshitourtravels.live/",
+    "phone": "+918700196739",
+    "phoneUnformatted": "+918700196739",
+    "location": {
+      "lat": 28.6313561,
+      "lng": 77.47305
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ24iXuvtDDkR4DS1k117a4k",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 106,
+    "imagesCount": 158,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFB0AGU_5ih-cznGMywV7wtODnxAQeeutZGPXk=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SAKSHI%20TOUR%20%26%20TRAVELS&query_place_id=ChIJQ24iXuvtDDkR4DS1k117a4k"
+  },
+  {
+    "title": "Safe Rent A Car",
+    "subTitle": "सेफ रेंट ए कार",
+    "categoryName": "Car rental agency",
+    "address": "Jaipuria Mall, SC -185, near Jaipuria Mall, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Ahinsa Khand 1, Indirapuram",
+    "street": "Jaipuria Mall, SC -185, near Jaipuria Mall",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.saferentacar.in/location/ghaziabad",
+    "location": {
+      "lat": 28.6397507,
+      "lng": 77.3773866
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjcKdvqr6DDkRyPlrzlWmp6A",
+    "categories": [
+      "Car rental agency"
+    ],
+    "imagesCount": 3,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx3exqcSw1E1ZCCLgAPFfQrCqRvjfk2jOYBegIkiIJV93BvopQTs2bGQsDHoQSePw7BRwpXvb7yDQIJjp1odIgQCWDzSnZa2mAJdBy6TAQi87qfwdcOMcX0ZY4DSZKQRw_7r4Iv04MYvID0=w417-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Safe%20Rent%20A%20Car&query_place_id=ChIJjcKdvqr6DDkRyPlrzlWmp6A"
+  },
+  {
+    "title": "SanviCabs - Book cab for Outstations and Airport at affordable rate",
+    "subTitle": "संविकैब्स - बुक कैब फॉर आउटस्टेशंस एंड एयरपोर्ट अत अफॉर्डेबल रेट",
+    "categoryName": "Car leasing service",
+    "address": "421, Ground floor, Sector 3, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "neighborhood": "Sector 3, Vasundhara",
+    "street": "421, Ground floor",
+    "city": "Ghaziabad",
+    "postalCode": "201012",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://sanvicabs.com/",
+    "phone": "+919711224678",
+    "phoneUnformatted": "+919711224678",
+    "location": {
+      "lat": 28.6611703,
+      "lng": 77.3850353
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL_H1K83xDDkRAm9Y2-4bbsw",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 141,
+    "imagesCount": 7,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrdFlBMksBNCD9YfCYE0uIeI5DKEfVmfOT4HJ0=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SanviCabs%20-%20Book%20cab%20for%20Outstations%20and%20Airport%20at%20affordable%20rate&query_place_id=ChIJL_H1K83xDDkRAm9Y2-4bbsw"
+  },
+  {
+    "title": "Shiksha Tours and Travels pvt.Ltd",
+    "subTitle": "शिक्षा टूर्स एंड ट्रैवल्स पीवीटी.एलटीडी",
+    "categoryName": "Car rental agency",
+    "address": "Bhati ram mandir, B - 169, Shalimar Garden Main Rd, Block B, Shalimar Garden, Sahibabad, Ghaziabad, Uttar Pradesh 201006, India",
+    "neighborhood": "Block B, Shalimar Garden, Sahibabad",
+    "street": "Bhati ram mandir, B - 169, Shalimar Garden Main Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201006",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919711223938",
+    "phoneUnformatted": "+919711223938",
+    "location": {
+      "lat": 28.6871662,
+      "lng": 77.3327328
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmVUNrDL7DDkRDuNsMx11HUk",
+    "categories": [
+      "Car rental agency",
+      "Carpooling location",
+      "Tour agency"
+    ],
+    "reviewsCount": 19,
+    "imagesCount": 8,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN2bXkWo2x1g5I4Z4j4E7UpxAJOUa-u4WAqvya-=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shiksha%20Tours%20and%20Travels%20pvt.Ltd&query_place_id=ChIJmVUNrDL7DDkRDuNsMx11HUk"
+  },
+  {
+    "title": "Shri Kd Tour And Travels||Tempo Traveller booking || Cheapest Outstation Taxi Service",
+    "subTitle": "श्री केडी टूर एंड ट्रैवल्स||टेंपो ट्रैवलर बुकिंग || चिपेसट आउटस्टेशन टैक्सी सर्विस",
+    "categoryName": "Car rental agency",
+    "address": "Satyam Building, 106, RDC, Raj Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+    "neighborhood": "RDC, Block 1, RDC, Raj Nagar",
+    "street": "Satyam Building, 106",
+    "city": "Ghaziabad",
+    "postalCode": "201002",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://shrikdtravels.com/",
+    "phone": "+919990711442",
+    "phoneUnformatted": "+919990711442",
+    "location": {
+      "lat": 28.6726532,
+      "lng": 77.4419978
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP0-sfonxDDkRKE6J378URLU",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service"
+    ],
+    "reviewsCount": 1050,
+    "imagesCount": 540,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOmMCE3_Rr5m8bv7EncPEBWmQepqwvNLm-vKc_B=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Kd%20Tour%20And%20Travels%7C%7CTempo%20Traveller%20booking%20%7C%7C%20Cheapest%20Outstation%20Taxi%20Service&query_place_id=ChIJP0-sfonxDDkRKE6J378URLU"
+  },
+  {
+    "title": "Skyline , Self Drive Cars,Self Driven Cars Noida,Car Rental in Noida,Car without Driver In Noida, Monthly Car Rental Noida",
+    "subTitle": "स्काइलाइन , सेल्फ ड्राइव कार्स,सेल्फ ड्रिवन कार्स नोएडा,कार रेंटल इन नोएडा,कार विदाउट ड्राइवर इन नोएडा, मंथली कार रेंटल नोएडा",
+    "categoryName": "Car rental agency",
+    "address": "Pawar backup office, SHIPRA SUN CITY, jac road, Shiv Vihar, Shipra Suncity, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Shiv Vihar, Shipra Suncity, Indirapuram",
+    "street": "Pawar backup office, SHIPRA SUN CITY, jac road",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.skylineselfdrive.com/",
+    "phone": "+918881000956",
+    "phoneUnformatted": "+918881000956",
+    "location": {
+      "lat": 28.6367916,
+      "lng": 77.3740312
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNUn6M3DlDDkRHOFdZRi5ybs",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNh4g30WUPmJPlAV3YD7in9jEzFvm5jRjTZtil=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Skyline%20%2C%20Self%20Drive%20Cars%2CSelf%20Driven%20Cars%20Noida%2CCar%20Rental%20in%20Noida%2CCar%20without%20Driver%20In%20Noida%2C%20Monthly%20Car%20Rental%20Noida&query_place_id=ChIJNUn6M3DlDDkRHOFdZRi5ybs"
+  },
+  {
+    "title": "Spinny Car Hub, Indirapuram Habitat Centre, Ghaziabad",
+    "subTitle": "स्पिनी",
+    "categoryName": "Used car dealer",
+    "address": "Shop no -282 Ground Floor, BLOCK-J, Indirapuram Habitat Centre, Dr Sushila Naiyar Marg, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Ahinsa Khand 1, Indirapuram",
+    "street": "Shop no -282 Ground Floor, BLOCK-J, Indirapuram Habitat Centre, Dr Sushila Naiyar Marg",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.spinny.com/",
+    "phone": "+917277277275",
+    "phoneUnformatted": "+917277277275",
+    "location": {
+      "lat": 28.6397883,
+      "lng": 77.3688475
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy268HFf7DDkRBVOmIKkjlWM",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 1813,
+    "imagesCount": 319,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzWeXEMoxwhEULXnkKVoNcgW8a5Jy_JAjS3pS8SvYoum6qBpUmQUMt9sc5L9MME5v42sdaeBlLNQ3Y2eZmOPVHgWEKZYoGvu6uR6a6DCE3khJHlCPXiK-dn4C3Aw4GwPDx3LeQf1ReBcf7O=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Spinny%20Car%20Hub%2C%20Indirapuram%20Habitat%20Centre%2C%20Ghaziabad&query_place_id=ChIJy268HFf7DDkRBVOmIKkjlWM"
+  },
+  {
+    "title": "Star Tour & Travels",
+    "subTitle": "स्टार टूर एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "3/1362, Sector 3, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "neighborhood": "Sector 3, Vasundhara",
+    "street": "3/1362",
+    "city": "Ghaziabad",
+    "postalCode": "201012",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://startourtravels.in/",
+    "phone": "+919958799465",
+    "phoneUnformatted": "+919958799465",
+    "location": {
+      "lat": 28.6668804,
+      "lng": 77.3844045
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ73j8anTwDDkRGqgS8uQkPjI",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 136,
+    "imagesCount": 356,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxsAhJaZvw7s0VdhbdUEDRRKJLpAxJRgLixa7uX0KlTGHaIyrLCLgPp9GAOJl8tKc9paySNqv2RsEGl-PSLJ4XziBO0_RN5Ai2bcOYID9KOZgtYMHQSA3dj8aHgQP0gd-g7EnuD=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20Tour%20%26%20Travels&query_place_id=ChIJ73j8anTwDDkRGqgS8uQkPjI"
+  },
+  {
+    "title": "Star Travel India",
+    "subTitle": "स्टार ट्रैवल इंडिया",
+    "categoryName": "Car leasing service",
+    "address": "gate no 2, 15/58, SF, Vasundhara, near S.G publice school, Sector 15, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "neighborhood": "Sector 15, Vasundhara",
+    "street": "gate no 2, 15/58, SF, Vasundhara, near S.G publice school",
+    "city": "Ghaziabad",
+    "postalCode": "201012",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://startravelindia.com/",
+    "phone": "+919999660075",
+    "phoneUnformatted": "+919999660075",
+    "location": {
+      "lat": 28.6535676,
+      "lng": 77.3615529
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvVXZpp_7DDkRgDKrD8T1zCc",
+    "categories": [
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 71,
+    "imagesCount": 72,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMAWhsdTvqyBrmJbtUApWwiDbIaJSHFcQxZsfAV=w408-h543-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20Travel%20India&query_place_id=ChIJvVXZpp_7DDkRgDKrD8T1zCc"
+  },
+  {
+    "title": "The car empire",
+    "subTitle": "द कार एम्पायर",
+    "categoryName": "Car dealer",
+    "address": "Teela kothi, Ghaziabad, Uttar Pradesh 201102, India",
+    "street": "Teela kothi",
+    "city": "Ghaziabad",
+    "postalCode": "201102",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.7290804,
+      "lng": 77.3300792
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY_7_N_r5DDkRJ8PjL_1y5m0",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPPDNyOQtsl1IFCQB3NdLOiQA91E4N4-GwOY9jn=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20car%20empire&query_place_id=ChIJY_7_N_r5DDkRJ8PjL_1y5m0"
+  },
+  {
+    "title": "Tripiez Travels",
+    "subTitle": "त्रिपिएज़ ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "4/144, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201019, India",
+    "neighborhood": "Sector 4, Vaishali",
+    "street": "4/144",
+    "city": "Ghaziabad",
+    "postalCode": "201019",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.643362,
+      "lng": 77.340079
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF0KYndL7DDkRB6j98sF3MmE",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 46,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPS4OPdjN_hsOqL4s0J5D2HY0qzFQo8VoV_TDSc=w408-h355-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tripiez%20Travels&query_place_id=ChIJF0KYndL7DDkRB6j98sF3MmE"
+  },
+  {
+    "title": "Triveni Cabs - Outstation Cabs | One Way Cabs And Tempo Traveler Provider",
+    "subTitle": "त्रिवेणी कैब्स - आउटस्टेशन कैब्स | वन वे कैब्स एंड टेम्पो ट्रैवलर प्रोवाइडर",
+    "categoryName": "Car leasing service",
+    "address": "Site 2, Industrial, S-65, Loni Rd, Block 9, Mohan Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201007, India",
+    "neighborhood": "Block 9, Mohan Nagar, Sahibabad",
+    "street": "Site 2, Industrial, S-65, Loni Rd",
+    "city": "Ghaziabad",
+    "postalCode": "201007",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.trivenicabs.in/",
+    "phone": "+917668570551",
+    "phoneUnformatted": "+917668570551",
+    "location": {
+      "lat": 28.6862783,
+      "lng": 77.3640022
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo1zUT01DNCgR-vJYtMMKb6k",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 228,
+    "imagesCount": 113,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPmjtgqxLzUtvzww1YNuLgHx-u08gjekInPjwVy=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Triveni%20Cabs%20-%20Outstation%20Cabs%20%7C%20One%20Way%20Cabs%20And%20Tempo%20Traveler%20Provider&query_place_id=ChIJo1zUT01DNCgR-vJYtMMKb6k"
+  },
+  {
+    "title": "Upadhyaya Tour And Travels | Tempo Traveller on Rent | Tempo Traveller Hire in Ghaziabad| Bus hire in Ghaziabad",
+    "subTitle": "उपाध्याय टूर एंड ट्रैवल्स | टेम्पो ट्रैवलर ऑन रेंट | टेम्पो ट्रैवलर हीरे इन गाजियाबाद| बस हीरे इन गाजियाबाद",
+    "categoryName": "Car rental agency",
+    "address": "D 588, Block I, D-Block, Govindpuram, Ghaziabad, Uttar Pradesh 201013, India",
+    "neighborhood": "Block I, D-Block, Govindpuram",
+    "street": "D 588",
+    "city": "Ghaziabad",
+    "postalCode": "201013",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.upadhyayatravels.in/",
+    "phone": "+918006080021",
+    "phoneUnformatted": "+918006080021",
+    "location": {
+      "lat": 28.6861061,
+      "lng": 77.4894107
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuUmIRQPzDDkRyOwQsEsul2Q",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Van rental agency"
+    ],
+    "reviewsCount": 70,
+    "imagesCount": 245,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP-6Oo5KHu_iKDqV_fINqGcGjTj4CtkTZENVCWO=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Upadhyaya%20Tour%20And%20Travels%20%7C%20Tempo%20Traveller%20on%20Rent%20%7C%20Tempo%20Traveller%20Hire%20in%20Ghaziabad%7C%20Bus%20hire%20in%20Ghaziabad&query_place_id=ChIJuUmIRQPzDDkRyOwQsEsul2Q"
+  },
+  {
+    "title": "Urus Motors",
+    "subTitle": "उरस मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "64/6-1, Sahibabad Industrial Area Site 4, Sahibabad, Ghaziabad, Uttar Pradesh 201019, India",
+    "neighborhood": "Sahibabad Industrial Area Site 4, Sahibabad",
+    "street": "64/6-1",
+    "city": "Ghaziabad",
+    "postalCode": "201019",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "location": {
+      "lat": 28.6540444,
+      "lng": 77.3447802
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ86ehUuX7DDkR5nfsve0fB-c",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNrrZ9YN0-QZWIgyWd9E1mvRb4QnudxZublPM5p=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Urus%20Motors&query_place_id=ChIJ86ehUuX7DDkR5nfsve0fB-c"
+  },
+  {
+    "title": "Utsav Taxi Service",
+    "subTitle": "उत्सव टैक्सी सर्विस",
+    "categoryName": "Car leasing service",
+    "address": "Shop No. 34, First floor, Galleria Market, Crossings Republik, Ghaziabad, Uttar Pradesh 201016, India",
+    "neighborhood": "Crossings Republik",
+    "street": "Shop No. 34, First floor, Galleria Market",
+    "city": "Ghaziabad",
+    "postalCode": "201016",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://utsavtaxiservice.in/",
+    "phone": "+917291826427",
+    "phoneUnformatted": "+917291826427",
+    "location": {
+      "lat": 28.6260549,
+      "lng": 77.4350917
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg9l8jfbvDDkRO6N8-_1Xp08",
+    "categories": [
+      "Car leasing service",
+      "Airport shuttle service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 137,
+    "imagesCount": 9,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFGRDxfIKdTednFbMItedJAYHqEiEF1o7LPER3=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Utsav%20Taxi%20Service&query_place_id=ChIJg9l8jfbvDDkRO6N8-_1Xp08"
+  },
+  {
+    "title": "VK Self Drive Car Rental | Self Drive Car Rental Agency |",
+    "subTitle": "वीके सेल्फ ड्राइव कार रेंटल | सेल्फ ड्राइव कार रेंटल एजेंसी |",
+    "categoryName": "Car leasing service",
+    "address": "Police Station, Shop No-10 3rd Floor, Commercial Complex, Wave Galleria, Near, Wave City Marg, Ghaziabad, Uttar Pradesh 201015, India",
+    "street": "Police Station, Shop No-10 3rd Floor, Commercial Complex, Wave Galleria, Near, Wave City Marg",
+    "city": "Ghaziabad",
+    "postalCode": "201015",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.vkselfdrive.com/",
+    "phone": "+919667327787",
+    "phoneUnformatted": "+919667327787",
+    "location": {
+      "lat": 28.6629359,
+      "lng": 77.4917577
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhfE2lwnzDDkR8aJQ3gkZ7AY",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMApBclDYl77M7uh5HplXdI5EArrP57LAcLnuU=w468-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VK%20Self%20Drive%20Car%20Rental%20%7C%20Self%20Drive%20Car%20Rental%20Agency%20%7C&query_place_id=ChIJhfE2lwnzDDkR8aJQ3gkZ7AY"
+  },
+  {
+    "title": "Vanshika Tour & Travels",
+    "subTitle": "वंशिका टूर & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "House no-298, near sant tresha school, Sarvodaya Nagar, Pratap Vihar, Ghaziabad, Uttar Pradesh 201009, India",
+    "neighborhood": "Sarvodaya Nagar, Pratap Vihar",
+    "street": "House no-298, near sant tresha school",
+    "city": "Ghaziabad",
+    "postalCode": "201009",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/vanshikatourandtravel/",
+    "phone": "+919990457816",
+    "phoneUnformatted": "+919990457816",
+    "location": {
+      "lat": 28.6429215,
+      "lng": 77.4164063
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJg-qOAobxDDkR7uPg758j3yM",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LukK_zWe8Rd8y5I0LfWsOg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=209.66922&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Vanshika%20Tour%20%26%20Travels&query_place_id=ChIJg-qOAobxDDkR7uPg758j3yM"
+  },
+  {
+    "title": "WOW CAR X CHANGE",
+    "subTitle": "वाओ कार ऍक्स चेंज",
+    "categoryName": "Used car dealer",
+    "address": "3RD- C, 73 A, Moti Lal Nehru Marg, Ashok Nagar, Nehru Nagar III, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+    "neighborhood": "Ashok Nagar, Nehru Nagar III, Nehru Nagar",
+    "street": "3RD- C, 73 A, Moti Lal Nehru Marg",
+    "city": "Ghaziabad",
+    "postalCode": "201001",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919999960443",
+    "phoneUnformatted": "+919999960443",
+    "location": {
+      "lat": 28.6606248,
+      "lng": 77.4416605
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ05I88szxDDkR6upz1KaUhsc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 151,
+    "imagesCount": 187,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMf087OjDSQg8-8j-s8tXi87x7xO4Tl8qBx12u5=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=WOW%20CAR%20X%20CHANGE&query_place_id=ChIJ05I88szxDDkR6upz1KaUhsc"
+  },
+  {
+    "title": "Xdrives.in",
+    "subTitle": "एक्सड्राइव्स.इन",
+    "categoryName": "Car rental agency",
+    "address": "2nd floor, Aditya Mall, S10, mall, above ICICI Bank, Aditya Mega City, Nyay Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Aditya Mega City, Nyay Khand 2, Indirapuram",
+    "street": "2nd floor, Aditya Mall, S10, mall, above ICICI Bank",
+    "city": "Ghaziabad",
+    "postalCode": "201014",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918800011701",
+    "phoneUnformatted": "+918800011701",
+    "location": {
+      "lat": 28.6387016,
+      "lng": 77.3620682
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLRrSo2b13igRGBI9LyrS1f8",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 285,
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwMfx1ToArUQzKjAq2-vZJZvEiacUjJ8ecs_PZcb3fX4UG-nZAxphCmuse7Am4XqgChMyKus8K386uaa6nuw8trmCDktzCh0YiH0SKf2tVsw-I7v-q5axL7GXsKAV8nl7VgrDg1=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Xdrives.in&query_place_id=ChIJLRrSo2b13igRGBI9LyrS1f8"
+  },
+  {
+    "title": "kalka motors | car sale and purchase on comission basis",
+    "subTitle": "कालका मोटर्स | कार सेल एंड परचेज ऑन कमीशन बेसिस",
+    "categoryName": "Car dealer",
+    "address": "Kanha Complex, 6/161, Sector 2, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005, India",
+    "neighborhood": "Sector 2, Rajendra Nagar, Sahibabad",
+    "street": "Kanha Complex, 6/161",
+    "city": "Ghaziabad",
+    "postalCode": "201005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919910499324",
+    "phoneUnformatted": "+919910499324",
+    "location": {
+      "lat": 28.6847145,
+      "lng": 77.3579925
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF38w58L7DDkR8u2jw9ES1hk",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 18,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDN9RipqyNhCAmrKF4q42bTeTbYnHD-dnhlOH_=w408-h434-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=kalka%20motors%20%7C%20car%20sale%20and%20purchase%20on%20comission%20basis&query_place_id=ChIJF38w58L7DDkR8u2jw9ES1hk"
+  },
+  {
+    "title": "आयशा मोटर्स",
+    "categoryName": "Car dealer",
+    "address": "Sector 10, Shakti Khand I, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+    "neighborhood": "Sector 10, Shakti Khand I, Indirapuram",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919873717871",
+    "phoneUnformatted": "+919873717871",
+    "location": {
+      "lat": 28.6489396,
+      "lng": 77.3613973
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgXBfArr6DDkRH3erfK2JOg4",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RY0YET6GnYo7GggrXDqKnw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.317345&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%86%E0%A4%AF%E0%A4%B6%E0%A4%BE%20%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%B8&query_place_id=ChIJgXBfArr6DDkRH3erfK2JOg4"
+  },
+  {
+    "title": "𝗖𝗵𝗮𝗻𝗱𝗿𝗮 𝗣𝗿𝗮𝗯𝗵𝗮 𝗧𝗿𝗮𝘃𝗲𝗹𝘀 - 𝗧𝗮𝘅𝗶 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗶𝗻 𝗚𝗵𝗮𝘇𝗶𝗮𝗯𝗮𝗱",
+    "subTitle": "चंद्र प्रभा ट्रैवल्स - टैक्सी सर्विस इन गाजियाबाद",
+    "categoryName": "Car rental agency",
+    "address": "Shop No 150, Bhur Bharat Nagar, Railway Colony, Madhopura, Ghaziabad, Uttar Pradesh 201009, India",
+    "neighborhood": "Bhur Bharat Nagar, Railway Colony, Madhopura",
+    "street": "Shop No 150",
+    "city": "Ghaziabad",
+    "postalCode": "201009",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://chandraprabhatravals.site/",
+    "phone": "+917982628497",
+    "phoneUnformatted": "+917982628497",
+    "location": {
+      "lat": 28.6522269,
+      "lng": 77.4252237
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsRbQh4jxDDkRPjbID0hbDcQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 223,
+    "imagesCount": 57,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNKiof0i8yGRrrtPX1XG4G-OFc_X3nw8Ny8qlih=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%AE%20%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%B5%F0%9D%97%AE%20%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%98%80%20-%20%F0%9D%97%A7%F0%9D%97%AE%F0%9D%98%85%F0%9D%97%B6%20%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2%20%F0%9D%97%B6%F0%9D%97%BB%20%F0%9D%97%9A%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%87%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B1&query_place_id=ChIJsRbQh4jxDDkRPjbID0hbDcQ"
+  }
+]

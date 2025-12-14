@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Roadster self drive cars(RTR)",
+    "categoryName": "Car leasing service",
+    "address": "597, 8V Rd, beside Royal Enfield service center, NGO Colony, Vanasthalipuram, Hyderabad, Telangana 500070, India",
+    "neighborhood": "NGO Colony",
+    "street": "597, 8V Rd, beside Royal Enfield service center",
+    "city": "Vanasthalipuram, Hyderabad",
+    "postalCode": "500070",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+917989896774",
+    "phoneUnformatted": "+917989896774",
+    "location": {
+      "lat": 17.325724,
+      "lng": 78.568731
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi7FkJDajyzsR67Coasmgr4s",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 76,
+    "imagesCount": 43,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4R6aEKKxZ6sJvKwmH7AIS-i7cG_hGlbLxcLNc=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Roadster%20self%20drive%20cars(RTR)&query_place_id=ChIJi7FkJDajyzsR67Coasmgr4s"
+  }
+]

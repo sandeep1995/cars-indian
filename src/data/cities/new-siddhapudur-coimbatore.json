@@ -1,0 +1,183 @@
+[
+  {
+    "title": "KK Travels",
+    "subTitle": "கே.கே. டிராவல்ஸ்",
+    "categoryName": "Car rental agency",
+    "address": "2 FLOOR, 96, Chinnasamy Naidu Rd, near AYYAPAN TEMPLE, Siddhapudur, New Siddhapudur, Coimbatore, Tamil Nadu 641044, India",
+    "neighborhood": "Siddhapudur",
+    "street": "2 FLOOR, 96, Chinnasamy Naidu Rd, near AYYAPAN TEMPLE",
+    "city": "New Siddhapudur, Coimbatore",
+    "postalCode": "641044",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842220999",
+    "phoneUnformatted": "+919842220999",
+    "location": {
+      "lat": 11.0209802,
+      "lng": 76.9736045
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJS38l2vP3qDsRAp-6S86F4X0",
+    "categories": [
+      "Car rental agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 24,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxJf1hBrX4S9mWvOtzV9bim3wverPsid9RFCAu2vfuK1E5cBbfOc-WfOoGctX7Qz3Vy-58P0-8cCPHGKWSPulkC3y7DD-tEUIa1a_-BYESaXkESH_-ZuuzoxduvJIf3FwjyeShsxw=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KK%20Travels&query_place_id=ChIJS38l2vP3qDsRAp-6S86F4X0"
+  },
+  {
+    "title": "Super Cars",
+    "subTitle": "சூப்பர் கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "37/59, Avaram Palayam Rd, near Damodar Mansion, Balaji Nagar, New Siddhapudur, Coimbatore, Tamil Nadu 641044, India",
+    "neighborhood": "Balaji Nagar",
+    "street": "37/59, Avaram Palayam Rd, near Damodar Mansion",
+    "city": "New Siddhapudur, Coimbatore",
+    "postalCode": "641044",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.facebook.com/Super-cars-806912979360357/",
+    "phone": "+919092266666",
+    "phoneUnformatted": "+919092266666",
+    "location": {
+      "lat": 11.0232502,
+      "lng": 76.9802089
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuxiz0TdYqDsR9PZLH1jzcuc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 72,
+    "imagesCount": 362,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6:45 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOcsE_2pM1fIYYVulT2E4glMCMWbEwNkYB3kyIE=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Super%20Cars&query_place_id=ChIJuxiz0TdYqDsR9PZLH1jzcuc"
+  },
+  {
+    "title": "Velocity transports",
+    "categoryName": "Car leasing service",
+    "address": "230, Venkatasamy Rd, Siddhapudur, New Siddhapudur, Coimbatore, Tamil Nadu 641044, India",
+    "neighborhood": "Siddhapudur",
+    "street": "230, Venkatasamy Rd",
+    "city": "New Siddhapudur, Coimbatore",
+    "postalCode": "641044",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.velocitytransports.in/",
+    "phone": "+918190070070",
+    "phoneUnformatted": "+918190070070",
+    "location": {
+      "lat": 11.0202849,
+      "lng": 76.973442
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9z9iagBZqDsR_6p1dAK2iHA",
+    "categories": [
+      "Car leasing service",
+      "Travel agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 22,
+    "imagesCount": 47,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP61i8dpheBhr5X5Sy3ztSrMCmgDyLs2J_DC-lE=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Velocity%20transports&query_place_id=ChIJ9z9iagBZqDsR_6p1dAK2iHA"
+  }
+]

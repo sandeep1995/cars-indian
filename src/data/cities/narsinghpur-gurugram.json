@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Resure Auto - India's Fastest Car Delivery Dealership",
+    "subTitle": "रिजर ऑटो - इंडिया'स फास्टेस्ट कार डिलीवरी डीलरशिप",
+    "price": null,
+    "categoryName": "Car dealer",
+    "address": "SHOP NO 1 GROUND FLOOR SECTOR 36, NH48, near TATA PASCO SHOWROOM, VPO, Narsinghpur, Gurugram, Haryana 122004, India",
+    "neighborhood": "VPO",
+    "street": "SHOP NO 1 GROUND FLOOR SECTOR 36, NH48, near TATA PASCO SHOWROOM",
+    "city": "Narsinghpur, Gurugram",
+    "postalCode": "122004",
+    "state": "Haryana",
+    "countryCode": "IN",
+    "website": "https://www.resureauto.com/",
+    "phone": "+91 93108 28882",
+    "phoneUnformatted": "+919310828882",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 28.4127834,
+      "lng": 76.9939173
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq5CxfHGPngYRM7_CuQQ5BIo",
+    "categories": [
+      "Car dealer",
+      "DS Automobiles dealer",
+      "Finance broker",
+      "Insurance broker",
+      "Smart Car dealer"
+    ],
+    "fid": "0x69e8f717cb190ab:0x8a043904b9c2bf33",
+    "cid": "9945136569600098099",
+    "reviewsCount": 31,
+    "imagesCount": 149,
+    "imageCategories": [],
+    "scrapedAt": "2025-12-12T18:03:05.943Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Resure%20Auto%20-%20India's%20Fastest%20Car%20Delivery%20Dealership&query_place_id=ChIJq5CxfHGPngYRM7_CuQQ5BIo",
+    "searchPageUrl": "https://www.google.com/maps/search/luxury%20pre%20owned%20car%20dealer/@28.370736450000003,76.94644405000001,13z?hl=en",
+    "searchString": "luxury pre owned car dealer",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipON2HcuXuEuC1pmpQoOy0oShDdfXgabJdWdX0c3=w408-h544-k-no",
+    "kgmid": "/g/11y9zf68p1",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "reviews": null,
+    "leadsEnrichment": []
+  }
+]

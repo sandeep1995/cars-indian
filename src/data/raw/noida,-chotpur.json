@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Ambros Luxury seat covers",
+    "subTitle": "एम्ब्रोस लक्जरी सीट कवर",
+    "categoryName": "Car accessories store",
+    "address": "C-270, Sector 63 Rd, C Block, Sector 63, Noida, Chotpur, Uttar Pradesh 201309, India",
+    "neighborhood": "C Block, Sector 63",
+    "street": "C-270, Sector 63 Rd",
+    "city": "Noida, Chotpur",
+    "postalCode": "201309",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+919910035020",
+    "phoneUnformatted": "+919910035020",
+    "location": {
+      "lat": 28.617137,
+      "lng": 77.388193
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB20dyfLvDDkRYZYPuDRQfDE",
+    "categories": [
+      "Car accessories store",
+      "Auto accessories wholesaler",
+      "Manufacturer"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 72,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMoCJHGRbffYppG-kXYLAw1JgB6xTpA92385jef=w408-h342-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ambros%20Luxury%20seat%20covers&query_place_id=ChIJB20dyfLvDDkRYZYPuDRQfDE"
+  },
+  {
+    "title": "Auto Sharks by DJ's Automotive | PPF | Graphene | Ceramic | Car Accessories | Dry Cleaning | Best Detailing in Noida",
+    "subTitle": "ऑटो शार्क",
+    "categoryName": "Car accessories store",
+    "address": "Plot 263, C Block, Sector 63, Noida, Chotpur, Uttar Pradesh 201309, India",
+    "neighborhood": "C Block, Sector 63",
+    "street": "Plot 263",
+    "city": "Noida, Chotpur",
+    "postalCode": "201309",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.autosharks.in/",
+    "phone": "+918696868626",
+    "phoneUnformatted": "+918696868626",
+    "location": {
+      "lat": 28.6164269,
+      "lng": 77.3883408
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRYnv4AzvDDkRmJoTXgctry8",
+    "categories": [
+      "Car accessories store",
+      "Auto restoration service",
+      "Car wash"
+    ],
+    "reviewsCount": 67,
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11:30 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNEtwfPGFBTZAsM70Y3LhJj3JxbV9j4n87g_JqV=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Sharks%20by%20DJ's%20Automotive%20%7C%20PPF%20%7C%20Graphene%20%7C%20Ceramic%20%7C%20Car%20Accessories%20%7C%20Dry%20Cleaning%20%7C%20Best%20Detailing%20in%20Noida&query_place_id=ChIJRYnv4AzvDDkRmJoTXgctry8"
+  }
+]

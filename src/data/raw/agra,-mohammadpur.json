@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Renault Agra",
+    "subTitle": "रेनॉल्ट आगरा",
+    "categoryName": "Renault dealer",
+    "address": "No 3/42 NH 2, Mathura Road, Lakhanpur, near Best Price, Agra, Uttar Pradesh 282007, India",
+    "neighborhood": "Sikandra",
+    "street": "No 3/42 NH 2, Mathura Road, Lakhanpur, near Best Price",
+    "city": "Agra, Mohammadpur",
+    "postalCode": "282007",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.renault.co.in/?utm_source=locator&utm_medium=googleplaces",
+    "phone": "+918527239527",
+    "phoneUnformatted": "+918527239527",
+    "location": {
+      "lat": 27.2205103,
+      "lng": 77.9260695
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp-fH7j13dDkRw4_zjWrt4V4",
+    "categories": [
+      "Renault dealer",
+      "Auto dent removal service",
+      "Auto repair shop",
+      "Car accessories store",
+      "Car dealer"
+    ],
+    "reviewsCount": 5533,
+    "imagesCount": 271,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPGq5JnlTIhW9bTDkQJeWy36SdLfaID21i7fHFJ=w534-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Renault%20Agra&query_place_id=ChIJp-fH7j13dDkRw4_zjWrt4V4"
+  }
+]

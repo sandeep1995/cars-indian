@@ -1,3 +1,27 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+type Props = {
+	title?: string;
+	description?: string;
+	robots?: string;
+	ogImage?: string;
+	jsonLd?: unknown;
+};
+
+const {
+	title = 'Pre-owned Luxury Cars Marketplace (India)',
+	description = 'Find pre-owned luxury cars from dealers across Indian cities. Compare dealers, reviews, locations, and contact details.',
+	robots = 'index,follow',
+	ogImage,
+	jsonLd,
+} = Astro.props;
+
+const site = Astro.site;
+const canonical = site ? new URL(Astro.url.pathname, site).href : undefined;
+---
+
 <!doctype html>
 <html lang="en">
 	<head>
@@ -5,18 +29,76 @@
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+
+		<title>{title}</title>
+		<meta name="description" content={description} />
+		<meta name="robots" content={robots} />
+		{canonical ? <link rel="canonical" href={canonical} /> : null}
+
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		{canonical ? <meta property="og:url" content={canonical} /> : null}
+		{ogImage ? <meta property="og:image" content={ogImage} /> : null}
+
+		<meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		{ogImage ? <meta name="twitter:image" content={ogImage} /> : null}
+
+		{jsonLd ? (
+			<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+		) : null}
 	</head>
 	<body>
+		<Header />
 		<slot />
+		<Footer />
 	</body>
 </html>
 
 <style>
-	html,
-	body {
+	:global(html) {
+		color-scheme: light;
+	}
+	:global(html),
+	:global(body) {
 		margin: 0;
 		width: 100%;
-		height: 100%;
+		min-height: 100%;
+		background: #0b0f19;
+		color: #eef2ff;
+		font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji',
+			'Segoe UI Emoji';
+	}
+	:global(a) {
+		color: inherit;
+	}
+	:global(.container) {
+		max-width: 1100px;
+		margin: 0 auto;
+		padding: 24px 16px;
+	}
+	:global(.card) {
+		background: rgba(255, 255, 255, 0.06);
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		border-radius: 14px;
+		padding: 16px;
+	}
+	:global(.muted) {
+		color: rgba(238, 242, 255, 0.75);
+	}
+	:global(.btn) {
+		display: inline-flex;
+		align-items: center;
+		gap: 8px;
+		padding: 10px 12px;
+		border-radius: 12px;
+		border: 1px solid rgba(255, 255, 255, 0.18);
+		background: rgba(255, 255, 255, 0.06);
+		text-decoration: none;
+	}
+	:global(.btn:hover) {
+		background: rgba(255, 255, 255, 0.1);
 	}
 </style>

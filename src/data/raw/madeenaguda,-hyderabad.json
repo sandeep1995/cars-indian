@@ -1,0 +1,64 @@
+[
+  {
+    "title": "VAISHNAVI CARS",
+    "subTitle": "వైష్ణవి కార్స్",
+    "categoryName": "Used car dealer",
+    "address": "PLOT NO.41, beside Fortune Heights, beside BAJAJ ELECTRONICS, Viswaswara Nagar Colony, Tiwari Nagar, Madeenaguda, Hyderabad, Telangana 500049, India",
+    "neighborhood": "Viswaswara Nagar Colony, Tiwari Nagar",
+    "street": "PLOT NO.41, beside Fortune Heights, beside BAJAJ ELECTRONICS",
+    "city": "Madeenaguda, Hyderabad",
+    "postalCode": "500049",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "https://wa.me/c/919515660492",
+    "phone": "+919391587692",
+    "phoneUnformatted": "+919391587692",
+    "location": {
+      "lat": 17.494851,
+      "lng": 78.347165
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiynhh2aSyzsRahChgqPZoNs",
+    "categories": [
+      "Used car dealer",
+      "Auto insurance agency",
+      "Car dealer"
+    ],
+    "reviewsCount": 72,
+    "imagesCount": 32,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_Q6YwOryZ5WILvCXiJXxXbfY-DCzeJlGiQOcp=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VAISHNAVI%20CARS&query_place_id=ChIJiynhh2aSyzsRahChgqPZoNs"
+  }
+]

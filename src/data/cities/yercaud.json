@@ -1,0 +1,119 @@
+[
+  {
+    "title": "HUSSAIN CABS & AUTO",
+    "categoryName": "Car leasing service",
+    "address": "GANDHI PARK, opp. SALEM, Yercaud, Tamil Nadu 636601, India",
+    "street": "GANDHI PARK, opp. SALEM",
+    "city": "Yercaud",
+    "postalCode": "636601",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919842550766",
+    "phoneUnformatted": "+919842550766",
+    "location": {
+      "lat": 11.7743162,
+      "lng": 78.2093971
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi6O3_dz1qzsRHvprvDIE1xw",
+    "categories": [
+      "Car leasing service",
+      "Auto rickshaw stand",
+      "Taxi service"
+    ],
+    "reviewsCount": 258,
+    "imagesCount": 112,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1eRoH02gUUIi59OHFyrTGuM-EWHpg7MqhxU4a=w408-h912-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=HUSSAIN%20CABS%20%26%20AUTO&query_place_id=ChIJi6O3_dz1qzsRHvprvDIE1xw"
+  },
+  {
+    "title": "Parameshwari tourist cab Yercaud",
+    "categoryName": "Car leasing service",
+    "address": "Bus stand, Yercaud, Tamil Nadu 636601, India",
+    "street": "Bus stand",
+    "city": "Yercaud",
+    "postalCode": "636601",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919751865025",
+    "phoneUnformatted": "+919751865025",
+    "location": {
+      "lat": 11.7761864,
+      "lng": 78.2090032
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD8DV_az1qzsRWxWqwHXpdBQ",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN7MDuSfUH_XhyQE2Vi2hDdXHURJHKcESdn5BO2=w408-h572-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Parameshwari%20tourist%20cab%20Yercaud&query_place_id=ChIJD8DV_az1qzsRWxWqwHXpdBQ"
+  }
+]

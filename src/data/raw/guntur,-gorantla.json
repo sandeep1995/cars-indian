@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Sri navya Car Travels",
+    "categoryName": "Car rental agency",
+    "address": "Flot 401, Bommarillu Appartments, Hanuman Nagar Lane, Amaravathi Rd, beside Govt ID Hospital, Guntur, Andhra Pradesh 522034, India",
+    "neighborhood": "Gorantla",
+    "street": "Flot 401, Bommarillu Appartments, Hanuman Nagar Lane, Amaravathi Rd, beside Govt ID Hospital",
+    "city": "Guntur, Gorantla",
+    "postalCode": "522034",
+    "state": "Andhra Pradesh",
+    "countryCode": "IN",
+    "website": "https://srinavyacartravels.com/",
+    "phone": "+918008114860",
+    "phoneUnformatted": "+918008114860",
+    "location": {
+      "lat": 16.3327075,
+      "lng": 80.4376576
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe3Hb92aLNToRe48w0mUva14",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 196,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxyJ6darJ-Le-dIbfg4nQN21cwiRSxwuzhVSFrnqMmPEeIhyrrQwOrx1lEOETtMVgUAhzJUJwlDyQ6jIu5eDL0HNI-KSH5d_AftzYa7CVXl6fpq3cRKiCYr9wakz-gDw2bKpHvMog=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sri%20navya%20Car%20Travels&query_place_id=ChIJe3Hb92aLNToRe48w0mUva14"
+  }
+]

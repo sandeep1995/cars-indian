@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Shrilaya Travels & Tourism",
+    "categoryName": "Car rental agency",
+    "address": "Thirumurugan Nagar, Madurai, Thiruparankundram, Tamil Nadu 625005, India",
+    "neighborhood": "Thirumurugan Nagar",
+    "city": "Madurai, Thiruparankundram",
+    "postalCode": "625005",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://www.shrilayatravelstourism.com/",
+    "phone": "+919655150055",
+    "phoneUnformatted": "+919655150055",
+    "location": {
+      "lat": 9.8871284,
+      "lng": 78.0808814
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK6fdVMbPADsR6JiJ_IApjm0",
+    "categories": [
+      "Car rental agency",
+      "Boat tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 143,
+    "imagesCount": 172,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOVcD2SW84rHHKaaZTRLOg5Xcllrkgb2MYgqdJT=w408-h342-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shrilaya%20Travels%20%26%20Tourism&query_place_id=ChIJK6fdVMbPADsR6JiJ_IApjm0"
+  }
+]

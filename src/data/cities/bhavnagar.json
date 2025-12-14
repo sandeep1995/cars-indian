@@ -1,0 +1,784 @@
+[
+  {
+    "title": "AKSHAR MOTORS",
+    "categoryName": "Used car dealer",
+    "address": "Virani Circle, near Rameshwar Mahadev temple, opp. Krishna 2 complex, Sagwadi, Kaliyabid, Bhavnagar, Gujarat 364002, India",
+    "neighborhood": "Sagwadi, Kaliyabid",
+    "street": "Virani Circle, near Rameshwar Mahadev temple, opp. Krishna 2 complex",
+    "city": "Bhavnagar",
+    "postalCode": "364002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "https://aksharmotors.d2n.in/",
+    "phone": "+919898320360",
+    "phoneUnformatted": "+919898320360",
+    "location": {
+      "lat": 21.740756,
+      "lng": 72.1424304
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAbUQ2RBbXzkRurWZxK3a47s",
+    "categories": [
+      "Used car dealer",
+      "Auto broker"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2NV3tbMlkO0Im3zoUoFBjQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.36633&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=AKSHAR%20MOTORS&query_place_id=ChIJAbUQ2RBbXzkRurWZxK3a47s"
+  },
+  {
+    "title": "GOPAL TOURS & TRAVELS",
+    "categoryName": "Car rental agency",
+    "address": "Maldhari Society, Plot number 6/C, Bharat Nagar Rd, Sardar Nagar, Bhavnagar, Gujarat 364002, India",
+    "neighborhood": "Sardar Nagar",
+    "street": "Maldhari Society, Plot number 6/C, Bharat Nagar Rd",
+    "city": "Bhavnagar",
+    "postalCode": "364002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+919328901505",
+    "phoneUnformatted": "+919328901505",
+    "location": {
+      "lat": 21.7489734,
+      "lng": 72.1550553
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsXuDD8RbXzkRZFnTVvKwqY8",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 13,
+    "imagesCount": 8,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN9rpndDD5pIpce6IV0Qc7at-OlZw6h3GYpPSFE=w455-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=GOPAL%20TOURS%20%26%20TRAVELS&query_place_id=ChIJsXuDD8RbXzkRZFnTVvKwqY8"
+  },
+  {
+    "title": "LUCKY ONE WAY TAXI & CAB SERVICES BHAVNAGAR",
+    "categoryName": "Car rental agency",
+    "address": "Kalubha Rd, beside Rasoi Dining hall, Kalanala, Panwadi, Bhavnagar, Gujarat 364001, India",
+    "neighborhood": "Kalanala, Panwadi",
+    "street": "Kalubha Rd, beside Rasoi Dining hall",
+    "city": "Bhavnagar",
+    "postalCode": "364001",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+919825738006",
+    "phoneUnformatted": "+919825738006",
+    "location": {
+      "lat": 21.7678527,
+      "lng": 72.1439115
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQZI162RbXzkRVU66rpvAydI",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Van rental agency"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 25,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPxuwUNhyARiiTJzDwQTjiTjmurzKuGgxdvrB2J=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=LUCKY%20ONE%20WAY%20TAXI%20%26%20CAB%20SERVICES%20BHAVNAGAR&query_place_id=ChIJQZI162RbXzkRVU66rpvAydI"
+  },
+  {
+    "title": "Mahadev One Way Cab",
+    "categoryName": "Car rental agency",
+    "address": "room no 575, singaliya juni, Vithalwadi, Bhavnagar, Gujarat 364001, India",
+    "neighborhood": "singaliya juni, Vithalwadi",
+    "street": "room no 575",
+    "city": "Bhavnagar",
+    "postalCode": "364001",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://mrtaxiservices.org/",
+    "phone": "+919537378776",
+    "phoneUnformatted": "+919537378776",
+    "location": {
+      "lat": 21.769626,
+      "lng": 72.1271735
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyc9bwolRXzkRPwo_AjTesOg",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 26,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFvJGy-BXrrmVCmbtOkv-S-n7IHN8h-6Urzxse=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahadev%20One%20Way%20Cab&query_place_id=ChIJyc9bwolRXzkRPwo_AjTesOg"
+  },
+  {
+    "title": "Mahadev_car_consultant",
+    "categoryName": "Car dealer",
+    "address": "Near, Shop no.5 Dharmaloc flat Ring road, 2, Top 3 Cir, Swapnashilp Society, Tarasamiya, Bhavnagar, Gujarat 364002, India",
+    "neighborhood": "Swapnashilp Society, Tarasamiya",
+    "street": "Near, Shop no.5 Dharmaloc flat Ring road, 2, Top 3 Cir",
+    "city": "Bhavnagar",
+    "postalCode": "364002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "location": {
+      "lat": 21.7345093,
+      "lng": 72.1575851
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE6NDGHFbXzkRHn4b-n9-eys",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 33,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMce3hsc-1N-PBe3SV63tMGQbbTLKv9B75gf9x4=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahadev_car_consultant&query_place_id=ChIJE6NDGHFbXzkRHn4b-n9-eys"
+  },
+  {
+    "title": "MARUTI CABS",
+    "categoryName": "Car rental agency",
+    "address": "Q458+VPM, Desai Nagar, Bhavnagar Para, Bhavnagar, Gujarat 364003, India",
+    "neighborhood": "Desai Nagar, Bhavnagar Para",
+    "street": "Q458+VPM",
+    "city": "Bhavnagar",
+    "postalCode": "364003",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://maruticabs.com/",
+    "location": {
+      "lat": 21.7600007,
+      "lng": 72.1168162
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2T41gkBRXzkRl75oR3zQBX0",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 33,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwhleFm-1d4A9oKLxWWBJfx_KsAG3AKHAD7gRg4nfSz--sIboPkTsNF34FX4hH570RFNbjP56nl-vbXXdsJOLrMwk4coZOxp0r6Z5FbK48BC3oKgHn5JrxgSTwweQAzuK2aDYUpDA=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MARUTI%20CABS&query_place_id=ChIJ2T41gkBRXzkRl75oR3zQBX0"
+  },
+  {
+    "title": "One-Way Cab-9",
+    "categoryName": "Car rental agency",
+    "address": "Shopper'S Plaza, Waghawadi Rd., near Parimal chowk, Hill Drive, Bhavnagar, Gujarat 364001, India",
+    "neighborhood": "Hill Drive",
+    "street": "Shopper'S Plaza, Waghawadi Rd., near Parimal chowk",
+    "city": "Bhavnagar",
+    "postalCode": "364001",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "https://onewaycab9.com/",
+    "phone": "+919825975885",
+    "phoneUnformatted": "+919825975885",
+    "location": {
+      "lat": 21.7621658,
+      "lng": 72.1470152
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO8rXYG1bXzkRCaCXIX-BoH4",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 68,
+    "imagesCount": 18,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrT104DUpKd4vO0XXLKmgG5u5CsGe5lX0J8F0m=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=One-Way%20Cab-9&query_place_id=ChIJO8rXYG1bXzkRCaCXIX-BoH4"
+  },
+  {
+    "title": "R.b.jadeja Car rental service bhavnagar",
+    "categoryName": "Car rental agency",
+    "address": "near Sitaram chowk, Bharatnagar, Bhavnagar, Gujarat 364002, India",
+    "neighborhood": "Bharatnagar",
+    "street": "near Sitaram chowk",
+    "city": "Bhavnagar",
+    "postalCode": "364002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://www.carrentalservicebhavnagar.com/",
+    "phone": "+919662099556",
+    "phoneUnformatted": "+919662099556",
+    "location": {
+      "lat": 21.7408194,
+      "lng": 72.1560772
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkcr2vAhbXzkRRbxymzjf5nY",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Motoring club"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAkyDVBGPiHfegR0XzF--4T6paIOxkc0wbQ00C=w408-h541-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=R.b.jadeja%20Car%20rental%20service%20bhavnagar&query_place_id=ChIJkcr2vAhbXzkRRbxymzjf5nY"
+  },
+  {
+    "title": "Ram Car Rental | Ram Cab & Taxi",
+    "categoryName": "Car rental agency",
+    "address": "Kailash Dham Society, Bhavnagar, Gujarat 364002, India",
+    "neighborhood": "Kailash Dham Society",
+    "city": "Bhavnagar",
+    "postalCode": "364002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "https://ramcabs.com/",
+    "phone": "+919998865505",
+    "phoneUnformatted": "+919998865505",
+    "location": {
+      "lat": 21.7316159,
+      "lng": 72.1413814
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ83tvRGdRXzkR3Ss8hogfhd0",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Tour agency"
+    ],
+    "reviewsCount": 293,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOXaXvO-KygAZfcJ_uUUrFw0T8F_WQsVbubnVO4=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ram%20Car%20Rental%20%7C%20Ram%20Cab%20%26%20Taxi&query_place_id=ChIJ83tvRGdRXzkR3Ss8hogfhd0"
+  },
+  {
+    "title": "RASHMI CABS ️",
+    "subTitle": "રશ્મિ કેબ્સ ️",
+    "categoryName": "Car rental agency",
+    "address": "120, Waghawadi Rd., Nanbhawadi, Takhteshwar Plots, Bhavnagar, Gujarat 364001, India",
+    "neighborhood": "Nanbhawadi, Takhteshwar Plots",
+    "street": "120, Waghawadi Rd.",
+    "city": "Bhavnagar",
+    "postalCode": "364001",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "https://rashmicabs.com/",
+    "phone": "+919974586007",
+    "phoneUnformatted": "+919974586007",
+    "location": {
+      "lat": 21.7661928,
+      "lng": 72.1472593
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo5VydHdaXzkRYLYhLJvJUes",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 680,
+    "imagesCount": 65,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCLUv2xBRlXNcufy1JAsEV9XqCR15aKFSRQl0A=w502-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=RASHMI%20CABS%20%EF%B8%8F&query_place_id=ChIJo5VydHdaXzkRYLYhLJvJUes"
+  },
+  {
+    "title": "RAY CAB SERVICE",
+    "categoryName": "Car rental agency",
+    "address": "SHIVA BLESSING-2, A-108, opp. BMC, Kalanala, Nawa Para, Bhavnagar, Gujarat 364001, India",
+    "neighborhood": "Kalanala, Nawa Para",
+    "street": "SHIVA BLESSING-2, A-108, opp. BMC",
+    "city": "Bhavnagar",
+    "postalCode": "364001",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://www.raycabservice.com/",
+    "phone": "+918200881412",
+    "phoneUnformatted": "+918200881412",
+    "location": {
+      "lat": 21.7715069,
+      "lng": 72.1463355
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyVYfYwBbXzkRXMD51PXL2OU",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIWWYnw-3d2fZwSOLmSJLkJKQiXfP6q9APGNsq=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=RAY%20CAB%20SERVICE&query_place_id=ChIJyVYfYwBbXzkRXMD51PXL2OU"
+  },
+  {
+    "title": "SAFAR CAR RENTAL",
+    "categoryName": "Car rental agency",
+    "address": "road, beside railway track, Juna Bandar, Bhavnagar, Gujarat 364001, India",
+    "neighborhood": "Juna Bandar",
+    "street": "road, beside railway track",
+    "city": "Bhavnagar",
+    "postalCode": "364001",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "phone": "+918160436930",
+    "phoneUnformatted": "+918160436930",
+    "location": {
+      "lat": 21.7915809,
+      "lng": 72.1484501
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB1rFoR1bXzkRsQDrgGhMTHo",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 42,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO5POiw5nlvPXG_acWogk1YqnHrWAJKimD4Z738=w408-h714-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SAFAR%20CAR%20RENTAL&query_place_id=ChIJB1rFoR1bXzkRsQDrgGhMTHo"
+  },
+  {
+    "title": "Siddhivinayak Motors Mahindra Showroom",
+    "categoryName": "Car dealer",
+    "address": "press quarter, near BSNL Telephone Exchange, Chitra, Bhavnagar, Gujarat 364004, India",
+    "neighborhood": "Chitra",
+    "street": "press quarter, near BSNL Telephone Exchange",
+    "city": "Bhavnagar",
+    "postalCode": "364004",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "https://siddhivinayakmotors.com/",
+    "phone": "+919879100031",
+    "phoneUnformatted": "+919879100031",
+    "location": {
+      "lat": 21.757981,
+      "lng": 72.1053107
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJs2LqQwBRXzkRLqltIV7hsVA",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 43,
+    "imagesCount": 34,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwzaX6ukGBrNGdaJrSEtYTtXpGNJHi2QdoL5rj8d-kbOLvzunnedIbC2oqdDToU6STvwakk6E78nqZph7ky4sqJC6ONKjCqoHH9KBWnRvenRbrqXIBMvxog9Ium52EWOzS0tjOLDdj_pgBV=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Siddhivinayak%20Motors%20Mahindra%20Showroom&query_place_id=ChIJs2LqQwBRXzkRLqltIV7hsVA"
+  },
+  {
+    "title": "SWASTIK CABS",
+    "categoryName": "Car rental agency",
+    "address": "Ravipark 45Metre, 67/2, Ring Rd, Subhashnagar, Bhavnagar, Gujarat 364005, India",
+    "neighborhood": "Subhashnagar",
+    "street": "Ravipark 45Metre, 67/2, Ring Rd",
+    "city": "Bhavnagar",
+    "postalCode": "364005",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "https://www.swastikcabs.com/",
+    "phone": "+919512080909",
+    "phoneUnformatted": "+919512080909",
+    "location": {
+      "lat": 21.7523662,
+      "lng": 72.1727212
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8a7BNx1bXzkRhX5y1py-PEU",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 74,
+    "imagesCount": 18,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP9ilONl8FyMgdc7s7GwwjeQ7tUeuAKcKyRCkts=w408-h258-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SWASTIK%20CABS&query_place_id=ChIJ8a7BNx1bXzkRhX5y1py-PEU"
+  },
+  {
+    "title": "VISHAL TRAVELS & CAB SERVICES",
+    "categoryName": "Car rental agency",
+    "address": "Block No 12 /8309, LIG -184, Bharatnagar, Bhavnagar, Gujarat 364002, India",
+    "neighborhood": "Maruti Nagar, Bharatnagar",
+    "street": "Block No 12 /8309, LIG -184",
+    "city": "Bhavnagar",
+    "postalCode": "364002",
+    "state": "Gujarat",
+    "countryCode": "IN",
+    "website": "http://www.vishalcab.com/",
+    "phone": "+919925129191",
+    "phoneUnformatted": "+919925129191",
+    "location": {
+      "lat": 21.7431491,
+      "lng": 72.1571908
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI4NGcSNbXzkRestnNmnkJa0",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Taxi service",
+      "Motoring club"
+    ],
+    "reviewsCount": 139,
+    "imagesCount": 16,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNws8xf1Y5xPTiYu-mdZhsSxp9YC-u4hy2ar9YF=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VISHAL%20TRAVELS%20%26%20CAB%20SERVICES&query_place_id=ChIJI4NGcSNbXzkRestnNmnkJa0"
+  }
+]

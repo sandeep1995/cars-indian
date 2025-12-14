@@ -1,0 +1,256 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { findDealer, getAllDealers, getCities } from '../../../lib/dealers';
+import { safeText } from '../../../lib/slug';
+
+export function getStaticPaths() {
+	const dealers = getAllDealers();
+	const citySet = new Set(getCities().map((c) => c.citySlug));
+
+	return dealers
+		.filter((d) => citySet.has(d.citySlug))
+		.map((d) => ({
+			params: { city: d.citySlug, dealer: d.dealerSlug },
+			props: { cityName: d.cityName },
+		}));
+}
+
+const { cityName } = Astro.props as { cityName: string };
+const citySlug = Astro.params.city!;
+const dealerSlug = Astro.params.dealer!;
+
+const dealer = findDealer(citySlug, dealerSlug);
+if (!dealer) {
+	throw new Error(`Dealer not found for city=${citySlug} dealer=${dealerSlug}`);
+}
+
+const title = `${safeText(dealer.title, 'Dealer')} - ${cityName} | Pre-owned Luxury Cars`;
+const description = `Contact ${safeText(dealer.title, 'dealer')} in ${cityName}. Address, phone, website, reviews, and location.`;
+
+const mapLink =
+	dealer.location?.lat && dealer.location?.lng
+		? `https://www.google.com/maps?q=${dealer.location.lat},${dealer.location.lng}`
+		: dealer.url;
+
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'AutoDealer',
+	name: safeText(dealer.title, 'Dealer'),
+	address: dealer.address
+		? {
+				'@type': 'PostalAddress',
+				streetAddress: dealer.street ?? dealer.address,
+				addressLocality: dealer.cityName,
+				addressRegion: dealer.state,
+				postalCode: dealer.postalCode,
+				addressCountry: dealer.countryCode ?? 'IN',
+			}
+		: undefined,
+	telephone: dealer.phoneUnformatted ?? dealer.phone,
+	url: dealer.website ?? dealer.url,
+	image: dealer.imageUrl,
+	aggregateRating:
+		typeof dealer.totalScore === 'number' && typeof dealer.reviewsCount === 'number'
+			? {
+					'@type': 'AggregateRating',
+					ratingValue: dealer.totalScore,
+					reviewCount: dealer.reviewsCount,
+				}
+			: undefined,
+	geo:
+		dealer.location?.lat && dealer.location?.lng
+			? { '@type': 'GeoCoordinates', latitude: dealer.location.lat, longitude: dealer.location.lng }
+			: undefined,
+};
+---
+
+<Layout title={title} description={description} jsonLd={jsonLd} ogImage={dealer.imageUrl}>
+	<div class="container">
+		<header class="top">
+			<div>
+				<nav class="crumbs">
+					<a href="/">Home</a>
+					<span class="muted">/</span>
+					<a href="/pre-owned-luxury-cars">Pre-owned luxury cars</a>
+					<span class="muted">/</span>
+					<a href={`/pre-owned-luxury-cars/${citySlug}`}>{cityName}</a>
+					<span class="muted">/</span>
+					<span>{dealer.title}</span>
+				</nav>
+				<h1>{dealer.title}</h1>
+				<p class="muted">{dealer.categoryName}</p>
+			</div>
+			<a class="btn" href={`/pre-owned-luxury-cars/${citySlug}`}>Back to {cityName}</a>
+		</header>
+
+		<div class="grid">
+			<section class="card">
+				<h2>Contact</h2>
+				<div class="kv">
+					<div class="k">Address</div>
+					<div class="v">{dealer.address ?? '—'}</div>
+				</div>
+				<div class="kv">
+					<div class="k">Phone</div>
+					<div class="v">
+						{dealer.phone ? <a href={`tel:${dealer.phoneUnformatted ?? dealer.phone}`}>{dealer.phone}</a> : '—'}
+					</div>
+				</div>
+				<div class="kv">
+					<div class="k">Website</div>
+					<div class="v">
+						{dealer.website ? (
+							<a href={dealer.website} rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+						) : (
+							'—'
+						)}
+					</div>
+				</div>
+				<div class="kv">
+					<div class="k">Maps</div>
+					<div class="v">
+						{mapLink ? (
+							<a href={mapLink} rel="nofollow noopener noreferrer" target="_blank">Open in Google Maps</a>
+						) : (
+							'—'
+						)}
+					</div>
+				</div>
+			</section>
+
+			<section class="card">
+				<h2>Reviews</h2>
+				<div class="reviewRow">
+					{typeof dealer.totalScore === 'number' ? <div class="score">{dealer.totalScore.toFixed(1)} ★</div> : <div class="score">—</div>}
+					<div class="muted">
+						{typeof dealer.reviewsCount === 'number' ? `${dealer.reviewsCount} reviews` : 'No review count'}
+					</div>
+				</div>
+				{dealer.temporarilyClosed || dealer.permanentlyClosed ? (
+					<div class="warn">
+						{dealer.permanentlyClosed ? 'Marked as permanently closed.' : 'Marked as temporarily closed.'}
+					</div>
+				) : null}
+				{Array.isArray(dealer.openingHours) && dealer.openingHours.length ? (
+					<div class="hours">
+						{dealer.openingHours.map((h) => (
+							<div class="kv">
+								<div class="k">{h.day ?? 'Day'}</div>
+								<div class="v">{h.hours ?? '—'}</div>
+							</div>
+						))}
+					</div>
+				) : (
+					<p class="muted small">Opening hours not available.</p>
+				)}
+			</section>
+
+			<section class="card">
+				<h2>Categories</h2>
+				<div class="chips">
+					{(dealer.categories ?? []).slice(0, 24).map((c) => (
+						<span class="chip">{c}</span>
+					))}
+					{!(dealer.categories ?? []).length ? <span class="muted">—</span> : null}
+				</div>
+			</section>
+		</div>
+	</div>
+
+	<style>
+		.top {
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-between;
+			gap: 16px;
+			margin-bottom: 16px;
+		}
+		.crumbs {
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			flex-wrap: wrap;
+			margin-bottom: 8px;
+		}
+		.crumbs a {
+			color: rgba(238, 242, 255, 0.88);
+			text-decoration: none;
+		}
+		h1 {
+			margin: 0;
+			font-size: 28px;
+			letter-spacing: -0.02em;
+		}
+		h2 {
+			margin: 0 0 10px;
+			font-size: 16px;
+		}
+		.grid {
+			display: grid;
+			grid-template-columns: repeat(1, minmax(0, 1fr));
+			gap: 12px;
+		}
+		.kv {
+			display: grid;
+			grid-template-columns: 90px 1fr;
+			gap: 10px;
+			padding: 8px 0;
+			border-top: 1px solid rgba(255, 255, 255, 0.08);
+		}
+		.kv:first-of-type {
+			border-top: 0;
+			padding-top: 0;
+		}
+		.k {
+			color: rgba(238, 242, 255, 0.7);
+			font-size: 13px;
+		}
+		.v {
+			font-size: 14px;
+		}
+		.small {
+			font-size: 13px;
+		}
+		.reviewRow {
+			display: flex;
+			align-items: baseline;
+			justify-content: space-between;
+			gap: 12px;
+			margin-bottom: 10px;
+		}
+		.score {
+			font-weight: 750;
+			font-size: 22px;
+		}
+		.warn {
+			margin-top: 10px;
+			padding: 10px 12px;
+			border-radius: 12px;
+			border: 1px solid rgba(251, 146, 60, 0.35);
+			background: rgba(251, 146, 60, 0.12);
+			color: rgba(255, 237, 213, 0.95);
+			font-size: 13px;
+		}
+		.chips {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 8px;
+		}
+		.chip {
+			display: inline-flex;
+			align-items: center;
+			padding: 6px 10px;
+			border-radius: 999px;
+			border: 1px solid rgba(255, 255, 255, 0.14);
+			background: rgba(255, 255, 255, 0.06);
+			font-size: 12px;
+		}
+		@media (min-width: 980px) {
+			.grid {
+				grid-template-columns: repeat(3, minmax(0, 1fr));
+			}
+		}
+	</style>
+</Layout>
+
+

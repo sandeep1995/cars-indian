@@ -1,0 +1,60 @@
+[
+  {
+    "title": "The Value Drive",
+    "categoryName": "Used car dealer",
+    "address": "Bhavani Nagar, Moosapet, Kukatpally, Hyderabad, Telangana 500018, India",
+    "neighborhood": "Bhavani Nagar, Moosapet",
+    "city": "Kukatpally, Hyderabad",
+    "postalCode": "500018",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "https://www.thevaluedrive.in/",
+    "phone": "+918121021135",
+    "phoneUnformatted": "+918121021135",
+    "location": {
+      "lat": 17.4680899,
+      "lng": 78.4287505
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUxBxRXSRyzsR6Z4dqlPz3og",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 198,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy6m2eUr96gOwPqIegXWdudLmJUZ4yGrKK4CxVesLK9mN8iAK-HtRkvCGC5MlJe8WH7nLaOd8QhqEXtMtxz03ye89IXIbRFw92JeJEAr4nfjHl-i-zd5ueAVTO9OLa31RX66fY=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Value%20Drive&query_place_id=ChIJUxBxRXSRyzsR6Z4dqlPz3og"
+  }
+]

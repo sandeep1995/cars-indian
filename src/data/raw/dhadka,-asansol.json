@@ -1,0 +1,30 @@
+[
+  {
+    "title": "ASANSOL CAR BAZZAR",
+    "subTitle": "আসানসোল কার বাজার",
+    "categoryName": "Car dealer",
+    "address": "Byepass, Nh-2, Sitlamore, Dhadka, Asansol, Asansol-2 713302, India",
+    "neighborhood": "Sitlamore",
+    "street": "Byepass, Nh-2",
+    "city": "Dhadka, Asansol",
+    "postalCode": "713302",
+    "state": "Asansol-2",
+    "countryCode": "IN",
+    "location": {
+      "lat": 23.7075021,
+      "lng": 86.9771063
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH7__ezYf9zkRHTQCcBbcNxI",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 2,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UeZz7t0CCyDKIBpffxa26Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.42424&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=ASANSOL%20CAR%20BAZZAR&query_place_id=ChIJH7__ezYf9zkRHTQCcBbcNxI"
+  }
+]

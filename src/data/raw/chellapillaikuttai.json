@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Sree Sai Travels Salem",
+    "subTitle": "ஶ்ரீ சாய் டிராவல்ஸ் சலேம்",
+    "categoryName": "Car rental agency",
+    "address": "33,NallaGoundapatti, Omalur - Mecheri - Pennagaram Rd, Chellapillaikuttai, Tamil Nadu 636455, India",
+    "street": "33,NallaGoundapatti, Omalur - Mecheri - Pennagaram Rd",
+    "city": "Chellapillaikuttai",
+    "postalCode": "636455",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919944474693",
+    "phoneUnformatted": "+919944474693",
+    "location": {
+      "lat": 11.7426698,
+      "lng": 78.0348647
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX_5cvvz7qzsRhYYo6MT0XTY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 10,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNf8ZPeLTLn5hQtlQY8uxV2-6dACXTpSpqP-WC1=w428-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sree%20Sai%20Travels%20Salem&query_place_id=ChIJX_5cvvz7qzsRhYYo6MT0XTY"
+  }
+]

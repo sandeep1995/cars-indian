@@ -1,0 +1,63 @@
+[
+  {
+    "title": "SAI CARS",
+    "subTitle": "சாய் கார்ஸ்",
+    "categoryName": "Used car dealer",
+    "address": "1, Dr Ambedkar Rd, Bhuvaneshwari Nagar, Venkitta Puram, Velandipalayam, Coimbatore, Tamil Nadu 641025, India",
+    "neighborhood": "Bhuvaneshwari Nagar, Venkitta Puram",
+    "street": "1, Dr Ambedkar Rd",
+    "city": "Velandipalayam, Coimbatore",
+    "postalCode": "641025",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://saicars.net/?utm_source=gmb&utm_medium=referral",
+    "phone": "+919940853922",
+    "phoneUnformatted": "+919940853922",
+    "location": {
+      "lat": 11.026621,
+      "lng": 76.9335326
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr6DDcqRZqDsRgiCXE-WMBhg",
+    "categories": [
+      "Used car dealer",
+      "Car finance and loan company"
+    ],
+    "reviewsCount": 45,
+    "imagesCount": 360,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM-gPcmo01LVAl0MevPEWnVreNQ0QwjPJD07go=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SAI%20CARS&query_place_id=ChIJr6DDcqRZqDsRgiCXE-WMBhg"
+  }
+]

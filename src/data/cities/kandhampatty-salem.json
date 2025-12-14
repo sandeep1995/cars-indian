@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Anaamalais Toyota",
+    "subTitle": "ஆனைமலைஸ் டொயோட்டா",
+    "categoryName": "Car dealer",
+    "address": "No.4, 4 & 3/8 63, Byepass, near West RTO office, TNHB Colony, Kandhampatty, Salem, Tamil Nadu 636005, India",
+    "neighborhood": "TNHB Colony",
+    "street": "No.4, 4 & 3/8 63, Byepass, near West RTO office",
+    "city": "Kandhampatty, Salem",
+    "postalCode": "636005",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://anaamalais-toyota.com/",
+    "phone": "+919842227100",
+    "phoneUnformatted": "+919842227100",
+    "location": {
+      "lat": 11.6479813,
+      "lng": 78.1201418
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBVwl6-ToqzsRMvUQFKUQ-eM",
+    "categories": [
+      "Car dealer",
+      "Tire shop",
+      "Toyota dealer"
+    ],
+    "reviewsCount": 1451,
+    "imagesCount": 58,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:45 AM to 5:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPzKhMjsGPnAmoilbqhl8SCgSTUTmQNu2YG_30=w424-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Anaamalais%20Toyota&query_place_id=ChIJBVwl6-ToqzsRMvUQFKUQ-eM"
+  }
+]

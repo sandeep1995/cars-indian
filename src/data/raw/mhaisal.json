@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Chougule Travels Amol",
+    "subTitle": "चौगुले ट्रैवल्स अमोल",
+    "categoryName": "Car rental agency",
+    "address": "Old, Bedag Road, Mhaisal, Maharashtra 416409, India",
+    "street": "Old, Bedag Road",
+    "city": "Mhaisal",
+    "postalCode": "416409",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+917709238902",
+    "phoneUnformatted": "+917709238902",
+    "location": {
+      "lat": 16.7786774,
+      "lng": 74.6979241
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDdFyIT4nwTsRVkV_bsXA4KA",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOb8Sh0db9jlnbW4yVlnu-iEfVZOcFkhf4QaMpe=w408-h885-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Chougule%20Travels%20Amol&query_place_id=ChIJDdFyIT4nwTsRVkV_bsXA4KA"
+  }
+]

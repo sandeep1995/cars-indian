@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Pandiya Travel Agency in Madurai - Tours and Travels",
+    "categoryName": "Car rental agency",
+    "address": "1st Floor, 1175-1B, VaigaiComplex, Meenakshi Nagar 2ND Street, Natham Rd, Kannanenthal, Tamil Nadu 625014, India",
+    "neighborhood": "Mahalakshmi Nagar",
+    "street": "1st Floor, 1175-1B, VaigaiComplex, Meenakshi Nagar 2ND Street, Natham Rd",
+    "city": "Kannanenthal, Madurai",
+    "postalCode": "625014",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://pandiyatravels.com/",
+    "phone": "+918531080977",
+    "phoneUnformatted": "+918531080977",
+    "location": {
+      "lat": 9.9637636,
+      "lng": 78.1403086
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSb0CwWbHADsRljjtrJLHv9A",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Tour operator",
+      "Van rental agency"
+    ],
+    "reviewsCount": 94,
+    "imagesCount": 76,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN2HBq15R_9kToaQ-30UJiyv7OyIRK4Eu8R2Zqr=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Pandiya%20Travel%20Agency%20in%20Madurai%20-%20Tours%20and%20Travels&query_place_id=ChIJSb0CwWbHADsRljjtrJLHv9A"
+  }
+]

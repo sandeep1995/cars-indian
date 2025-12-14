@@ -1,0 +1,61 @@
+[
+  {
+    "title": "NV Auto Car Sales",
+    "subTitle": "एनवी ऑटो कार सेल्स",
+    "categoryName": "Used car dealer",
+    "address": "Nanded Malegaon Rd, near gajanan Maharaj Mandir, Vedant Nagar, Taroda Kh., Nanded, Maharashtra 431750, India",
+    "neighborhood": "Vedant Nagar",
+    "street": "Nanded Malegaon Rd, near gajanan Maharaj Mandir",
+    "city": "Taroda Kh., Nanded",
+    "postalCode": "431750",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918999072965",
+    "phoneUnformatted": "+918999072965",
+    "location": {
+      "lat": 19.2391533,
+      "lng": 77.2864811
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMTSgLu_T0TsRRJ8oqvg8OSw",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPalL3lM3apHytNLL27ZYFNcj7tXy6au5RarANK=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NV%20Auto%20Car%20Sales&query_place_id=ChIJMTSgLu_T0TsRRJ8oqvg8OSw"
+  }
+]

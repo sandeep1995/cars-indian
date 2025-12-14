@@ -1,0 +1,1581 @@
+[
+  {
+    "title": "Car Choice",
+    "subTitle": "कार चॉईस",
+    "categoryName": "Used car dealer",
+    "address": "Sayaji hotel roadOpp, Opp Elixa park,Old PB Rd, Rukmininagar, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Pawar Colony, Shahupuri",
+    "street": "Sayaji hotel roadOpp, Opp Elixa park,Old PB Rd, Rukmininagar",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919371129650",
+    "phoneUnformatted": "+919371129650",
+    "location": {
+      "lat": 16.7040844,
+      "lng": 74.2507927
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC-E8vEcAwTsRCcy0KIzDdks",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxR9JAAw4JzElxeMNN7ca-bmSqKeFalRjBPo2cD55ooxLQvZD0RhFh9s-33Z6IeP2gmKFrbdV0uf-SGDN5UgA--0OefX9M0DTBC3ykThB9dDLcdvk4-wcZyP0U5hgw-AGz-DYeG=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Choice&query_place_id=ChIJC-E8vEcAwTsRCcy0KIzDdks"
+  },
+  {
+    "title": "CARS24 - Sell Used Cars in Tarabai Park, Kolhapur",
+    "subTitle": "कार्स24 - सेल यूज्ड कार्स इन ताराबाई पार्क, कोल्हापुर",
+    "categoryName": "Used car dealer",
+    "address": "Tarabai Park, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Tarabai Park",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.cars24.com/",
+    "phone": "+918929506672",
+    "phoneUnformatted": "+918929506672",
+    "location": {
+      "lat": 16.7116986,
+      "lng": 74.2456022
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3_Sv1u8BwTsRnmz5PxnZcvE",
+    "categories": [
+      "Used car dealer",
+      "Audi dealer",
+      "BMW dealer",
+      "Car finance and loan company",
+      "Honda dealer",
+      "Hyundai dealer",
+      "Jeep dealer",
+      "Kia dealer",
+      "Suzuki dealer",
+      "Toyota dealer"
+    ],
+    "reviewsCount": 249,
+    "imagesCount": 174,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP6_Z8spH1pCWMg6eMYkqc6znzUu4qqLx7eu_Ej=w408-h279-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CARS24%20-%20Sell%20Used%20Cars%20in%20Tarabai%20Park%2C%20Kolhapur&query_place_id=ChIJ3_Sv1u8BwTsRnmz5PxnZcvE"
+  },
+  {
+    "title": "Carsvilla- Shubham Sutar Used Car Dealer",
+    "subTitle": "कार्सविला- शुभम् सुतार यूज्ड कार डीलर",
+    "categoryName": "Used car dealer",
+    "address": "Radhakunj, Temblaiwadi, Ruikar Colony, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Radhakunj, Temblaiwadi, Ruikar Colony",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918149232020",
+    "phoneUnformatted": "+918149232020",
+    "location": {
+      "lat": 16.6985722,
+      "lng": 74.2694321
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOWjqd3oBwTsRwNtQvYjCPHw",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 35,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNB2xDXLgaC7a4xoWaq0-lEWV3kIim45lekwRVz=w408-h366-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Carsvilla-%20Shubham%20Sutar%20Used%20Car%20Dealer&query_place_id=ChIJOWjqd3oBwTsRwNtQvYjCPHw"
+  },
+  {
+    "title": "Chetan Travels (TAXI BOOKING )",
+    "subTitle": "चेतन ट्रैवल्स (टैक्सी बुकिंग )",
+    "categoryName": "Car rental agency",
+    "address": "Rachana regency aapartment T 1, Tarabai Park, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Tarabai Park",
+    "street": "Rachana regency aapartment T 1",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919637586407",
+    "phoneUnformatted": "+919637586407",
+    "location": {
+      "lat": 16.7223839,
+      "lng": 74.2507543
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuT8MkDoBwTsR1FD7gnqOMdo",
+    "categories": [
+      "Car rental agency",
+      "Business administration service",
+      "Travel agency",
+      "Corporate office"
+    ],
+    "reviewsCount": 27,
+    "imagesCount": 163,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOMNyJTiOrYmDwPVDMTFgYd7Q2IjRkOEnxclzxk=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Chetan%20Travels%20(TAXI%20BOOKING%20)&query_place_id=ChIJuT8MkDoBwTsR1FD7gnqOMdo"
+  },
+  {
+    "title": "Dattaraj Travels",
+    "subTitle": "दत्तराज ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Shop No-3, Sudha Shanti Plaza, Shahupuri, Kolhapur, Maharashtra 416001, India",
+    "neighborhood": "Shahupuri",
+    "street": "Shop No-3, Sudha Shanti Plaza",
+    "city": "Kolhapur",
+    "postalCode": "416001",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.kolhapurtravels.com/",
+    "location": {
+      "lat": 16.700878,
+      "lng": 74.2316087
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq09hvJIBwTsRzU_X4p9UME0",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNx3hK5daHlqfCCL9EqkjsTWgTRHzzeUTS0vB4=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dattaraj%20Travels&query_place_id=ChIJq09hvJIBwTsRzU_X4p9UME0"
+  },
+  {
+    "title": "Dinky Car Rentals",
+    "subTitle": "डिंकी कार रेंटल्स",
+    "categoryName": "Car rental agency",
+    "address": "Shop no 19 Shree, Fruit and Vegetables Section, Shahu Market Yard, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Shahu Market Yard",
+    "street": "Shop no 19 Shree, Fruit and Vegetables Section",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/dinkycarrentals/home",
+    "location": {
+      "lat": 16.7044972,
+      "lng": 74.267974
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVTPtOhgBwTsReXC4UWlOWNI",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 31,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPXYTQSvsAnojsSriWXNHnnpxhPnBPy_cr2kOl8=w408-h724-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dinky%20Car%20Rentals&query_place_id=ChIJVTPtOhgBwTsReXC4UWlOWNI"
+  },
+  {
+    "title": "Haripriya Car Rental",
+    "subTitle": "हरिप्रिया कार रेंटल्",
+    "categoryName": "Car rental agency",
+    "address": "249,A1,25, Vishwadeep Apartment,, Warana Colony, Nagala Park, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Warna Colony",
+    "street": "249,A1,25, Vishwadeep Apartment,, Warana Colony, Nagala Park",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.haripriyacarrentals.in/",
+    "phone": "+917276399599",
+    "phoneUnformatted": "+917276399599",
+    "location": {
+      "lat": 16.713071,
+      "lng": 74.238038
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ79O2TmYAwTsRQWNkyO0j5qE",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 208,
+    "imagesCount": 244,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNvr2PRfgZVP-pLaGUf1qNwsJsHMMr0phPmNFk=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Haripriya%20Car%20Rental&query_place_id=ChIJ79O2TmYAwTsRQWNkyO0j5qE"
+  },
+  {
+    "title": "I CARS",
+    "subTitle": "आय कार्स",
+    "categoryName": "Car dealer",
+    "address": "Shahunagar Main Rd, Shastri Nagar, Kolhapur, Maharashtra 416008, India",
+    "neighborhood": "Shastri Nagar",
+    "street": "Shahunagar Main Rd",
+    "city": "Kolhapur",
+    "postalCode": "416008",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919923696929",
+    "phoneUnformatted": "+919923696929",
+    "location": {
+      "lat": 16.6905656,
+      "lng": 74.2410618
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJS2SRqyUBwTsRPrGnYbSj5C4",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 18,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXmWmrOytwupJiHTy9a1rQ3xm5R-Nn8BJysC4b=w513-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=I%20CARS&query_place_id=ChIJS2SRqyUBwTsRPrGnYbSj5C4"
+  },
+  {
+    "title": "Jagdamba Cab",
+    "subTitle": "जगदंबा कैब",
+    "categoryName": "Car rental agency",
+    "address": "cbs stand, near hotel maharaja, Shahupuri, Kolhapur, Maharashtra 416001, India",
+    "neighborhood": "Shahupuri",
+    "street": "cbs stand, near hotel maharaja",
+    "city": "Kolhapur",
+    "postalCode": "416001",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://www.jagdambacab.com/",
+    "phone": "+918087879697",
+    "phoneUnformatted": "+918087879697",
+    "location": {
+      "lat": 16.7041743,
+      "lng": 74.2425263
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhZ9QHahuX2sRTt6GgY7mHlU",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 30,
+    "imagesCount": 59,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOZnNzuxlRdwx8y0KmXU8kc1sEmKH8MzJaKHz9j=w408-h342-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jagdamba%20Cab&query_place_id=ChIJhZ9QHahuX2sRTt6GgY7mHlU"
+  },
+  {
+    "title": "Jai Hind Travels Kolhapur",
+    "subTitle": "जय हिंद ट्रैवल्स कोल्हापुर",
+    "categoryName": "Car rental agency",
+    "address": "Shahupuri, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Shahupuri",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.jaihindtravels.in/",
+    "phone": "+918888737320",
+    "phoneUnformatted": "+918888737320",
+    "location": {
+      "lat": 16.7048377,
+      "lng": 74.2415218
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2_sGCJYBwTsR9DF4wPpaJ4Q",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 18,
+    "imagesCount": 19,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEeS--xTP6uHuYDSSwvWKlhyEXv1GxskaiRTlV=w408-h510-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jai%20Hind%20Travels%20Kolhapur&query_place_id=ChIJ2_sGCJYBwTsR9DF4wPpaJ4Q"
+  },
+  {
+    "title": "JAVED MOTORS Car Dealer",
+    "subTitle": "जावेद मोटर्स कार डीलर",
+    "categoryName": "Car dealer",
+    "address": "P64R+FQG, 294, Baker Lane, near SBI Bank, E Ward, Tarabai Park, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "E Ward, Tarabai Park",
+    "street": "P64R+FQG, 294, Baker Lane, near SBI Bank",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.justdial.com/Kolhapur/Jawed-Motors-Near-SBI-Bank-New-Shahupuri/0231PX231-X231-130531132446-L3Q2_BZDET&ved=2ahUKEwifytaS7bb4AhXv3jgGHanpCAkQFnoECAYQAQ&usg=AOvVaw0CTubNfHjHRAuOMkE8GVVP",
+    "phone": "+919823448282",
+    "phoneUnformatted": "+919823448282",
+    "location": {
+      "lat": 16.7062768,
+      "lng": 74.242111
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcUmBeWUBwTsRGmUKSEt8YQc",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzsqwJOSVfvlPcokrHo7Oi1l3RySnBZcGl72Eg5LAndJJ3R-RoDRY_clkAdNnRzJl08_K4e5PjtZmKl8D-en1_kMO07nQf6PK5w9DPTjJ5d3ESNynzBFTO2eMBCbKa3BSh41iRC=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JAVED%20MOTORS%20Car%20Dealer&query_place_id=ChIJcUmBeWUBwTsRGmUKSEt8YQc"
+  },
+  {
+    "title": "M. I. Car Rental",
+    "subTitle": "एम. आई. कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "P763+38, Kadamwadi, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Kadamwadi",
+    "street": "P763+38",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.micarrental.com/",
+    "phone": "+919326645656",
+    "phoneUnformatted": "+919326645656",
+    "location": {
+      "lat": 16.710233,
+      "lng": 74.2532721
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrx0xde4BwTsRzvtTi_h28zs",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 46,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNWEnTPtF2nmhWLSK_l9n7j-J4DBAIVVOiX86XC=w408-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=M.%20I.%20Car%20Rental&query_place_id=ChIJrx0xde4BwTsRzvtTi_h28zs"
+  },
+  {
+    "title": "Mahalaxmi Tours N Travels",
+    "subTitle": "महालक्ष्मी टूर्स एन् ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Shri Ram Bangla, Parvati Park, 5/2/A, PLOT NO 46, NH-4 Highway, near Suryadip hotel, Sarnobatwadi, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Sarnobatwadi",
+    "street": "Shri Ram Bangla, Parvati Park, 5/2/A, PLOT NO 46, NH-4 Highway, near Suryadip hotel",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918180820187",
+    "phoneUnformatted": "+918180820187",
+    "location": {
+      "lat": 16.6901948,
+      "lng": 74.2758234
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_02oagABwTsReeVKUaIJEDY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 28,
+    "imagesCount": 69,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwZY-yhuZwNXZDBDI7Pz1pH7rwLKnSYoSaBlOKxVgsUJ9lS18UbUKbx_LeSlstA7QMZXzMLD2rhlsY_IoIdIzLKR6LINvr9Nz_wQEjTLKSXe8lWKrJl79ynz8F44SXAcprvHofX=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahalaxmi%20Tours%20N%20Travels&query_place_id=ChIJ_02oagABwTsReeVKUaIJEDY"
+  },
+  {
+    "title": "Mandeshi Cabs",
+    "subTitle": "मानदेशी कैब्स",
+    "categoryName": "Car rental agency",
+    "address": "2621, B ward, Mahalaxminagar, Laxmipuri, Kolhapur, Maharashtra 416002, India",
+    "neighborhood": "B ward, Mahalaxminagar, Laxmipuri",
+    "street": "2621",
+    "city": "Kolhapur",
+    "postalCode": "416002",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://mandeshicabs.com/",
+    "location": {
+      "lat": 16.6983718,
+      "lng": 74.2289376
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM_TTqLMBwTsRVtw7O1neMb8",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Chauffeur service",
+      "Transportation service"
+    ],
+    "imagesCount": 37,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM8mwEgtjcn2wDZ-pI7CQSYEoF3DmZyXNbgLPkh=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mandeshi%20Cabs&query_place_id=ChIJM_TTqLMBwTsRVtw7O1neMb8"
+  },
+  {
+    "title": "Nemade Motors",
+    "subTitle": "नेमाडे मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "88, Station Road, Nimbalkar Colony, Laxminarayan Nagar, Ruikar Colony, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Nimbalkar Colony, Laxminarayan Nagar, Ruikar Colony",
+    "street": "88, Station Road",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.nemademotors.com/",
+    "phone": "+919890037877",
+    "phoneUnformatted": "+919890037877",
+    "location": {
+      "lat": 16.709164,
+      "lng": 74.253514
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVWT1e08AwTsR0fOFlNsyBcU",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 165,
+    "imagesCount": 214,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwbUwENofLMkvSPkvb7oO1EU0LfKdkfw26OkUuUO9JUtwscdwBo9oPmt3TZE4ZMG2Zb_0X_0mo7HGLP8tgsdFdnafDuETVO6ZWQBlZpixWsl4ybepKbdHJ2QHfiLV-KQ58VU_hy=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Nemade%20Motors&query_place_id=ChIJVWT1e08AwTsR0fOFlNsyBcU"
+  },
+  {
+    "title": "Oneside Taxi",
+    "subTitle": "ऑनेसाइड टैक्सी",
+    "categoryName": "Car rental agency",
+    "address": "Upper ground floar, Dabholkar Corner, Royal Plaza, near S.T Stand, Shahupuri, Kolhapur, Maharashtra 416001, India",
+    "neighborhood": "Shahupuri",
+    "street": "Upper ground floar, Dabholkar Corner, Royal Plaza, near S.T Stand",
+    "city": "Kolhapur",
+    "postalCode": "416001",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://www.onesidetaxi.in/",
+    "phone": "+919595498888",
+    "phoneUnformatted": "+919595498888",
+    "location": {
+      "lat": 16.7048377,
+      "lng": 74.2415218
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZTa7gi4BwTsRHz9TQKyjYPU",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 213,
+    "imagesCount": 26,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsqC6MAhsk006v7d7FBX1EgMaFROXsMP4op5zr=w500-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Oneside%20Taxi&query_place_id=ChIJZTa7gi4BwTsRHz9TQKyjYPU"
+  },
+  {
+    "title": "Prime Self Driven car Rental Servises",
+    "subTitle": "प्राइम सेल्फ ड्रिवन कार रेंटल सर्विसेस",
+    "categoryName": "Car leasing service",
+    "address": "653c, word Azad chowk, Manganwlar Peth, Kolhapur, Maharashtra 416002, India",
+    "neighborhood": "word Azad chowk, Manganwlar Peth",
+    "street": "653c",
+    "city": "Kolhapur",
+    "postalCode": "416002",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.primeservicescaronrent.online/",
+    "phone": "+919011110131",
+    "phoneUnformatted": "+919011110131",
+    "location": {
+      "lat": 16.6960544,
+      "lng": 74.225301
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFd6cuYYBwTsRMKRCAxuiUIk",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzmf-8tkDwIgBZvdDkdVJPRz-x17afyNtSAXpXY7kNsjzX6Pa73mFX7DD4QSWJPNCqzzbATAIzhS576F-X97VxZ4s97k9neIpPJ69WATumlhcbhghWyJbeo9QCAgtK0K96pNPwU=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Prime%20Self%20Driven%20car%20Rental%20Servises&query_place_id=ChIJFd6cuYYBwTsRMKRCAxuiUIk"
+  },
+  {
+    "title": "R.M. Tours & Travels",
+    "subTitle": "र.एम. टूर्स & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "167, Satyabhama, Ruikar Colony, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Ruikar Colony",
+    "street": "167, Satyabhama, Ruikar Colony",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919922009349",
+    "phoneUnformatted": "+919922009349",
+    "location": {
+      "lat": 16.7042531,
+      "lng": 74.2561344
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3w5PAEkAwTsRebxMzDsqeqs",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Tour agency",
+      "Recreational vehicle rental agency",
+      "Tour operator",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 40,
+    "imagesCount": 18,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNV8cK9PFM8VpxOBWvmGPUhC9PEP5bqGyLqNJHl=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=R.M.%20Tours%20%26%20Travels&query_place_id=ChIJ3w5PAEkAwTsRebxMzDsqeqs"
+  },
+  {
+    "title": "Royal Cabs",
+    "subTitle": "रॉयल कैब्स",
+    "categoryName": "Car rental agency",
+    "address": "mahalaxmi chembers, Railway Colony, Shahupuri, Kolhapur, Maharashtra 416001, India",
+    "neighborhood": "Railway Colony, Shahupuri",
+    "street": "mahalaxmi chembers",
+    "city": "Kolhapur",
+    "postalCode": "416001",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://royalcabs.co.in/",
+    "phone": "+917796717575",
+    "phoneUnformatted": "+917796717575",
+    "location": {
+      "lat": 16.7034422,
+      "lng": 74.2419501
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3-MfFb0TwTsRa31mq32EZ_M",
+    "categories": [
+      "Car rental agency",
+      "Air taxi",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Tourist information center",
+      "Travel agency"
+    ],
+    "reviewsCount": 246,
+    "imagesCount": 75,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOl8UkMam3qElxrgaoPVTtcpqmI8HI9MlahIjaS=w408-h342-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Cabs&query_place_id=ChIJ3-MfFb0TwTsRa31mq32EZ_M"
+  },
+  {
+    "title": "S S TOURS AND TRAVELS",
+    "subTitle": "एस.एस.टूर्स अँड ट्रॅवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Near Hotel Lisha, opp. Pulse Hospital, Kadamwadi, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Kadamwadi",
+    "street": "Near Hotel Lisha, opp. Pulse Hospital",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://www.sstravelskolhapur.com/",
+    "phone": "+919028225656",
+    "phoneUnformatted": "+919028225656",
+    "location": {
+      "lat": 16.7102338,
+      "lng": 74.2532201
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHVxlh08AwTsR5KIV100O0Jw",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 206,
+    "imagesCount": 50,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPXpCipJrLUu0Mte44r2TttB1RlC3u3vqtDjJvM=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=S%20S%20TOURS%20AND%20TRAVELS&query_place_id=ChIJHVxlh08AwTsR5KIV100O0Jw"
+  },
+  {
+    "title": "Saavn Cab",
+    "subTitle": "सावन कॅब",
+    "categoryName": "Car rental agency",
+    "address": "vimal vihar Apartment, 3rd Ln near by Castle Hotel, Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur, Maharashtra 416008, India",
+    "neighborhood": "Poorvarang, Mahalaxminagar, Rajarampuri",
+    "street": "vimal vihar Apartment, 3rd Ln near by Castle Hotel, Poorvarang",
+    "city": "Kolhapur",
+    "postalCode": "416008",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://saavncab.grexa.site/",
+    "phone": "+919766740353",
+    "phoneUnformatted": "+919766740353",
+    "location": {
+      "lat": 16.6967447,
+      "lng": 74.2414811
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzxOyXwQBwTsRqIfbDFmdJac",
+    "categories": [
+      "Car rental agency",
+      "Cabin rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 150,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwsOyixhgSi3Wek3YrAh7Q4weJX4pVphIVSf8E1Vxy_BHct7E4hZErZhKhV9PAm4Vjw8Fv4y-XoGI__vFzQ5NAyRIqWV-Gnw55CPeGfJeCxdrxqqSmWcCUk2fqDVCUTxCL8Iw0yvStLaNll=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Saavn%20Cab&query_place_id=ChIJzxOyXwQBwTsRqIfbDFmdJac"
+  },
+  {
+    "title": "Shivshakti Tours and Travels",
+    "subTitle": "शिवशक्ति टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "2078 'E'ward, 12th Ln, shiv-shakti, Rajarampuri, Kolhapur, Maharashtra 416008, India",
+    "neighborhood": "shiv-shakti, Mahalaxminagar, Rajarampuri",
+    "street": "2078 'E'ward, 12th Ln",
+    "city": "Kolhapur",
+    "postalCode": "416008",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+917020078270",
+    "phoneUnformatted": "+917020078270",
+    "location": {
+      "lat": 16.692207,
+      "lng": 74.2464484
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmy3HcocBwTsRQ7QgVV6KpMY",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 66,
+    "imagesCount": 320,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPNa5p5PIqJ0PjgTgaxQIVHKx7dHU9TWOBWl12a=w425-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shivshakti%20Tours%20and%20Travels&query_place_id=ChIJmy3HcocBwTsRQ7QgVV6KpMY"
+  },
+  {
+    "title": "Shree Swami Samarth Tours and Travels",
+    "subTitle": "श्री स्वामी समर्थ टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Flat No. 403, 4th Floor, Rajgaurav Apartment, Uchgaon Main Rd, Temblaiwadi, Uchgaon, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Temblaiwadi, Uchgaon",
+    "street": "Flat No. 403, 4th Floor, Rajgaurav Apartment, Uchgaon Main Rd",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://www.carrentalkolhapur.in/",
+    "phone": "+917499595066",
+    "phoneUnformatted": "+917499595066",
+    "location": {
+      "lat": 16.6935745,
+      "lng": 74.2674841
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK2rFsuIBwTsRNMuzh1e5-10",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Travel agency"
+    ],
+    "reviewsCount": 79,
+    "imagesCount": 25,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7mqJFQBB1i9mbYPFvyDug5_xbzS0SExQmMSkt=w408-h417-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shree%20Swami%20Samarth%20Tours%20and%20Travels&query_place_id=ChIJK2rFsuIBwTsRNMuzh1e5-10"
+  },
+  {
+    "title": "Sona Cars : Second hand Cars | Used cars dealers in Kolhapur",
+    "subTitle": "सोना कार्स : सेकंड हैंड कार्स | यूज्ड कार्स डीलर्स इन कोल्हापुर",
+    "categoryName": "Used car dealer",
+    "address": "Tarabai Garden, opp. Ayukta Bunglow, Tarabai Park, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Tarabai Park",
+    "street": "Tarabai Garden, opp. Ayukta Bunglow",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://sonacars.com/",
+    "phone": "+919371512624",
+    "phoneUnformatted": "+919371512624",
+    "location": {
+      "lat": 16.7066452,
+      "lng": 74.243166
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNd7rSfABwTsReXjE0NC-GDo",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Smart Car dealer"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 14,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXa-KjOD3s5QiBZeJswinqS9AEdLIeKTniuNaE=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sona%20Cars%20%3A%20Second%20hand%20Cars%20%7C%20Used%20cars%20dealers%20in%20Kolhapur&query_place_id=ChIJNd7rSfABwTsReXjE0NC-GDo"
+  },
+  {
+    "title": "SUNSHINE CARS",
+    "subTitle": "सनशाइन कार्स",
+    "categoryName": "Used car dealer",
+    "address": "Samarth colony, Temblaiwadi, Uchgaon, Kolhapur, Maharashtra 416005, India",
+    "neighborhood": "Temblaiwadi, Uchgaon",
+    "street": "Samarth colony",
+    "city": "Kolhapur",
+    "postalCode": "416005",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919860414719",
+    "phoneUnformatted": "+919860414719",
+    "location": {
+      "lat": 16.6944232,
+      "lng": 74.2677604
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7WKl0IQBwTsR4UW2Yta08dE",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNsbocUFf54g5Xo97DIqOuCLNPwhqeHWx77DUWH=w408-h560-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SUNSHINE%20CARS&query_place_id=ChIJ7WKl0IQBwTsR4UW2Yta08dE"
+  },
+  {
+    "title": "Swami Motors",
+    "subTitle": "स्वामी मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "Nagala Park Kaman, Estar pattern School maidan,Opp, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "New Shahupuri",
+    "street": "Nagala Park Kaman, Estar pattern School maidan,Opp",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://www.swamimotors.com/",
+    "phone": "+919881407477",
+    "phoneUnformatted": "+919881407477",
+    "location": {
+      "lat": 16.708268,
+      "lng": 74.236064
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIRmx12gAwTsRIoGmZTwgu9s",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 581,
+    "imagesCount": 447,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx01fK7pqAfHMKT8G0S71ld5-yZqIkgIPqJyIImT-je3CNohP1Lg3IxSd5z-db6Rjtb81VKuQ239qMNV0IAu0_w7KFVblRv-GQ8L9XHMxv5BftuUJucn3kIngL5_vR4vZPK294P=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Swami%20Motors&query_place_id=ChIJIRmx12gAwTsRIoGmZTwgu9s"
+  },
+  {
+    "title": "Swami Samarth Tours and Travels",
+    "subTitle": "श्री स्वामी समर्थ टूर्स आणि ट्रॅव्हल्स",
+    "categoryName": "Car leasing service",
+    "address": "130 A Ward 4th stop, Phulewadi Rd, Kolhapur, Maharashtra 416010, India",
+    "neighborhood": "Phulewadi",
+    "street": "130 A Ward 4th stop, Phulewadi Rd",
+    "city": "Kolhapur",
+    "postalCode": "416010",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+919822914874",
+    "phoneUnformatted": "+919822914874",
+    "location": {
+      "lat": 16.691633,
+      "lng": 74.195712
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl9ouQb-qwTsRcatTzXPUeKA",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 23,
+    "imagesCount": 13,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyEgUjh_Wr8T844hz7njN5JGVadt2aoasAEUFS7m0MPBxqTgPoWblyRWYenmiS_1UedWDzJzAHTkg0UQtDI704xa3F99GKaNCzoH2uHRYsdYco40R-vq9JeM6NXE7K6Z-ay3UXQYA=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Swami%20Samarth%20Tours%20and%20Travels&query_place_id=ChIJl9ouQb-qwTsRcatTzXPUeKA"
+  },
+  {
+    "title": "कोल्हापुर टूर्स & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Shop No.13 Tararani Market, Kawala Naka, Kolhapur, Maharashtra 416003, India",
+    "neighborhood": "Kawala Naka, Kadamwadi",
+    "street": "Shop No.13 Tararani Market",
+    "city": "Kolhapur",
+    "postalCode": "416003",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://www.kolhapurcarrental.com/",
+    "phone": "+919011699327",
+    "phoneUnformatted": "+919011699327",
+    "location": {
+      "lat": 16.7069976,
+      "lng": 74.248363
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC5FEy7sBwTsRXXfOC1pXdNw",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 46,
+    "imagesCount": 38,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOE64PO95J0wUslu3M7YMtpls5GK7Fe2iTzVEVX=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A4%B0%20%E0%A4%9F%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B8%20%26%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B8&query_place_id=ChIJC5FEy7sBwTsRXXfOC1pXdNw"
+  }
+]

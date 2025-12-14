@@ -1,0 +1,89 @@
+[
+  {
+    "title": "LEGEND CARS",
+    "categoryName": "Used car dealer",
+    "address": "7, Nethaji St, Shri Vel Murugan Nagar, Namachivaya Nagar, State Bank Supervisors Colony, Nahru Nagar, Madurai, Tamil Nadu 625003, India",
+    "neighborhood": "Shri Vel Murugan Nagar, Namachivaya Nagar, State Bank Supervisors Colony",
+    "street": "7, Nethaji St",
+    "city": "Nahru Nagar, Madurai",
+    "postalCode": "625003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919787166996",
+    "phoneUnformatted": "+919787166996",
+    "location": {
+      "lat": 9.9121511,
+      "lng": 78.0951145
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRa7KLhfPADsRZDLnqI-PfAw",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 8,
+    "imagesCount": 35,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxcTcxU-dOyVkw3OUQ2hgMCnJ0OsD2wOgEUEm4dcoBK9AzVQYkA8jUXEz3_UDkRAH8sur8Ta5LW0mba9KVlSonXXo3qA66p0ro9jVI4d8rkXVXCPFKRAgDXZqPZD9r-RkjDw42ebrvyYvC2=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=LEGEND%20CARS&query_place_id=ChIJRa7KLhfPADsRZDLnqI-PfAw"
+  },
+  {
+    "title": "Seeman Cars 2",
+    "categoryName": "Car dealer",
+    "address": "231/1, Nethaji St, Shri Vel Murugan Nagar, Nahru Nagar, Madurai, Tamil Nadu 625003, India",
+    "neighborhood": "Shri Vel Murugan Nagar",
+    "street": "231/1, Nethaji St",
+    "city": "Nahru Nagar, Madurai",
+    "postalCode": "625003",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+917448484786",
+    "phoneUnformatted": "+917448484786",
+    "location": {
+      "lat": 9.9119699,
+      "lng": 78.0931158
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf2K_Vk_PADsRvBQ2lFsRcc4",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 12,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxDlSqaO0MR_44bMJAQZuj_Ysk7thzD5R10_n-_uw0F-6Tmt1whucOOEW57U6jE17bn6qpibhLNKhGU4L8-sVB9OYJ_ke-JJnAqk61eBRvoSx5tHw16niCnjcHkaa0MDguHt0s=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Seeman%20Cars%202&query_place_id=ChIJf2K_Vk_PADsRvBQ2lFsRcc4"
+  }
+]

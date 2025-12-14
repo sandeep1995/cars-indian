@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Spark Automotive | Used Car Dealer in Madurai",
+    "categoryName": "Used car dealer",
+    "address": "No.1, Avaliamman Kovil Street, Dindigul Main Rd, Paravai, Madurai, Tamil Nadu 625402, India",
+    "street": "No.1, Avaliamman Kovil Street, Dindigul Main Rd",
+    "city": "Paravai, Madurai",
+    "postalCode": "625402",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.instagram.com/spark_automotive_cars?igsh=MXgwMnQ0czFkYWUzbA==",
+    "location": {
+      "lat": 9.9683265,
+      "lng": 78.0550666
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzbvQz2zJADsR_WfYG9IBMu8",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 36,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOA8baTFdax-uKyFnHg2HKQG6Pn_GN3HP0kf7pc=w408-h474-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Spark%20Automotive%20%7C%20Used%20Car%20Dealer%20in%20Madurai&query_place_id=ChIJzbvQz2zJADsR_WfYG9IBMu8"
+  }
+]

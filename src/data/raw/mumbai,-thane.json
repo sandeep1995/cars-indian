@@ -1,0 +1,371 @@
+[
+  {
+    "title": "Car Galaxy",
+    "subTitle": "कार गॅलेक्सी",
+    "categoryName": "Car dealer",
+    "address": "Service road, Wasan's CarGalaxy, Z5, Flower Valley Commercial Complex, Eastern Express Hwy, Thane West, Mumbai, Maharashtra 400601, India",
+    "neighborhood": "Runwal Nagar, Thane West",
+    "street": "Service road, Wasan's CarGalaxy, Z5, Flower Valley Commercial Complex, Eastern Express Hwy",
+    "city": "Mumbai, Thane",
+    "postalCode": "400601",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://cargalaxy.co.in/",
+    "phone": "+919820142523",
+    "phoneUnformatted": "+919820142523",
+    "location": {
+      "lat": 19.2069154,
+      "lng": 72.9721293
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz-xhrj-55zsRD8-DjcIM68k",
+    "categories": [
+      "Car dealer",
+      "Auto insurance agency",
+      "Car finance and loan company",
+      "Used car dealer"
+    ],
+    "reviewsCount": 878,
+    "imagesCount": 744,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFIDFymt4sJ-4RDapbmFJJOlYvbSeLz8_x1vy1=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Galaxy&query_place_id=ChIJz-xhrj-55zsRD8-DjcIM68k"
+  },
+  {
+    "title": "CarCity",
+    "subTitle": "कारसिटी",
+    "categoryName": "Used car dealer",
+    "address": "Flat No.1, Ground Floor, Lakshmi Nivas, Station Rd, Daulat Nagar, Thane East, Mumbai, Thane, Maharashtra 400603, India",
+    "neighborhood": "Daulat Nagar, Thane East",
+    "street": "Flat No.1, Ground Floor, Lakshmi Nivas, Station Rd",
+    "city": "Mumbai, Thane",
+    "postalCode": "400603",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://www.carcity.in/",
+    "phone": "+919769567676",
+    "phoneUnformatted": "+919769567676",
+    "location": {
+      "lat": 19.1848309,
+      "lng": 72.9761891
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIbOoydi45zsRAC7n_g_Yi64",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S2yCHfbWF1pgOS6r9t4lNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.5544&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=CarCity&query_place_id=ChIJIbOoydi45zsRAC7n_g_Yi64"
+  },
+  {
+    "title": "JAZ MOTORS",
+    "subTitle": "जैज़ मोटर्स",
+    "categoryName": "Car dealer",
+    "address": "SHOP NO 4, RK COMPLEX, 51/3/B, opp. FIRE BRIGADE, near QUEEN HOSPITAL, Shilphata Diva Naka, Shilphata, Mumbai, Thane, Maharashtra 421204, India",
+    "neighborhood": "Shilphata Diva Naka, Shilphata",
+    "street": "SHOP NO 4, RK COMPLEX, 51/3/B, opp. FIRE BRIGADE, near QUEEN HOSPITAL",
+    "city": "Mumbai, Thane",
+    "postalCode": "421204",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://youtube.com/@JazMotors01",
+    "phone": "+918369775020",
+    "phoneUnformatted": "+918369775020",
+    "location": {
+      "lat": 19.1446044,
+      "lng": 73.0440089
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5TAW_Ve_5zsR2hwRmMITBuM",
+    "categories": [
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw_FXWAqjTSnvqE9fmsECvm9fkRZ-HFjvT3ndoceuDL5ls4JMVXK41RLbLtzCL5mZxCHf_aipDzXczwuvVFZrvGzwbeH5ZfXTgekVthQqCkBiJLLI__itviSfwQItjgtTqdKYzc=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JAZ%20MOTORS&query_place_id=ChIJ5TAW_Ve_5zsR2hwRmMITBuM"
+  },
+  {
+    "title": "Kia Car Showroom | Shreenath Kia | Thane West",
+    "subTitle": "किआ कार शोरूम | श्रीनाथ किआ | ठाणे वेस्ट",
+    "categoryName": "Car dealer",
+    "address": "Shop No 77, Area, Block-A16, Junction, Ghodbunder Rd, Manpada, Thane West, Mumbai, Thane, Maharashtra 400607, India",
+    "neighborhood": "Manpada, Thane West",
+    "street": "Shop No 77, Area, Block-A16, Junction, Ghodbunder Rd",
+    "city": "Mumbai, Thane",
+    "postalCode": "400607",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://shreenath-kia.in/",
+    "phone": "+918879874213",
+    "phoneUnformatted": "+918879874213",
+    "location": {
+      "lat": 19.2379161,
+      "lng": 72.9761182
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk_PN0uC75zsRejElthrsbcw",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 3440,
+    "imagesCount": 572,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwlmOUPSkl-8iSP_RMQvwWxntyJxFltWjszN1hwXUQl62V-f84PxvQjH9RZGH6SBcyBXgIfL9qfUWID5FPaHVrLuIfy2KNJDpWiNkN6aEJ51tKQKcGm3tNZVGdJYrSzXRzFAbM0=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kia%20Car%20Showroom%20%7C%20Shreenath%20Kia%20%7C%20Thane%20West&query_place_id=ChIJk_PN0uC75zsRejElthrsbcw"
+  },
+  {
+    "title": "MG Motor Tejpal Motor Showroom",
+    "subTitle": "एमजी मोटर - (तेजपाल मोटर्स, घोडबंदर रोड, थाने)",
+    "categoryName": "MG dealer",
+    "address": "Shop No. 16, A, DOSTI IMPERIA, Ghodbunder Rd, opposite R Mall, Manpada, Thane West, Mumbai, Thane, Maharashtra 400601, India",
+    "neighborhood": "Manpada, Thane West",
+    "street": "Shop No. 16, A, DOSTI IMPERIA, Ghodbunder Rd, opposite R Mall",
+    "city": "Mumbai, Thane",
+    "postalCode": "400601",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://dealers.mgmotor.co.in/mg-motor-tejpal-motor-showroom-car-dealer-manpada-thane-371960/Home",
+    "phone": "+918238082223",
+    "phoneUnformatted": "+918238082223",
+    "location": {
+      "lat": 19.232673,
+      "lng": 72.976129
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeYh1hYO75zsRnSXb9GGNA0o",
+    "categories": [
+      "MG dealer",
+      "Car dealer",
+      "Motor vehicle dealer"
+    ],
+    "reviewsCount": 644,
+    "imagesCount": 74,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 AM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxsgGWub6R91ZDQStvc5MekZVdt-Jr3k-P3457ktt7kQZJtmQwxDM03Fk_R9NxOmliNaYkBQBoSHO-9wuH6d4m4b-70BAPaxIOrnvMiW1TlFJ8XeyiAIZiY7r-RUc7SmtE44BBJ=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MG%20Motor%20Tejpal%20Motor%20Showroom&query_place_id=ChIJeYh1hYO75zsRnSXb9GGNA0o"
+  },
+  {
+    "title": "Zareen tour&travels",
+    "subTitle": "ज़रीन टूर&ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "mehel haal, Shadi Mahal Hall Rd, opposite sgar sweet, Amrut Nagar, Mumbra, Mumbai, Thane, Maharashtra 400612, India",
+    "neighborhood": "Amrut Nagar, Mumbra",
+    "street": "mehel haal, Shadi Mahal Hall Rd, opposite sgar sweet",
+    "city": "Mumbai, Thane",
+    "postalCode": "400612",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/zareen-tours-and-travels?usp=sharing",
+    "phone": "+919372907227",
+    "phoneUnformatted": "+919372907227",
+    "location": {
+      "lat": 19.1740808,
+      "lng": 73.0249415
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuzLHuS-_5zsR4n5fyD4OG-4",
+    "categories": [
+      "Car rental agency",
+      "Airport",
+      "Car leasing service",
+      "Wedding service"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 17,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO2NKA4GFWml1ZLoLhPwWAnF1jfATxZijsuJJz7=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Zareen%20tour%26travels&query_place_id=ChIJuzLHuS-_5zsR4n5fyD4OG-4"
+  }
+]

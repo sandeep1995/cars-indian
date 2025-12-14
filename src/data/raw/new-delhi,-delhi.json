@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Crystaluxe Drive",
+    "subTitle": "क्रिस्टलक्स ड्राइव",
+    "categoryName": "Car rental agency",
+    "address": "Shop no 40, ch balbir singh complex, Jwalaheri Village, Paschim Vihar, New delhi, Delhi, 110063, India",
+    "neighborhood": "Jwalaheri Village, Paschim Vihar",
+    "street": "Shop no 40, ch balbir singh complex",
+    "city": "New delhi, Delhi",
+    "postalCode": "110063",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "website": "https://www.crystaluxedrive.com/",
+    "phone": "+919717057171",
+    "phoneUnformatted": "+919717057171",
+    "location": {
+      "lat": 28.6683336,
+      "lng": 77.1019717
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu-fqA24DDTkRoOYlf1Kd8oE",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 93,
+    "imagesCount": 31,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlsX55iZW2XwC5aMpr8SmxO724vIumQh7UQts5=w408-h403-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Crystaluxe%20Drive&query_place_id=ChIJu-fqA24DDTkRoOYlf1Kd8oE"
+  }
+]

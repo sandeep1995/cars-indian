@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Lasya cabs and travels",
+    "categoryName": "Car rental agency",
+    "address": "H No: 6-151 durga estates, no: 3, Road, Deepthisri Nagar, Miyapur, Hyderabad, Telangana 500049, India",
+    "neighborhood": "PJR Colony, Madinaguda, Deepthisri Nagar",
+    "street": "H No: 6-151 durga estates, no: 3, Road",
+    "city": "Miyapur, Hyderabad",
+    "postalCode": "500049",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+919951196597",
+    "phoneUnformatted": "+919951196597",
+    "location": {
+      "lat": 17.4974519,
+      "lng": 78.3388796
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmTDzVJiTyzsRSRca3LIwH2k",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 17,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPmlJ89xZyG0Laj1XjVaXCdLpOG8nPWH5ruyZNa=w408-h267-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Lasya%20cabs%20and%20travels&query_place_id=ChIJmTDzVJiTyzsRSRca3LIwH2k"
+  }
+]

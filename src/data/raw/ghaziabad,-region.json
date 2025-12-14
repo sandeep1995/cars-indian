@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Kaveri Motors",
+    "subTitle": "कावेरी मोटर्स",
+    "categoryName": "Used car dealer",
+    "address": "G T Road, NCR, Sahibabad, Ghaziabad, Region, Uttar Pradesh 201005, India",
+    "neighborhood": "Raj Bagh, Sahibabad",
+    "street": "G T Road, NCR",
+    "city": "Ghaziabad, Region",
+    "postalCode": "201005",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918800226604",
+    "phoneUnformatted": "+918800226604",
+    "location": {
+      "lat": 28.6773135,
+      "lng": 77.3490842
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJGffvovb6DDkRoHy5FjkTTuw",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_taUF0tPM7aRET4UXOKaXQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=340.69452&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Kaveri%20Motors&query_place_id=ChIJGffvovb6DDkRoHy5FjkTTuw"
+  }
+]

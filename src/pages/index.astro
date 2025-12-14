@@ -1,11 +1,80 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
+import { getCities } from '../lib/dealers';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const cities = getCities().slice(0, 24);
 ---
 
-<Layout>
-	<Welcome />
+<Layout
+	title="Pre-owned Luxury Cars Marketplace (India)"
+	description="Browse pre-owned luxury car dealers by city across India. Compare reviews, locations, and contact details."
+>
+	<div class="container">
+		<header class="hero">
+			<div>
+				<h1>Find pre-owned luxury cars</h1>
+				<p class="muted">
+					Browse dealers by city. Compare reviews, locations, and contact details.
+				</p>
+			</div>
+			<div class="cta">
+				<a class="btn primary" href="/pre-owned-luxury-cars">Browse all cities</a>
+			</div>
+		</header>
+
+		<section class="grid">
+			{cities.map((c) => (
+				<a class="card city" href={`/pre-owned-luxury-cars/${c.citySlug}`}>
+					<div class="name">{c.cityName}</div>
+					<div class="muted">{c.count} dealers</div>
+				</a>
+			))}
+		</section>
+	</div>
+
+	<style>
+		.hero {
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-between;
+			gap: 16px;
+			margin-bottom: 18px;
+		}
+		h1 {
+			margin: 0;
+			font-size: 34px;
+			letter-spacing: -0.02em;
+		}
+		.cta {
+			display: flex;
+			gap: 10px;
+			align-items: center;
+		}
+		.btn.primary {
+			background: linear-gradient(135deg, rgba(99, 102, 241, 0.95), rgba(168, 85, 247, 0.95));
+			border-color: rgba(255, 255, 255, 0.22);
+		}
+		.grid {
+			display: grid;
+			grid-template-columns: repeat(1, minmax(0, 1fr));
+			gap: 12px;
+		}
+		.city {
+			text-decoration: none;
+		}
+		.name {
+			font-weight: 650;
+			font-size: 18px;
+		}
+		@media (min-width: 720px) {
+			.grid {
+				grid-template-columns: repeat(3, minmax(0, 1fr));
+			}
+		}
+		@media (min-width: 1024px) {
+			.grid {
+				grid-template-columns: repeat(4, minmax(0, 1fr));
+			}
+		}
+	</style>
 </Layout>

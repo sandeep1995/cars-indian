@@ -1,0 +1,62 @@
+[
+  {
+    "title": "NS tour and travels pvt. Ltd.",
+    "subTitle": "एनएस टूर एंड ट्रैवल्स पीवीटी. एलटीडी.",
+    "categoryName": "Car rental agency",
+    "address": "Front of gkp zoo, Lohiya enclave, Taramandal Rd, Gorakhpur, Uttar Pradesh 273016, India",
+    "neighborhood": "Budh Vihar Colony",
+    "street": "Front of gkp zoo, Lohiya enclave, Taramandal Rd",
+    "city": "Gorakhpur, Gaighat Khurd",
+    "postalCode": "273016",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://www.apnacarns.com/",
+    "phone": "+917619006342",
+    "phoneUnformatted": "+917619006342",
+    "location": {
+      "lat": 26.7118374,
+      "lng": 83.4071434
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzWtpWPFDkTkRbAJyjRdcPbY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 41,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNFH0w1pp0LiOdLVdcE0ArGctxbPtULKRXSXJfT=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NS%20tour%20and%20travels%20pvt.%20Ltd.&query_place_id=ChIJzWtpWPFDkTkRbAJyjRdcPbY"
+  }
+]

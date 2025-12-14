@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Safar24 - Tour & Travel",
+    "subTitle": "सफर24 - टूर & ट्रैवल",
+    "categoryName": "Car rental agency",
+    "address": "House Number 683, Garha Fatak Rd, Gupta Colony, Ranital, Jabalpur, Madhya Pradesh 482002, India",
+    "neighborhood": "Gupta Colony",
+    "street": "House Number 683, Garha Fatak Rd",
+    "city": "Ranital, Jabalpur",
+    "postalCode": "482002",
+    "state": "Madhya Pradesh",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/safar24-tour-travel/home",
+    "phone": "+917222902684",
+    "phoneUnformatted": "+917222902684",
+    "location": {
+      "lat": 23.1745479,
+      "lng": 79.9285794
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJt26GQH6vgTkRKBIThZ9WuJk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 20,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOjSPOTyHwFGv_IGoXx-mkgkdQuXJMN1suCql7f=w412-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Safar24%20-%20Tour%20%26%20Travel&query_place_id=ChIJt26GQH6vgTkRKBIThZ9WuJk"
+  }
+]

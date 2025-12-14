@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Shree Swami samarth tours and travels",
+    "subTitle": "श्री स्वामी समर्थ टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Aple ghar, Wing-A, 110, Someshwar Colony, Kharadi, Lonikand, Pune, Maharashtra 411014, India",
+    "neighborhood": "Someshwar Colony, Kharadi",
+    "street": "Aple ghar, Wing-A, 110",
+    "city": "Lonikand, Pune",
+    "postalCode": "411014",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "https://samarthcarrental.com/",
+    "phone": "+919421122492",
+    "phoneUnformatted": "+919421122492",
+    "location": {
+      "lat": 18.5611774,
+      "lng": 73.9447075
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwSeIPgDBwjsRNy7AwJlzeFk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 20,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzlLoNRLtKIp4n4kFusxEwZVas4aQ_tdCuOOGtbI1q7mRCIFtz5tSCY5z8vBRjWwLfs9UHpFOTPfbLFA2OxS3vbASHq5zNempU-pk8aZSlpFsjc1ai-1YEG97H4a4rChqe9jqyZqA=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shree%20Swami%20samarth%20tours%20and%20travels&query_place_id=ChIJwSeIPgDBwjsRNy7AwJlzeFk"
+  }
+]

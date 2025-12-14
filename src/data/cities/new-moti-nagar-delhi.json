@@ -1,0 +1,61 @@
+[
+  {
+    "title": "THE SONI MOTORS",
+    "subTitle": "सोनी मोटर्स",
+    "categoryName": "Car dealer",
+    "address": "4/1, 4/1, Patel Rd, Block TC, New Moti Nagar, Moti Nagar, New Moti Nagar, Delhi, 110015, India",
+    "neighborhood": "Block TC, New Moti Nagar, Moti Nagar",
+    "street": "4/1, 4/1, Patel Rd",
+    "city": "New Moti Nagar, Delhi",
+    "postalCode": "110015",
+    "state": "Delhi",
+    "countryCode": "IN",
+    "phone": "+919999639208",
+    "phoneUnformatted": "+919999639208",
+    "location": {
+      "lat": 28.6631918,
+      "lng": 77.140704
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPdNrx6kDDTkReR38UNVTmKc",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSypes4RNhlQ1mOOrOFn2KR-o3P9prPv0td2psR_2yw7I2R0UECiSzE_rm9qQV024drSf04kU9ABh6nBHmkGudfeU4ccMQDjusOfUcI2MPcDY0oPMMBnFDugFVS1GxG3jAE6XxC5kw=w408-h906-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=THE%20SONI%20MOTORS&query_place_id=ChIJPdNrx6kDDTkReR38UNVTmKc"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Madurai vismi Tours and travels",
+    "categoryName": "Car leasing service",
+    "address": "64, Anna Nagar St, PRC Nagar, Aruldaspuram, Madurai, Tamil Nadu 625018, India",
+    "neighborhood": "PRC Nagar",
+    "street": "64, Anna Nagar St",
+    "city": "Aruldaspuram, Madurai",
+    "postalCode": "625018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://www.maduraivismicabs.com/",
+    "phone": "+917904754364",
+    "phoneUnformatted": "+917904754364",
+    "location": {
+      "lat": 9.9406738,
+      "lng": 78.1132808
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ65xHvxvFADsR79n10UMjFTM",
+    "categories": [
+      "Car leasing service",
+      "Travel agency",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 511,
+    "imagesCount": 216,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNdWACCQVqt8o7nHAdeQBBDAoSZfl8fb7vvUMQ9=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Madurai%20vismi%20Tours%20and%20travels&query_place_id=ChIJ65xHvxvFADsR79n10UMjFTM"
+  }
+]

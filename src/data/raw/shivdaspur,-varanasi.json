@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Tata Motors Varanasi",
+    "subTitle": "टाटा मोटर्स वाराणसी",
+    "categoryName": "Car dealer",
+    "address": "Lahartara Boulia, Bazardiha, Manduwadih, Shivdaspur, Varanasi, Uttar Pradesh 221103, India",
+    "neighborhood": "Lahartara Boulia, Bazardiha, Manduwadih",
+    "city": "Shivdaspur, Varanasi",
+    "postalCode": "221103",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "https://www.tatamotors.com/",
+    "phone": "+912266657613",
+    "phoneUnformatted": "+912266657613",
+    "location": {
+      "lat": 25.3108845,
+      "lng": 82.9672905
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi5fC8YstjjkRZ_LrvY8SCZ8",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 260,
+    "imagesCount": 97,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:30 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzVlM3nP1FcA25Mz3pJprCLfyHGHOVSgC7vFpJi7Cmug-iZA0j24awwrqGmvPMKEAN1Tjja32gegmoaF2uANcR0cQSPTMD2GhfZS1GFPZQmEZHPUWk3rE-AepAmywJ8LjqHfAHJ=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tata%20Motors%20Varanasi&query_place_id=ChIJi5fC8YstjjkRZ_LrvY8SCZ8"
+  }
+]

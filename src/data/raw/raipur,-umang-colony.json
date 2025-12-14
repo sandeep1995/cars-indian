@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Galaxy Travels & Holidays",
+    "subTitle": "गैलेक्सी ट्रैवल्स & होलीडेज",
+    "categoryName": "Car leasing service",
+    "address": "New Bus Stand Road RDA Colony, Durga Chowk, Tikrapara, Raipur, Chhattisgarh 492001, India",
+    "neighborhood": "RDA Colony, Tikrapara",
+    "street": "New Bus Stand Road RDA Colony, Durga Chowk",
+    "city": "Raipur, Umang Colony",
+    "postalCode": "492001",
+    "state": "Chhattisgarh",
+    "countryCode": "IN",
+    "website": "http://travels.galaxyraipur.com/",
+    "phone": "+919893690786",
+    "phoneUnformatted": "+919893690786",
+    "location": {
+      "lat": 21.2244423,
+      "lng": 81.634612
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm_JzGELdKDoRIuZUncwgxnA",
+    "categories": [
+      "Car leasing service",
+      "Airline ticket agency",
+      "Bus ticket agency",
+      "Bus tour agency",
+      "Travel agency",
+      "Passport agent",
+      "Tour agency",
+      "Tour operator",
+      "Train ticket agency",
+      "Visa consulting service"
+    ],
+    "reviewsCount": 1034,
+    "imagesCount": 280,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz9wT1lXatT1PEb26E2vpn3VzwfheCsgaSw5bKtAZP_xM8Zd4GIXeIktcFf7FhUiXBSfK24jGzI9BY7jx4VNB_ri8onqfMnBjk1TStd97KCOpPmx7MHlv9MjtSe_4bRPsso4p10AA=w473-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Galaxy%20Travels%20%26%20Holidays&query_place_id=ChIJm_JzGELdKDoRIuZUncwgxnA"
+  }
+]

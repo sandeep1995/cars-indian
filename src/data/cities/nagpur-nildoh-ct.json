@@ -1,0 +1,61 @@
+[
+  {
+    "title": "KVK self drive CARS (KVKAVISH CARS PVT LTD)",
+    "subTitle": "के वी के सेल्फ ड्राइव कार्स (केवीकविश कार्स पीवीटी एलटीडी)",
+    "categoryName": "Car rental agency",
+    "address": "1025/521, Ekmata Nagar, Trimurti Nagar, Nagpur, Nildoh ct, Maharashtra 440036, India",
+    "neighborhood": "Ekmata Nagar, Trimurti Nagar",
+    "street": "1025/521",
+    "city": "Nagpur, Nildoh ct",
+    "postalCode": "440036",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "phone": "+918007899872",
+    "phoneUnformatted": "+918007899872",
+    "location": {
+      "lat": 21.1011757,
+      "lng": 79.0151094
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJObxMKD2V1DsRUrDLdog_nac",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 62,
+    "imagesCount": 7,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOdfZaemq7zthjh2uZ-P6n6uz5pWswTyxut7azG=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KVK%20self%20drive%20CARS%20(KVKAVISH%20CARS%20PVT%20LTD)&query_place_id=ChIJObxMKD2V1DsRUrDLdog_nac"
+  }
+]

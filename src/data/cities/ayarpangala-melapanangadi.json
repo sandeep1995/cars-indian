@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Dinesh Cars Madurai",
+    "categoryName": "Car dealer",
+    "address": "Pallavi Nagar, Bama Nagar, Ayarpangala, Melapanangadi, Tamil Nadu 625017, India",
+    "neighborhood": "Pallavi Nagar, Bama Nagar",
+    "city": "Ayarpangala, Melapanangadi",
+    "postalCode": "625017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919360960460",
+    "phoneUnformatted": "+919360960460",
+    "location": {
+      "lat": 9.9762051,
+      "lng": 78.1277071
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp1gmRQDHADsRiVjGWOPPs4Q",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDnPn7WtjoF7zhhSIu0oQA6S6eMeTxJTpQhS1Y=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dinesh%20Cars%20Madurai&query_place_id=ChIJp1gmRQDHADsRiVjGWOPPs4Q"
+  }
+]

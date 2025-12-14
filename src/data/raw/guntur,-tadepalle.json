@@ -1,0 +1,31 @@
+[
+  {
+    "title": "SURAKSHA CAR TRAVELS",
+    "categoryName": "Car leasing service",
+    "address": "Dr No 12-1789, near, 12th Line, Tadepalle, Mahanadu, Guntur, Tadepalle, Andhra Pradesh 522501, India",
+    "neighborhood": "Tadepalle, Mahanadu",
+    "street": "Dr No 12-1789, near, 12th Line",
+    "city": "Guntur, Tadepalle",
+    "postalCode": "522501",
+    "state": "Andhra Pradesh",
+    "countryCode": "IN",
+    "phone": "+918143995005",
+    "phoneUnformatted": "+918143995005",
+    "location": {
+      "lat": 16.491471,
+      "lng": 80.6114325
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbeepx17xNToRB04OnIqGa-4",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 98,
+    "imagesCount": 18,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN8ITSHdTqMDvP5PZPtX2Slu73U_ABHAveoCsux=w408-h911-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=SURAKSHA%20CAR%20TRAVELS&query_place_id=ChIJbeepx17xNToRB04OnIqGa-4"
+  }
+]

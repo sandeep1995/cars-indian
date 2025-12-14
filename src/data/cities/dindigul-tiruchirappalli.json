@@ -1,0 +1,64 @@
+[
+  {
+    "title": "R S WHEEL",
+    "categoryName": "Used car dealer",
+    "address": "No 25/A, Kalyana Sundaram Nagar, 2nd Street, Main Road, Karumandapam, Dindigul, Tiruchirappalli, Tamil Nadu 620001, India",
+    "neighborhood": "IOB Nagar, Karumandapam",
+    "street": "No 25/A, Kalyana Sundaram Nagar, 2nd Street, Main Road",
+    "city": "Dindigul, Tiruchirappalli",
+    "postalCode": "620001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919930565555",
+    "phoneUnformatted": "+919930565555",
+    "location": {
+      "lat": 10.7882336,
+      "lng": 78.6683073
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD-2I0_ZfqjsRlWOYaqTlORA",
+    "categories": [
+      "Used car dealer",
+      "Auto broker",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Vehicle inspection service"
+    ],
+    "reviewsCount": 40,
+    "imagesCount": 6,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzOCO4fHP3e8PBJMBIf2wtD1ineFzcpH6Tg75iMpFOStLd-19XTzZ016D27ZkzMSOp23OuYFk_h0ILlM0DN0tfppK9ulnx9G8xS1mpC_PdPACxylIbnV-d8pYTPfiHI3F4jB4RgA8y6lfCT=w532-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=R%20S%20WHEEL&query_place_id=ChIJD-2I0_ZfqjsRlWOYaqTlORA"
+  }
+]

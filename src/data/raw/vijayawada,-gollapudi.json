@@ -1,0 +1,62 @@
+[
+  {
+    "title": "VS Car Travels Vijayawada",
+    "subTitle": "వీఎస్ కారు ట్రావెల్స్ విజయవాడ",
+    "categoryName": "Car rental agency",
+    "address": "Shop No: 369, MGW Commercial Complex Mahendra Nagar, Bhavanipuram, Gollapudi, Vijayawada, Andhra Pradesh 520012, India",
+    "neighborhood": "Bhavanipuram, Gollapudi",
+    "street": "Shop No: 369, MGW Commercial Complex Mahendra Nagar",
+    "city": "Vijayawada, Gollapudi",
+    "postalCode": "520012",
+    "state": "Andhra Pradesh",
+    "countryCode": "IN",
+    "phone": "+918340015555",
+    "phoneUnformatted": "+918340015555",
+    "location": {
+      "lat": 16.5363136,
+      "lng": 80.5898006
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnQ0uyjTvNToRD9ipI7yAhtk",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 62,
+    "imagesCount": 47,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0My4RHl1LRP8iVFQXUx8JEaO-il2rlbE7mFS1=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VS%20Car%20Travels%20Vijayawada&query_place_id=ChIJnQ0uyjTvNToRD9ipI7yAhtk"
+  }
+]

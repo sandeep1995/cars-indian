@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Shree Kabilesh Tours And Travels",
+    "categoryName": "Car rental agency",
+    "address": "Samy Complex, 49/234 A A, Anna Main Street, Nataraja Nagar, Bethaniapuram, Madurai, Tamil Nadu 625016, India",
+    "neighborhood": "Nataraja Nagar",
+    "street": "Samy Complex, 49/234 A A, Anna Main Street",
+    "city": "Bethaniapuram, Madurai",
+    "postalCode": "625016",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919751321112",
+    "phoneUnformatted": "+919751321112",
+    "location": {
+      "lat": 9.9372758,
+      "lng": 78.0905064
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJac-qrR3PADsRQesUq-Xq_hY",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 13,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPVt1GlkBrquSg-hJK-EdsmYchUMea3kqNEPr-g=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shree%20Kabilesh%20Tours%20And%20Travels&query_place_id=ChIJac-qrR3PADsRQesUq-Xq_hY"
+  }
+]

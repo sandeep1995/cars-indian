@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Self Drive Cars coimbatore-MYCARS",
+    "categoryName": "Car rental agency",
+    "address": "Singanallur, Hope College, Coimbatore Airport Colony, Gandhipuram, RS Puram, Peelamedu, Saibaba Colony, Race Course, Town Hall, Avinashi Road, and, Civil Aerodrome Post, Town Hall, Kovaipudur, Coimbatore, Tamil Nadu 641001, India",
+    "neighborhood": "Prakasam, Civil Aerodrome Post, Town Hall",
+    "street": "Singanallur, Hope College, Coimbatore Airport Colony, Gandhipuram, RS Puram, Peelamedu, Saibaba Colony, Race Course, Town Hall, Avinashi Road, and",
+    "city": "Kovaipudur, Coimbatore",
+    "postalCode": "641001",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://selfdrivecarscoimbatore.com/car",
+    "location": {
+      "lat": 10.9932376,
+      "lng": 76.9590686
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5ZbBD9WhqTsRBQRYP_FvWJI",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 39,
+    "imagesCount": 30,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw9y6xexAc6XxAV64a-9fB8kn_gdE386yVf3JGpLzSWsFeJRMy2IOV8m6Jg-LeMlfV0PmHDSXS5rYsPpUOQRGwY-ktGhvk73YlRu_xnmzC6IMu9XCq0ClUawNhMPsu012hIDQlEVcV0s4hT=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Self%20Drive%20Cars%20coimbatore-MYCARS&query_place_id=ChIJ5ZbBD9WhqTsRBQRYP_FvWJI"
+  }
+]

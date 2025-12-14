@@ -1,0 +1,61 @@
+[
+  {
+    "title": "OM CAR RENTALS AGRA",
+    "subTitle": "ओम कार रेंटल्स आगरा",
+    "categoryName": "Car rental agency",
+    "address": "near PS garden, New Suraksha Vihar Phase 2, Agra, Rohta, Uttar Pradesh 282009, India",
+    "neighborhood": "New Suraksha Vihar Phase 2",
+    "street": "near PS garden",
+    "city": "Agra, Rohta",
+    "postalCode": "282009",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "phone": "+918532854388",
+    "phoneUnformatted": "+918532854388",
+    "location": {
+      "lat": 27.1123733,
+      "lng": 77.9996778
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJyRH2Dp1dDkRkaAY2TcFccQ",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 38,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOToFKL0QcpDSbAy0DscCjGJPxEf5xdyaN54bFf=w408-h339-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=OM%20CAR%20RENTALS%20AGRA&query_place_id=ChIJJyRH2Dp1dDkRkaAY2TcFccQ"
+  }
+]

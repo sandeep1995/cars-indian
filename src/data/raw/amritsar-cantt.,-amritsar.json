@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Holy City Tour & Travels Cab Rental Amritsar",
+    "categoryName": "Car rental agency",
+    "address": "12, behind Bibi Kaulan Ji Bhalai Kender Trust, 13, Amritsar-Tarn Taran Rd, Ganda Singh Colony, Punjab 143006, India",
+    "neighborhood": "Ganda Singh Colony, Guru Amar Dass Nagar",
+    "street": "12, behind Bibi Kaulan Ji Bhalai Kender Trust, 13, Amritsar-Tarn Taran Rd",
+    "city": "Amritsar Cantt., Amritsar",
+    "postalCode": "143006",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://www.cabrentalamritsar.com/",
+    "phone": "+917009039239",
+    "phoneUnformatted": "+917009039239",
+    "location": {
+      "lat": 31.6008175,
+      "lng": 74.8838591
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyX4WXO19GTkR0BD3MFcjmOE",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 94,
+    "imagesCount": 37,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNqIQU3rF3fpPUijJIMKCg8YDvtiPimvXagDk4-=w408-h243-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Holy%20City%20Tour%20%26%20Travels%20Cab%20Rental%20Amritsar&query_place_id=ChIJyX4WXO19GTkR0BD3MFcjmOE"
+  },
+  {
+    "title": "Skylane Travels - Best Tour & Travel Agency in Amritsar",
+    "categoryName": "Car rental agency",
+    "address": "22,opp prime diagnostics ,baba bidhi chand mkt, Punjab 143006, India",
+    "neighborhood": "Antaryami colony",
+    "street": "22,opp prime diagnostics ,baba bidhi chand mkt",
+    "city": "Amritsar Cantt., Amritsar",
+    "postalCode": "143006",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://www.cabrentalsinamritsar.com/",
+    "phone": "+919417419714",
+    "phoneUnformatted": "+919417419714",
+    "location": {
+      "lat": 31.611602,
+      "lng": 74.881499
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2Qy9kqN8GTkRwQhdsNQLB6c",
+    "categories": [
+      "Car rental agency",
+      "Travel agency",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 43,
+    "imagesCount": 112,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMVUEQBaGaLZ_jhRlFdFThQMfEN2pPuWCLniqPn=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Skylane%20Travels%20-%20Best%20Tour%20%26%20Travel%20Agency%20in%20Amritsar&query_place_id=ChIJ2Qy9kqN8GTkRwQhdsNQLB6c"
+  }
+]

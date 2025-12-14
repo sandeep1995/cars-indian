@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Krishna Cars & Accesories",
+    "categoryName": "Used car dealer",
+    "address": "Anbu Nagar, Crawford Colony, Tiruchirappalli, Edamalaipatti Pudur, Tamil Nadu 620012, India",
+    "neighborhood": "Anbu Nagar, Crawford Colony",
+    "city": "Tiruchirappalli, Edamalaipatti Pudur",
+    "postalCode": "620012",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "phone": "+919677665562",
+    "phoneUnformatted": "+919677665562",
+    "location": {
+      "lat": 10.7790002,
+      "lng": 78.6781656
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJYwyC1j1qjsRpPU3a7o197U",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 19,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWOwS2OgZ3OAgUqPDF1iq2R2WCXpPgU6swjvkJ=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Krishna%20Cars%20%26%20Accesories&query_place_id=ChIJJYwyC1j1qjsRpPU3a7o197U"
+  }
+]

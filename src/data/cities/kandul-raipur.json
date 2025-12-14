@@ -1,0 +1,63 @@
+[
+  {
+    "title": "VIRAJ TRAVELS",
+    "subTitle": "विराज ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "House No 97, Road, near Sungam Marriage Palace, Anand Nagar, Telibandha, Kandul, Raipur, Chhattisgarh 492001, India",
+    "neighborhood": "Anand Nagar, Telibandha",
+    "street": "House No 97, Road, near Sungam Marriage Palace",
+    "city": "Kandul, Raipur",
+    "postalCode": "492001",
+    "state": "Chhattisgarh",
+    "countryCode": "IN",
+    "website": "http://www.virajtravel.com/",
+    "phone": "+919753417198",
+    "phoneUnformatted": "+919753417198",
+    "location": {
+      "lat": 21.2434528,
+      "lng": 81.6603716
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-aj0unjdKDoRlw3J1m6eYUo",
+    "categories": [
+      "Car rental agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 72,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPnaFF1V6wraJ7Z3bn7Q5oDbMGSTRG4YIUvwT_0=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=VIRAJ%20TRAVELS&query_place_id=ChIJ-aj0unjdKDoRlw3J1m6eYUo"
+  }
+]

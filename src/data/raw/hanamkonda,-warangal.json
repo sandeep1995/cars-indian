@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Mahavir Škoda Showroom",
+    "categoryName": "Car dealer",
+    "address": "No 23/6/217/A, Door, 2, Hunter Rd, opposite Zoo Park, Hanamkonda, Warangal, Telangana 506001, India",
+    "neighborhood": "Shyampet",
+    "street": "No 23/6/217/A, Door, 2, Hunter Rd, opposite Zoo Park",
+    "city": "Hanamkonda, Warangal",
+    "postalCode": "506001",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "https://dealers.skoda-auto.co.in/mahavir-skoda-showroom-mahavir-auto-diagnostics-private-limited-car-dealer-hanamkonda-warangal-305442/Home?utm_source=locator&utm_medium=googleplaces",
+    "phone": "+919010575959",
+    "phoneUnformatted": "+919010575959",
+    "location": {
+      "lat": 17.9910242,
+      "lng": 79.5608165
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ390f7_xFMzoRQSfEBXDyjIk",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 430,
+    "imagesCount": 124,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGV1GvkrgOx1PWtFIMrPj2hjOl_hVkSyBSeNT1=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mahavir%20%C5%A0koda%20Showroom&query_place_id=ChIJ390f7_xFMzoRQSfEBXDyjIk"
+  }
+]

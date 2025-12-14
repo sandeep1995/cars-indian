@@ -1,0 +1,59 @@
+[
+  {
+    "title": "KeralaUsedCars",
+    "categoryName": "Used car dealer",
+    "address": "Kerala Online Business Promotions No.11, Groups Business Centre, 4th Floor, G.C.D.A Complex, Kochi - 31, Marine Drive, Ernakulam, Kerala, India",
+    "neighborhood": "Menaka, Marine Drive",
+    "street": "Kerala Online Business Promotions No.11, Groups Business Centre, 4th Floor, G.C.D.A Complex, Kochi - 31",
+    "city": "Ernakulam",
+    "state": "Kerala",
+    "countryCode": "IN",
+    "phone": "+919895353248",
+    "phoneUnformatted": "+919895353248",
+    "location": {
+      "lat": 9.978234,
+      "lng": 76.276295
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4UxwA1QNCDsRMGlTNN3RpmU",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 4 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyZsqomyt9Zzkv7H2u9Njk0AIP-zRwdDy_T1di-4rESMIULj6FE2iiU8nrqsNxyIckZXBsMTSAGBFEN246izUdItUki0MIELHXiSqRMwVznwhjAQli2KCKVq89jruQfWhf1LzA=w408-h244-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=KeralaUsedCars&query_place_id=ChIJ4UxwA1QNCDsRMGlTNN3RpmU"
+  }
+]

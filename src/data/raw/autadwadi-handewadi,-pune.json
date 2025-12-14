@@ -1,0 +1,32 @@
+[
+  {
+    "title": "SHIVRATNA TOURS & TRAVELS",
+    "subTitle": "शिवरत्न टूर्स & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "37/B/7/4, Kale Borate Nagar Rd, Praful Colony, Kale Padal, Hadapsar, Autadwadi Handewadi, Pune, Maharashtra 411028, India",
+    "neighborhood": "Praful Colony, Kale Padal, Hadapsar",
+    "street": "37/B/7/4, Kale Borate Nagar Rd",
+    "city": "Autadwadi Handewadi, Pune",
+    "postalCode": "411028",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "website": "http://www.touristabuddy.com/",
+    "location": {
+      "lat": 18.4831732,
+      "lng": 73.941624
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJrzXINVrpwjsRaKKIS7L3JKw",
+    "categories": [
+      "Car rental agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "openingHours": [],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RpEVSy1CwsnlDoglrWox6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.48297&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=SHIVRATNA%20TOURS%20%26%20TRAVELS&query_place_id=ChIJrzXINVrpwjsRaKKIS7L3JKw"
+  }
+]

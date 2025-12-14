@@ -1,0 +1,76 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCities } from '../../lib/dealers';
+
+const cities = getCities();
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'CollectionPage',
+	name: 'Pre-owned Luxury Cars by City (India)',
+	description: 'Browse pre-owned luxury car dealers by city across India.',
+};
+---
+
+<Layout
+	title="Pre-owned Luxury Cars by City (India)"
+	description="Browse pre-owned luxury car dealers by city across India."
+	jsonLd={jsonLd}
+>
+	<div class="container">
+		<header class="top">
+			<div>
+				<h1>Pre-owned luxury cars</h1>
+				<p class="muted">Choose a city to see dealers and contact details.</p>
+			</div>
+			<a class="btn" href="/">Home</a>
+		</header>
+
+		<div class="grid">
+			{cities.map((c) => (
+				<a class="card city" href={`/pre-owned-luxury-cars/${c.citySlug}`}>
+					<div class="name">{c.cityName}</div>
+					<div class="muted">{c.count} dealers</div>
+				</a>
+			))}
+		</div>
+	</div>
+
+	<style>
+		.top {
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-between;
+			gap: 16px;
+			margin-bottom: 18px;
+		}
+		h1 {
+			margin: 0;
+			font-size: 30px;
+			letter-spacing: -0.02em;
+		}
+		.grid {
+			display: grid;
+			grid-template-columns: repeat(1, minmax(0, 1fr));
+			gap: 12px;
+		}
+		.city {
+			text-decoration: none;
+		}
+		.name {
+			font-weight: 650;
+			font-size: 18px;
+		}
+		@media (min-width: 720px) {
+			.grid {
+				grid-template-columns: repeat(3, minmax(0, 1fr));
+			}
+		}
+		@media (min-width: 1024px) {
+			.grid {
+				grid-template-columns: repeat(4, minmax(0, 1fr));
+			}
+		}
+	</style>
+</Layout>
+
+

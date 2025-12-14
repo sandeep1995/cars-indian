@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Madurai Royal Tourism",
+    "categoryName": "Car leasing service",
+    "address": "Non17/40, Royal Tourism, Veedu Barma Colony, Melavaithyanathapuram, Madueai, Madurai, Tamil Nadu 625018, India",
+    "neighborhood": "Veedu Barma Colony, Melavaithyanathapuram",
+    "street": "Non17/40, Royal Tourism",
+    "city": "Madueai, Madurai",
+    "postalCode": "625018",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "https://madurairoyalcalltaxi.com/",
+    "phone": "+919994450631",
+    "phoneUnformatted": "+919994450631",
+    "location": {
+      "lat": 9.9397331,
+      "lng": 78.1078383
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2bcZZCrPADsRjKP5yrQAQpY",
+    "categories": [
+      "Car leasing service",
+      "Airport",
+      "Tour operator",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tourist attraction",
+      "Tourist information center",
+      "Transportation service",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 9,
+    "imagesCount": 1,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q917SjiBKy4FVJnUQ5HMhQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.3268&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Madurai%20Royal%20Tourism&query_place_id=ChIJ2bcZZCrPADsRjKP5yrQAQpY"
+  }
+]

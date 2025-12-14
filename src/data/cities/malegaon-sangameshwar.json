@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Vinit Auto Car Mall",
+    "subTitle": "विनीत ऑटो कार मॉल",
+    "categoryName": "Car dealer",
+    "address": "Motibag Naka, Old Agra Rd, beside Ampere EV, Golden Nagar, Malegaon, Sangameshwar, Maharashtra 423203, India",
+    "neighborhood": "Golden Nagar",
+    "street": "Motibag Naka, Old Agra Rd, beside Ampere EV",
+    "city": "Malegaon, Sangameshwar",
+    "postalCode": "423203",
+    "state": "Maharashtra",
+    "countryCode": "IN",
+    "location": {
+      "lat": 20.5431317,
+      "lng": 74.523586
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzQEqA_KZ3jsR6kAtUc49Wq8",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz5h2U6xsSYgHQ_0Uv611VKcBzk5kw25aMg0amTD83O92_JDqWZuQsZp41tprs3HSoWJrIsOE9RPMZeOoSxZAoiLH7ojDr8OLBGVHdfawWWtpKQ62WsSgjOtHCglQatWDxTYBVD-oc1RDOZ=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Vinit%20Auto%20Car%20Mall&query_place_id=ChIJzQEqA_KZ3jsR6kAtUc49Wq8"
+  }
+]

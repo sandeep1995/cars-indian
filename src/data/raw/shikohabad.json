@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Car4Hire",
+    "subTitle": "कार4हायर",
+    "categoryName": "Car rental agency",
+    "address": "Station Rd, Shikohabad, Uttar Pradesh 283135, India",
+    "street": "Station Rd",
+    "city": "Shikohabad",
+    "postalCode": "283135",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://car4hire.co.in/",
+    "phone": "+917900887778",
+    "phoneUnformatted": "+917900887778",
+    "location": {
+      "lat": 27.0962666,
+      "lng": 78.5799414
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0x5JfU5LdDkRrfmZEAAUHNk",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 12,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xPEOAXtmYtF9jJ0hVCck4w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=285.22095&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car4Hire&query_place_id=ChIJ0x5JfU5LdDkRrfmZEAAUHNk"
+  }
+]

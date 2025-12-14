@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Prince Vintage Car",
+    "subTitle": "प्रिंस विंटेज कार",
+    "categoryName": "Car rental agency",
+    "address": "Plot no 8, Phushpanjali Phase-1, Sai Vihar, near Jaypee Hotel, Taj Nagri Phase 2, Agra, Uttar Pradesh 282004, India",
+    "neighborhood": "Taj Nagri Phase 2, Tajganj",
+    "street": "Plot no 8, Phushpanjali Phase-1, Sai Vihar, near Jaypee Hotel",
+    "city": "Agra, Tora",
+    "postalCode": "282004",
+    "state": "Uttar Pradesh",
+    "countryCode": "IN",
+    "website": "http://princevintagecar.com/",
+    "location": {
+      "lat": 27.1490552,
+      "lng": 78.0626939
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_yRE8XRxdDkRx_J5RcaGrd0",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 14,
+    "imagesCount": 50,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOJipc4vDglculKKKHuGg6CzdsO4nC0EjpCuIg=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Prince%20Vintage%20Car&query_place_id=ChIJ_yRE8XRxdDkRx_J5RcaGrd0"
+  }
+]

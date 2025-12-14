@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Innova for self drive & rent salem",
+    "categoryName": "Car rental agency",
+    "address": "Vaikal Patrai, Vailkalpattrai, Salem, Tamil Nadu 636017, India",
+    "neighborhood": "Vaikal Patrai",
+    "city": "Vailkalpattrai, Salem",
+    "postalCode": "636017",
+    "state": "Tamil Nadu",
+    "countryCode": "IN",
+    "website": "http://innovaforselfdriverentsalem.in/",
+    "phone": "+916382554524",
+    "phoneUnformatted": "+916382554524",
+    "location": {
+      "lat": 11.6707623,
+      "lng": 78.1863719
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb9yy4n3xqzsRuLQ1CSRRYZo",
+    "categories": [
+      "Car rental agency",
+      "Travel agency"
+    ],
+    "imagesCount": 10,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNr1arsR3IXTV832Hp-Q84ClINJJ_71DAfUPufX=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Innova%20for%20self%20drive%20%26%20rent%20salem&query_place_id=ChIJb9yy4n3xqzsRuLQ1CSRRYZo"
+  }
+]

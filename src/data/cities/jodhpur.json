@@ -1,0 +1,3855 @@
+[
+  {
+    "title": "Alex Cab Service",
+    "subTitle": "एलेक्स कैब सर्विस",
+    "categoryName": "Car rental agency",
+    "address": "1/B/9 Madhuban Housing Board, Basni First Phase, Jodhpur, Rajasthan 342005, India",
+    "neighborhood": "Basni First Phase, Sector-C, Basni",
+    "street": "1/B/9 Madhuban Housing Board",
+    "city": "Jodhpur",
+    "postalCode": "342005",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://alexcabservice.in/",
+    "phone": "+919461449799",
+    "phoneUnformatted": "+919461449799",
+    "location": {
+      "lat": 26.2274684,
+      "lng": 73.0191275
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZXreeJKLQTkRlsjm1d3ArTE",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Sightseeing tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 107,
+    "imagesCount": 124,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO3RH0tRdrLbhHRlYZGUmZW3w9q1UIZ7_CdhINZ=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Alex%20Cab%20Service&query_place_id=ChIJZXreeJKLQTkRlsjm1d3ArTE"
+  },
+  {
+    "title": "Arihant Car Bazar",
+    "subTitle": "अरिहंत कार बाजार",
+    "categoryName": "Used car dealer",
+    "address": "Near Satimata Mandir , Opp Police Line , Near Ratanada Road Jodhpur -342011, near मधु अस्पताल, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Ratanada",
+    "street": "Near Satimata Mandir , Opp Police Line , Near Ratanada Road Jodhpur -342011, near मधु अस्पताल",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919784406045",
+    "phoneUnformatted": "+919784406045",
+    "location": {
+      "lat": 26.2804828,
+      "lng": 73.0307435
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb57rulGMQTkR9otdsn4hDbU",
+    "categories": [
+      "Used car dealer",
+      "Car finance and loan company",
+      "Loan agency"
+    ],
+    "reviewsCount": 209,
+    "imagesCount": 97,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNAmlM42UoCJf1s53Y92oQ86HRnNA4UC1-gtjXt=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Arihant%20Car%20Bazar&query_place_id=ChIJb57rulGMQTkR9otdsn4hDbU"
+  },
+  {
+    "title": "Blue Heaven Self Drive Car Jodhpur | Car Rental in Jodhpur | Luxury Car Hire in Jodhpur",
+    "subTitle": "ब्लू हेवन सेल्फ ड्राइव कार जोधपुर | कार रेंटल इन जोधपुर | लक्जरी कार हीरे इन जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "gate number 2, Ansal plaza parking, High Court Rd, outside hotel ghoomar Public Park, Sri Ganganagar, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Sri Ganganagar",
+    "street": "gate number 2, Ansal plaza parking, High Court Rd, outside hotel ghoomar Public Park",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://blueheavenselfdrive.in/",
+    "phone": "+918302188841",
+    "phoneUnformatted": "+918302188841",
+    "location": {
+      "lat": 26.2915456,
+      "lng": 73.0288636
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPVrO23KNQTkRGNiJh0es_Ds",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 206,
+    "imagesCount": 54,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMnzymhjJqmPzYKFTrEV5mQ1uZK9Gl0TOVjGBpm=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Heaven%20Self%20Drive%20Car%20Jodhpur%20%7C%20Car%20Rental%20in%20Jodhpur%20%7C%20Luxury%20Car%20Hire%20in%20Jodhpur&query_place_id=ChIJPVrO23KNQTkRGNiJh0es_Ds"
+  },
+  {
+    "title": "Car Gallery",
+    "subTitle": "कार गैलरी",
+    "categoryName": "Car dealer",
+    "address": "208-209, opposite Cambridge public school, Subhash Colony, Bhagat Ki Kothi, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Subhash Colony, Bhagat Ki Kothi",
+    "street": "208-209, opposite Cambridge public school",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.facebook.com/share/18zi4DVnVZ/",
+    "phone": "+919909837429",
+    "phoneUnformatted": "+919909837429",
+    "location": {
+      "lat": 26.26392,
+      "lng": 73.0177777
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwUdkHUCMQTkRe1oZBVKzgf0",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aDm2OQIqL2HtJX8MiNN6SQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=303.66608&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Gallery&query_place_id=ChIJwUdkHUCMQTkRe1oZBVKzgf0"
+  },
+  {
+    "title": "Car Rental in Jodhpur",
+    "subTitle": "जोधपुर में किराये की कार",
+    "categoryName": "Car rental agency",
+    "address": "Paota Circle, Mandore Rd, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Dharmnarayan Hatha, Paota",
+    "street": "Paota Circle, Mandore Rd",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919351502472",
+    "phoneUnformatted": "+919351502472",
+    "location": {
+      "lat": 26.296108,
+      "lng": 73.037967
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5aU3WpwyRzkRVO__z2qkar4",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Event planner",
+      "Hotel",
+      "Taxi service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 41,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM1WT5xzoPR6xRtZ-A_MLQWWhLLStvijxPyb-N8=w439-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Rental%20in%20Jodhpur&query_place_id=ChIJ5aU3WpwyRzkRVO__z2qkar4"
+  },
+  {
+    "title": "Car Rental in Jodhpur",
+    "subTitle": "कार रेंटल इन जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "Near Teja Hostal Ship House Road, Paota, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Paota",
+    "street": "Near Teja Hostal Ship House Road",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.carrentinjodhpur.blogspot.com/",
+    "location": {
+      "lat": 26.298792,
+      "lng": 73.035479
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTVBMXkmMQTkRjTQw47rCr-8",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 33,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "4 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "4 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "4 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "4 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "4 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "4 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "4 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFHG-g51M8xoqjlMCS0B2RozpXZc9U_s85XzKD=w408-h287-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Rental%20in%20Jodhpur&query_place_id=ChIJTVBMXkmMQTkRjTQw47rCr-8"
+  },
+  {
+    "title": "CAR TOURS JODHPUR",
+    "subTitle": "कार टूर्स जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "16, Gayatri Nagar, Vidhya Nagar, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Gayatri Nagar, Vidhya Nagar",
+    "street": "16",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://cartoursjodhpur.com/",
+    "phone": "+919001502506",
+    "phoneUnformatted": "+919001502506",
+    "location": {
+      "lat": 26.3130979,
+      "lng": 73.0609994
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVxUaQACNQTkRWPwdbtkJ19E",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 46,
+    "imagesCount": 83,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMmoDEiTJF3bCAV0Vy-Ez0VFkEUr-sNzToVyKQ=w408-h404-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CAR%20TOURS%20JODHPUR&query_place_id=ChIJVxUaQACNQTkRWPwdbtkJ19E"
+  },
+  {
+    "title": "Caraxia Self Drive Pvt. Ltd.",
+    "subTitle": "कैरेक्सिया सेल्फ ड्राइव पीवीटी. एलटीडी.",
+    "categoryName": "Car rental agency",
+    "address": "Shop number B12, Nagori Gate Kila Rd, Outside Nagori Gate, Lawaran, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Outside Nagori Gate, Lawaran",
+    "street": "Shop number B12, Nagori Gate Kila Rd",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://caraxiaselfdrive.com/",
+    "phone": "+919784490398",
+    "phoneUnformatted": "+919784490398",
+    "location": {
+      "lat": 26.3039579,
+      "lng": 73.0325005
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkQROCo6NQTkR6RJ4B_bYq0A",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 893,
+    "imagesCount": 326,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO66VEHrfctI966yfRpp3RkW5a9ws8AlUeBDgxh=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Caraxia%20Self%20Drive%20Pvt.%20Ltd.&query_place_id=ChIJkQROCo6NQTkR6RJ4B_bYq0A"
+  },
+  {
+    "title": "CARS 19",
+    "subTitle": "कार्स 19",
+    "categoryName": "Car dealer",
+    "address": "7X9P+34P, Pal Link Rd, Kamla Nehru Nagar, Shyam Nagar, Jodhpur, Rajasthan 342008, India",
+    "neighborhood": "Kamla Nehru Nagar, Shyam Nagar",
+    "street": "7X9P+34P, Pal Link Rd",
+    "city": "Jodhpur",
+    "postalCode": "342008",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+918003363636",
+    "phoneUnformatted": "+918003363636",
+    "location": {
+      "lat": 26.2677199,
+      "lng": 72.985319
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYXJqpUOPQTkRqiYs0g9yng4",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 19,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwh-ZeL7wF-_xYZkZZOIWbQsP-G6bZ4v33ZjUCLVoL7ddIAh3cwpOPCscOpMYdwY5BC9d28kUXVpQ1wu5tlFRe_fLahXsofMpkDDBJ0WjwrfTLm7FYlrcjGK0NTCOhuroSFyZn3=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=CARS%2019&query_place_id=ChIJYXJqpUOPQTkRqiYs0g9yng4"
+  },
+  {
+    "title": "Carzmax India Self Drive Car Rental / Car Hire Jodhpur",
+    "subTitle": "कार्जमैक्स इंडिया सेल्फ ड्राइव कार रेंटल / कार हीरे जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "Shop No- 277, MG Hospital Rd, near Kalsi Family, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Ratanada",
+    "street": "Shop No- 277, MG Hospital Rd, near Kalsi Family",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+918000850457",
+    "phoneUnformatted": "+918000850457",
+    "location": {
+      "lat": 26.2857031,
+      "lng": 73.0204893
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOfXLZjWNQTkRAaGdpgF59oQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 23,
+    "imagesCount": 28,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP5otmo6UY_O4dHQuZVVjyhFhoq-V3ovkaXCt8K=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Carzmax%20India%20Self%20Drive%20Car%20Rental%20%2F%20Car%20Hire%20Jodhpur&query_place_id=ChIJOfXLZjWNQTkRAaGdpgF59oQ"
+  },
+  {
+    "title": "Classy Car Wash & Detailing",
+    "subTitle": "क्लासी कार वाश & डिटेलिंग",
+    "categoryName": "Car wash",
+    "address": "14/702, Lal Singh Colony, Chopasni Housing Board, Jodhpur, Rajasthan 342014, India",
+    "neighborhood": "Lal Singh Colony, Chopasni Housing Board",
+    "street": "14/702",
+    "city": "Jodhpur",
+    "postalCode": "342014",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+918619438956",
+    "phoneUnformatted": "+918619438956",
+    "location": {
+      "lat": 26.2547409,
+      "lng": 72.969533
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk5QXiC2PQTkRSEmv74OaIyY",
+    "categories": [
+      "Car wash"
+    ],
+    "reviewsCount": 11,
+    "imagesCount": 17,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx-iIjJeVjyGJfFxVL2IXTtXrJNJeADVHkruV43AblJGHfuPjFHacZgZtcodNHIUey3iT6PFSwD60U99jHd3Q1jROGkNZxey6HxT6G2siTyCccmA0Kjpkl5TvtyYqx4J516JhirVg=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Classy%20Car%20Wash%20%26%20Detailing&query_place_id=ChIJk5QXiC2PQTkRSEmv74OaIyY"
+  },
+  {
+    "title": "Dheera Self Drive Cars Jodhpur | Self Drive Car Rental In Jodhpur | Self Drive Car In Jodhpur Airport | Self Car Hire Jodhpur",
+    "subTitle": "धीरा सेल्फ ड्राइव कार्स जोधपुर | सेल्फ ड्राइव कार रेंटल इन जोधपुर | सेल्फ ड्राइव कार इन जोधपुर एयरपोर्ट | सेल्फ कार हीरे जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "near Bus Stand, Bhadwasiya, Sri Ganganagar, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Bhadwasiya, Sri Ganganagar",
+    "street": "near Bus Stand",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://dheeraselfdrivecars.in/",
+    "phone": "+918078671580",
+    "phoneUnformatted": "+918078671580",
+    "location": {
+      "lat": 26.2914945,
+      "lng": 73.0288867
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJraQMyCaNQTkRstcwYL7BAoQ",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNQAgvJZGDXIH9jA39NqyeRbMDarkN-AK8gZTCv=w408-h508-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Dheera%20Self%20Drive%20Cars%20Jodhpur%20%7C%20Self%20Drive%20Car%20Rental%20In%20Jodhpur%20%7C%20Self%20Drive%20Car%20In%20Jodhpur%20Airport%20%7C%20Self%20Car%20Hire%20Jodhpur&query_place_id=ChIJraQMyCaNQTkRstcwYL7BAoQ"
+  },
+  {
+    "title": "Ganesham Incredible Tours",
+    "subTitle": "गणेशम इन्क्रेडिबल टुर",
+    "categoryName": "Car rental agency",
+    "address": "NEW BHAKHARI BAS Jodhpur Jaisalmer Bypass, Road, Soorsagar, Jodhpur, Rajasthan 342024, India",
+    "neighborhood": "Soorsagar",
+    "street": "NEW BHAKHARI BAS Jodhpur Jaisalmer Bypass, Road",
+    "city": "Jodhpur",
+    "postalCode": "342024",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.jodhpurtaxi.cab/",
+    "phone": "+919982985553",
+    "phoneUnformatted": "+919982985553",
+    "location": {
+      "lat": 26.3152401,
+      "lng": 73.0009524
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaQC4WOSNQTkR9stX5HNVoeE",
+    "categories": [
+      "Car rental agency",
+      "Cabin rental agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 230,
+    "imagesCount": 175,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO74se_ukVxiWgcNYF2bjtUoERCH4eIEaKt1iiC=w411-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ganesham%20Incredible%20Tours&query_place_id=ChIJaQC4WOSNQTkR9stX5HNVoeE"
+  },
+  {
+    "title": "Jai tours and travels",
+    "subTitle": "जय पर्यटन और यात्रा",
+    "categoryName": "Car rental agency",
+    "address": "11/830, Sector 11, Chopasni Housing Board, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Sector 11, Chopasni Housing Board",
+    "street": "11/830",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.jaitoursandtravel.com/",
+    "phone": "+919829069781",
+    "phoneUnformatted": "+919829069781",
+    "location": {
+      "lat": 26.2619823,
+      "lng": 72.9816498
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSfbXK5iOQTkRY6Cq9gRyTGE",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator",
+      "Tourist information center",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 202,
+    "imagesCount": 727,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgTM5dS9FnSfdUS6MYK6xNB94JDCubFA6ERB4A=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jai%20tours%20and%20travels&query_place_id=ChIJSfbXK5iOQTkRY6Cq9gRyTGE"
+  },
+  {
+    "title": "JCR Cab & Car Rental Unit Jodhpur",
+    "subTitle": "जेसीआर कैब",
+    "categoryName": "Car rental agency",
+    "address": "Sweet, 9,Gopal Pyau Trust, Amarta Devi Circle, Pali Rd, near Jodhana, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "M.I.A. 1st Phase, Basni, Basni",
+    "street": "Sweet, 9,Gopal Pyau Trust, Amarta Devi Circle, Pali Rd, near Jodhana",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.jcrcab.com/",
+    "phone": "+919414137405",
+    "phoneUnformatted": "+919414137405",
+    "location": {
+      "lat": 26.235965,
+      "lng": 73.0153032
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMQH24KiLQTkRlolcNXzN8BM",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 1047,
+    "imagesCount": 912,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPRtZHDfpFsv2EinTFSlVwbJjwLTvmsEuYOweoR=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JCR%20Cab%20%26%20Car%20Rental%20Unit%20Jodhpur&query_place_id=ChIJMQH24KiLQTkRlolcNXzN8BM"
+  },
+  {
+    "title": "JCR self car Rental Unit Jodhpur",
+    "subTitle": "जेसीआर सेल्फ कार रेंटल यूनिट जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "G/8- 26, Housing Board Rd, Sector 21, Chopasni Housing Board, Jodhpur, Rajasthan 342005, India",
+    "neighborhood": "Sector 21, Chopasni Housing Board",
+    "street": "G/8- 26, Housing Board Rd",
+    "city": "Jodhpur",
+    "postalCode": "342005",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.jcrcab.com/car-hire-in-jodhpur/",
+    "phone": "+919799735500",
+    "phoneUnformatted": "+919799735500",
+    "location": {
+      "lat": 26.2573336,
+      "lng": 72.9782733
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmaskBf-PQTkRdmKbhDbF0zE",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 4,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSy7xxDn2uv0AkUucrKuUmLMGIJCAE7nq55JW0=w408-h284-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JCR%20self%20car%20Rental%20Unit%20Jodhpur&query_place_id=ChIJmaskBf-PQTkRdmKbhDbF0zE"
+  },
+  {
+    "title": "Jodhana Tours & Luxury Car Rental Service",
+    "subTitle": "जोधाणा टूर एंड लक्जरी कार रेंटल सर्विस",
+    "categoryName": "Car leasing service",
+    "address": "15/3, Shiv Shakti Nagar, Air Force Rd, near K.V.2, Station, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Station",
+    "street": "15/3, Shiv Shakti Nagar, Air Force Rd, near K.V.2",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.jodhanatours.com/",
+    "phone": "+919166056506",
+    "phoneUnformatted": "+919166056506",
+    "location": {
+      "lat": 26.2507635,
+      "lng": 73.0393295
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj2vOvvqNQTkRGa3OXNAW36w",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 65,
+    "imagesCount": 31,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODGqk3KB75ODLum_TBXyKNDLfwmOi-x9oMAqCM=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhana%20Tours%20%26%20Luxury%20Car%20Rental%20Service&query_place_id=ChIJj2vOvvqNQTkRGa3OXNAW36w"
+  },
+  {
+    "title": "Jodhpur Cab",
+    "subTitle": "जोधपुर कैब",
+    "categoryName": "Car rental agency",
+    "address": "293, New Power House Rd, Patrakar Colony, Shastri Nagar, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Patrakar Colony, Shastri Nagar",
+    "street": "293, New Power House Rd",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://jodhpurcab.com/",
+    "phone": "+919929927540",
+    "phoneUnformatted": "+919929927540",
+    "location": {
+      "lat": 26.2577836,
+      "lng": 73.0114939
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJESNbJ8mNQTkRXOfc84o2bck",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 1269,
+    "imagesCount": 66,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdAuSRvRHoeNEoEIl0WGSVaeGPMEuTXWygX4LU=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Cab&query_place_id=ChIJESNbJ8mNQTkRXOfc84o2bck"
+  },
+  {
+    "title": "Jodhpur Cabs",
+    "subTitle": "जोधपुर कैब्स",
+    "categoryName": "Car rental agency",
+    "address": "104, Ashok Nagar Mahamandir Out side II pole, Rajasthan 342007, India",
+    "neighborhood": "Mahamandir, Maha Mandir Area",
+    "street": "104, Ashok Nagar Mahamandir Out side II pole",
+    "city": "Jodhpur",
+    "postalCode": "342007",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.jodhpurcabs.in/",
+    "phone": "+917665454999",
+    "phoneUnformatted": "+917665454999",
+    "location": {
+      "lat": 26.306653,
+      "lng": 73.044848
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWZANZwmNQTkRv7vS-RWzL6I",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 110,
+    "imagesCount": 34,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSZHBPdDfNdAo1BNqGHRYgv_10RYTBNbBQ5Isy=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Cabs&query_place_id=ChIJWZANZwmNQTkRv7vS-RWzL6I"
+  },
+  {
+    "title": "Jodhpur Car Hire",
+    "subTitle": "जोधपुर कार किराया",
+    "categoryName": "Car rental agency",
+    "address": "Shop No-42, Bhati Circle, Ratanada, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Ratanada",
+    "street": "Shop No-42, Bhati Circle, Ratanada",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.jodhpurcarhire.blogspot.com/",
+    "phone": "+917665453999",
+    "phoneUnformatted": "+917665453999",
+    "location": {
+      "lat": 26.2744217,
+      "lng": 73.0359162
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ8YQdVmMQTkRjOzDDdQGeMo",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOEcJSI3WWcr0qe680iddbUu4GFDOQ6jPnWDDZO=w408-h297-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Car%20Hire&query_place_id=ChIJJ8YQdVmMQTkRjOzDDdQGeMo"
+  },
+  {
+    "title": "Jodhpur Car Rental",
+    "subTitle": "जोधपुर कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "High Court Colony, Near Senapathi Bhavan, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Ratanada",
+    "street": "High Court Colony, Near Senapathi Bhavan, Ratanada",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://jodhpurcarrental.blogspot.com/",
+    "phone": "+917597690013",
+    "phoneUnformatted": "+917597690013",
+    "location": {
+      "lat": 26.27177,
+      "lng": 73.030114
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLeJODp0yRzkRQQiqpa9pLlw",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Event management company",
+      "Event planner",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 222,
+    "imagesCount": 94,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzV0Ok8JHabId59K9mpc3Bv2D15oEJ2We0gAm_fQ48ueFDyR7XF-T1Qlg7RHH72toaj-ycM4wnx99qJCi3psYVtg2QBYsrpOSSqGXupGiLav--FNyNrX1Ca_R9GOWsj_mJV-vBTig=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Car%20Rental&query_place_id=ChIJLeJODp0yRzkRQQiqpa9pLlw"
+  },
+  {
+    "title": "Jodhpur Darshan Taxi Service",
+    "subTitle": "जोधपुर दर्शन टैक्सी सर्विस",
+    "categoryName": "Car leasing service",
+    "address": "12th Rd, Baldev Nagar, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Baldev Nagar",
+    "street": "12th Rd",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+918875751580",
+    "phoneUnformatted": "+918875751580",
+    "location": {
+      "lat": 26.3045854,
+      "lng": 73.05684
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC1Xcu5eNQTkROJboHkSp674",
+    "categories": [
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 27,
+    "imagesCount": 31,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPEKnU6WmX5UhD_4-ovR1ugrlwm0c5PxIbzcAEl=w427-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Darshan%20Taxi%20Service&query_place_id=ChIJC1Xcu5eNQTkROJboHkSp674"
+  },
+  {
+    "title": "Jodhpur Luxury Car Rental",
+    "subTitle": "जोधपुर लक्जरी कार रेंटल",
+    "categoryName": "Car leasing service",
+    "address": "D 36, behind New Power House Road, Heavy Industrial Area Phase II, Basni, Jodhpur, Rajasthan 342003, India",
+    "neighborhood": "Heavy Industrial Area Phase II, Basni",
+    "street": "D 36, behind New Power House Road",
+    "city": "Jodhpur",
+    "postalCode": "342003",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919828540405",
+    "phoneUnformatted": "+919828540405",
+    "location": {
+      "lat": 26.2530422,
+      "lng": 73.0067774
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoTSAhciNQTkRad_7v3Jd4KA",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 67,
+    "imagesCount": 54,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP1vywx1usvAOIopdqt0SyKLAv76KrxxJSgzrFX=w408-h302-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Luxury%20Car%20Rental&query_place_id=ChIJoTSAhciNQTkRad_7v3Jd4KA"
+  },
+  {
+    "title": "Jodhpur paryatan seva",
+    "subTitle": "5761 tours jodhpur",
+    "categoryName": "Car rental agency",
+    "address": "72GF+H9W सत्यम हास्पीटल के सामने हाउस नम्बर एल 214ए, UIT Rd, चोराहा के पास, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Ratanada",
+    "street": "72GF+H9W सत्यम हास्पीटल के सामने हाउस नम्बर एल 214ए, UIT Rd, चोराहा के पास",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://jodhpurparyatan.org/",
+    "phone": "+919829599937",
+    "phoneUnformatted": "+919829599937",
+    "location": {
+      "lat": 26.2764813,
+      "lng": 73.0234624
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNSqoG4uNQTkRpXFSvwM2Jgc",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 34,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=18uqXpr58ROcRleZvbPNJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=121.574554&pitch=0&thumbfov=100",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20paryatan%20seva&query_place_id=ChIJNSqoG4uNQTkRpXFSvwM2Jgc"
+  },
+  {
+    "title": "Jodhpur Taxi Service",
+    "subTitle": "जोधपुर टैक्सी सीरिव्स",
+    "categoryName": "Car rental agency",
+    "address": "C-25 ,Indra Colony ,Panch Batti Circle Air Force Area, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Ratanada",
+    "street": "C-25 ,Indra Colony ,Panch Batti Circle Air Force Area",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.jodhpurtaxiservice.co.in/",
+    "phone": "+919784650178",
+    "phoneUnformatted": "+919784650178",
+    "location": {
+      "lat": 26.2667939,
+      "lng": 73.03863
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiV8OR3WNQTkR3OqakoFSzts",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 158,
+    "imagesCount": 63,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz7bwoSNNWsqMDHFsZtVv5VNfAOgjB2Xfa-rDsWLgXn5UvHxcghQlYGEzroN9YIk7sw_tM0RXKGQLc_SG0tPHanUhL4J_br85wQDnpPmM7hUwPsEgHs4tF0XknD_xuYF5QQz39c=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Taxi%20Service&query_place_id=ChIJiV8OR3WNQTkR3OqakoFSzts"
+  },
+  {
+    "title": "Jodhpur Trip",
+    "subTitle": "जोधपुर यात्रा",
+    "categoryName": "Car leasing service",
+    "address": "Shree Associates ,4-x-15 near central academy school, kudi bhagtasni housing board, Jodhpur, Rajasthan 342005, India",
+    "neighborhood": "Sector 3, Kudi Bhagtasni Housing Board",
+    "street": "Shree Associates ,4-x-15 near central academy school, kudi bhagtasni housing board",
+    "city": "Jodhpur",
+    "postalCode": "342005",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.jodhpurtrip.com/",
+    "phone": "+918209853190",
+    "phoneUnformatted": "+918209853190",
+    "location": {
+      "lat": 26.215485,
+      "lng": 73.026303
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIcdBhdYhQjkR2GccKJUN-Fk",
+    "categories": [
+      "Car leasing service",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour operator",
+      "Tourist attraction"
+    ],
+    "reviewsCount": 215,
+    "imagesCount": 258,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNFKfYQzqrMxuv5t9d5HKJw6A4U1mHDdjHcWrAE=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Trip&query_place_id=ChIJIcdBhdYhQjkR2GccKJUN-Fk"
+  },
+  {
+    "title": "JRB Car Bazar",
+    "subTitle": "जर्ब कार बाजार",
+    "categoryName": "Used car dealer",
+    "address": "Pal Rd, opp. Preksha hospital, near Kesar restaurant, Shanker Nager, Ashok Nagar, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Shanker Nager, Ashok Nagar",
+    "street": "Pal Rd, opp. Preksha hospital, near Kesar restaurant",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919001505050",
+    "phoneUnformatted": "+919001505050",
+    "location": {
+      "lat": 26.2596797,
+      "lng": 72.9868418
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu4cK6AuPQTkRW6xojqY1Ky0",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 15,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 8 AM, 10 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx02ROtQiN9aG7jveFUC3w2q4SYUljTEa-nIau0rtjnq5GRVJ7tPZa4yOdwdVkrtEpGqYSpZkAkfSZGDAI0S5p1o8unu4xU9MXi3aWaJ_eAICZfJKpn-n8TkzAiOKCDDEMCEPDWRuhNAyT-=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=JRB%20Car%20Bazar&query_place_id=ChIJu4cK6AuPQTkRW6xojqY1Ky0"
+  },
+  {
+    "title": "K.S Tours",
+    "subTitle": "के॰एस टुर",
+    "categoryName": "Car rental agency",
+    "address": "Shubh “ Plot no;- 231 , Hanwant A Poata C Road , Gali, 02, BJS, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Matki Chouraha, BJS Colony",
+    "street": "Shubh “ Plot no;- 231 , Hanwant A Poata C Road , Gali, 02, BJS",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.kstours.net/",
+    "phone": "+919829026885",
+    "phoneUnformatted": "+919829026885",
+    "location": {
+      "lat": 26.3042789,
+      "lng": 73.0526716
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmYGKZieNQTkR8OyFjp_YtCY",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Tour agency",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 95,
+    "imagesCount": 66,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 8:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw_rDDHoRUf9PvKfD3Yr2Yt_wy9tcp1So7YMs_YqXjwvdUjvGYKPZjLLLKBuLGQOiSDFsQ6mNcgcgdg1N0OPrvw3UD49GVcNO6fhyJUSi_zH2s-cDcbNAYAMchTVeu3gg_yfSm3=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=K.S%20Tours&query_place_id=ChIJmYGKZieNQTkR8OyFjp_YtCY"
+  },
+  {
+    "title": "Luxury 12 Seater Tempo Traveller On Rent Jodhpur,Tempo Traveller Hire In Jodhpur",
+    "subTitle": "लक्जरी 12 सीटर टेम्पो ट्रैवलर ऑन रेंट जोधपुर,टेंपो ट्रैवलर हीरे इन जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "Veenu Jodha, Plot No.479, RTO Rd, ZSA, B.J.S, Fatak, BJS Colony, Jodhpur, Rajasthan 342027, India",
+    "neighborhood": "ZSA, B.J.S, Fatak, BJS Colony",
+    "street": "Veenu Jodha, Plot No.479, RTO Rd",
+    "city": "Jodhpur",
+    "postalCode": "342027",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919950925471",
+    "phoneUnformatted": "+919950925471",
+    "location": {
+      "lat": 26.301673,
+      "lng": 73.0625188
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvef3QhiNQTkRMWYsVaZR1mQ",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 63,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1rCF7U28AiHUdmBGg2hjxKKDI5k-ak5YxlK5VzMoLwHVgN7j_z_IA9k9sZhXaci_CU-aczI7kxigH5apuVii8zp_Jz1eNVv54IigoBs58qnMxAD12i-ysZjzAxB199hURX5R9=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%2012%20Seater%20Tempo%20Traveller%20On%20Rent%20Jodhpur%2CTempo%20Traveller%20Hire%20In%20Jodhpur&query_place_id=ChIJvef3QhiNQTkRMWYsVaZR1mQ"
+  },
+  {
+    "title": "Luxury Tampo traveller in Jodhpur",
+    "subTitle": "लक्जरी टैम्पो ट्रैवलर इन जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "143 shikargah enkelv khangar restaurant, Rajasthan 342001, India",
+    "neighborhood": "Shikargarh Enclave, Cantt Area",
+    "street": "143 shikargah enkelv khangar restaurant",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "location": {
+      "lat": 26.2778935,
+      "lng": 73.072247
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI_4q3sKNQTkR0D4Ps7P_uz0",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Lodging",
+      "Tour agency",
+      "Tour operator",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 5,
+    "imagesCount": 93,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN6vE3HZKDImL-bq_VhnUkaHoEHzqewZWegvXoT=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Tampo%20traveller%20in%20Jodhpur&query_place_id=ChIJI_4q3sKNQTkR0D4Ps7P_uz0"
+  },
+  {
+    "title": "Luxury Urbania Hire in Jodhpur, Jaipur, Udaipur",
+    "subTitle": "लक्जरी अर्बनिया हीरे इन जोधपुर, जयपुर, उदयपुर",
+    "categoryName": "Car leasing service",
+    "address": "Second Floor, Laxmi Tower, Bhaskar Cir, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Ratanada",
+    "street": "Second Floor, Laxmi Tower, Bhaskar Cir",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://luxuryurbania.in/",
+    "phone": "+919588895308",
+    "phoneUnformatted": "+919588895308",
+    "location": {
+      "lat": 26.273809,
+      "lng": 73.0307038
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI6D104-NQTkRysu_cQy8YmY",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 6,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5csVc09AGUCEe-nX_76MxRizRo_CzY-fK-yz6=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Urbania%20Hire%20in%20Jodhpur%2C%20Jaipur%2C%20Udaipur&query_place_id=ChIJI6D104-NQTkRysu_cQy8YmY"
+  },
+  {
+    "title": "Maple Cab service Jodhpur | Taxi Service In Jodhpur",
+    "subTitle": "मैपल कैब सर्विस",
+    "categoryName": "Car rental agency",
+    "address": "59, Jhanwar Rd, Nehru Nagar, Bhadu Market, Jodhpur, Rajasthan 342008, India",
+    "neighborhood": "Nehru Nagar, Bhadu Market",
+    "street": "59, Jhanwar Rd",
+    "city": "Jodhpur",
+    "postalCode": "342008",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://maplecabservice.in/",
+    "phone": "+919772021002",
+    "phoneUnformatted": "+919772021002",
+    "location": {
+      "lat": 26.243816,
+      "lng": 72.9600544
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVTW94tqOQTkRKSYQBZ-m-Xc",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Tour operator"
+    ],
+    "reviewsCount": 321,
+    "imagesCount": 15,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJh1yHZz18RW4JsqRWg-x0W9syp7GIy8xYuvSn=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maple%20Cab%20service%20Jodhpur%20%7C%20Taxi%20Service%20In%20Jodhpur&query_place_id=ChIJVTW94tqOQTkRKSYQBZ-m-Xc"
+  },
+  {
+    "title": "Marudhar car bazzar jodhpur rajasthan",
+    "subTitle": "मरुधर कार बाज़ार जोधपुर राजस्थान",
+    "categoryName": "Car dealer",
+    "address": "temple, Near, on main road, Pal Balaji, Bhadu Market, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Pal Balaji, Bhadu Market",
+    "street": "temple, Near, on main road",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.facebook.com/profile.php?id=100091783600853&mibextid=ZbWKwL",
+    "phone": "+919588254008",
+    "phoneUnformatted": "+919588254008",
+    "location": {
+      "lat": 26.2379754,
+      "lng": 72.9695494
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlcdzfQCPQTkRUaBJ4LI6PYw",
+    "categories": [
+      "Car dealer",
+      "Used car dealer"
+    ],
+    "reviewsCount": 2,
+    "imagesCount": 43,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPtP2W32w0VYz2eVNlQau46o21aXs0OT6zOgoE=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Marudhar%20car%20bazzar%20jodhpur%20rajasthan&query_place_id=ChIJlcdzfQCPQTkRUaBJ4LI6PYw"
+  },
+  {
+    "title": "Maruti Suzuki True Value (Auric Motors, Jodhpur, Pali Road)",
+    "subTitle": "सही मूल्य ऑडी मोटर्स प्रा। लिमिटेड",
+    "categoryName": "Used car dealer",
+    "address": "D-169, Salawas Rd, M.I.A. 1st Phase, Basni, Basni, Jodhpur, Rajasthan 342005, India",
+    "neighborhood": "M.I.A. 1st Phase, Basni, Basni",
+    "street": "D-169, Salawas Rd",
+    "city": "Jodhpur",
+    "postalCode": "342005",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.truevalueofpaliroadjodhpur.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "phone": "+918037530940",
+    "phoneUnformatted": "+918037530940",
+    "location": {
+      "lat": 26.2248554,
+      "lng": 73.0146581
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjXYJAgyMQTkRKdAZkg7ri6c",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 203,
+    "imagesCount": 31,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPyvWPb_XTmPX7fwrHfZNjK9V9WfZEFVjCqHWYl=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Maruti%20Suzuki%20True%20Value%20(Auric%20Motors%2C%20Jodhpur%2C%20Pali%20Road)&query_place_id=ChIJjXYJAgyMQTkRKdAZkg7ri6c"
+  },
+  {
+    "title": "MARWAR TOUR TRAVEL JODHPUR",
+    "subTitle": "मारवाड़ टूर ट्रैवल जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "180, Nai Sarak, opp. Janta Sweet Home, near priya hotel, Sri Ganganagar, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Sri Ganganagar",
+    "street": "180, Nai Sarak, opp. Janta Sweet Home, near priya hotel",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://kgnmarwartours.com/",
+    "phone": "+918003290786",
+    "phoneUnformatted": "+918003290786",
+    "location": {
+      "lat": 26.2888464,
+      "lng": 73.0258053
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2ZLibQCNQTkRyccnbfnQ29E",
+    "categories": [
+      "Car rental agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 75,
+    "imagesCount": 3,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxhiybRXB9R9WdC_u4cnAovuo1NvTbCFlTYSZHOVXwYxpU3OJrOtYBKJkmmYaAxFGB8KWrJXM7TyCWJkWfNY2cBkGsab5vOrMdj6B4pSl1chFt_6jQEO05U7CPCZ_NZJR07nMfl=w408-h543-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MARWAR%20TOUR%20TRAVEL%20JODHPUR&query_place_id=ChIJ2ZLibQCNQTkRyccnbfnQ29E"
+  },
+  {
+    "title": "Metro Car Rental",
+    "subTitle": "मेट्रो कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "Shop No. 26, District Shopping Centre Saraswati Nagar, Basni First Phase, Jodhpur, Rajasthan 342005, India",
+    "neighborhood": "Basni First Phase, Basni",
+    "street": "Shop No. 26, District Shopping Centre Saraswati Nagar",
+    "city": "Jodhpur",
+    "postalCode": "342005",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.carrentalatjodhpur.com/",
+    "phone": "+919928516785",
+    "phoneUnformatted": "+919928516785",
+    "location": {
+      "lat": 26.23486,
+      "lng": 73.019105
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7a2b3JKLQTkRYtvKHAWEoKM",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Minibus taxi service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 149,
+    "imagesCount": 149,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "4 AM to 11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "4 AM to 11:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN7TZFT0vsyHMIuvHqlvAEERsNbnzPCqTwpFFnG=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Metro%20Car%20Rental&query_place_id=ChIJ7a2b3JKLQTkRYtvKHAWEoKM"
+  },
+  {
+    "title": "MICS Taxi",
+    "subTitle": "मैक्स टैक्सी",
+    "categoryName": "Car rental agency",
+    "address": "House No. 01, Shiv Mandir Rd, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Ratanada",
+    "street": "House No. 01, Shiv Mandir Rd",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://myindiacabservice.com/",
+    "phone": "+919828364070",
+    "phoneUnformatted": "+919828364070",
+    "location": {
+      "lat": 26.2750892,
+      "lng": 73.031443
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM526FoKNQTkRck7Y12LV3kg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Transportation service"
+    ],
+    "reviewsCount": 865,
+    "imagesCount": 128,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSymwn2i7GBFLzKLuPDrRySQHaMq67I_ZbsBoWMb0TzgdbE1uD2f1nOvYi0Fk-_VW9oYNdmqRiizUjLAqJy9Tl17ncba_PIsZ86hKa-U_GC2dmeEBfWWgRQorjtuyUy1XWz1kxrQZg=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MICS%20Taxi&query_place_id=ChIJM526FoKNQTkRck7Y12LV3kg"
+  },
+  {
+    "title": "N A C CARS | Olx autos | New Auto Consult & Car Bazar jodhpur | second hand cars purchase and sell",
+    "subTitle": "OLX न्यू ऑटो कंसल्ट & कार बाजार",
+    "categoryName": "Used car dealer",
+    "address": "baldev nagar, mod, akhaliya circle, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "akhaliya circle",
+    "street": "baldev nagar, mod",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://olx.in/",
+    "phone": "+919829485532",
+    "phoneUnformatted": "+919829485532",
+    "location": {
+      "lat": 26.2772476,
+      "lng": 72.9926214
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ5xhf7WOQTkRLw5qohLBTn8",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 201,
+    "imagesCount": 21,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxlkqO2dgQcjHQc1M_H1xhpAf0P5Q2YKJY8gvkuDeRIWzlDPBGb09SzDc9QQ28LuNxcXKFMUT7puQGTc-Agjf2jfNk1LSq1xHolCRhU7gCe1kqxgTDqORG-lKOYA1i_cleAIwv-csexNDE=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=N%20A%20C%20CARS%20%7C%20Olx%20autos%20%7C%20New%20Auto%20Consult%20%26%20Car%20Bazar%20jodhpur%20%7C%20second%20hand%20cars%20purchase%20and%20sell&query_place_id=ChIJJ5xhf7WOQTkRLw5qohLBTn8"
+  },
+  {
+    "title": "Nandi self drive car rental",
+    "subTitle": "नंदी सेल्फ ड्राइव कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "in front of anand cinema sojati gate, Near Anand Cinema, Sojati Gate, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Near Anand Cinema, Sojati Gate, Ratanada",
+    "street": "in front of anand cinema sojati gate",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919024863317",
+    "phoneUnformatted": "+919024863317",
+    "location": {
+      "lat": 26.2868488,
+      "lng": 73.024201
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBeFVq5qNQTkRlHg1EgOq4aE",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 32,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO3pih7Cvyfn7wXCr8-g6LPDtB_AbWEqkfLg1s2=w408-h600-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Nandi%20self%20drive%20car%20rental&query_place_id=ChIJBeFVq5qNQTkRlHg1EgOq4aE"
+  },
+  {
+    "title": "NCD Luxury Tempo Traveller & Car hire Jodhpur",
+    "subTitle": "एनसीडी टेम्पो ट्रैवलर किराया",
+    "categoryName": "Car rental agency",
+    "address": "Shop Number 01, Bhati Bhavan, Bhaskar Cir, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Ratanada",
+    "street": "Shop Number 01, Bhati Bhavan, Bhaskar Cir",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.ncdtempotravellerhire.com/",
+    "phone": "+917851977019",
+    "phoneUnformatted": "+917851977019",
+    "location": {
+      "lat": 26.2738019,
+      "lng": 73.0306334
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXSId41eNQTkRPtSlznbsbTg",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Travel agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 104,
+    "imagesCount": 224,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPCIGMAAjt9Wwkc9PnGojCZTPYHa7MPLLF5ocsy=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NCD%20Luxury%20Tempo%20Traveller%20%26%20Car%20hire%20Jodhpur&query_place_id=ChIJXSId41eNQTkRPtSlznbsbTg"
+  },
+  {
+    "title": "New Pathan Tour & Travels",
+    "subTitle": "न्यू पठान टूर & ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Street no. 1, Old, Loco Rd, near Daspan House, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "ACFC Colony, Ratanada",
+    "street": "Street no. 1, Old, Loco Rd, near Daspan House",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://newpathantourandtravel.com/",
+    "phone": "+919460551150",
+    "phoneUnformatted": "+919460551150",
+    "location": {
+      "lat": 26.274754,
+      "lng": 73.026832
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP71jLgCNQTkR1446DHq9P1U",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Taxi service",
+      "Tour operator",
+      "Tourist attraction"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 23,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMHPzIDaOHs4gqPpBEuXfGa7Twu8zJA7PhRkWNz=w408-h478-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20Pathan%20Tour%20%26%20Travels&query_place_id=ChIJP71jLgCNQTkR1446DHq9P1U"
+  },
+  {
+    "title": "New Rajasthan Tour's And Travels",
+    "subTitle": "न्यू राजस्थान टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Mandore Rd, Balsamand, Mandore, Jodhpur, Rajasthan 342026, India",
+    "neighborhood": "Balsamand, Mandore",
+    "street": "Mandore Rd",
+    "city": "Jodhpur",
+    "postalCode": "342026",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.newrajasthantours.com/",
+    "phone": "+917976592083",
+    "phoneUnformatted": "+917976592083",
+    "location": {
+      "lat": 26.3348273,
+      "lng": 73.0332989
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLd0JLW2TQTkRblhi8qKkduY",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Tour operator",
+      "Taxi service"
+    ],
+    "reviewsCount": 121,
+    "imagesCount": 126,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 10 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP0vjRp317cNbJfoNG_52oUqGgbvTi3fDSvE8bo=w408-h612-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20Rajasthan%20Tour's%20And%20Travels&query_place_id=ChIJLd0JLW2TQTkRblhi8qKkduY"
+  },
+  {
+    "title": "NV Cabs - Car Rental in Jodhpur",
+    "subTitle": "एनवी कैब्स - कार रेंटल इन जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "88, Jaswant Building, Station Rd, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Ratanada",
+    "street": "88, Jaswant Building, Station Rd",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919587138000",
+    "phoneUnformatted": "+919587138000",
+    "location": {
+      "lat": 26.2849658,
+      "lng": 73.0209656
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8Sf_EUuMQTkRTCD_XBA_1tw",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Sightseeing tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 93,
+    "imagesCount": 29,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNi7-UOsOJQ_C0uSS3_FEi1iBzBurh4jMsaKcm3=w408-h271-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=NV%20Cabs%20-%20Car%20Rental%20in%20Jodhpur&query_place_id=ChIJ8Sf_EUuMQTkRTCD_XBA_1tw"
+  },
+  {
+    "title": "Patel tours and travels",
+    "subTitle": "पटेल टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "25, Pal Rd, Khodiyal Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342014, India",
+    "neighborhood": "Khodiyal Nagar, Khema-Ka-Kuwa",
+    "street": "25, Pal Rd",
+    "city": "Jodhpur",
+    "postalCode": "342014",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919414294262",
+    "phoneUnformatted": "+919414294262",
+    "location": {
+      "lat": 26.2443818,
+      "lng": 72.9828822
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5wrxrtuPQTkRD4MdO6CiNtY",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 62,
+    "imagesCount": 91,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP4D0fwqG2LOi_E2G4cDWmdmZ0pjjG8WMi7JpWD=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Patel%20tours%20and%20travels&query_place_id=ChIJ5wrxrtuPQTkRD4MdO6CiNtY"
+  },
+  {
+    "title": "Premium Cars",
+    "subTitle": "प्रीमियम कार्स",
+    "categoryName": "Car rental agency",
+    "address": "Parking, Near, Public Park Rd, Paota, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Paota",
+    "street": "Parking, Near, Public Park Rd",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+918890970868",
+    "phoneUnformatted": "+918890970868",
+    "location": {
+      "lat": 26.2897349,
+      "lng": 73.0332533
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe-pc55yNQTkRrTrUSOJTJ6g",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 25,
+    "imagesCount": 37,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNG-5C4Gi4ZNyvh5ZWpxiJMBb48mVRB42d6FCQv=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Premium%20Cars&query_place_id=ChIJe-pc55yNQTkRrTrUSOJTJ6g"
+  },
+  {
+    "title": "Rajasthan Sawari - Taxi Service in Jodhpur",
+    "subTitle": "राजस्थान सवारी - टैक्सी सर्विस इन जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "1560, ganga banshi sadan, Defence Lab Rd, near sanjivani hospital, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Ratanada",
+    "street": "1560, ganga banshi sadan, Defence Lab Rd, near sanjivani hospital",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://rajasthansawari.com/",
+    "phone": "+917300090835",
+    "phoneUnformatted": "+917300090835",
+    "location": {
+      "lat": 26.2712775,
+      "lng": 73.0379208
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJs7GHsreNQTkRxvuPIsuC-5k",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 31,
+    "imagesCount": 10,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhC62ltVGGElBvS7VA31hgpq20-3MSTdwVEfX6=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rajasthan%20Sawari%20-%20Taxi%20Service%20in%20Jodhpur&query_place_id=ChIJs7GHsreNQTkRxvuPIsuC-5k"
+  },
+  {
+    "title": "Rajasthan Visits",
+    "subTitle": "राजस्थान विजिट्स",
+    "categoryName": "Car rental agency",
+    "address": "Sankhloun Ki Gali, near Banjara Jewellers, Makrana Mohalla, Sodagaran Mohalla, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Makrana Mohalla, Sodagaran Mohalla",
+    "street": "Sankhloun Ki Gali, near Banjara Jewellers",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.rajasthanvisits.com/",
+    "phone": "+918005864611",
+    "phoneUnformatted": "+918005864611",
+    "location": {
+      "lat": 26.296385,
+      "lng": 73.022499
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5Ro5LLeNQTkRpUopWm1czZQ",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Chauffeur service",
+      "Outdoor activity organiser",
+      "Sightseeing tour agency",
+      "Taxicab Stand",
+      "Tour agency",
+      "Tour operator",
+      "Tourist information center",
+      "Travel agency"
+    ],
+    "reviewsCount": 93,
+    "imagesCount": 167,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOcUac_TZWkbn-oPwtzsmlp2EqF1p4PJ8Zvkz3x=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rajasthan%20Visits&query_place_id=ChIJ5Ro5LLeNQTkRpUopWm1czZQ"
+  },
+  {
+    "title": "Rajputana self Drive Cars",
+    "subTitle": "राजपुताना सेल्फ ड्राइव कार्स",
+    "categoryName": "Car rental agency",
+    "address": "Lal Sagar, hospital, near SBI bank, near nayapura, Mandore, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Mandore",
+    "street": "Lal Sagar, hospital, near SBI bank, near nayapura",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://rajputanacabs.in/jodhpur/car-rental-hire/",
+    "phone": "+919256740773",
+    "phoneUnformatted": "+919256740773",
+    "location": {
+      "lat": 26.3248998,
+      "lng": 73.046869
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJheSu1TCNQTkRPes-lh7m-9M",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 234,
+    "imagesCount": 93,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYIaWHIHVmFw50dD2sRxGC-KW3JVQuZ8YngGNE=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rajputana%20self%20Drive%20Cars&query_place_id=ChIJheSu1TCNQTkRPes-lh7m-9M"
+  },
+  {
+    "title": "Rajwada Cab - Car Rental and Hire in Jodhpur",
+    "subTitle": "राजवाड़ा कैब - कार रेंटल एंड हीरे इन जोधपुर",
+    "categoryName": "Car leasing service",
+    "address": "Bhaskar Cir, opp. of Hotel Ratan Vilas, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Ratanada",
+    "street": "Bhaskar Cir, opp. of Hotel Ratan Vilas",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://rajwadacab.com/?utm_source=GMB&utm_medium=Website-Click",
+    "phone": "+917014461166",
+    "phoneUnformatted": "+917014461166",
+    "location": {
+      "lat": 26.2738018,
+      "lng": 73.0306334
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl_0O54mNQTkReHaQ2ssxgxY",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service",
+      "Sightseeing tour agency",
+      "Tour agency",
+      "Transportation service",
+      "Travel agency"
+    ],
+    "reviewsCount": 343,
+    "imagesCount": 67,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJV92v00XdHwyGASvHMKnOWPmnbmFSNmkwSixd=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rajwada%20Cab%20-%20Car%20Rental%20and%20Hire%20in%20Jodhpur&query_place_id=ChIJl_0O54mNQTkReHaQ2ssxgxY"
+  },
+  {
+    "title": "Rani Tour's",
+    "subTitle": "रानी टूर के",
+    "categoryName": "Car rental agency",
+    "address": "UIT Shopping Centre, 3, MDM Hospital Rd, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "neighborhood": "Shastri Nagar",
+    "street": "UIT Shopping Centre, 3, MDM Hospital Rd",
+    "city": "Jodhpur",
+    "postalCode": "342003",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.ranitour.in/",
+    "phone": "+919829023217",
+    "phoneUnformatted": "+919829023217",
+    "location": {
+      "lat": 26.2700375,
+      "lng": 73.0102051
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0SkM6DuMQTkRrFcU0G_CeX0",
+    "categories": [
+      "Car rental agency",
+      "Tour agency",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tourist attraction",
+      "Travel agency"
+    ],
+    "reviewsCount": 50,
+    "imagesCount": 40,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy4IbqU2cnnDlGpibCchJqoSq15_Xir7oiiWVkexguwyw0oOgnRFK9GWBBxWcuBSbTduLhV4YseTIWYyT1-122SxgZrolGBWVOCoFIsKj9BFxQ0SATfdbp-pm4xzfj8Mlb5aQSN=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Rani%20Tour's&query_place_id=ChIJ0SkM6DuMQTkRrFcU0G_CeX0"
+  },
+  {
+    "title": "Relax Tour",
+    "subTitle": "रिलैक्स टूर",
+    "categoryName": "Car rental agency",
+    "address": "Plot no. 13, AIIMS Rd, near Pachranga resort, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India",
+    "neighborhood": "Khema-Ka-Kuwa",
+    "street": "Plot no. 13, AIIMS Rd, near Pachranga resort",
+    "city": "Jodhpur",
+    "postalCode": "342008",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://relaxtourindia.com/",
+    "phone": "+919079302952",
+    "phoneUnformatted": "+919079302952",
+    "location": {
+      "lat": 26.240557,
+      "lng": 72.9903862
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH1YWE9CNQTkRdJ8GVN0dxRY",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Tour operator",
+      "Event management company",
+      "Minibus taxi service",
+      "Taxi service",
+      "Travel agency",
+      "Wedding service"
+    ],
+    "reviewsCount": 370,
+    "imagesCount": 108,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPa5ArpsA16iXmAs12Cuowy8hDwiEbt3e-ZmLmo=w408-h882-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Relax%20Tour&query_place_id=ChIJH1YWE9CNQTkRdJ8GVN0dxRY"
+  },
+  {
+    "title": "RL Car Rentals",
+    "subTitle": "आरएल कार रेंटल्स",
+    "categoryName": "Car rental agency",
+    "address": "72FH+5PC, Bhaskar Cir, Panchwati Colony, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Panchwati Colony, Ratanada",
+    "street": "72FH+5PC, Bhaskar Cir",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+917665454000",
+    "phoneUnformatted": "+917665454000",
+    "location": {
+      "lat": 26.272939,
+      "lng": 73.029261
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDV5s1VuMQTkRMIpPREcN5G4",
+    "categories": [
+      "Car rental agency",
+      "Travel agency",
+      "Taxi service"
+    ],
+    "reviewsCount": 24,
+    "imagesCount": 2,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx7-vCAzJhs5_oHOfnWzbY8xaVKt1a-7OILNSkrmVVjiBWwOWFCuK_F5iFffgjmDJb47o2UjBRGxfcyUA1DY3dZpHHEtPloTnMpYNHxkkQDbF_9YTs8aBdn8DZF0BC9X_GSN57A=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=RL%20Car%20Rentals&query_place_id=ChIJDV5s1VuMQTkRMIpPREcN5G4"
+  },
+  {
+    "title": "Royal Rajasthan Tours & Travels",
+    "subTitle": "रॉयल राजस्थान टूर्स एंड ट्रैवल्स",
+    "categoryName": "Car rental agency",
+    "address": "Plot No. 46, Khasra No. 01, Jwala Vihar Vistar Yojana, Jwala Vihar, Chopasni Road, near Suthala, pyau, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "3rd Pulia, pyau",
+    "street": "Plot No. 46, Khasra No. 01, Jwala Vihar Vistar Yojana, Jwala Vihar, Chopasni Road, near Suthala",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://taxiservicesjodhpur.com/",
+    "phone": "+919829022215",
+    "phoneUnformatted": "+919829022215",
+    "location": {
+      "lat": 26.2711398,
+      "lng": 72.9744431
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ8ImoImLQTkRQBZTvQ86O5U",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 597,
+    "imagesCount": 120,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 AM to 11 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy_3qrAvw1ZUm9fcswwfgF6OZVfxAFcSYhS5VxHgQHWiFl6WuC-tMuphKHkygO8rqkHsjeIFFTBJCzWAvhh4cQz5FAQFIqagUJp7Bzcdjoh8Or7giyEuZ5xkYACZyOyL1gDtSqV2E8_4z93=w408-h725-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Rajasthan%20Tours%20%26%20Travels&query_place_id=ChIJJ8ImoImLQTkRQBZTvQ86O5U"
+  },
+  {
+    "title": "Samrathal cabs",
+    "subTitle": "समराथल कैब्स",
+    "categoryName": "Car rental agency",
+    "address": "A-29, Balaji Nagar, Near Pal Balaji Temple, Pal Road, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Pal Balaji, Khema-Ka-Kuwa",
+    "street": "A-29, Balaji Nagar, Near Pal Balaji Temple, Pal Road",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://samrathalcabs.in/",
+    "phone": "+919462096279",
+    "phoneUnformatted": "+919462096279",
+    "location": {
+      "lat": 26.235067,
+      "lng": 72.9707835
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI9Rds0qJQTkRkBpAKGMW8WA",
+    "categories": [
+      "Car rental agency",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 463,
+    "imagesCount": 80,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxX8g71RQ7zL46rab08NbheJEVDGAJrWK8g28Wo8B4NGVTLUVPU3UbZGu41x5amkc88gdThdrGeU87xvHVP-CHMEku0cCJ_spVZTENL6MZU_OyTC9rKzx6tX1KvxrcrS3yyXBI=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Samrathal%20cabs&query_place_id=ChIJI9Rds0qJQTkRkBpAKGMW8WA"
+  },
+  {
+    "title": "Shree Car Rental",
+    "subTitle": "श्री कार रेंटल",
+    "categoryName": "Car rental agency",
+    "address": "536, opp. Somani College Road, Kamla Nehru Nagar II, Defence Colony, Jodhpur, Rajasthan 342008, India",
+    "neighborhood": "Kamla Nehru Nagar II, Defence Colony",
+    "street": "536, opp. Somani College Road",
+    "city": "Jodhpur",
+    "postalCode": "342008",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://vertushreecarrental.com/",
+    "location": {
+      "lat": 26.2743496,
+      "lng": 72.9785462
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsdMEnUjiamYRU8iNLq3w0QQ",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 28,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMeHJ7HvQbUDfHQt8FqMcBjn7PwMvQg3EGOR-jH=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shree%20Car%20Rental&query_place_id=ChIJsdMEnUjiamYRU8iNLq3w0QQ"
+  },
+  {
+    "title": "Shri Mahesh Vehicles Private Limited",
+    "subTitle": "श्री महेश व्हीकल्स प्राइवेट लिमिटेड",
+    "categoryName": "Motor vehicle dealer",
+    "address": "Panji Ka Bera, Plot No 08, Pal Rd, opposite HP Petrol Pump, Gayatri Nagar, Jodhpur, Rajasthan 342014, India",
+    "neighborhood": "Gayatri Nagar",
+    "street": "Panji Ka Bera, Plot No 08, Pal Rd, opposite HP Petrol Pump",
+    "city": "Jodhpur",
+    "postalCode": "342014",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://shrimaaheshvehicles.com/",
+    "phone": "+919414121377",
+    "phoneUnformatted": "+919414121377",
+    "location": {
+      "lat": 26.2436805,
+      "lng": 72.9735429
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcbA1grWOQTkRlzwE3hOfkQw",
+    "categories": [
+      "Motor vehicle dealer",
+      "Electric motor scooter dealer",
+      "Electric motor vehicle dealer",
+      "Electric motorcycle dealer",
+      "Motor scooter dealer",
+      "Motorcycle dealer",
+      "Tractor dealer"
+    ],
+    "reviewsCount": 28,
+    "imagesCount": 4,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx8bZahQTqITBweFv1w_7PuGXOLqzy3Mg0tjZrano_d61Bft3AV-qtf3j6KWX2CnXA1xoWeGh0bW2U2bu5u39GReOA1DFqh5v0uZIWG9F6FQX1fJ3Klph8U7tJjlrsJzhSE4JQ=w424-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Mahesh%20Vehicles%20Private%20Limited&query_place_id=ChIJcbA1grWOQTkRlzwE3hOfkQw"
+  },
+  {
+    "title": "Shri Parshvanth Tours",
+    "subTitle": "श्री पार्श्वंथ टुर",
+    "categoryName": "Car leasing service",
+    "address": "House No 248, Jyoti Nagar, Chandna Bhaker, near Jyoteshwar Mandir, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Jyoti Nagar, Kamla Nehru Nagar, 1st Pulia",
+    "street": "House No 248, Jyoti Nagar, Chandna Bhaker, near Jyoteshwar Mandir",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "location": {
+      "lat": 26.2782667,
+      "lng": 72.9767714
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd-2tIz-PQTkRKddHQYNiqgA",
+    "categories": [
+      "Car leasing service",
+      "Taxi service",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 12,
+    "imagesCount": 5,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNKA_19-Ua3M86s6uBvhsVvEiYCXIwiKfF_D9Ay=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Parshvanth%20Tours&query_place_id=ChIJd-2tIz-PQTkRKddHQYNiqgA"
+  },
+  {
+    "title": "Speedline Tours",
+    "subTitle": "स्पीडलाइन टूर्स",
+    "categoryName": "Car rental agency",
+    "address": "Jain Mandir, Fort Rd, opp. ship House, Bhadwasiya, Paota, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Bhadwasiya, Paota",
+    "street": "Jain Mandir, Fort Rd, opp. ship House",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://www.speedlinetours.com/",
+    "phone": "+919024030060",
+    "phoneUnformatted": "+919024030060",
+    "location": {
+      "lat": 26.3009556,
+      "lng": 73.0364398
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtzCAI6aNQTkREHr3VzyADuE",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Sightseeing tour agency"
+    ],
+    "reviewsCount": 726,
+    "imagesCount": 365,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpj7uQKQks8otor4FE6aRcTNrw0HgPCLmL2EFb=w408-h451-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Speedline%20Tours&query_place_id=ChIJtzCAI6aNQTkREHr3VzyADuE"
+  },
+  {
+    "title": "Tata Motors Cars Showroom - Autoprime Tata, Pratap Nagar",
+    "subTitle": "टाटा मोटर्स कार्स शोरूम - ऑटोप्राइम तता",
+    "categoryName": "Car dealer",
+    "address": "A/18, TSF Plaza Aakhaliya Vikas Yojana, Pratap Nagar, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Pratap Nagar",
+    "street": "A/18, TSF Plaza Aakhaliya Vikas Yojana",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-autoprime-tata-pratap-nagar-car-dealer-pratap-nagar-jodhpur-122854/Home?utm_source=locator&utm_medium=googleplaces",
+    "phone": "+917045183088",
+    "phoneUnformatted": "+917045183088",
+    "location": {
+      "lat": 26.2802221,
+      "lng": 72.990753
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSbtF3YOPQTkRdJFPimloJMk",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 1421,
+    "imagesCount": 159,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMA-i6k66SAgo3k_5P5tx-C5ODdFTT87IfH2Im5=w432-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tata%20Motors%20Cars%20Showroom%20-%20Autoprime%20Tata%2C%20Pratap%20Nagar&query_place_id=ChIJSbtF3YOPQTkRdJFPimloJMk"
+  },
+  {
+    "title": "Tata Motors Cars Showroom - Autoprime, New Pali Road",
+    "subTitle": "टाटा मोटर्स कार्स शोरूम - ऑटोप्राइम, न्यू पाली रोड",
+    "categoryName": "Car dealer",
+    "address": "No 5, Pali Rd, near Ashapura Township, Shanti Nagar, Extension, Bhagat Ki Kothi, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Shanti Nagar, Extension, Bhagat Ki Kothi",
+    "street": "No 5, Pali Rd, near Ashapura Township",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-autoprime-new-pali-road-car-dealer-shanti-nagar-jodhpur-292686/Home?utm_source=locator&utm_medium=googleplaces",
+    "phone": "+918291293364",
+    "phoneUnformatted": "+918291293364",
+    "location": {
+      "lat": 26.2427532,
+      "lng": 73.0148054
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJd8nTbuNQTkRZGuT-RLBITc",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 255,
+    "imagesCount": 55,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw92aHdnqRNZM0v2NeDQosTsetrSQkR7VBKgzIn5pRc4GocROJhuH7jdJ5nMuucPaKJe21osMbUlHMsTrSAgvDThcZXA4cAItW33U7NTq0IjZsST3F44kdcylyNtopNkgC-PFWJ=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tata%20Motors%20Cars%20Showroom%20-%20Autoprime%2C%20New%20Pali%20Road&query_place_id=ChIJJd8nTbuNQTkRZGuT-RLBITc"
+  },
+  {
+    "title": "Tata Motors Cars Showroom - Marudhara Motors, Light Industrial Area",
+    "subTitle": "टाटा मोटर्स कार्स शोरूम - मरुधरा मोटर्स, लाइट इंडस्ट्रियल एरिया",
+    "categoryName": "Car dealer",
+    "address": "No 29/2, Light Industrial Area, Sector-H, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "neighborhood": "Sector-H, Shastri Nagar",
+    "street": "No 29/2, Light Industrial Area",
+    "city": "Jodhpur",
+    "postalCode": "342003",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-marudhara-motors-light-industrial-area-car-dealer-light-industrial-area-jodhpur-81063/Home?utm_source=locator&utm_medium=googleplaces",
+    "phone": "+917045184290",
+    "phoneUnformatted": "+917045184290",
+    "location": {
+      "lat": 26.2588164,
+      "lng": 73.006869
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU24TADeMQTkRiZ2kcw-FeZ4",
+    "categories": [
+      "Car dealer"
+    ],
+    "reviewsCount": 623,
+    "imagesCount": 117,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzad_oawOv8loL2gBaj1MZFFu0-dg7-5vZM0W85Fr1deM5FIpI81BjkzjmX_WlvX-2cBQpIbmWM-tbUnYTl7FuphLcUKf5MkSlMZyfE9ZD_Bvk88qU0aeudrIUh8XEYza2eg4E_rw=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Tata%20Motors%20Cars%20Showroom%20-%20Marudhara%20Motors%2C%20Light%20Industrial%20Area&query_place_id=ChIJU24TADeMQTkRiZ2kcw-FeZ4"
+  },
+  {
+    "title": "The Cab Solution Jodhpur",
+    "subTitle": "द कैब सोल्यूशन जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "8 B, Shiv Mandir Road Ratanada, Jodhpur - 342001, Jodhpur, Rajasthan 342011, India",
+    "neighborhood": "Ratanada",
+    "street": "8 B, Shiv Mandir Road Ratanada, Jodhpur - 342001",
+    "city": "Jodhpur",
+    "postalCode": "342011",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "location": {
+      "lat": 26.274175,
+      "lng": 73.03151
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFbVi8FqMQTkRXrNSpRjHDaI",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tour agency",
+      "Tour operator",
+      "Travel agency"
+    ],
+    "reviewsCount": 17,
+    "imagesCount": 55,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxBPJHJ5GmfmesgWVB-J83ro82M-gEiXnR2F8iwVNq-ct73Eexob2TXRrzwHlNZrnv4L1r7YYxtVIRhLF4U2m6awtI0WF2Y7ukRPmCrxIOWtTr2FuZJDr1CdlRiWnCz789sJsjjiA=w408-h612-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Cab%20Solution%20Jodhpur&query_place_id=ChIJFbVi8FqMQTkRXrNSpRjHDaI"
+  },
+  {
+    "title": "Travel X More",
+    "subTitle": "ट्रैवल ऍक्स मोरे",
+    "categoryName": "Car rental agency",
+    "address": "478, 5th B Rd, near Kalyan Jewellers, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "neighborhood": "Sardarpura",
+    "street": "478, 5th B Rd, near Kalyan Jewellers",
+    "city": "Jodhpur",
+    "postalCode": "342003",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://www.travelxmore.com/",
+    "phone": "+919782940402",
+    "phoneUnformatted": "+919782940402",
+    "location": {
+      "lat": 26.27861,
+      "lng": 73.0059358
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCQAAoTWMQTkR97t8iVZz3zE",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Travel agency",
+      "Tour agency",
+      "Tour operator"
+    ],
+    "reviewsCount": 577,
+    "imagesCount": 260,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1LHmx5pXmCsEITbwd99gPo2j-wLfnwT97TILxipOUwoftVN-vtq9QyAAd_MVirWhkx0ECDhwtyqB1Nay2GZSaq6Od-XftDmh1DI6cIiH8qCXHaZo50H_uYjyzvCoyUy60PIY=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Travel%20X%20More&query_place_id=ChIJCQAAoTWMQTkR97t8iVZz3zE"
+  },
+  {
+    "title": "Travelmasters",
+    "subTitle": "ट्रैवलमास्टर्स",
+    "categoryName": "Car rental agency",
+    "address": "E-08, MG Hospital Rd, opp. Minerva Complex, Chand Shah Takiya Market, Sojati Gate, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Chand Shah Takiya Market, Sojati Gate, Ratanada",
+    "street": "E-08, MG Hospital Rd, opp. Minerva Complex",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919783222238",
+    "phoneUnformatted": "+919783222238",
+    "location": {
+      "lat": 26.2869578,
+      "lng": 73.0228531
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF4H5rLSNQTkRf53YS5X2Kdo",
+    "categories": [
+      "Car rental agency",
+      "Tour operator",
+      "Currency exchange service",
+      "Travel agency"
+    ],
+    "reviewsCount": 32,
+    "imagesCount": 22,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNzzHv9mepWQG4JHuoOsXI_2_FAgjT4y190mQdO=w408-h259-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Travelmasters&query_place_id=ChIJF4H5rLSNQTkRf53YS5X2Kdo"
+  },
+  {
+    "title": "Uno car Jodhpur self driven car rental JODHPUR",
+    "subTitle": "उनो कार जोधपुर सेल्फ ड्रिवन कार रेंटल जोधपुर",
+    "categoryName": "Car rental agency",
+    "address": "Jato ka niyoti nohra, main market, Shiv Mandir Rd, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Ratanada",
+    "street": "Jato ka niyoti nohra, main market, Shiv Mandir Rd",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "http://unocar.in/",
+    "phone": "+919462661966",
+    "phoneUnformatted": "+919462661966",
+    "location": {
+      "lat": 26.2761202,
+      "lng": 73.03399
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6wDJEs6NQTkR2U0ZVD8mMy4",
+    "categories": [
+      "Car rental agency"
+    ],
+    "reviewsCount": 41,
+    "imagesCount": 16,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPMS4iKrTjuDPRYwwY2SyV_Yw1Pofvxbj6fVnF3=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Uno%20car%20Jodhpur%20self%20driven%20car%20rental%20JODHPUR&query_place_id=ChIJ6wDJEs6NQTkR2U0ZVD8mMy4"
+  },
+  {
+    "title": "Utsav Jeep Jodhpur",
+    "subTitle": "उत्सव जीप जोधपुर",
+    "categoryName": "Car dealer",
+    "address": "17, near, ITI Rd, opp. Cazri Road, Light Industrial Area, Sector G, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "neighborhood": "Light Industrial Area, Sector G, Shastri Nagar",
+    "street": "17, near, ITI Rd, opp. Cazri Road",
+    "city": "Jodhpur",
+    "postalCode": "342003",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "website": "https://utsav.jeep-india.com/",
+    "phone": "+917230058142",
+    "phoneUnformatted": "+917230058142",
+    "location": {
+      "lat": 26.2623074,
+      "lng": 72.9988565
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOYAwiIiNQTkR0tgojJCYkE0",
+    "categories": [
+      "Car dealer",
+      "Auto accessories wholesaler",
+      "Auto parts store",
+      "Auto repair shop",
+      "Car wash",
+      "Showroom"
+    ],
+    "reviewsCount": 103,
+    "imagesCount": 48,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz7d81kVrmldDqFy0saUp7oI_Vmp1dvhP53mGJvpBfE1WOITjR6u2rSGk42zWtNgv1UnreuxOqtPIcG_t2F7TbpIir6R10Ofi_gE9-XzfeDpGsVgblLxcMtDP9u3COO4CNR348SQw=w533-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Utsav%20Jeep%20Jodhpur&query_place_id=ChIJOYAwiIiNQTkR0tgojJCYkE0"
+  },
+  {
+    "title": "Vishwas Auto Gas",
+    "subTitle": "विश्वास ऑटो गैस",
+    "categoryName": "Car dealer",
+    "address": "shop no.9-10, 34, New Power House Rd, Sector-H, industrial estate, Jodhpur, Rajasthan 342001, India",
+    "neighborhood": "Sector-H, industrial estate",
+    "street": "shop no.9-10, 34, New Power House Rd",
+    "city": "Jodhpur",
+    "postalCode": "342001",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "phone": "+919414129257",
+    "phoneUnformatted": "+919414129257",
+    "location": {
+      "lat": 26.2590491,
+      "lng": 73.0112855
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4epIIRSMQTkRb8olf11YKAg",
+    "categories": [
+      "Car dealer",
+      "Auto body shop",
+      "Auto insurance agency",
+      "Auto repair shop",
+      "Car battery store",
+      "CNG fitment center",
+      "Tire shop",
+      "Wheel alignment service"
+    ],
+    "reviewsCount": 266,
+    "imagesCount": 34,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 2 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNJOkVUughb7rltMYzExI7xIrGv3gRgUGnz9yf5=w408-h408-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Vishwas%20Auto%20Gas&query_place_id=ChIJ4epIIRSMQTkRb8olf11YKAg"
+  },
+  {
+    "title": "Yash E- Vahan Service",
+    "subTitle": "यश ई वाहन र्सविस",
+    "categoryName": "Car rental agency",
+    "address": "No 8A, Karan Singh Ji Ka Hatha, Paota C Rd, Paota, Jodhpur, Rajasthan 342006, India",
+    "neighborhood": "Mahamandir, Paota",
+    "street": "No 8A, Karan Singh Ji Ka Hatha, Paota C Rd",
+    "city": "Jodhpur",
+    "postalCode": "342006",
+    "state": "Rajasthan",
+    "countryCode": "IN",
+    "location": {
+      "lat": 26.302758,
+      "lng": 73.038893
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR1aaMVuMQTkRAp5XAcVPBlE",
+    "categories": [
+      "Car rental agency",
+      "Bus tour agency",
+      "Car leasing service",
+      "Hotel",
+      "Sightseeing tour agency",
+      "Taxi service",
+      "Tour agency",
+      "Travel agency",
+      "Van rental agency"
+    ],
+    "reviewsCount": 73,
+    "imagesCount": 5,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzrc35NNUWP2cpMwr1W8mS2C0vsbgvnVgC6vXTnRTqCVj2YSnINA2mZhcpHT-EeVQqwL_knQ45YjLgzlBQZM_kZm2V9ewuLePB9BYtuNwcG84qBC2uZPsChrWELKhVGG-emWnp3DA=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Yash%20E-%20Vahan%20Service&query_place_id=ChIJR1aaMVuMQTkRAp5XAcVPBlE"
+  }
+]

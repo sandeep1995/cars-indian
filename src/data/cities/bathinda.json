@@ -1,0 +1,634 @@
+[
+  {
+    "title": "Best Car Deals & Properties",
+    "categoryName": "Used car dealer",
+    "address": "Road, 100ft, Sahibzada Ajit Singh Ji Chowk, near Grand Chicken, Model Town, Phase-3, Model Town, Bathinda, Punjab 151001, India",
+    "neighborhood": "Model Town, Phase-3, Model Town",
+    "street": "Road, 100ft, Sahibzada Ajit Singh Ji Chowk, near Grand Chicken",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "http://www.bestcardeals.com/",
+    "phone": "+919855167740",
+    "phoneUnformatted": "+919855167740",
+    "location": {
+      "lat": 30.2134685,
+      "lng": 74.9535716
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSblG2ZwzFzkR4QDMar3rk1w",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 25,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhqqto3EOqujrmvJWVhgXy24BRqjt9m6BaVj7-=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Car%20Deals%20%26%20Properties&query_place_id=ChIJSblG2ZwzFzkR4QDMar3rk1w"
+  },
+  {
+    "title": "Car Choice",
+    "subTitle": "ਕਾਰ ਚੌਇਸ",
+    "categoryName": "Used car dealer",
+    "address": "SH 17, Bibi Wala Rd, near DAV SCHOOL, Bathinda, Punjab 151001, India",
+    "neighborhood": "Bathinda",
+    "street": "SH 17, Bibi Wala Rd, near DAV SCHOOL",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919216856056",
+    "phoneUnformatted": "+919216856056",
+    "location": {
+      "lat": 30.2177639,
+      "lng": 74.9520746
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK3aKh5otFzkRl4SB1T3UVqk",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 21,
+    "imagesCount": 34,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 to 7:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 7:30 AM, 9 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6:30 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4TaYtkQKRL3gL_HeEfxXZFkJLsMsQJtfWsCRf=w408-h544-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Car%20Choice&query_place_id=ChIJK3aKh5otFzkRl4SB1T3UVqk"
+  },
+  {
+    "title": "Ekam Real Estate & Used Car Deals",
+    "subTitle": "ਏਕਮ ਰਿਆਲ ਅਸਟੇਟ & ਉਸੇਦ ਕਾਰ ਡੀਲਜ਼",
+    "categoryName": "Used car dealer",
+    "address": "22792, Street, No.9, Power House Rd, Model Town, Phase-3, Bathinda, Punjab 151001, India",
+    "neighborhood": "Model Town, Phase-3, Model Town",
+    "street": "22792, Street, No.9, Power House Rd",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919815480537",
+    "phoneUnformatted": "+919815480537",
+    "location": {
+      "lat": 30.2100024,
+      "lng": 74.9613462
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRzEL-7kyFzkRnqyGU0EHyNo",
+    "categories": [
+      "Used car dealer",
+      "Real estate agent"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 9,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx_5VZevcPs0NI73IqPQKGMJSPVKzd4pEgpwn0yB9AgnlXmqD7spD4ElF8J2KtdkQ6PXHXdV6fIzQhU3JXqK0R-IEgJN7ZgF3hRNNgVx6rvGmsbMiquLb4bGIbLDmw14jtNrTOa=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ekam%20Real%20Estate%20%26%20Used%20Car%20Deals&query_place_id=ChIJRzEL-7kyFzkRnqyGU0EHyNo"
+  },
+  {
+    "title": "Farid luxury car Doli service",
+    "categoryName": "Car leasing service",
+    "address": "Kishori Ram road, near Red light, North Estate, Chandsar Basti, Bathinda, Punjab 151001, India",
+    "neighborhood": "North Estate, Chandsar Basti",
+    "street": "Kishori Ram road, near Red light",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://wa.me/qr/CVUGNNOKBN2UN1",
+    "phone": "+919876672990",
+    "phoneUnformatted": "+919876672990",
+    "location": {
+      "lat": 30.2256754,
+      "lng": 74.9523206
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfbvxch0zFzkRBrgUysqhUHQ",
+    "categories": [
+      "Car leasing service"
+    ],
+    "reviewsCount": 30,
+    "imagesCount": 90,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwoneYBOSwNm5B3HPEKYdjf_azLehfQ2pk2XCXZQFRtL-OhqNzPkVt9LjLRmpNd1gCHbWKmYYfA19vt68tvbjPJ4tF8iYk9ZCHuZinlprINVjbFscNBvUsW0DTszrCs5NHsF4yMO_Voydw=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Farid%20luxury%20car%20Doli%20service&query_place_id=ChIJfbvxch0zFzkRBrgUysqhUHQ"
+  },
+  {
+    "title": "Indian Motor",
+    "categoryName": "Used car dealer",
+    "address": "100 Feet Rd, opp. National Bakery, Bathinda, Punjab 151001, India",
+    "neighborhood": "Bathinda",
+    "street": "100 Feet Rd, opp. National Bakery",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919888472802",
+    "phoneUnformatted": "+919888472802",
+    "location": {
+      "lat": 30.217634,
+      "lng": 74.953156
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIfn02RAzFzkRI9I6Mh44LXc",
+    "categories": [
+      "Used car dealer",
+      "Motoring club"
+    ],
+    "reviewsCount": 7,
+    "imagesCount": 40,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNUHqaXwuacG2gAfqp0TrHNuSocxWRKcOdOvu8K=w408-h272-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Motor&query_place_id=ChIJIfn02RAzFzkRI9I6Mh44LXc"
+  },
+  {
+    "title": "Jawa Yezdi Motorcycles - Reedhi Seedhi Autos",
+    "categoryName": "Motorcycle dealer",
+    "address": "Ground Floor, Road, Bathinda Rd, opposite DAV College Play Ground, Bathinda, Punjab 151001, India",
+    "neighborhood": "Bathinda",
+    "street": "Ground Floor, Road, Bathinda Rd, opposite DAV College Play Ground",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://dealer.jawayezdimotorcycles.com/locator/bathinda/Chandsar-Basti/jawa-yezdi-motorcycles-reedhi-seedhi-autos-in-Chandsar-Basti-bathinda--5j2bu5/home",
+    "location": {
+      "lat": 30.217802,
+      "lng": 74.9523542
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdVihdiQzFzkRRO589MbHa24",
+    "categories": [
+      "Motorcycle dealer",
+      "Motor vehicle dealer",
+      "Motorcycle shop"
+    ],
+    "reviewsCount": 143,
+    "imagesCount": 86,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBxlox5GUqrzjirPx1aJ0CgAD1V_bbzSy-4Zu2=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jawa%20Yezdi%20Motorcycles%20-%20Reedhi%20Seedhi%20Autos&query_place_id=ChIJdVihdiQzFzkRRO589MbHa24"
+  },
+  {
+    "title": "Krishna Tour & Travels",
+    "subTitle": "ਕ੍ਰਿਸ਼ਨ ਟੂਰ & ਟਰੈਵਲਜ਼",
+    "categoryName": "Car dealer",
+    "address": "Shop No-70, New Subhash Market, Mall Rd, near Water Tank, Old City, Bathinda, Punjab 151001, India",
+    "neighborhood": "Old City",
+    "street": "Shop No-70, New Subhash Market, Mall Rd, near Water Tank",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "website": "https://krishnatt.wordpress.com/",
+    "phone": "+919872617145",
+    "phoneUnformatted": "+919872617145",
+    "location": {
+      "lat": 30.2124153,
+      "lng": 74.9371561
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCXf0oJAyFzkRHs5IVyG7Iys",
+    "categories": [
+      "Car dealer",
+      "Taxi service",
+      "Carpooling location",
+      "Tour agency",
+      "Travel agency"
+    ],
+    "reviewsCount": 16,
+    "imagesCount": 52,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN02P-wJqZMvYQBMc4SIefaUHQmzLCjfEe2SVpX=w493-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Krishna%20Tour%20%26%20Travels&query_place_id=ChIJCXf0oJAyFzkRHs5IVyG7Iys"
+  },
+  {
+    "title": "Luxury Car Wash",
+    "categoryName": "Car wash",
+    "address": "Dhobiana Rd, near St.Xavier's Senior Secondary School Building, Model Town Phase 2, Model Town, Bathinda, Punjab 151001, India",
+    "neighborhood": "Model Town Phase 2, Model Town",
+    "street": "Dhobiana Rd, near St.Xavier's Senior Secondary School Building",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919729572130",
+    "phoneUnformatted": "+919729572130",
+    "location": {
+      "lat": 30.2051118,
+      "lng": 74.9597761
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJa9hIfNUtFzkRz2Z3tFqWHPc",
+    "categories": [
+      "Car wash"
+    ],
+    "reviewsCount": 1,
+    "imagesCount": 39,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP0ksCltve_7iWJrcqOX4uK0ckg_Kpaalr0e_Bg=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Car%20Wash&query_place_id=ChIJa9hIfNUtFzkRz2Z3tFqWHPc"
+  },
+  {
+    "title": "MAAN TOUR AND TRAVELS",
+    "categoryName": "Car rental agency",
+    "address": "Model Town, Phase-3, Model Town, Bathinda, Punjab 151001, India",
+    "neighborhood": "Model Town, Phase-3, Model Town",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919878957409",
+    "phoneUnformatted": "+919878957409",
+    "location": {
+      "lat": 30.2128741,
+      "lng": 74.9612721
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSxd7hRYzFzkR0tEsjQkrMhI",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service"
+    ],
+    "reviewsCount": 27,
+    "imagesCount": 17,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO34cTQgrhjV0OceeYWPZ-RymAJSl26afLI1vn4=w408-h510-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=MAAN%20TOUR%20AND%20TRAVELS&query_place_id=ChIJSxd7hRYzFzkR0tEsjQkrMhI"
+  },
+  {
+    "title": "Sahib Tour and Travels Bathinda - Best Taxi Service in Bathinda | Taxi Rental in Bathinda",
+    "categoryName": "Car rental agency",
+    "address": "Gali no. 1, Pulse Hospital, 100 Feet Rd, Model Town, Phase-3, Shant Nagar, Bathinda, Punjab 151001, India",
+    "neighborhood": "Model Town, Phase-3, Shant Nagar",
+    "street": "Gali no. 1, Pulse Hospital, 100 Feet Rd",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+919876409078",
+    "phoneUnformatted": "+919876409078",
+    "location": {
+      "lat": 30.2102646,
+      "lng": 74.9540501
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRYQkabYzFzkRwL02b6lscmo",
+    "categories": [
+      "Car rental agency",
+      "Car leasing service",
+      "Taxi service",
+      "Tourist information center",
+      "Travel agency"
+    ],
+    "reviewsCount": 36,
+    "imagesCount": 25,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNU08EItSK6J7GH1CPlCbwpKxbqjEwT9Si2vo-Q=w408-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sahib%20Tour%20and%20Travels%20Bathinda%20-%20Best%20Taxi%20Service%20in%20Bathinda%20%7C%20Taxi%20Rental%20in%20Bathinda&query_place_id=ChIJRYQkabYzFzkRwL02b6lscmo"
+  },
+  {
+    "title": "Sidhu Cab Bathinda",
+    "subTitle": "ਸਿੱਧੂ ਕੈਬ",
+    "categoryName": "Car rental agency",
+    "address": "Power House Rd, Civil Lines, Bathinda, Punjab 151001, India",
+    "neighborhood": "Civil Lines",
+    "street": "Power House Rd",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "phone": "+918360402715",
+    "phoneUnformatted": "+918360402715",
+    "location": {
+      "lat": 30.2048874,
+      "lng": 74.9463929
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLSJ2o1MzFzkRI5sDfqsmxQM",
+    "categories": [
+      "Car rental agency",
+      "Airport shuttle service",
+      "Car leasing service",
+      "Taxi service",
+      "Minibus taxi service"
+    ],
+    "reviewsCount": 153,
+    "imagesCount": 66,
+    "openingHours": [],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMcOc_8yq2SQ_dyPGQCSrbSYBtbZV6fV6foD805=w426-h240-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sidhu%20Cab%20Bathinda&query_place_id=ChIJLSJ2o1MzFzkRI5sDfqsmxQM"
+  },
+  {
+    "title": "Upkar Car Dealer",
+    "subTitle": "ਉਪਕਾਰ ਕਾਰ ਡੀਲਰ",
+    "categoryName": "Used car dealer",
+    "address": "100 Feet Rd, near Garg multi-speciality hospital, Model Town, Phase-3, Model Town, Bathinda, Punjab 151001, India",
+    "neighborhood": "Model Town, Phase-3, Model Town",
+    "street": "100 Feet Rd, near Garg multi-speciality hospital",
+    "city": "Bathinda",
+    "postalCode": "151001",
+    "state": "Punjab",
+    "countryCode": "IN",
+    "location": {
+      "lat": 30.2105523,
+      "lng": 74.9537062
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5e2qmqgyFzkR_uS2Lar5daM",
+    "categories": [
+      "Used car dealer"
+    ],
+    "reviewsCount": 15,
+    "imagesCount": 27,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyHpHH7vtCjMpx9OmQ-BYY0gNppKOX9MykV7gbobNJWWtWZ8wXpgZl_xM3Afv4tQvKuBZeh-QbcKNJDzYnJOFzhI4Y8TlytWrPyk3ulAAlsPs-Z5LeEiVgf7XHkprgzKSEJfUpq=w408-h306-k-no",
+    "url": "https://www.google.com/maps/search/?api=1&query=Upkar%20Car%20Dealer&query_place_id=ChIJ5e2qmqgyFzkR_uS2Lar5daM"
+  }
+]
