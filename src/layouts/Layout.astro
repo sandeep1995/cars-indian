@@ -136,7 +136,17 @@ const canonical = site ? new URL(Astro.url.pathname, site).href : undefined;
 	:global(.container) {
 		max-width: 1180px;
 		margin: 0 auto;
-		padding: 26px 16px;
+		padding: 20px 16px;
+	}
+	@media (min-width: 640px) {
+		:global(.container) {
+			padding: 24px 20px;
+		}
+	}
+	@media (min-width: 1024px) {
+		:global(.container) {
+			padding: 26px 24px;
+		}
 	}
 
 	:global(.section) {
@@ -162,18 +172,26 @@ const canonical = site ? new URL(Astro.url.pathname, site).href : undefined;
 		display: inline-flex;
 		align-items: center;
 		justify-content: center;
-		gap: 10px;
-		padding: 11px 14px;
+		gap: 8px;
+		padding: 10px 14px;
 		border-radius: 999px;
 		border: 1px solid var(--border);
 		background: rgba(255, 255, 255, 0.06);
 		color: var(--text);
 		text-decoration: none;
 		font-weight: 700;
+		font-size: 14px;
 		letter-spacing: -0.01em;
 		box-shadow: 0 0 0 1px rgba(0, 0, 0, 0) inset;
 		transition: transform 140ms ease, background 140ms ease, border-color 140ms ease, box-shadow 140ms ease,
 			filter 140ms ease;
+		white-space: nowrap;
+	}
+	@media (min-width: 640px) {
+		:global(.btn) {
+			padding: 11px 14px;
+			gap: 10px;
+		}
 	}
 	:global(.btn:hover) {
 		background: rgba(255, 255, 255, 0.09);

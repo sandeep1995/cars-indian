@@ -55,27 +55,27 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 		.pageHero {
 			display: flex;
 			flex-direction: column;
-			gap: 14px;
+			gap: 16px;
 			justify-content: space-between;
-			margin-bottom: 16px;
-			padding: 18px;
-			border-radius: 22px;
+			margin-bottom: 20px;
+			padding: 20px;
+			border-radius: 20px;
 			border: 1px solid rgba(255, 255, 255, 0.12);
 			background: radial-gradient(1100px 520px at 12% 10%, rgba(214, 178, 94, 0.18), rgba(0, 0, 0, 0)),
 				rgba(255, 255, 255, 0.05);
 		}
 		.kicker {
-			font-size: 12px;
-			letter-spacing: 0.12em;
+			font-size: 11px;
+			letter-spacing: 0.1em;
 			text-transform: uppercase;
 			color: rgba(250, 251, 255, 0.78);
-			margin-bottom: 6px;
+			margin-bottom: 8px;
 		}
 		h1 {
 			margin: 0;
-			font-size: 34px;
+			font-size: 28px;
 			letter-spacing: -0.03em;
-			line-height: 1.08;
+			line-height: 1.1;
 		}
 		.pageHeroActions {
 			display: flex;
@@ -83,10 +83,10 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 			gap: 10px;
 		}
 		.formCard {
-			padding: 18px;
+			padding: 16px;
 		}
 		.formHead {
-			margin-bottom: 12px;
+			margin-bottom: 14px;
 		}
 		.formHead h2 {
 			margin: 0;
@@ -94,9 +94,10 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 		}
 		.formHead p {
 			margin: 6px 0 0;
+			font-size: 14px;
 		}
 		.embedWrap {
-			border-radius: 16px;
+			border-radius: 14px;
 			overflow: hidden;
 			border: 1px solid rgba(255, 255, 255, 0.12);
 			background: rgba(0, 0, 0, 0.18);
@@ -105,17 +106,35 @@ const description = 'Get offers for pre-owned luxury cars. Tell us what you want
 			display: block;
 			width: 100%;
 			border: 0;
+			min-height: 500px;
 		}
 		.footerNote {
 			margin-top: 12px;
+			font-size: 12px;
 		}
 		.small {
 			font-size: 13px;
+		}
+		@media (min-width: 640px) {
+			.pageHero {
+				padding: 24px;
+				border-radius: 22px;
+			}
+			h1 {
+				font-size: 32px;
+			}
+			.formCard {
+				padding: 20px;
+			}
+			iframe {
+				min-height: 560px;
+			}
 		}
 		@media (min-width: 720px) {
 			.pageHero {
 				flex-direction: row;
 				align-items: flex-end;
+				padding: 28px;
 			}
 			h1 {
 				font-size: 40px;

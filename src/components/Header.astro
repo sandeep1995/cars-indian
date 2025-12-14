@@ -11,10 +11,19 @@ const nav: NavItem[] = [
 	<div class="container inner">
 		<a class="brand" href="/" aria-label="Home">
 			<span class="mark" aria-hidden="true">ILC</span>
-			<span class="brandText">IndianLuxuryCars.com</span>
+			<span class="brandText">
+				<span class="brandMain">IndianLuxuryCars</span>
+				<span class="brandDomain">.com</span>
+			</span>
 		</a>
 
-		<nav class="nav" aria-label="Primary">
+		<button class="mobileMenuBtn" aria-label="Toggle menu" aria-expanded="false" id="mobileMenuBtn">
+			<span></span>
+			<span></span>
+			<span></span>
+		</button>
+
+		<nav class="nav" aria-label="Primary" id="mainNav">
 			{nav.map((i) => (
 				<a class="navLink" href={i.href}>{i.label}</a>
 			))}
@@ -31,66 +40,229 @@ const nav: NavItem[] = [
 	.site-header {
 		position: sticky;
 		top: 0;
-		z-index: 50;
-		border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-		background: rgba(11, 15, 25, 0.75);
-		backdrop-filter: blur(14px);
+		z-index: 100;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+		background: rgba(5, 6, 10, 0.85);
+		backdrop-filter: blur(20px) saturate(180%);
+		-webkit-backdrop-filter: blur(20px) saturate(180%);
+		box-shadow: 0 1px 0 rgba(255, 255, 255, 0.05) inset, 0 8px 32px rgba(0, 0, 0, 0.4);
+		transition: background 0.3s ease, border-color 0.3s ease;
 	}
 	.inner {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		gap: 14px;
-		padding: 14px 16px;
+		gap: 12px;
+		padding: 12px 16px;
+		max-width: 100%;
+		position: relative;
 	}
 	.brand {
 		display: inline-flex;
 		align-items: center;
 		gap: 10px;
 		text-decoration: none;
+		transition: transform 0.2s ease;
+		flex-shrink: 0;
+	}
+	.brand:hover {
+		transform: translateY(-1px);
 	}
 	.mark {
-		width: 34px;
-		height: 34px;
+		width: 36px;
+		height: 36px;
 		display: inline-flex;
 		align-items: center;
 		justify-content: center;
 		border-radius: 10px;
-		background: linear-gradient(135deg, rgba(214, 178, 94, 0.98), rgba(241, 212, 138, 0.92), rgba(169, 124, 43, 0.9));
-		border: 1px solid rgba(255, 255, 255, 0.18);
-		font-weight: 800;
-		letter-spacing: -0.04em;
+		background: linear-gradient(135deg, rgba(214, 178, 94, 1), rgba(241, 212, 138, 0.95), rgba(169, 124, 43, 0.9));
+		border: 1px solid rgba(255, 255, 255, 0.2);
+		box-shadow: 0 4px 12px rgba(214, 178, 94, 0.3), 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
+		font-weight: 900;
+		font-size: 13px;
+		letter-spacing: -0.02em;
+		color: rgba(18, 12, 2, 0.95);
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+		flex-shrink: 0;
+	}
+	.brand:hover .mark {
+		transform: scale(1.05);
+		box-shadow: 0 6px 16px rgba(214, 178, 94, 0.4), 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
 	}
 	.brandText {
-		font-weight: 750;
-		letter-spacing: -0.02em;
+		display: flex;
+		flex-direction: column;
+		line-height: 1.1;
+	}
+	.brandMain {
+		font-weight: 800;
+		font-size: 14px;
+		letter-spacing: -0.03em;
+		color: rgba(250, 251, 255, 0.98);
+		white-space: nowrap;
+	}
+	.brandDomain {
+		font-weight: 600;
+		font-size: 10px;
+		letter-spacing: 0.02em;
+		color: rgba(250, 251, 255, 0.65);
+		margin-top: -2px;
+	}
+	.mobileMenuBtn {
+		display: flex;
+		flex-direction: column;
+		gap: 5px;
+		width: 32px;
+		height: 32px;
+		padding: 0;
+		background: transparent;
+		border: none;
+		cursor: pointer;
+		z-index: 101;
+		position: relative;
+	}
+	.mobileMenuBtn span {
+		display: block;
+		width: 100%;
+		height: 2px;
+		background: rgba(250, 251, 255, 0.9);
+		border-radius: 2px;
+		transition: all 0.3s ease;
+	}
+	.mobileMenuBtn.menuOpen span:nth-child(1) {
+		transform: rotate(45deg) translate(7px, 7px);
+	}
+	.mobileMenuBtn.menuOpen span:nth-child(2) {
+		opacity: 0;
+	}
+	.mobileMenuBtn.menuOpen span:nth-child(3) {
+		transform: rotate(-45deg) translate(7px, -7px);
 	}
 	.nav {
 		display: none;
-		gap: 14px;
+		gap: 4px;
 		align-items: center;
+	}
+	.nav.navOpen {
+		display: flex;
+		position: absolute;
+		top: 100%;
+		left: 0;
+		right: 0;
+		flex-direction: column;
+		align-items: stretch;
+		background: rgba(5, 6, 10, 0.98);
+		backdrop-filter: blur(20px);
+		border-top: 1px solid rgba(255, 255, 255, 0.08);
+		padding: 16px;
+		gap: 8px;
+		box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
 	}
 	.navLink {
 		text-decoration: none;
-		color: rgba(238, 242, 255, 0.86);
-		font-size: 14px;
-		padding: 8px 10px;
+		color: rgba(250, 251, 255, 0.82);
+		font-size: 15px;
+		font-weight: 500;
+		padding: 12px 16px;
 		border-radius: 10px;
+		transition: all 0.2s ease;
+		position: relative;
+		display: block;
+		text-align: left;
+	}
+	.nav.navOpen .navLink::after {
+		display: none;
+	}
+	.navLink::after {
+		content: '';
+		position: absolute;
+		bottom: 4px;
+		left: 14px;
+		right: 14px;
+		height: 2px;
+		background: linear-gradient(90deg, rgba(214, 178, 94, 0.8), rgba(241, 212, 138, 0.6));
+		opacity: 0;
+		transform: scaleX(0);
+		transition: all 0.2s ease;
 	}
 	.navLink:hover {
-		background: rgba(255, 255, 255, 0.06);
-		color: rgba(238, 242, 255, 0.98);
+		background: rgba(255, 255, 255, 0.05);
+		color: rgba(250, 251, 255, 0.98);
+	}
+	.navLink:hover::after {
+		opacity: 1;
+		transform: scaleX(1);
 	}
 	.actions {
-		display: flex;
+		display: none;
 		align-items: center;
-		gap: 10px;
+		gap: 8px;
+	}
+	.actions .btn {
+		font-size: 13px;
+		padding: 9px 12px;
+		white-space: nowrap;
+	}
+	@media (min-width: 640px) {
+		.inner {
+			padding: 14px 20px;
+			gap: 16px;
+		}
+		.mark {
+			width: 40px;
+			height: 40px;
+			font-size: 14px;
+		}
+		.brandMain {
+			font-size: 15px;
+		}
+		.brandDomain {
+			font-size: 11px;
+		}
+		.actions {
+			display: flex;
+		}
+		.mobileMenuBtn {
+			display: none;
+		}
 	}
 	@media (min-width: 720px) {
+		.inner {
+			padding: 18px 24px;
+			gap: 20px;
+		}
 		.nav {
 			display: inline-flex;
 		}
+		.brandMain {
+			font-size: 16px;
+		}
+		.actions .btn {
+			font-size: 14px;
+			padding: 11px 14px;
+		}
+	}
+	@media (min-width: 1024px) {
+		.inner {
+			padding: 20px 28px;
+		}
+		.brandMain {
+			font-size: 17px;
+		}
 	}
 </style>
+
+<script>
+	const menuBtn = document.getElementById('mobileMenuBtn');
+	const nav = document.getElementById('mainNav');
+	if (menuBtn && nav) {
+		menuBtn.addEventListener('click', () => {
+			const isOpen = menuBtn.getAttribute('aria-expanded') === 'true';
+			menuBtn.setAttribute('aria-expanded', String(!isOpen));
+			nav.classList.toggle('navOpen');
+			menuBtn.classList.toggle('menuOpen');
+		});
+	}
+</script>
 
 

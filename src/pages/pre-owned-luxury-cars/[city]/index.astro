@@ -83,12 +83,12 @@ const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 	<style>
 		.hero {
 			position: relative;
-			border-radius: 18px;
+			border-radius: 16px;
 			overflow: hidden;
 			border: 1px solid rgba(255, 255, 255, 0.12);
 			background: rgba(255, 255, 255, 0.06);
-			margin-bottom: 14px;
-			min-height: 190px;
+			margin-bottom: 16px;
+			min-height: 180px;
 		}
 		.heroMedia {
 			position: absolute;
@@ -115,31 +115,55 @@ const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 		.heroBody {
 			position: relative;
 			z-index: 1;
-			padding: 18px;
+			padding: 16px;
 			display: flex;
 			flex-direction: column;
 			gap: 8px;
 			justify-content: flex-end;
-			min-height: 190px;
+			min-height: 180px;
 		}
 		.crumbs {
 			display: flex;
-			gap: 10px;
+			gap: 8px;
 			align-items: center;
 			flex-wrap: wrap;
-			margin-bottom: 8px;
+			margin-bottom: 6px;
+			font-size: 13px;
 		}
 		.crumbs a {
 			color: rgba(238, 242, 255, 0.88);
 			text-decoration: none;
 		}
+		.crumbs .muted {
+			font-size: 12px;
+		}
 		h1 {
 			margin: 0;
-			font-size: 30px;
+			font-size: 26px;
 			letter-spacing: -0.02em;
 		}
 		.heroActions {
-			margin-top: 4px;
+			margin-top: 6px;
+			display: flex;
+			flex-wrap: wrap;
+			gap: 8px;
+		}
+		@media (min-width: 640px) {
+			.hero {
+				border-radius: 18px;
+				min-height: 200px;
+			}
+			.heroBody {
+				padding: 20px;
+				min-height: 200px;
+			}
+			h1 {
+				font-size: 30px;
+			}
+			.crumbs {
+				font-size: 14px;
+				gap: 10px;
+			}
 		}
 		h2 {
 			margin: 0 0 10px;

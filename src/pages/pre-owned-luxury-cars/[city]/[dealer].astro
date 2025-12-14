@@ -178,12 +178,12 @@ const heroImage = dealer.imageUrl;
 	<style>
 		.hero {
 			position: relative;
-			border-radius: 18px;
+			border-radius: 16px;
 			overflow: hidden;
 			border: 1px solid rgba(255, 255, 255, 0.12);
 			background: rgba(255, 255, 255, 0.06);
-			margin-bottom: 14px;
-			min-height: 220px;
+			margin-bottom: 16px;
+			min-height: 200px;
 		}
 		.heroMedia {
 			position: absolute;
@@ -210,38 +210,50 @@ const heroImage = dealer.imageUrl;
 		.heroBody {
 			position: relative;
 			z-index: 1;
-			padding: 18px;
+			padding: 16px;
 			display: flex;
 			flex-direction: column;
 			gap: 8px;
 			justify-content: flex-end;
-			min-height: 220px;
+			min-height: 200px;
 		}
 		.crumbs {
 			display: flex;
-			gap: 10px;
+			gap: 8px;
 			align-items: center;
 			flex-wrap: wrap;
-			margin-bottom: 8px;
+			margin-bottom: 6px;
+			font-size: 12px;
 		}
 		.crumbs a {
 			color: rgba(238, 242, 255, 0.88);
 			text-decoration: none;
 		}
+		.crumbs .muted {
+			font-size: 11px;
+		}
 		h1 {
 			margin: 0;
-			font-size: 28px;
+			font-size: 24px;
 			letter-spacing: -0.02em;
+			line-height: 1.2;
 		}
 		.heroActions {
 			display: flex;
 			flex-wrap: wrap;
-			gap: 10px;
-			margin-top: 6px;
+			gap: 8px;
+			margin-top: 8px;
+		}
+		.heroActions .btn {
+			font-size: 13px;
+			padding: 9px 12px;
 		}
 		h2 {
-			margin: 0 0 10px;
-			font-size: 16px;
+			margin: 0 0 12px;
+			font-size: 18px;
+		}
+		.section {
+			margin-bottom: 16px;
 		}
 		.grid {
 			display: grid;
@@ -250,9 +262,9 @@ const heroImage = dealer.imageUrl;
 		}
 		.kv {
 			display: grid;
-			grid-template-columns: 90px 1fr;
-			gap: 10px;
-			padding: 8px 0;
+			grid-template-columns: 80px 1fr;
+			gap: 12px;
+			padding: 10px 0;
 			border-top: 1px solid rgba(255, 255, 255, 0.08);
 		}
 		.kv:first-of-type {
@@ -261,10 +273,11 @@ const heroImage = dealer.imageUrl;
 		}
 		.k {
 			color: rgba(238, 242, 255, 0.7);
-			font-size: 13px;
+			font-size: 12px;
 		}
 		.v {
 			font-size: 14px;
+			word-break: break-word;
 		}
 		.small {
 			font-size: 13px;
@@ -274,20 +287,22 @@ const heroImage = dealer.imageUrl;
 			align-items: baseline;
 			justify-content: space-between;
 			gap: 12px;
-			margin-bottom: 10px;
+			margin-bottom: 12px;
+			flex-wrap: wrap;
 		}
 		.score {
 			font-weight: 750;
-			font-size: 22px;
+			font-size: 20px;
 		}
 		.warn {
-			margin-top: 10px;
+			margin-top: 12px;
 			padding: 10px 12px;
 			border-radius: 12px;
 			border: 1px solid rgba(251, 146, 60, 0.35);
 			background: rgba(251, 146, 60, 0.12);
 			color: rgba(255, 237, 213, 0.95);
 			font-size: 13px;
+			line-height: 1.4;
 		}
 		.chips {
 			display: flex;
@@ -302,6 +317,37 @@ const heroImage = dealer.imageUrl;
 			border: 1px solid rgba(255, 255, 255, 0.14);
 			background: rgba(255, 255, 255, 0.06);
 			font-size: 12px;
+		}
+		@media (min-width: 640px) {
+			.hero {
+				border-radius: 18px;
+				min-height: 220px;
+			}
+			.heroBody {
+				padding: 20px;
+				min-height: 220px;
+			}
+			h1 {
+				font-size: 28px;
+			}
+			.crumbs {
+				font-size: 13px;
+				gap: 10px;
+			}
+			.kv {
+				grid-template-columns: 90px 1fr;
+			}
+			.k {
+				font-size: 13px;
+			}
+			.score {
+				font-size: 22px;
+			}
+		}
+		@media (min-width: 720px) {
+			.grid {
+				grid-template-columns: repeat(2, minmax(0, 1fr));
+			}
 		}
 		@media (min-width: 980px) {
 			.grid {
