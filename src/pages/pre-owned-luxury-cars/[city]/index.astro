@@ -1,6 +1,7 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
 import { getCities, getDealersByCitySlug, isLikelyUsedLuxuryDealer } from '../../../lib/dealers';
+import DealerCard from '../../../components/DealerCard.astro';
 
 export function getStaticPaths() {
 	return getCities().map((c) => ({
@@ -23,23 +24,35 @@ const jsonLd = {
 	name: title,
 	description,
 };
+
+const heroImage = dealers.find((d) => !!d.imageUrl)?.imageUrl;
 ---
 
 <Layout title={title} description={description} jsonLd={jsonLd}>
 	<div class="container">
-		<header class="top">
-			<div>
+		<header class="hero">
+			<div class="heroMedia" aria-hidden="true">
+				{heroImage ? (
+					<img src={heroImage} alt="" loading="eager" decoding="async" referrerpolicy="no-referrer" />
+				) : (
+					<div class="placeholder"></div>
+				)}
+				<div class="fade"></div>
+			</div>
+			<div class="heroBody">
 				<nav class="crumbs">
 					<a href="/">Home</a>
 					<span class="muted">/</span>
-					<a href="/pre-owned-luxury-cars">Pre-owned luxury cars</a>
+					<a href="/pre-owned-luxury-cars">Cities</a>
 					<span class="muted">/</span>
 					<span>{cityName}</span>
 				</nav>
 				<h1>{cityName}</h1>
 				<p class="muted">{dealers.length} dealers</p>
+				<div class="heroActions">
+					<a class="btn" href="/pre-owned-luxury-cars">All cities</a>
+				</div>
 			</div>
-			<a class="btn" href="/pre-owned-luxury-cars">All cities</a>
 		</header>
 
 		{featured.length ? (
@@ -47,20 +60,7 @@ const jsonLd = {
 				<h2>Featured dealers</h2>
 				<div class="grid">
 					{featured.map((d) => (
-						<a class="dealer" href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`}>
-							<div class="name">{d.title}</div>
-							<div class="meta">
-								{typeof d.totalScore === 'number' ? (
-									<span class="pill">{d.totalScore.toFixed(1)} ★</span>
-								) : null}
-								{typeof d.reviewsCount === 'number' ? (
-									<span class="muted">{d.reviewsCount} reviews</span>
-								) : null}
-							</div>
-							{d.neighborhood || d.address ? (
-								<div class="muted addr">{d.neighborhood ?? d.address}</div>
-							) : null}
-						</a>
+						<DealerCard dealer={d} href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`} />
 					))}
 				</div>
 			</section>
@@ -68,37 +68,55 @@ const jsonLd = {
 
 		<section class="card section">
 			<h2>All dealers</h2>
-			<div class="list">
+			<div class="grid">
 				{dealers.map((d) => (
-					<a class="row" href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`}>
-						<div>
-							<div class="name">{d.title}</div>
-							<div class="muted small">{d.categoryName}</div>
-							{d.neighborhood || d.address ? (
-								<div class="muted small">{d.neighborhood ?? d.address}</div>
-							) : null}
-						</div>
-						<div class="right">
-							{typeof d.totalScore === 'number' ? (
-								<div class="pill">{d.totalScore.toFixed(1)} ★</div>
-							) : null}
-							{typeof d.reviewsCount === 'number' ? (
-								<div class="muted small">{d.reviewsCount} reviews</div>
-							) : null}
-						</div>
-					</a>
+					<DealerCard dealer={d} href={`/pre-owned-luxury-cars/${citySlug}/${d.dealerSlug}`} />
 				))}
 			</div>
 		</section>
 	</div>
 
 	<style>
-		.top {
+		.hero {
+			position: relative;
+			border-radius: 18px;
+			overflow: hidden;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			background: rgba(255, 255, 255, 0.06);
+			margin-bottom: 14px;
+			min-height: 190px;
+		}
+		.heroMedia {
+			position: absolute;
+			inset: 0;
+		}
+		.heroMedia img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			filter: saturate(1.05) contrast(1.05);
+		}
+		.placeholder {
+			width: 100%;
+			height: 100%;
+			background: radial-gradient(1000px 520px at 10% 10%, rgba(99, 102, 241, 0.35), rgba(0, 0, 0, 0)),
+				radial-gradient(1000px 520px at 90% 10%, rgba(168, 85, 247, 0.22), rgba(0, 0, 0, 0)),
+				rgba(255, 255, 255, 0.06);
+		}
+		.fade {
+			position: absolute;
+			inset: 0;
+			background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.7) 70%, rgba(0, 0, 0, 0.85) 100%);
+		}
+		.heroBody {
+			position: relative;
+			z-index: 1;
+			padding: 18px;
 			display: flex;
-			align-items: flex-start;
-			justify-content: space-between;
-			gap: 16px;
-			margin-bottom: 16px;
+			flex-direction: column;
+			gap: 8px;
+			justify-content: flex-end;
+			min-height: 190px;
 		}
 		.crumbs {
 			display: flex;
@@ -116,6 +134,9 @@ const jsonLd = {
 			font-size: 30px;
 			letter-spacing: -0.02em;
 		}
+		.heroActions {
+			margin-top: 4px;
+		}
 		h2 {
 			margin: 0 0 10px;
 			font-size: 18px;
@@ -127,64 +148,6 @@ const jsonLd = {
 			display: grid;
 			grid-template-columns: repeat(1, minmax(0, 1fr));
 			gap: 10px;
-		}
-		.dealer {
-			display: block;
-			text-decoration: none;
-			padding: 12px;
-			border-radius: 12px;
-			border: 1px solid rgba(255, 255, 255, 0.12);
-			background: rgba(0, 0, 0, 0.18);
-		}
-		.dealer:hover {
-			background: rgba(0, 0, 0, 0.24);
-		}
-		.meta {
-			display: flex;
-			gap: 10px;
-			align-items: center;
-			margin-top: 6px;
-		}
-		.addr {
-			margin-top: 6px;
-		}
-		.pill {
-			display: inline-flex;
-			align-items: center;
-			padding: 4px 8px;
-			border-radius: 999px;
-			background: rgba(99, 102, 241, 0.25);
-			border: 1px solid rgba(99, 102, 241, 0.35);
-			font-weight: 650;
-			font-size: 12px;
-		}
-		.list {
-			display: flex;
-			flex-direction: column;
-			gap: 8px;
-		}
-		.row {
-			display: flex;
-			justify-content: space-between;
-			gap: 12px;
-			text-decoration: none;
-			padding: 12px;
-			border-radius: 12px;
-			border: 1px solid rgba(255, 255, 255, 0.12);
-			background: rgba(0, 0, 0, 0.18);
-		}
-		.row:hover {
-			background: rgba(0, 0, 0, 0.24);
-		}
-		.name {
-			font-weight: 650;
-		}
-		.small {
-			font-size: 13px;
-		}
-		.right {
-			text-align: right;
-			min-width: 96px;
 		}
 		@media (min-width: 720px) {
 			.grid {

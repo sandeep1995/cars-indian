@@ -6,9 +6,11 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "r2:upload-images": "node scripts/upload-images-to-r2.mjs"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.895.0",
     "astro": "^5.16.5"
   }
 }

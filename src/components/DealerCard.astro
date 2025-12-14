@@ -1,0 +1,120 @@
+---
+import type { Dealer } from '../lib/dealers';
+
+type Props = {
+	dealer: Dealer;
+	href: string;
+};
+
+const { dealer, href } = Astro.props as Props;
+const rating = typeof dealer.totalScore === 'number' ? dealer.totalScore.toFixed(1) : undefined;
+---
+
+<a class="dealerCard" href={href}>
+	<div class="thumb" aria-hidden="true">
+		{dealer.imageUrl ? (
+			<img src={dealer.imageUrl} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+		) : (
+			<div class="placeholder"></div>
+		)}
+	</div>
+	<div class="body">
+		<div class="top">
+			<div class="title">{dealer.title}</div>
+			{rating ? <span class="pill">{rating} ★</span> : null}
+		</div>
+		<div class="muted small">{dealer.categoryName}</div>
+		{dealer.neighborhood || dealer.address ? (
+			<div class="muted small clamp">{dealer.neighborhood ?? dealer.address}</div>
+		) : null}
+		<div class="bottom">
+			{typeof dealer.reviewsCount === 'number' ? (
+				<span class="muted small">{dealer.reviewsCount} reviews</span>
+			) : (
+				<span class="muted small">View details</span>
+			)}
+		</div>
+	</div>
+</a>
+
+<style>
+	.dealerCard {
+		display: grid;
+		grid-template-columns: 110px 1fr;
+		gap: 12px;
+		text-decoration: none;
+		border-radius: 16px;
+		overflow: hidden;
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		background: rgba(0, 0, 0, 0.18);
+	}
+	.dealerCard:hover {
+		background: rgba(0, 0, 0, 0.24);
+		border-color: rgba(255, 255, 255, 0.18);
+	}
+	.thumb {
+		height: 100%;
+		min-height: 110px;
+		background: rgba(255, 255, 255, 0.06);
+	}
+	.thumb img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	.placeholder {
+		width: 100%;
+		height: 100%;
+		background: radial-gradient(900px 500px at 20% 10%, rgba(99, 102, 241, 0.32), rgba(0, 0, 0, 0)),
+			radial-gradient(900px 500px at 80% 40%, rgba(168, 85, 247, 0.22), rgba(0, 0, 0, 0)),
+			rgba(255, 255, 255, 0.06);
+	}
+	.body {
+		padding: 12px 12px 12px 0;
+		display: flex;
+		flex-direction: column;
+		gap: 6px;
+	}
+	.top {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		gap: 10px;
+	}
+	.title {
+		font-weight: 780;
+		letter-spacing: -0.02em;
+		line-height: 1.25;
+	}
+	.small {
+		font-size: 13px;
+	}
+	.pill {
+		display: inline-flex;
+		align-items: center;
+		padding: 4px 8px;
+		border-radius: 999px;
+		background: rgba(99, 102, 241, 0.25);
+		border: 1px solid rgba(99, 102, 241, 0.35);
+		font-weight: 750;
+		font-size: 12px;
+		white-space: nowrap;
+	}
+	.clamp {
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+	.bottom {
+		margin-top: auto;
+		padding-top: 6px;
+	}
+	@media (min-width: 720px) {
+		.dealerCard {
+			grid-template-columns: 140px 1fr;
+		}
+	}
+</style>
+
+

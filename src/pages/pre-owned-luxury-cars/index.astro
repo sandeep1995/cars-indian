@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getCities } from '../../lib/dealers';
+import { getCities, getDealersByCitySlug } from '../../lib/dealers';
+import CityCard from '../../components/CityCard.astro';
 
 const cities = getCities();
 const jsonLd = {
@@ -9,6 +10,12 @@ const jsonLd = {
 	name: 'Pre-owned Luxury Cars by City (India)',
 	description: 'Browse pre-owned luxury car dealers by city across India.',
 };
+
+const previews = new Map<string, string | undefined>();
+for (const c of cities) {
+	const d = getDealersByCitySlug(c.citySlug).find((x) => !!x.imageUrl);
+	previews.set(c.citySlug, d?.imageUrl);
+}
 ---
 
 <Layout
@@ -17,48 +24,77 @@ const jsonLd = {
 	jsonLd={jsonLd}
 >
 	<div class="container">
-		<header class="top">
-			<div>
-				<h1>Pre-owned luxury cars</h1>
-				<p class="muted">Choose a city to see dealers and contact details.</p>
+		<header class="hero card">
+			<div class="heroText">
+				<div class="kicker">Indian Luxury Cars</div>
+				<h1>Browse cities</h1>
+				<p class="muted">Verified dealers, reviews, locations — all in one place.</p>
 			</div>
-			<a class="btn" href="/">Home</a>
+			<div class="heroStats">
+				<div class="stat">
+					<div class="num">{cities.length}</div>
+					<div class="muted small">cities</div>
+				</div>
+			</div>
 		</header>
 
 		<div class="grid">
 			{cities.map((c) => (
-				<a class="card city" href={`/pre-owned-luxury-cars/${c.citySlug}`}>
-					<div class="name">{c.cityName}</div>
-					<div class="muted">{c.count} dealers</div>
-				</a>
+				<CityCard
+					cityName={c.cityName}
+					citySlug={c.citySlug}
+					count={c.count}
+					imageUrl={previews.get(c.citySlug)}
+				/>
 			))}
 		</div>
 	</div>
 
 	<style>
-		.top {
+		.hero {
 			display: flex;
 			align-items: flex-start;
 			justify-content: space-between;
 			gap: 16px;
-			margin-bottom: 18px;
+			margin-bottom: 16px;
+			padding: 18px;
+			background: radial-gradient(900px 500px at 15% 20%, rgba(99, 102, 241, 0.22), rgba(0, 0, 0, 0)),
+				radial-gradient(900px 500px at 85% 30%, rgba(168, 85, 247, 0.18), rgba(0, 0, 0, 0)),
+				rgba(255, 255, 255, 0.06);
+		}
+		.kicker {
+			font-size: 12px;
+			letter-spacing: 0.08em;
+			text-transform: uppercase;
+			color: rgba(238, 242, 255, 0.72);
+			margin-bottom: 8px;
 		}
 		h1 {
 			margin: 0;
-			font-size: 30px;
+			font-size: 32px;
+			letter-spacing: -0.02em;
+		}
+		.heroStats {
+			display: flex;
+			gap: 10px;
+		}
+		.stat {
+			padding: 10px 12px;
+			border-radius: 14px;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			background: rgba(0, 0, 0, 0.18);
+			min-width: 92px;
+			text-align: center;
+		}
+		.num {
+			font-weight: 850;
+			font-size: 22px;
 			letter-spacing: -0.02em;
 		}
 		.grid {
 			display: grid;
 			grid-template-columns: repeat(1, minmax(0, 1fr));
 			gap: 12px;
-		}
-		.city {
-			text-decoration: none;
-		}
-		.name {
-			font-weight: 650;
-			font-size: 18px;
 		}
 		@media (min-width: 720px) {
 			.grid {
