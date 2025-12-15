@@ -23,9 +23,11 @@ export const GET: APIRoute = ({ site }) => {
   urls.push(absolute(site, '/'));
   urls.push(absolute(site, '/contact'));
   urls.push(absolute(site, '/pre-owned-luxury-cars'));
+  urls.push(absolute(site, '/second-hand-luxury-cars'));
 
   for (const c of getCities()) {
     urls.push(absolute(site, `/pre-owned-luxury-cars/${c.citySlug}`));
+    urls.push(absolute(site, `/second-hand-luxury-cars/${c.citySlug}`));
   }
 
   for (const d of getAllDealers()) {

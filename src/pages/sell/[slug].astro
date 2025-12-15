@@ -16,6 +16,7 @@ export async function getStaticPaths() {
       params: { slug: `luxury-cars-in-${city.citySlug}` },
       props: { 
         city: city.cityName,
+        citySlug: city.citySlug,
         brand: undefined 
       }
     });
@@ -28,6 +29,7 @@ export async function getStaticPaths() {
          params: { slug: `${brandSlug}-in-${city.citySlug}` },
          props: {
            city: city.cityName,
+           citySlug: city.citySlug,
            brand: brand
          }
        });
@@ -36,7 +38,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { city, brand } = Astro.props;
+const { city, citySlug, brand } = Astro.props;
 ---
 
-<SellCarCityPage city={city} brand={brand} />
+<SellCarCityPage city={city} citySlug={citySlug} brand={brand} />

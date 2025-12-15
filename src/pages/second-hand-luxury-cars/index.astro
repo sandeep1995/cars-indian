@@ -8,8 +8,8 @@ const cities = getCities();
 const jsonLd = {
 	'@context': 'https://schema.org',
 	'@type': 'CollectionPage',
-	name: 'Pre-owned Luxury Cars by City (India)',
-	description: 'Browse pre-owned luxury car dealers by city across India.',
+	name: 'Second Hand Luxury Cars by City (India)',
+	description: 'Browse verified second hand luxury car dealers by city across India.',
 };
 
 const previews = new Map<string, string | undefined>();
@@ -30,16 +30,16 @@ for (const c of cities) {
 ---
 
 <Layout
-	title="Luxury Car Dealerships by City | IndianLuxuryCars.com"
-	description="Browse pre-owned luxury car dealers by city across India."
+	title="Second Hand Luxury Cars by City | IndianLuxuryCars.com"
+	description="Browse verified second hand luxury car dealers by city across India. Find the best deals on used Audi, BMW, Mercedes and more."
 	jsonLd={jsonLd}
 >
 	<div class="max-w-[1180px] mx-auto px-6 py-12 lg:py-20">
 		<header class="mb-16 max-w-3xl">
-			<h1 class="text-4xl md:text-5xl font-serif text-white mb-6">Exclusive Locations</h1>
+			<h1 class="text-4xl md:text-5xl font-serif text-white mb-6">Second Hand Luxury Cars by City</h1>
 			<p class="text-xl text-white/60 font-light leading-relaxed">
 				Explore our curated network of premium dealerships across {cities.length} major cities in India. 
-				Find verified partners in your region.
+				Find verified second hand luxury car partners in your region.
 			</p>
 		</header>
 
@@ -50,6 +50,7 @@ for (const c of cities) {
 					citySlug={c.citySlug}
 					count={c.count}
 					imageUrl={previews.get(c.citySlug)}
+					hrefBase="/second-hand-luxury-cars"
 				/>
 			))}
 		</div>
@@ -57,8 +58,8 @@ for (const c of cities) {
 		<div class="mt-20 pt-12 border-t border-white/10 text-center">
 			<h2 class="text-2xl font-serif text-white mb-6">Explore More Options</h2>
 			<div class="flex flex-wrap justify-center gap-4">
-				<a href="/second-hand-luxury-cars" class="px-6 py-3 rounded-full bg-white/[0.05] border border-white/10 hover:bg-white/[0.1] text-white transition-colors">
-					Browse Second Hand Luxury Cars
+				<a href="/pre-owned-luxury-cars" class="px-6 py-3 rounded-full bg-white/[0.05] border border-white/10 hover:bg-white/[0.1] text-white transition-colors">
+					Browse Pre-owned Luxury Cars
 				</a>
 				<a href="/sell" class="px-6 py-3 rounded-full bg-white/[0.05] border border-white/10 hover:bg-white/[0.1] text-white transition-colors">
 					Sell Your Luxury Car

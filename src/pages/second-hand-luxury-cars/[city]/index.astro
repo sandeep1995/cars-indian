@@ -20,8 +20,8 @@ const featured = dealers
 	.slice(0, 20);
 
 // SEO: Enhanced Title & Description
-const title = `Used Luxury Cars in ${cityName} | ${dealers.length}+ Verified Dealers`;
-const description = `Looking for pre-owned luxury cars in ${cityName}? Browse ${dealers.length}+ verified dealers for Audi, BMW, Mercedes, Jaguar & more. Compare prices, read reviews & get dealer contacts in ${cityName}.`;
+const title = `Second Hand Luxury Cars in ${cityName} | ${dealers.length}+ Verified Dealers`;
+const description = `Looking for second hand luxury cars in ${cityName}? Browse ${dealers.length}+ verified dealers for used Audi, BMW, Mercedes, Jaguar & more. Best prices for second hand luxury cars in ${cityName}.`;
 
 // SEO: Schema.org JSON-LD
 const siteUrl = Astro.site ? Astro.site.href : 'https://indianluxurycars.com';
@@ -41,7 +41,7 @@ const breadcrumbJsonLd = {
 			'@type': 'ListItem',
 			position: 2,
 			name: 'Cities',
-			item: `${siteUrl}pre-owned-luxury-cars`,
+			item: `${siteUrl}second-hand-luxury-cars`,
 		},
 		{
 			'@type': 'ListItem',
@@ -91,25 +91,25 @@ const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 	<div class="relative h-[45vh] min-h-[350px] flex items-end">
 		<div class="absolute inset-0 z-0">
 			{heroImage ? (
-				<img src={heroImage} alt={`Used Luxury Cars for Sale in ${cityName}`} class="w-full h-full object-cover" />
+				<img src={heroImage} alt={`Second Hand Luxury Cars for Sale in ${cityName}`} class="w-full h-full object-cover" />
 			) : (
 				<div class="w-full h-full bg-[#111]"></div>
 			)}
-			<div class="absolute inset-0 bg-gradient-to-t from-[#05060a] via-[#05060a]/60 to-transparent"></div>
+			<div class="absolute inset-0 bg-linear-to-t from-[#05060a] via-[#05060a]/60 to-transparent"></div>
 		</div>
 
 		<div class="relative z-10 w-full max-w-[1180px] mx-auto px-6 pb-12">
 			<nav class="flex gap-2 items-center mb-4 text-xs tracking-wider uppercase text-white/50" aria-label="Breadcrumb">
 				<a href="/" class="hover:text-white transition-colors">Home</a>
 				<span aria-hidden="true">/</span>
-				<a href="/pre-owned-luxury-cars" class="hover:text-white transition-colors">Cities</a>
+				<a href="/second-hand-luxury-cars" class="hover:text-white transition-colors">Second Hand</a>
 				<span aria-hidden="true">/</span>
 				<span class="text-white" aria-current="page">{cityName}</span>
 			</nav>
-			<h1 class="text-4xl md:text-6xl font-serif text-white mb-3">Pre-owned Luxury Cars in {cityName}</h1>
+			<h1 class="text-4xl md:text-6xl font-serif text-white mb-3">Second Hand Luxury Cars in {cityName}</h1>
 			<p class="text-lg md:text-xl text-white/70 font-light max-w-2xl">
-				Discover the finest collection of second-hand luxury vehicles. 
-				We have curated {dealers.length} verified dealerships in {cityName} offering premium brands like Audi, BMW, Mercedes-Benz, and more.
+				Discover the finest collection of second hand luxury vehicles. 
+				We have curated {dealers.length} verified dealerships in {cityName} offering used premium brands like Audi, BMW, Mercedes-Benz, and more.
 			</p>
 		</div>
 	</div>
@@ -121,7 +121,7 @@ const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 				{featured.length > 0 && (
 					<section class="mb-12">
 						<div class="flex items-baseline justify-between mb-6">
-							<h2 class="font-serif text-2xl text-white">Featured Collections in {cityName}</h2>
+							<h2 class="font-serif text-2xl text-white">Featured Second Hand Collections in {cityName}</h2>
 							<span class="text-sm text-amber-200/80 uppercase tracking-widest font-medium">Top Rated</span>
 						</div>
 						<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -146,30 +146,30 @@ const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 			<div class="hidden lg:block">
 				<div class="sticky top-24 flex flex-col gap-6">
 					<!-- Concierge Card -->
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
+					<div class="p-6 rounded-2xl bg-white/2 border border-white/5">
 						<h3 class="font-serif text-xl text-white mb-4">Concierge Service</h3>
 						<p class="text-sm text-white/60 mb-6 leading-relaxed">
-							Looking for a specific car in {cityName}? Let our concierge team find it for you. We scan all {dealers.length} dealers to find your perfect match.
+							Looking for a specific second hand car in {cityName}? Let our concierge team find it for you. We scan all {dealers.length} dealers to find your perfect match.
 						</p>
 						<a href="/contact" class="block w-full py-3 px-4 bg-white text-black text-center text-xs font-bold uppercase tracking-wider rounded-lg hover:bg-amber-50 transition-colors">
 							Request a Car
 						</a>
 					</div>
 
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
+					<div class="p-6 rounded-2xl bg-white/2 border border-white/5">
 						<h3 class="font-serif text-lg text-white mb-3">Popular Cities</h3>
 						<ul class="flex flex-col gap-2">
 							{['Delhi', 'Mumbai', 'Bangalore', 'Hyderabad', 'Chennai', 'Pune', 'Kolkata'].map(city => (
-								<li><a href={`/pre-owned-luxury-cars/${city.toLowerCase()}`} class="text-xs text-white/60 hover:text-amber-200 transition-colors">Used Luxury Cars in {city}</a></li>
+								<li><a href={`/second-hand-luxury-cars/${city.toLowerCase()}`} class="text-xs text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in {city}</a></li>
 							))}
 						</ul>
 					</div>
 
 					<!-- SEO Content / About -->
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="font-serif text-lg text-white mb-3">About Luxury Cars in {cityName}</h3>
+					<div class="p-6 rounded-2xl bg-white/2 border border-white/5">
+						<h3 class="font-serif text-lg text-white mb-3">About Second Hand Luxury Cars in {cityName}</h3>
 						<p class="text-sm text-white/50 leading-relaxed mb-4">
-							{cityName} is home to a growing market of pre-owned luxury vehicles. 
+							{cityName} is home to a growing market of second hand luxury vehicles. 
 							Whether you are looking for a sporty sedan, a comfortable SUV, or a rare collectible, 
 							our verified dealers in {cityName} offer a wide range of options.
 						</p>
@@ -184,7 +184,7 @@ const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 
 						<h4 class="font-serif text-white text-base mb-2">Related Searches</h4>
 						<ul class="flex flex-col gap-1.5">
-							<li><a href={`/second-hand-luxury-cars/${citySlug}`} class="text-xs text-white/60 hover:text-amber-200 transition-colors">Second Hand Luxury Cars in {cityName}</a></li>
+							<li><a href={`/pre-owned-luxury-cars/${citySlug}`} class="text-xs text-white/60 hover:text-amber-200 transition-colors">Used Luxury Cars in {cityName}</a></li>
 							<li><a href={`/sell/luxury-cars-in-${citySlug}`} class="text-xs text-white/60 hover:text-amber-200 transition-colors">Sell Luxury Car in {cityName}</a></li>
 						</ul>
 					</div>
