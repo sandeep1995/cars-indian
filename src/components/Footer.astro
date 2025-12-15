@@ -1,14 +1,17 @@
 ---
 import logo from '../../public/logo.jpeg';
+import brands from '../data/luxury-brands.json';
 
 const year = new Date().getFullYear();
+const popularBrands = brands.slice(0, 7); // Top 7 brands
+const bodyTypes = ['SUV', 'Sedan', 'Coupe', 'Convertible', 'Hatchback'];
 ---
 
 <footer class="mt-20 border-t border-white/5 bg-[#05060a] relative">
 	<div class="max-w-[1180px] mx-auto px-6 py-12 lg:py-16">
-		<div class="flex flex-col gap-10 sm:flex-row sm:justify-between lg:gap-20">
+		<div class="flex flex-col gap-10 sm:flex-row sm:justify-between lg:gap-12">
 			<!-- Brand -->
-			<div class="flex flex-col gap-6 max-w-sm">
+			<div class="flex flex-col gap-6 max-w-sm shrink-0">
 				<div class="flex items-center gap-3">
 					<img src={logo.src} alt="IndianLuxuryCars.com" class="w-10 h-10 rounded-lg object-cover opacity-90" />
 					<div class="flex flex-col">
@@ -26,53 +29,55 @@ const year = new Date().getFullYear();
 				</div>
 			</div>
 
-			<!-- Links -->
-			<div class="flex flex-wrap gap-12 sm:gap-20">
+			<!-- Links Grid -->
+			<div class="flex-1 grid grid-cols-2 md:grid-cols-4 gap-8 lg:gap-12">
 				<div>
-					<h3 class="font-serif text-white text-lg mb-4">Buy Luxury Cars</h3>
+					<h3 class="font-serif text-white text-lg mb-4">By City</h3>
 					<ul class="flex flex-col gap-3">
-						<li><a href="/pre-owned-luxury-cars/delhi" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Used Cars in Delhi</a></li>
-						<li><a href="/pre-owned-luxury-cars/mumbai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Used Cars in Mumbai</a></li>
-						<li><a href="/pre-owned-luxury-cars/bangalore" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Used Cars in Bangalore</a></li>
-						<li><a href="/pre-owned-luxury-cars/hyderabad" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Used Cars in Hyderabad</a></li>
-						<li><a href="/pre-owned-luxury-cars/chennai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Used Cars in Chennai</a></li>
-						<li><a href="/pre-owned-luxury-cars/pune" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Used Cars in Pune</a></li>
-						<li><a href="/pre-owned-luxury-cars/kolkata" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Used Cars in Kolkata</a></li>
+						<li><a href="/pre-owned-luxury-cars/delhi" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Delhi</a></li>
+						<li><a href="/pre-owned-luxury-cars/mumbai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Mumbai</a></li>
+						<li><a href="/pre-owned-luxury-cars/bangalore" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Bangalore</a></li>
+						<li><a href="/pre-owned-luxury-cars/hyderabad" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Hyderabad</a></li>
+						<li><a href="/pre-owned-luxury-cars/chennai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Chennai</a></li>
+						<li><a href="/pre-owned-luxury-cars/pune" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Pune</a></li>
+						<li><a href="/pre-owned-luxury-cars/kolkata" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Kolkata</a></li>
 					</ul>
 				</div>
+				
 				<div>
-					<h3 class="font-serif text-white text-lg mb-4">Second Hand Cars</h3>
+					<h3 class="font-serif text-white text-lg mb-4">By Brand</h3>
 					<ul class="flex flex-col gap-3">
-						<li><a href="/second-hand-luxury-cars/delhi" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in Delhi</a></li>
-						<li><a href="/second-hand-luxury-cars/mumbai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in Mumbai</a></li>
-						<li><a href="/second-hand-luxury-cars/bangalore" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in Bangalore</a></li>
-						<li><a href="/second-hand-luxury-cars/hyderabad" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in Hyderabad</a></li>
-						<li><a href="/second-hand-luxury-cars/chennai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in Chennai</a></li>
-						<li><a href="/second-hand-luxury-cars/pune" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in Pune</a></li>
-						<li><a href="/second-hand-luxury-cars/kolkata" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Second Hand Cars in Kolkata</a></li>
+                        {popularBrands.map(brand => (
+                            <li>
+                                <a href={`/pre-owned-luxury-cars/delhi/${brand.toLowerCase().replace(/\s+/g, '-')}`} class="text-sm text-white/60 hover:text-amber-200 transition-colors">
+                                    Used {brand}
+                                </a>
+                            </li>
+                        ))}
+                        <li>
+                            <a href="/cars" class="text-sm text-amber-200/80 hover:text-white transition-colors mt-2 inline-block">View All Brands &rarr;</a>
+                        </li>
 					</ul>
 				</div>
+
 				<div>
-					<h3 class="font-serif text-white text-lg mb-4">Sell Your Car</h3>
+					<h3 class="font-serif text-white text-lg mb-4">By Body Type</h3>
 					<ul class="flex flex-col gap-3">
-						<li><a href="/sell/luxury-cars-in-delhi" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell in Delhi</a></li>
-						<li><a href="/sell/luxury-cars-in-mumbai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell in Mumbai</a></li>
-						<li><a href="/sell/luxury-cars-in-bangalore" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell in Bangalore</a></li>
-						<li><a href="/sell/luxury-cars-in-hyderabad" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell in Hyderabad</a></li>
-						<li><a href="/sell/luxury-cars-in-chennai" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell in Chennai</a></li>
-						<li><a href="/sell/luxury-cars-in-pune" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell in Pune</a></li>
-						<li><a href="/sell/luxury-cars-in-kolkata" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell in Kolkata</a></li>
+                        {bodyTypes.map(type => (
+                            <li>
+                                <a href={`/pre-owned-luxury-cars/delhi/${type.toLowerCase()}`} class="text-sm text-white/60 hover:text-amber-200 transition-colors">
+                                    Used {type}
+                                </a>
+                            </li>
+                        ))}
 					</ul>
-				</div>
-				<div>
-					<h3 class="font-serif text-white text-lg mb-4">Explore</h3>
-					<ul class="flex flex-col gap-3">
-						<li><a href="/" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Home</a></li>
-						<li><a href="/pre-owned-luxury-cars" class="text-sm text-white/60 hover:text-amber-200 transition-colors">All Cities</a></li>
+
+                    <h3 class="font-serif text-white text-lg mt-8 mb-4">Sell</h3>
+                    <ul class="flex flex-col gap-3">
 						<li><a href="/sell" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Sell Your Car</a></li>
-						<li><a href="/contact" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Concierge</a></li>
-					</ul>
+                    </ul>
 				</div>
+				
 				<div>
 					<h3 class="font-serif text-white text-lg mb-4">Contact</h3>
 					<ul class="flex flex-col gap-3">
@@ -92,6 +97,13 @@ const year = new Date().getFullYear();
 						<li class="text-sm text-white/40 pt-2">
 							Newtown, Kolkata, India
 						</li>
+					</ul>
+                    
+                    <h3 class="font-serif text-white text-lg mt-8 mb-4">Explore</h3>
+					<ul class="flex flex-col gap-3">
+						<li><a href="/" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Home</a></li>
+						<li><a href="/pre-owned-luxury-cars" class="text-sm text-white/60 hover:text-amber-200 transition-colors">All Cities</a></li>
+                        <li><a href="/contact" class="text-sm text-white/60 hover:text-amber-200 transition-colors">Concierge</a></li>
 					</ul>
 				</div>
 			</div>

@@ -1,5 +1,5 @@
 ---
-import { getCars, generateCarSlug, getFilterOptions, type UsedCar } from '../lib/api';
+import { getCars, generateCarSlug, getFilterOptions } from '../lib/api';
 
 type Props = {
   initialCity?: string;
@@ -51,7 +51,7 @@ if (model) options.model = model;
 if (bodyType) options.body_type = bodyType;
 if (fuelType) options.fuel_type = fuelType;
 
-const { results: cars, success } = await getCars(options);
+const { results: cars } = await getCars(options);
 const { oems: brands, cities, bodyTypes, fuelTypes } = await getFilterOptions();
 
 // Helper to build URL with updated params
@@ -90,7 +90,7 @@ function buildUrl(newParams: Record<string, string | number | undefined>) {
 }
 
 // For form action
-const formAction = '/cars'; 
+const formAction = basePath; 
 
 ---
 
@@ -150,7 +150,7 @@ const formAction = '/cars';
         </button>
         
         {(oem || city || bodyType || fuelType) && (
-          <a href="/cars" class="block text-center text-sm text-gray-400 hover:text-white mt-2">
+          <a href={basePath} class="block text-center text-sm text-gray-400 hover:text-white mt-2">
             Clear Filters
           </a>
         )}

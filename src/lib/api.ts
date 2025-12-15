@@ -136,8 +136,10 @@ export async function getCars(options: FetchCarsOptions = {}): Promise<FetchCars
   const params: any[] = [];
 
   if (options.city) {
-    whereClauses.push('c.city = ?');
-    params.push(options.city);
+    // Some pages may pass "Delhi" while data may contain "New Delhi" etc.
+    // Use a case-insensitive exact-or-contains match to keep filters forgiving.
+    whereClauses.push('(LOWER(c.city) = LOWER(?) OR LOWER(c.city) LIKE \'%\' || LOWER(?) || \'%\')');
+    params.push(options.city, options.city);
   }
   if (options.oem) {
     whereClauses.push('c.oem = ?');

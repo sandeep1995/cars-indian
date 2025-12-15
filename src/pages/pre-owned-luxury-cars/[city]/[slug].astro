@@ -1,10 +1,9 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import { findDealer, getAllDealers, getCities } from '../../../lib/dealers';
+import { getAllDealers, getCities } from '../../../lib/dealers';
 import { safeText, slugify } from '../../../lib/slug';
 import luxuryBrands from '../../../data/luxury-brands.json';
 import CarListing from '../../../components/CarListing.astro';
-import DealerCard from '../../../components/DealerCard.astro';
 import { getFilterOptions } from '../../../lib/api';
 
 export async function getStaticPaths() {
@@ -58,7 +57,7 @@ export async function getStaticPaths() {
 }
 
 const { type, cityName } = Astro.props;
-const { city: citySlug, slug } = Astro.params;
+const { city: citySlug } = Astro.params;
 
 // Handle Dealer View
 if (type === 'dealer') {
@@ -102,6 +101,7 @@ if (type === 'dealer') {
 
     const heroImage = dealer.imageUrl;
 
+    // Early return for dealer pages
     return (
         <Layout title={title} description={description} jsonLd={jsonLd} ogImage={dealer.imageUrl}>
             <div class="relative h-[50vh] min-h-[400px]">
@@ -156,7 +156,6 @@ if (type === 'dealer') {
 
             <div class="max-w-[1180px] mx-auto px-6 py-12 lg:py-20">
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
-                    <!-- Details -->
                     <div class="lg:col-span-2 flex flex-col gap-12">
                         <section>
                             <h2 class="font-serif text-2xl text-white mb-6">About this Dealer</h2>
@@ -166,7 +165,7 @@ if (type === 'dealer') {
                                     <p class="text-white/80 leading-relaxed">{dealer.address || 'Address not available'}</p>
                                     {mapLink && (
                                         <a href={mapLink} target="_blank" rel="noreferrer" class="inline-block mt-4 text-sm text-amber-200 hover:text-white transition-colors">
-                                            View on Map &rarr;
+                                            View on Map →
                                         </a>
                                     )}
                                 </div>
@@ -225,7 +224,6 @@ if (type === 'dealer') {
                         </section>
                     </div>
 
-                    <!-- Sidebar -->
                     <div>
                         <div class="sticky top-24">
                             <div class="p-8 rounded-2xl bg-gradient-to-br from-amber-900/10 to-transparent border border-amber-500/10">
@@ -283,40 +281,39 @@ if (type === 'brand') {
 
 const title = `${filterTitle} | Verified Dealers`;
 
-return (
-    <Layout title={title} description={filterDescription}>
-        <!-- Hero -->
-        <div class="relative h-[45vh] min-h-[350px] flex items-end">
-            <div class="absolute inset-0 z-0">
-                 <div class="w-full h-full bg-[#111]"></div>
-                <div class="absolute inset-0 bg-gradient-to-t from-[#05060a] via-[#05060a]/60 to-transparent"></div>
-            </div>
+---
 
-            <div class="relative z-10 w-full max-w-[1180px] mx-auto px-6 pb-12">
-                <nav class="flex gap-2 items-center mb-4 text-xs tracking-wider uppercase text-white/50" aria-label="Breadcrumb">
-                    <a href="/" class="hover:text-white transition-colors">Home</a>
-                    <span aria-hidden="true">/</span>
-                    <a href="/pre-owned-luxury-cars" class="hover:text-white transition-colors">Cities</a>
-                    <span aria-hidden="true">/</span>
-                    <a href={`/pre-owned-luxury-cars/${citySlug}`} class="hover:text-white transition-colors">{cityName}</a>
-                    <span aria-hidden="true">/</span>
-                    <span class="text-white" aria-current="page">{initialOem || initialBodyType || initialFuelType}</span>
-                </nav>
-                <h1 class="text-4xl md:text-6xl font-serif text-white mb-3">{filterTitle}</h1>
-                <p class="text-lg md:text-xl text-white/70 font-light max-w-2xl">
-                    {filterDescription}
-                </p>
-            </div>
+<Layout title={title} description={filterDescription}>
+    <div class="relative h-[45vh] min-h-[350px] flex items-end">
+        <div class="absolute inset-0 z-0">
+             <div class="w-full h-full bg-[#111]"></div>
+            <div class="absolute inset-0 bg-gradient-to-t from-[#05060a] via-[#05060a]/60 to-transparent"></div>
         </div>
 
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <CarListing 
-                initialCity={initialCity} 
-                initialOem={initialOem} 
-                initialBodyType={initialBodyType}
-                initialFuelType={initialFuelType}
-                basePath="/cars" 
-            />
+        <div class="relative z-10 w-full max-w-[1180px] mx-auto px-6 pb-12">
+            <nav class="flex gap-2 items-center mb-4 text-xs tracking-wider uppercase text-white/50" aria-label="Breadcrumb">
+                <a href="/" class="hover:text-white transition-colors">Home</a>
+                <span aria-hidden="true">/</span>
+                <a href="/pre-owned-luxury-cars" class="hover:text-white transition-colors">Cities</a>
+                <span aria-hidden="true">/</span>
+                <a href={`/pre-owned-luxury-cars/${citySlug}`} class="hover:text-white transition-colors">{cityName}</a>
+                <span aria-hidden="true">/</span>
+                <span class="text-white" aria-current="page">{initialOem || initialBodyType || initialFuelType}</span>
+            </nav>
+            <h1 class="text-4xl md:text-6xl font-serif text-white mb-3">{filterTitle}</h1>
+            <p class="text-lg md:text-xl text-white/70 font-light max-w-2xl">
+                {filterDescription}
+            </p>
         </div>
-    </Layout>
-);
+    </div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <CarListing 
+            initialCity={initialCity} 
+            initialOem={initialOem} 
+            initialBodyType={initialBodyType}
+            initialFuelType={initialFuelType}
+            basePath="/cars" 
+        />
+    </div>
+</Layout>
