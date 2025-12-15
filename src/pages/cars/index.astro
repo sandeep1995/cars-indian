@@ -40,6 +40,10 @@ function buildUrl(newParams: Record<string, string | number | undefined>) {
       params.set(key, value.toString());
     }
   }
+  // Reset page to 1 when changing filters, but not when changing page
+  if (!('page' in newParams)) {
+      params.delete('page');
+  }
   return `?${params.toString()}`;
 }
 
@@ -83,7 +87,7 @@ const description = "Browse our collection of pre-owned luxury cars. Filter by c
               </select>
             </div>
 
-            <button type="submit" class="w-full bg-[#d6b25e] text-black font-semibold py-2 px-4 rounded-md hover:bg-[#c9a64e] transition-colors">
+            <button type="submit" class="w-full bg-[#d6b25e] text-black font-semibold py-2 px-4 rounded-md hover:bg-[#c9a64e] transition-colors cursor-pointer">
               Apply Filters
             </button>
             
@@ -162,6 +166,7 @@ const description = "Browse our collection of pre-owned luxury cars. Filter by c
                     Previous
                 </a>
             )}
+            {/* Always show Next if we have a full page of results, or if we want to be safe, assume more pages exist if result count == limit. Ideally API returns total count. */}
             {cars.length === limit && (
                 <a href={buildUrl({ page: page + 1 })} class="px-4 py-2 border border-white/10 rounded-md text-sm font-medium text-gray-300 bg-[#1a1d2d] hover:bg-[#25293d] transition-colors">
                     Next
