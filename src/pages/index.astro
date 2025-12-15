@@ -22,68 +22,50 @@ for (const c of cities) {
 	}
 }
 
+// FAQs Data
+const faqs = [
+	{
+		question: 'What is IndianLuxuryCars.com?',
+		answer: 'We are a trusted premium concierge platform connecting luxury car owners, buyers, and verified dealers across India. We facilitate seamless transactions by bringing together the right parties and ensuring transparency throughout the process.'
+	},
+	{
+		question: 'How does the platform work?',
+		answer: 'If you\'re a buyer, we connect you with verified luxury car dealers in your city. If you\'re a seller, we help you find qualified buyers and dealers who offer fair market prices. We act as the bridge, ensuring all parties have access to verified information and trusted connections.'
+	},
+	{
+		question: 'Are the dealers verified?',
+		answer: 'Yes, all dealers on our platform are verified and undergo a thorough screening process. We maintain a network of 500+ verified dealers across 25+ cities in India, ensuring you connect with reputable businesses.'
+	},
+	{
+		question: 'What services do you provide to car owners?',
+		answer: 'We help luxury car owners sell their vehicles by connecting them with multiple verified dealers and buyers. This ensures competitive pricing and a hassle-free selling experience with transparent documentation and fair valuations.'
+	},
+	{
+		question: 'Do you charge any fees?',
+		answer: 'Our platform is free for buyers to browse and connect with dealers. For sellers and dealers, we offer transparent pricing models. Contact us via WhatsApp to learn more about our service fees and how we can assist you.'
+	},
+	{
+		question: 'Which cities do you cover?',
+		answer: 'We operate across major cities in India, including Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Pune, and many more. Browse our locations page to see all available cities and dealers in your area.'
+	},
+	{
+		question: 'How can I get started?',
+		answer: 'Simply reach out to us via WhatsApp or visit our contact page. Whether you\'re looking to buy, sell, or are a dealer wanting to join our network, we\'ll guide you through the process and connect you with the right parties.'
+	}
+];
+
 // FAQ JSON-LD Structured Data
 const faqJsonLd = {
 	'@context': 'https://schema.org',
 	'@type': 'FAQPage',
-	mainEntity: [
-		{
-			'@type': 'Question',
-			name: 'What is IndianLuxuryCars.com?',
-			acceptedAnswer: {
-				'@type': 'Answer',
-				text: 'We are a trusted middleman platform connecting luxury car owners, buyers, and verified dealers across India. We facilitate seamless transactions by bringing together the right parties and ensuring transparency throughout the process.'
-			}
-		},
-		{
-			'@type': 'Question',
-			name: 'How does the platform work?',
-			acceptedAnswer: {
-				'@type': 'Answer',
-				text: 'If you\'re a buyer, we connect you with verified luxury car dealers in your city. If you\'re a seller, we help you find qualified buyers and dealers who offer fair market prices. We act as the bridge, ensuring all parties have access to verified information and trusted connections.'
-			}
-		},
-		{
-			'@type': 'Question',
-			name: 'Are the dealers verified?',
-			acceptedAnswer: {
-				'@type': 'Answer',
-				text: 'Yes, all dealers on our platform are verified and undergo a thorough screening process. We maintain a network of 500+ verified dealers across 25+ cities in India, ensuring you connect with reputable businesses.'
-			}
-		},
-		{
-			'@type': 'Question',
-			name: 'What services do you provide to car owners?',
-			acceptedAnswer: {
-				'@type': 'Answer',
-				text: 'We help luxury car owners sell their vehicles by connecting them with multiple verified dealers and buyers. This ensures competitive pricing and a hassle-free selling experience with transparent documentation and fair valuations.'
-			}
-		},
-		{
-			'@type': 'Question',
-			name: 'Do you charge any fees?',
-			acceptedAnswer: {
-				'@type': 'Answer',
-				text: 'Our platform is free for buyers to browse and connect with dealers. For sellers and dealers, we offer transparent pricing models. Contact us via WhatsApp to learn more about our service fees and how we can assist you.'
-			}
-		},
-		{
-			'@type': 'Question',
-			name: 'Which cities do you cover?',
-			acceptedAnswer: {
-				'@type': 'Answer',
-				text: 'We operate across major cities in India, including Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Pune, and many more. Browse our locations page to see all available cities and dealers in your area.'
-			}
-		},
-		{
-			'@type': 'Question',
-			name: 'How can I get started?',
-			acceptedAnswer: {
-				'@type': 'Answer',
-				text: 'Simply reach out to us via WhatsApp or visit our contact page. Whether you\'re looking to buy, sell, or are a dealer wanting to join our network, we\'ll guide you through the process and connect you with the right parties.'
-			}
+	mainEntity: faqs.map((faq) => ({
+		'@type': 'Question',
+		name: faq.question,
+		acceptedAnswer: {
+			'@type': 'Answer',
+			text: faq.answer
 		}
-	]
+	}))
 };
 ---
 
@@ -229,54 +211,14 @@ const faqJsonLd = {
 				</div>
 
 				<div class="space-y-6">
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="text-xl font-medium text-white mb-3">What is IndianLuxuryCars.com?</h3>
-						<p class="text-white/60 leading-relaxed">
-							We are a trusted middleman platform connecting luxury car owners, buyers, and verified dealers across India. We facilitate seamless transactions by bringing together the right parties and ensuring transparency throughout the process.
-						</p>
-					</div>
-
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="text-xl font-medium text-white mb-3">How does the platform work?</h3>
-						<p class="text-white/60 leading-relaxed">
-							If you're a buyer, we connect you with verified luxury car dealers in your city. If you're a seller, we help you find qualified buyers and dealers who offer fair market prices. We act as the bridge, ensuring all parties have access to verified information and trusted connections.
-						</p>
-					</div>
-
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="text-xl font-medium text-white mb-3">Are the dealers verified?</h3>
-						<p class="text-white/60 leading-relaxed">
-							Yes, all dealers on our platform are verified and undergo a thorough screening process. We maintain a network of 500+ verified dealers across 25+ cities in India, ensuring you connect with reputable businesses.
-						</p>
-					</div>
-
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="text-xl font-medium text-white mb-3">What services do you provide to car owners?</h3>
-						<p class="text-white/60 leading-relaxed">
-							We help luxury car owners sell their vehicles by connecting them with multiple verified dealers and buyers. This ensures competitive pricing and a hassle-free selling experience with transparent documentation and fair valuations.
-						</p>
-					</div>
-
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="text-xl font-medium text-white mb-3">Do you charge any fees?</h3>
-						<p class="text-white/60 leading-relaxed">
-							Our platform is free for buyers to browse and connect with dealers. For sellers and dealers, we offer transparent pricing models. Contact us via WhatsApp to learn more about our service fees and how we can assist you.
-						</p>
-					</div>
-
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="text-xl font-medium text-white mb-3">Which cities do you cover?</h3>
-						<p class="text-white/60 leading-relaxed">
-							We operate across major cities in India, including Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Pune, and many more. Browse our locations page to see all available cities and dealers in your area.
-						</p>
-					</div>
-
-					<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
-						<h3 class="text-xl font-medium text-white mb-3">How can I get started?</h3>
-						<p class="text-white/60 leading-relaxed">
-							Simply reach out to us via WhatsApp or visit our contact page. Whether you're looking to buy, sell, or are a dealer wanting to join our network, we'll guide you through the process and connect you with the right parties.
-						</p>
-					</div>
+					{faqs.map((faq) => (
+						<div class="p-6 rounded-2xl bg-white/[0.02] border border-white/5">
+							<h3 class="text-xl font-medium text-white mb-3">{faq.question}</h3>
+							<p class="text-white/60 leading-relaxed">
+								{faq.answer}
+							</p>
+						</div>
+					))}
 				</div>
 			</div>
 		</section>
