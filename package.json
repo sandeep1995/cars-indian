@@ -8,7 +8,12 @@
     "preview": "astro preview",
     "astro": "astro",
     "r2:upload-images": "node scripts/upload-images-to-r2.mjs",
-    "r2:city-covers": "node scripts/city-covers-from-unsplash-to-r2.mjs"
+    "r2:city-covers": "node scripts/city-covers-from-unsplash-to-r2.mjs",
+    "d1:create": "npx wrangler d1 create used-cars-db",
+    "d1:migrate": "node scripts/migrate-to-d1.mjs",
+    "d1:migrate:apply": "node scripts/migrate-to-d1.mjs --apply",
+    "d1:migrate:create-db": "node scripts/migrate-to-d1.mjs --apply --create-db",
+    "d1:migrate:test": "node scripts/migrate-to-d1.mjs --apply --limit 10"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.12",
@@ -21,3 +26,4 @@
     "wrangler": "^4.54.0"
   }
 }
+

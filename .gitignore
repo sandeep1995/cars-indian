@@ -22,3 +22,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# D1 migration temp files
+scripts/.d1-temp/
+scripts/used-cars-image-cache.json

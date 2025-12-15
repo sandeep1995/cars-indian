@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getAllDealers, getCities } from '../lib/dealers';
 import { slugify } from '../lib/slug';
+import { getAllUsedCars, generateCarSlug } from '../lib/api';
 import brands from '../data/luxury-brands.json';
 
 function xmlEscape(s: string): string {
@@ -17,7 +18,7 @@ function absolute(site: URL | undefined, pathname: string): string {
   return new URL(pathname, site).toString();
 }
 
-export const GET: APIRoute = ({ site }) => {
+export const GET: APIRoute = async ({ site }) => {
   const urls: string[] = [];
 
   urls.push(absolute(site, '/'));
@@ -34,6 +35,13 @@ export const GET: APIRoute = ({ site }) => {
     urls.push(
       absolute(site, `/pre-owned-luxury-cars/${d.citySlug}/${d.dealerSlug}`)
     );
+  }
+
+  // Used Car Pages
+  const cars = await getAllUsedCars();
+  for (const car of cars) {
+    const slug = generateCarSlug(car);
+    urls.push(absolute(site, `/cars/${slug}`));
   }
 
   // Sell Car Pages

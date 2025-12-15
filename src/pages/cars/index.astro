@@ -1,0 +1,175 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCars, generateCarSlug, getFilterOptions, type UsedCar } from '../../lib/api';
+
+// Get search params from URL
+const { searchParams } = Astro.url;
+const page = parseInt(searchParams.get('page') || '1');
+const limit = 24;
+const offset = (page - 1) * limit;
+
+// Filter params
+const city = searchParams.get('city');
+const oem = searchParams.get('oem');
+const model = searchParams.get('model');
+const sort = searchParams.get('sort') || 'created_at';
+const order = searchParams.get('order') || 'desc';
+
+// Prepare API options
+const options: any = {
+  limit,
+  offset,
+  sort_by: sort,
+  order: order as 'asc' | 'desc',
+};
+
+if (city) options.city = city;
+if (oem) options.oem = oem;
+if (model) options.model = model;
+
+const { results: cars, success } = await getCars(options);
+const { oems: brands, cities } = await getFilterOptions();
+
+// Helper to build URL with updated params
+function buildUrl(newParams: Record<string, string | number | undefined>) {
+  const params = new URLSearchParams(searchParams);
+  for (const [key, value] of Object.entries(newParams)) {
+    if (value === undefined || value === '') {
+      params.delete(key);
+    } else {
+      params.set(key, value.toString());
+    }
+  }
+  return `?${params.toString()}`;
+}
+
+const title = "Used Luxury Cars for Sale - IndianLuxuryCars.com";
+const description = "Browse our collection of pre-owned luxury cars. Filter by city, brand, and price.";
+
+---
+
+<Layout title={title} description={description}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-3xl font-bold text-white mb-8">Used Cars Collection</h1>
+
+    <div class="flex flex-col lg:flex-row gap-8">
+      <!-- Filters Sidebar -->
+      <aside class="w-full lg:w-64 flex-shrink-0 space-y-8">
+        <div class="bg-[#0f111a] p-6 rounded-lg border border-white/10">
+          <h2 class="text-lg font-medium text-white mb-4">Filters</h2>
+          
+          <form method="get" class="space-y-6">
+             <!-- Preserve other params -->
+             {sort && <input type="hidden" name="sort" value={sort} />}
+             {order && <input type="hidden" name="order" value={order} />}
+
+            <div>
+              <label for="oem" class="block text-sm font-medium text-gray-300 mb-1">Brand</label>
+              <select name="oem" id="oem" class="block w-full rounded-md bg-[#1a1d2d] border-white/10 text-white shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm p-2 border">
+                <option value="">All Brands</option>
+                {brands.map(b => (
+                  <option value={b} selected={oem === b}>{b}</option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label for="city" class="block text-sm font-medium text-gray-300 mb-1">City</label>
+              <select name="city" id="city" class="block w-full rounded-md bg-[#1a1d2d] border-white/10 text-white shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm p-2 border">
+                <option value="">All Cities</option>
+                {cities.map(c => (
+                  <option value={c} selected={city === c}>{c}</option>
+                ))}
+              </select>
+            </div>
+
+            <button type="submit" class="w-full bg-[#d6b25e] text-black font-semibold py-2 px-4 rounded-md hover:bg-[#c9a64e] transition-colors">
+              Apply Filters
+            </button>
+            
+            {(oem || city) && (
+              <a href="/cars" class="block text-center text-sm text-gray-400 hover:text-white mt-2">
+                Clear Filters
+              </a>
+            )}
+          </form>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <div class="flex-1">
+        <!-- Sort Bar -->
+        <div class="flex justify-between items-center mb-6">
+            <p class="text-sm text-gray-400">
+                Showing {cars.length} results
+            </p>
+            <div class="flex items-center gap-2">
+                <span class="text-sm text-gray-400">Sort by:</span>
+                <select 
+                    onchange="window.location.href=this.value" 
+                    class="text-sm bg-[#1a1d2d] border-white/10 text-white rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500 p-1 border"
+                >
+                    <option value={buildUrl({ sort: 'created_at', order: 'desc' })} selected={sort === 'created_at' && order === 'desc'}>Newest First</option>
+                    <option value={buildUrl({ sort: 'price', order: 'asc' })} selected={sort === 'price' && order === 'asc'}>Price: Low to High</option>
+                    <option value={buildUrl({ sort: 'price', order: 'desc' })} selected={sort === 'price' && order === 'desc'}>Price: High to Low</option>
+                </select>
+            </div>
+        </div>
+
+        {/* Grid */}
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {cars.map((car) => {
+             const slug = generateCarSlug(car);
+             return (
+              <a href={`/cars/${slug}`} class="group block bg-[#0f111a] rounded-lg shadow-lg hover:shadow-xl transition-all overflow-hidden border border-white/5 hover:border-[#d6b25e]/30">
+                <div class="aspect-w-16 aspect-h-10 bg-[#1a1d2d] relative">
+                  {car.image_url ? (
+                    <img src={car.image_url} alt={`${car.myear} ${car.oem} ${car.model}`} class="w-full h-48 object-cover object-center opacity-90 group-hover:opacity-100 group-hover:scale-105 transition-all duration-300" />
+                  ) : (
+                    <div class="w-full h-48 flex items-center justify-center text-gray-600">No Image</div>
+                  )}
+                  <div class="absolute bottom-2 left-2 bg-black/80 backdrop-blur-sm text-white text-xs px-2 py-1 rounded border border-white/10">
+                    {car.city}
+                  </div>
+                </div>
+                <div class="p-4">
+                  <h3 class="text-lg font-medium text-white group-hover:text-[#d6b25e] truncate transition-colors">
+                    {car.myear} {car.oem} {car.model}
+                  </h3>
+                  <p class="text-sm text-gray-400 truncate">{car.variant_name}</p>
+                  <div class="mt-2 flex justify-between items-baseline">
+                    <p class="text-lg font-bold text-white">{car.formatted_price}</p>
+                    <p class="text-xs text-gray-500">{car.km} km</p>
+                  </div>
+                </div>
+              </a>
+             );
+          })}
+        </div>
+
+        {/* Empty State */}
+        {cars.length === 0 && (
+            <div class="text-center py-12">
+                <p class="text-gray-400 text-lg">No cars found matching your criteria.</p>
+                <a href="/cars" class="text-[#d6b25e] hover:text-[#c9a64e] mt-2 inline-block">Clear all filters</a>
+            </div>
+        )}
+
+        {/* Pagination (Simple Next/Prev) */}
+        <div class="mt-8 flex justify-center gap-2">
+            {page > 1 && (
+                <a href={buildUrl({ page: page - 1 })} class="px-4 py-2 border border-white/10 rounded-md text-sm font-medium text-gray-300 bg-[#1a1d2d] hover:bg-[#25293d] transition-colors">
+                    Previous
+                </a>
+            )}
+            {cars.length === limit && (
+                <a href={buildUrl({ page: page + 1 })} class="px-4 py-2 border border-white/10 rounded-md text-sm font-medium text-gray-300 bg-[#1a1d2d] hover:bg-[#25293d] transition-colors">
+                    Next
+                </a>
+            )}
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
+

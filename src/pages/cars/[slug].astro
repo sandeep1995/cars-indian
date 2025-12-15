@@ -1,0 +1,126 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getAllUsedCars, generateCarSlug, type UsedCar } from '../../lib/api';
+
+export async function getStaticPaths() {
+  const cars = await getAllUsedCars();
+  
+  return cars.map(car => {
+    return {
+      params: { slug: generateCarSlug(car) },
+      props: { car }
+    };
+  });
+}
+
+type Props = {
+  car: UsedCar;
+};
+
+const { car } = Astro.props;
+
+// Use images from car object
+const uniqueImages = car.images || [];
+
+const title = `Used ${car.myear} ${car.oem} ${car.model} ${car.variant_name} in ${car.city} - IndianLuxuryCars.com`;
+const description = `Buy used ${car.myear} ${car.oem} ${car.model} ${car.variant_name} in ${car.city}. Price: ${car.formatted_price}. ${car.km} km, ${car.fuel_type}, ${car.transmission_type}.`;
+
+---
+
+<Layout title={title} description={description}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="lg:grid lg:grid-cols-2 lg:gap-x-8 lg:items-start">
+      <!-- Image Gallery -->
+      <div class="flex flex-col gap-4">
+        {uniqueImages.length > 0 ? (
+          <>
+            <div class="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden bg-[#1a1d2d] border border-white/5">
+              <img
+                src={uniqueImages[0]}
+                alt={`${car.myear} ${car.oem} ${car.model}`}
+                class="w-full h-full object-cover object-center"
+              />
+            </div>
+            <div class="grid grid-cols-4 gap-4">
+              {uniqueImages.slice(1, 5).map((img) => (
+                <div class="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden bg-[#1a1d2d] border border-white/5 cursor-pointer hover:border-[#d6b25e]/50 transition-colors">
+                  <img
+                    src={img}
+                    alt={`${car.oem} ${car.model} thumbnail`}
+                    class="w-full h-full object-cover object-center"
+                  />
+                </div>
+              ))}
+            </div>
+          </>
+        ) : (
+          <div class="aspect-w-16 aspect-h-9 rounded-lg bg-[#1a1d2d] flex items-center justify-center text-gray-500 border border-white/5">
+            No images available
+          </div>
+        )}
+      </div>
+
+      <!-- Car Details -->
+      <div class="mt-10 px-4 sm:px-0 sm:mt-16 lg:mt-0">
+        <h1 class="text-3xl font-bold tracking-tight text-white">
+          {car.myear} {car.oem} {car.model}
+        </h1>
+        <p class="text-xl text-gray-400 mt-2">{car.variant_name}</p>
+        
+        <div class="mt-6">
+          <h2 class="sr-only">Product information</h2>
+          <p class="text-3xl font-bold text-[#d6b25e]">{car.formatted_price}</p>
+        </div>
+
+        <div class="mt-8 border-t border-white/10 pt-8">
+          <h3 class="text-sm font-medium text-white">Key Specs</h3>
+          <div class="mt-4 grid grid-cols-2 gap-y-6 gap-x-4 sm:grid-cols-3">
+            <div>
+              <dt class="text-sm font-medium text-gray-400">Kilometers</dt>
+              <dd class="mt-1 text-sm text-white">{car.km}</dd>
+            </div>
+            <div>
+              <dt class="text-sm font-medium text-gray-400">Fuel Type</dt>
+              <dd class="mt-1 text-sm text-white">{car.fuel_type}</dd>
+            </div>
+            <div>
+              <dt class="text-sm font-medium text-gray-400">Transmission</dt>
+              <dd class="mt-1 text-sm text-white">{car.transmission_type}</dd>
+            </div>
+            <div>
+              <dt class="text-sm font-medium text-gray-400">City</dt>
+              <dd class="mt-1 text-sm text-white">{car.city}</dd>
+            </div>
+            <div>
+              <dt class="text-sm font-medium text-gray-400">Owner</dt>
+              <dd class="mt-1 text-sm text-white">{car.owner_slug}</dd>
+            </div>
+            <div>
+              <dt class="text-sm font-medium text-gray-400">Body Type</dt>
+              <dd class="mt-1 text-sm text-white">{car.body_type}</dd>
+            </div>
+          </div>
+        </div>
+
+        {car.locality && (
+          <div class="mt-8 border-t border-white/10 pt-8">
+            <h3 class="text-sm font-medium text-white">Location</h3>
+             <p class="mt-4 text-sm text-gray-400">{car.locality}, {car.city}</p>
+          </div>
+        )}
+
+        <div class="mt-10 flex gap-4">
+            <a href="/contact" class="flex-1 bg-[#d6b25e] border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-black hover:bg-[#c9a64e] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#d6b25e] transition-colors">
+                Contact Seller
+            </a>
+            {car.vlink && (
+                 <a href={`https://www.cardekho.com${car.vlink}`} target="_blank" rel="noopener noreferrer" class="flex-1 bg-transparent border border-white/20 rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-white/5 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white transition-colors">
+                    View Original Listing
+                 </a>
+            )}
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
+
