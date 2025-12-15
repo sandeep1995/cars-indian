@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getAllDealers, getCities } from '../lib/dealers';
 import { slugify } from '../lib/slug';
-import { getAllUsedCars, generateCarSlug } from '../lib/api';
+import { getAllUsedCars, generateCarSlug, getFilterOptions } from '../lib/api';
 import brands from '../data/luxury-brands.json';
 
 function xmlEscape(s: string): string {
@@ -20,6 +20,7 @@ function absolute(site: URL | undefined, pathname: string): string {
 
 export const GET: APIRoute = async ({ site }) => {
   const urls: string[] = [];
+  const { bodyTypes, fuelTypes } = await getFilterOptions();
 
   urls.push(absolute(site, '/'));
   urls.push(absolute(site, '/contact'));
@@ -29,12 +30,38 @@ export const GET: APIRoute = async ({ site }) => {
   for (const c of getCities()) {
     urls.push(absolute(site, `/pre-owned-luxury-cars/${c.citySlug}`));
     urls.push(absolute(site, `/second-hand-luxury-cars/${c.citySlug}`));
+
+    // Brand pages per city
+    for (const brand of brands) {
+        const slug = slugify(brand);
+        urls.push(absolute(site, `/pre-owned-luxury-cars/${c.citySlug}/${slug}`));
+        urls.push(absolute(site, `/second-hand-luxury-cars/${c.citySlug}/${slug}`));
+    }
+
+    // Body Type pages per city
+    for (const body of bodyTypes) {
+        const slug = slugify(body);
+        urls.push(absolute(site, `/pre-owned-luxury-cars/${c.citySlug}/${slug}`));
+        urls.push(absolute(site, `/second-hand-luxury-cars/${c.citySlug}/${slug}`));
+    }
+
+    // Fuel Type pages per city
+    for (const fuel of fuelTypes) {
+        const slug = slugify(fuel);
+        urls.push(absolute(site, `/pre-owned-luxury-cars/${c.citySlug}/${slug}`));
+        urls.push(absolute(site, `/second-hand-luxury-cars/${c.citySlug}/${slug}`));
+    }
   }
 
   for (const d of getAllDealers()) {
     urls.push(
       absolute(site, `/pre-owned-luxury-cars/${d.citySlug}/${d.dealerSlug}`)
     );
+    // Usually dealers don't have second-hand prefixed specific pages, or do they?
+    // Based on routing, they seem to share the slug space.
+    // If [slug].astro handles both, we might want to expose second-hand routes for dealers too?
+    // The previous sitemap only had /pre-owned-luxury-cars/... for dealers.
+    // I'll stick to that unless requested.
   }
 
   // Used Car Pages

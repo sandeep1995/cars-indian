@@ -2,6 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import { getCities, getDealersByCitySlug, isLikelyUsedLuxuryDealer } from '../../../lib/dealers';
 import DealerCard from '../../../components/DealerCard.astro';
+import CarListing from '../../../components/CarListing.astro';
 import cityCovers from '../../../data/city-covers.json';
 
 export function getStaticPaths() {
@@ -115,7 +116,13 @@ const heroImage = coverUrl || dealers.find((d) => !!d.imageUrl)?.imageUrl;
 	</div>
 
 	<div class="max-w-[1180px] mx-auto px-6 py-12">
-		<div class="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-12">
+        <div class="mb-16">
+            <h2 class="font-serif text-3xl text-white mb-8">Available Cars in {cityName}</h2>
+            <!-- Car Listing Component - Prefilled with City -->
+            <CarListing initialCity={cityName} basePath="/cars" />
+        </div>
+
+		<div class="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-12 border-t border-white/10 pt-16">
 			<!-- Main Content -->
 			<div>
 				{featured.length > 0 && (

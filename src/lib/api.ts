@@ -109,6 +109,8 @@ export type FetchCarsOptions = {
   city?: string;
   oem?: string;
   model?: string;
+  body_type?: string;
+  fuel_type?: string;
   // We can add more specific filters here if needed
   [key: string]: string | number | undefined;
 };
@@ -144,6 +146,14 @@ export async function getCars(options: FetchCarsOptions = {}): Promise<FetchCars
   if (options.model) {
       whereClauses.push('c.model = ?');
       params.push(options.model);
+  }
+  if (options.body_type) {
+      whereClauses.push('c.body_type = ?');
+      params.push(options.body_type);
+  }
+  if (options.fuel_type) {
+      whereClauses.push('c.fuel_type = ?');
+      params.push(options.fuel_type);
   }
 
   if (whereClauses.length > 0) {
@@ -188,12 +198,14 @@ export async function getCars(options: FetchCarsOptions = {}): Promise<FetchCars
   }
 }
 
-export async function getFilterOptions(): Promise<{ oems: string[]; cities: string[] }> {
+export async function getFilterOptions(): Promise<{ oems: string[]; cities: string[]; bodyTypes: string[]; fuelTypes: string[] }> {
     const oemsSql = 'SELECT DISTINCT oem FROM used_cars ORDER BY oem ASC';
     const citiesSql = 'SELECT DISTINCT city FROM used_cars ORDER BY city ASC';
+    const bodyTypesSql = 'SELECT DISTINCT body_type FROM used_cars WHERE body_type IS NOT NULL AND body_type != "" ORDER BY body_type ASC';
+    const fuelTypesSql = 'SELECT DISTINCT fuel_type FROM used_cars WHERE fuel_type IS NOT NULL AND fuel_type != "" ORDER BY fuel_type ASC';
 
     try {
-        const [oemsRes, citiesRes] = await Promise.all([
+        const [oemsRes, citiesRes, bodyRes, fuelRes] = await Promise.all([
             fetch(QUERY_URL, {
                 method: 'POST',
                 headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
@@ -203,24 +215,38 @@ export async function getFilterOptions(): Promise<{ oems: string[]; cities: stri
                 method: 'POST',
                 headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
                 body: JSON.stringify({ query: citiesSql, params: [] })
+            }),
+            fetch(QUERY_URL, {
+                method: 'POST',
+                headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
+                body: JSON.stringify({ query: bodyTypesSql, params: [] })
+            }),
+            fetch(QUERY_URL, {
+                method: 'POST',
+                headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
+                body: JSON.stringify({ query: fuelTypesSql, params: [] })
             })
         ]);
 
-        if (!oemsRes.ok || !citiesRes.ok) {
+        if (!oemsRes.ok || !citiesRes.ok || !bodyRes.ok || !fuelRes.ok) {
             console.error('Failed to fetch filter options');
-            return { oems: [], cities: [] };
+            return { oems: [], cities: [], bodyTypes: [], fuelTypes: [] };
         }
 
         const oemsData = await oemsRes.json();
         const citiesData = await citiesRes.json();
+        const bodyData = await bodyRes.json();
+        const fuelData = await fuelRes.json();
 
         return {
             oems: (oemsData.results || []).map((r: any) => r.oem).filter(Boolean),
-            cities: (citiesData.results || []).map((r: any) => r.city).filter(Boolean)
+            cities: (citiesData.results || []).map((r: any) => r.city).filter(Boolean),
+            bodyTypes: (bodyData.results || []).map((r: any) => r.body_type).filter(Boolean),
+            fuelTypes: (fuelData.results || []).map((r: any) => r.fuel_type).filter(Boolean)
         };
     } catch (e) {
         console.error('Error fetching filter options:', e);
-        return { oems: [], cities: [] };
+        return { oems: [], cities: [], bodyTypes: [], fuelTypes: [] };
     }
 }
 
