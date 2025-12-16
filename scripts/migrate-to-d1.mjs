@@ -747,8 +747,8 @@ async function main() {
   }
 
   const scriptsDir = path.join(root, 'scripts');
-  const cachePath = path.join(scriptsDir, 'premium-used-cars-image-cache.json');
-  const dataPath = path.join(root, 'src', 'data', 'premium-used-cars.json');
+  const cachePath = path.join(scriptsDir, 'lux-cars-image-cache.json');
+  const dataPath = path.join(root, 'src', 'data', 'lux-cars.json');
 
   await fs.mkdir(scriptsDir, { recursive: true });
 
@@ -760,11 +760,11 @@ async function main() {
     cache = {};
   }
 
-  console.log('Loading premium-used-cars.json...');
+  console.log('Loading lux-cars.json...');
   const raw = await fs.readFile(dataPath, 'utf8');
   const cars = JSON.parse(raw);
   if (!Array.isArray(cars)) {
-    throw new Error('premium-used-cars.json must be an array');
+    throw new Error('lux-cars.json must be an array');
   }
 
   let carsToProcess = cars;

@@ -33,7 +33,7 @@ const description = car
 <Layout title={title} description={description}>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 	{!car ? (
-		<div class="rounded-2xl border border-white/10 bg-white/[0.02] p-10 text-center">
+		<div class="rounded-2xl border border-white/10 bg-white/2 p-10 text-center">
 			<h1 class="text-2xl font-serif text-white mb-3">Listing not found</h1>
 			<p class="text-white/60">This car listing may have expired or been removed.</p>
 			<div class="mt-6 flex justify-center gap-4">
@@ -49,22 +49,41 @@ const description = car
           <>
             <div class="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden bg-[#1a1d2d] border border-white/5">
               <img
+                id="main-car-image"
                 src={uniqueImages[0]}
                 alt={`${car.myear} ${car.oem} ${car.model}`}
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <div class="grid grid-cols-4 gap-4">
-              {uniqueImages.slice(1, 5).map((img) => (
-                <div class="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden bg-[#1a1d2d] border border-white/5 cursor-pointer hover:border-[#d6b25e]/50 transition-colors">
-                  <img
-                    src={img}
-                    alt={`${car.oem} ${car.model} thumbnail`}
-                    class="w-full h-full object-cover object-center"
-                  />
-                </div>
-              ))}
-            </div>
+          <div class="grid grid-cols-4 gap-4">
+            {uniqueImages.map((img, index) => (
+              <div 
+                class="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden bg-[#1a1d2d] border border-white/5 cursor-pointer hover:border-[#d6b25e]/50 transition-colors gallery-thumbnail"
+                data-src={img}
+              >
+                <img
+                  src={img}
+                  alt={`${car.oem} ${car.model} thumbnail ${index + 1}`}
+                  class="w-full h-full object-cover object-center"
+                />
+              </div>
+            ))}
+          </div>
+
+          <script>
+            // Simple gallery script
+            const mainImage = document.getElementById('main-car-image') as HTMLImageElement;
+            const thumbnails = document.querySelectorAll('.gallery-thumbnail');
+
+            thumbnails.forEach(thumb => {
+              thumb.addEventListener('click', () => {
+                const src = thumb.getAttribute('data-src');
+                if (mainImage && src) {
+                  mainImage.src = src;
+                }
+              });
+            });
+          </script>
           </>
         ) : (
           <div class="aspect-w-16 aspect-h-9 rounded-lg bg-[#1a1d2d] flex items-center justify-center text-gray-500 border border-white/5">
@@ -122,15 +141,20 @@ const description = car
           </div>
         )}
 
-        <div class="mt-10 flex gap-4">
-            <a href="/contact" class="flex-1 bg-[#d6b25e] border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-black hover:bg-[#c9a64e] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#d6b25e] transition-colors">
-                Contact Seller
-            </a>
-            {car.vlink && (
-                 <a href={`https://www.cardekho.com${car.vlink}`} target="_blank" rel="noopener noreferrer" class="flex-1 bg-transparent border border-white/20 rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-white/5 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white transition-colors">
-                    View Original Listing
-                 </a>
-            )}
+        <div class="mt-10 flex flex-col gap-4">
+            <div class="flex gap-4">
+                <a href="/contact" class="flex-1 bg-[#d6b25e] border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-black hover:bg-[#c9a64e] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#d6b25e] transition-colors">
+                    Contact
+                </a>
+                {car.vlink && (
+                     <a href={`https://www.cardekho.com${car.vlink}`} target="_blank" rel="noopener noreferrer" class="flex-1 bg-transparent border border-white/20 rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-white/5 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white transition-colors">
+                        View Original Listing
+                     </a>
+                )}
+            </div>
+            <p class="text-xs text-gray-500 text-center">
+                Note: We are not affiliated with CarDekho.com. The link above takes you to the original listing source.
+            </p>
         </div>
       </div>
     </div>
