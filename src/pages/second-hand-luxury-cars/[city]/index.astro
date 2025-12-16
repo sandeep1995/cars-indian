@@ -5,15 +5,14 @@ import DealerCard from '../../../components/DealerCard.astro';
 import CarListing from '../../../components/CarListing.astro';
 import cityCovers from '../../../data/city-covers.json';
 
-export function getStaticPaths() {
-	return getCities().map((c) => ({
-		params: { city: c.citySlug },
-		props: { cityName: c.cityName },
-	}));
-}
+export const prerender = false;
 
-const { cityName } = Astro.props as { cityName: string };
 const citySlug = Astro.params.city!;
+const cityObj = getCities().find((c) => c.citySlug === citySlug);
+const cityName = cityObj?.cityName ?? citySlug;
+if (!cityObj) {
+	Astro.response.status = 404;
+}
 const dealers = getDealersByCitySlug(citySlug);
 const featured = dealers
 	.filter((d) => (d.reviewsCount ?? 0) > 10 && (d.totalScore ?? 0) >= 4.0 && isLikelyUsedLuxuryDealer(d))

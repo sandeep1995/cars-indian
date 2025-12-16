@@ -4,41 +4,29 @@ import { getCities } from '../../lib/dealers';
 import { slugify } from '../../lib/slug';
 import brands from '../../data/luxury-brands.json';
 
-export async function getStaticPaths() {
-  const cities = getCities().sort((a, b) => b.count - a.count).slice(0, 80); // Top 80 cities
+export const prerender = false;
 
-  const paths = [];
+const slug = Astro.params.slug!;
 
-  for (const city of cities) {
-    // Generic "Sell Luxury Cars" page
-    // URL: /sell/luxury-cars-in-[city]
-    paths.push({
-      params: { slug: `luxury-cars-in-${city.citySlug}` },
-      props: { 
-        city: city.cityName,
-        citySlug: city.citySlug,
-        brand: undefined 
-      }
-    });
+// Supported patterns:
+// - /sell/luxury-cars-in-<citySlug>
+// - /sell/<brandSlug>-in-<citySlug>
+const citySlug = slug.split('-in-').at(-1) || '';
+const brandSlugPart = slug.includes('-in-') ? slug.slice(0, slug.lastIndexOf('-in-')) : '';
 
-    // Brand specific pages
-    // URL: /sell/[brand]-in-[city]
-    for (const brand of brands) {
-       const brandSlug = slugify(brand);
-       paths.push({
-         params: { slug: `${brandSlug}-in-${city.citySlug}` },
-         props: {
-           city: city.cityName,
-           citySlug: city.citySlug,
-           brand: brand
-         }
-       });
-    }
-  }
-  return paths;
+const cities = getCities();
+const cityObj = cities.find((c) => c.citySlug === citySlug);
+const city = cityObj?.cityName ?? citySlug;
+
+const normalizedBrands = (brands as string[]).map((b) => ({ brand: b, slug: slugify(b) }));
+const brand =
+	brandSlugPart && brandSlugPart !== 'luxury-cars'
+		? normalizedBrands.find((b) => b.slug === brandSlugPart)?.brand
+		: undefined;
+
+if (!cityObj) {
+	Astro.response.status = 404;
 }
-
-const { city, citySlug, brand } = Astro.props;
 ---
 
 <SellCarCityPage city={city} citySlug={citySlug} brand={brand} />

@@ -1,5 +1,7 @@
 import type { APIRoute } from 'astro';
 
+export const prerender = false;
+
 function absolute(site: URL | undefined, pathname: string): string {
 	if (!site) return pathname;
 	return new URL(pathname, site).toString();

@@ -4,6 +4,8 @@ import { slugify } from '../lib/slug';
 import { getAllUsedCars, generateCarSlug, getFilterOptions } from '../lib/api';
 import brands from '../data/luxury-brands.json';
 
+export const prerender = false;
+
 function xmlEscape(s: string): string {
   return s
     .replaceAll('&', '&amp;')

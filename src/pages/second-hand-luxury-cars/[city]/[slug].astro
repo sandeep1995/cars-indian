@@ -1,67 +1,26 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import { getAllDealers, getCities } from '../../../lib/dealers';
+import { getCities, getDealersByCitySlug } from '../../../lib/dealers';
 import { safeText, slugify } from '../../../lib/slug';
 import luxuryBrands from '../../../data/luxury-brands.json';
 import CarListing from '../../../components/CarListing.astro';
 import { getFilterOptions } from '../../../lib/api';
 
-export async function getStaticPaths() {
-	const dealers = getAllDealers();
-	const cities = getCities();
-	const citySet = new Set(cities.map((c) => c.citySlug));
-    const { bodyTypes, fuelTypes } = await getFilterOptions();
+export const prerender = false;
 
-	// Paths for dealers
-	const dealerPaths = dealers
-		.filter((d) => citySet.has(d.citySlug))
-		.map((d) => ({
-			params: { city: d.citySlug, slug: d.dealerSlug },
-			props: { type: 'dealer' as const, cityName: d.cityName, dealer: d },
-		}));
+const citySlug = Astro.params.city!;
+const slug = Astro.params.slug!;
 
-	// Paths for brands
-	const brandPaths = [];
-	for (const city of cities) {
-		for (const brand of luxuryBrands) {
-			brandPaths.push({
-				params: { city: city.citySlug, slug: slugify(brand) },
-				props: { type: 'brand' as const, cityName: city.cityName, brand },
-			});
-		}
-	}
-
-    // Paths for body types
-    const bodyPaths = [];
-    for (const city of cities) {
-        for (const body of bodyTypes) {
-            bodyPaths.push({
-                params: { city: city.citySlug, slug: slugify(body) },
-                props: { type: 'body' as const, cityName: city.cityName, body },
-            });
-        }
-    }
-
-    // Paths for fuel types
-    const fuelPaths = [];
-    for (const city of cities) {
-        for (const fuel of fuelTypes) {
-            fuelPaths.push({
-                params: { city: city.citySlug, slug: slugify(fuel) },
-                props: { type: 'fuel' as const, cityName: city.cityName, fuel },
-            });
-        }
-    }
-
-	return [...dealerPaths, ...brandPaths, ...bodyPaths, ...fuelPaths];
+const cityObj = getCities().find((c) => c.citySlug === citySlug);
+const cityName = cityObj?.cityName ?? citySlug;
+if (!cityObj) {
+	Astro.response.status = 404;
 }
 
-const { type, cityName } = Astro.props;
-const { city: citySlug } = Astro.params;
+const dealers = getDealersByCitySlug(citySlug);
+const dealer = dealers.find((d) => d.dealerSlug === slug);
+const isDealer = !!dealer;
 
-const isDealer = type === 'dealer';
-
-let dealer: any = undefined;
 let dealerPageTitle = '';
 let dealerDescription = '';
 let dealerMapLink: string | undefined = undefined;
@@ -69,7 +28,6 @@ let dealerJsonLd: any = undefined;
 let dealerHeroImage: string | undefined = undefined;
 
 if (isDealer) {
-	dealer = (Astro.props as any).dealer;
 	dealerPageTitle = `${safeText(dealer.title, 'Dealer')} - ${cityName} | IndianLuxuryCars.com`;
 	dealerDescription = `Contact ${safeText(dealer.title, 'dealer')} in ${cityName}. Address, phone, website, reviews, and location.`;
 	dealerMapLink =
@@ -120,21 +78,29 @@ let initialBodyType = undefined;
 let initialFuelType = undefined;
 
 if (!isDealer) {
-	if (type === 'brand') {
-		const brand = (Astro.props as any).brand;
-		initialOem = brand;
-		filterTitle = `Second Hand ${brand} Cars in ${cityName}`;
-		filterDescription = `Looking for second hand ${brand} in ${cityName}? Browse verified dealers and private sellers for used ${brand} cars. Check prices and availability in ${cityName}.`;
-	} else if (type === 'body') {
-		const body = (Astro.props as any).body;
-		initialBodyType = body;
-		filterTitle = `Second Hand ${body} Cars in ${cityName}`;
-		filterDescription = `Looking for second hand ${body} cars in ${cityName}? Browse our collection of used ${body}s. Verified dealers, best prices in ${cityName}.`;
-	} else if (type === 'fuel') {
-		const fuel = (Astro.props as any).fuel;
-		initialFuelType = fuel;
-		filterTitle = `Second Hand ${fuel} Cars in ${cityName}`;
-		filterDescription = `Find second hand ${fuel} cars for sale in ${cityName}. Browse our collection of used ${fuel} luxury vehicles. Verified dealers in ${cityName}.`;
+	const brandMatch = (luxuryBrands as string[]).find((b) => slugify(b) === slug);
+	if (brandMatch) {
+		initialOem = brandMatch;
+		filterTitle = `Second Hand ${brandMatch} Cars in ${cityName}`;
+		filterDescription = `Looking for second hand ${brandMatch} in ${cityName}? Browse verified dealers and private sellers for used ${brandMatch} cars. Check prices and availability in ${cityName}.`;
+	} else {
+		const { bodyTypes, fuelTypes } = await getFilterOptions();
+		const bodyMatch = bodyTypes.find((b) => slugify(b) === slug);
+		const fuelMatch = !bodyMatch ? fuelTypes.find((f) => slugify(f) === slug) : undefined;
+
+		if (bodyMatch) {
+			initialBodyType = bodyMatch;
+			filterTitle = `Second Hand ${bodyMatch} Cars in ${cityName}`;
+			filterDescription = `Looking for second hand ${bodyMatch} cars in ${cityName}? Browse our collection of used ${bodyMatch}s. Verified dealers, best prices in ${cityName}.`;
+		} else if (fuelMatch) {
+			initialFuelType = fuelMatch;
+			filterTitle = `Second Hand ${fuelMatch} Cars in ${cityName}`;
+			filterDescription = `Find second hand ${fuelMatch} cars for sale in ${cityName}. Browse our collection of used ${fuelMatch} luxury vehicles. Verified dealers in ${cityName}.`;
+		} else {
+			Astro.response.status = 404;
+			filterTitle = `Second Hand Luxury Cars in ${cityName}`;
+			filterDescription = `Browse second hand luxury cars in ${cityName}.`;
+		}
 	}
 }
 

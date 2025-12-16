@@ -1,34 +1,47 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getAllUsedCars, generateCarSlug, type UsedCar } from '../../lib/api';
+import { getCarByRowId, type UsedCar } from '../../lib/api';
 
-export async function getStaticPaths() {
-  const cars = await getAllUsedCars();
-  
-  return cars.map(car => {
-    return {
-      params: { slug: generateCarSlug(car) },
-      props: { car }
-    };
-  });
-}
+export const prerender = false;
 
 type Props = {
   car: UsedCar;
 };
 
-const { car } = Astro.props;
+const slug = Astro.params.slug!;
+// Slug format ends with "-<id>" where id is the internal row id (see generateCarSlug()).
+const idPart = slug.split('-').at(-1);
+const rowId = idPart ? Number(idPart) : NaN;
+
+const car = Number.isFinite(rowId) ? await getCarByRowId(rowId) : null;
+if (!car) {
+	Astro.response.status = 404;
+}
 
 // Use images from car object
-const uniqueImages = car.images || [];
+const uniqueImages = car?.images || [];
 
-const title = `Used ${car.myear} ${car.oem} ${car.model} ${car.variant_name} in ${car.city} - IndianLuxuryCars.com`;
-const description = `Buy used ${car.myear} ${car.oem} ${car.model} ${car.variant_name} in ${car.city}. Price: ${car.formatted_price}. ${car.km} km, ${car.fuel_type}, ${car.transmission_type}.`;
+const title = car
+	? `Used ${car.myear} ${car.oem} ${car.model} ${car.variant_name} in ${car.city} - IndianLuxuryCars.com`
+	: `Car Not Found - IndianLuxuryCars.com`;
+const description = car
+	? `Buy used ${car.myear} ${car.oem} ${car.model} ${car.variant_name} in ${car.city}. Price: ${car.formatted_price}. ${car.km} km, ${car.fuel_type}, ${car.transmission_type}.`
+	: `The requested car listing could not be found.`;
 
 ---
 
 <Layout title={title} description={description}>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+	{!car ? (
+		<div class="rounded-2xl border border-white/10 bg-white/[0.02] p-10 text-center">
+			<h1 class="text-2xl font-serif text-white mb-3">Listing not found</h1>
+			<p class="text-white/60">This car listing may have expired or been removed.</p>
+			<div class="mt-6 flex justify-center gap-4">
+				<a href="/" class="px-6 py-3 rounded-full bg-white/10 hover:bg-white/15 text-white transition-colors">Go home</a>
+				<a href="/cars" class="px-6 py-3 rounded-full bg-[#d6b25e] text-black hover:bg-[#c9a64e] transition-colors">Browse cars</a>
+			</div>
+		</div>
+	) : (
     <div class="lg:grid lg:grid-cols-2 lg:gap-x-8 lg:items-start">
       <!-- Image Gallery -->
       <div class="flex flex-col gap-4">
@@ -121,6 +134,7 @@ const description = `Buy used ${car.myear} ${car.oem} ${car.model} ${car.variant
         </div>
       </div>
     </div>
+	)}
   </div>
 </Layout>
 

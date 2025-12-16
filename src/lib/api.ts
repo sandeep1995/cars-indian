@@ -299,6 +299,47 @@ export async function getCarDetails(used_car_id: number): Promise<UsedCar | null
     }
 }
 
+export async function getCarByRowId(id: number): Promise<UsedCar | null> {
+	// Fetch car (by internal row id) and all its images
+	const sql = `
+		SELECT c.*, i.image_url
+		FROM used_cars c
+		LEFT JOIN car_images i ON c.used_car_id = i.used_car_id
+		WHERE c.id = ?
+		ORDER BY i.is_primary DESC, i.image_order ASC
+	`;
+
+	try {
+		const response = await fetch(QUERY_URL, {
+			method: 'POST',
+			headers: {
+				'Authorization': `Bearer ${TOKEN}`,
+				'Content-Type': 'application/json',
+			},
+			body: JSON.stringify({ query: sql, params: [id] }),
+		});
+
+		if (!response.ok) return null;
+
+		const data = await response.json();
+		const rows = data.results || [];
+		if (rows.length === 0) return null;
+
+		const car = { ...rows[0], images: [] as string[] };
+		const images = new Set<string>();
+		for (const row of rows) {
+			if (row.image_url) images.add(row.image_url);
+		}
+		car.images = Array.from(images);
+		delete car.image_url;
+
+		return car;
+	} catch (e) {
+		console.error('Error fetching car by row id:', e);
+		return null;
+	}
+}
+
 export function generateCarSlug(car: UsedCar): string {
   // Pattern: make-model-year-city-id
   // e.g. kia-sonet-2024-rajkot-365

@@ -6,6 +6,8 @@ import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
+  // Astro removed `output: "hybrid"`; `output: "static"` now supports the same
+  // behavior when using an adapter + `export const prerender = false` per route.
   output: 'static',
   site: 'https://indianluxurycars.com/',
 
