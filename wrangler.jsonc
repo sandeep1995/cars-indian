@@ -1,6 +1,7 @@
 {
   "main": "dist/_worker.js/index.js",
   "name": "cars-indian",
+  "account_id": "e3715bd8aa0c6e455f26ccd0a2ba0919",
   "compatibility_date": "2025-12-14",
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": {

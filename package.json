@@ -18,10 +18,13 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.12",
+    "@astrojs/react": "^4.4.2",
     "@aws-sdk/client-s3": "^3.895.0",
     "astro": "^5.16.5",
     "better-sqlite3": "^11.0.0",
-    "googleapis": "^144.0.0"
+    "googleapis": "^144.0.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.18",

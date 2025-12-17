@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
+import react from '@astrojs/react';
 
 import cloudflare from '@astrojs/cloudflare';
 
@@ -10,6 +11,8 @@ export default defineConfig({
   // behavior when using an adapter + `export const prerender = false` per route.
   output: 'static',
   site: 'https://indianluxurycars.com/',
+
+  integrations: [react()],
 
   vite: {
     plugins: [tailwindcss()],

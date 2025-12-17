@@ -59,3 +59,17 @@ CREATE INDEX IF NOT EXISTS idx_car_images_car_id ON car_images(used_car_id);
 CREATE INDEX IF NOT EXISTS idx_car_images_order ON car_images(used_car_id, image_order);
 CREATE INDEX IF NOT EXISTS idx_car_images_primary ON car_images(used_car_id, is_primary);
 
+CREATE TABLE IF NOT EXISTS contact_form (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT NOT NULL,
+  phone_number TEXT NOT NULL,
+  email TEXT,
+  car_name TEXT,
+  location TEXT,
+  is_sell BOOLEAN DEFAULT 0,
+  created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE INDEX IF NOT EXISTS idx_contact_form_created_at ON contact_form(created_at);
+CREATE INDEX IF NOT EXISTS idx_contact_form_is_sell ON contact_form(is_sell);
+
