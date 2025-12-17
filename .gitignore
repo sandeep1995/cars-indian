@@ -26,3 +26,5 @@ pnpm-debug.log*
 # D1 migration temp files
 scripts/.d1-temp/
 scripts/used-cars-image-cache.json
+scripts/service.json
+
