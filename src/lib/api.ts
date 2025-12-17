@@ -1,9 +1,7 @@
 import { slugify } from './slug';
 
-// Hardcoded token as requested
 const TOKEN = 'qbxm2tn9';
-const API_URL = 'https://api.indianluxurycars.com/rest/used_cars';
-const QUERY_URL = 'https://api.indianluxurycars.com/query';
+const API_URL = 'https://api.indianluxurycars.com/rest/';
 
 export type UsedCar = {
   id: number;
@@ -41,63 +39,85 @@ export type UsedCar = {
   // Enhanced fields
   image_url?: string;
   images?: string[];
+  condition?: string;
+  description?: string;
 };
 
-export async function getAllUsedCars(): Promise<UsedCar[]> {
-  // Use query API to get all cars and their images efficiently
-  // We use a LEFT JOIN to get all images, ordered by car then image priority
-  // Note: Fetching ALL cars + ALL images might be heavy.
-  // Ideally for sitemap/static paths, we just need basic info.
-  // But to remove JSON cache from [slug].astro static generation, we need images there.
-  
-  const sql = `
-    SELECT c.*, i.image_url, i.is_primary 
-    FROM used_cars c 
-    LEFT JOIN car_images i ON c.used_car_id = i.used_car_id 
-    ORDER BY c.created_at DESC, i.is_primary DESC
-  `;
-
+async function getCarImages(used_car_id: number): Promise<string[]> {
   try {
-    const response = await fetch(QUERY_URL, {
-        method: 'POST',
+    const response = await fetch(
+      `${API_URL}car_images?used_car_id=${used_car_id}&limit=1000`,
+      {
         headers: {
-            'Authorization': `Bearer ${TOKEN}`,
-            'Content-Type': 'application/json'
+          Authorization: `Bearer ${TOKEN}`,
         },
-        body: JSON.stringify({ query: sql, params: [] })
-    });
+      }
+    );
 
     if (!response.ok) {
-        console.error(`Failed to fetch all cars: ${response.status}`);
-        return [];
+      console.error(
+        `Failed to fetch images for car ${used_car_id}: ${response.status}`
+      );
+      return [];
     }
 
     const data = await response.json();
-    const rows = data.results || [];
-    
-    // Group rows by car
-    const carsMap = new Map<number, UsedCar>();
-    
-    for (const row of rows) {
-        if (!carsMap.has(row.id)) {
-            carsMap.set(row.id, { ...row, images: [] });
-            delete carsMap.get(row.id)!.image_url; // Clean up
-            delete carsMap.get(row.id)!.is_primary; // Clean up
-        }
-        
-        const car = carsMap.get(row.id)!;
-        if (row.image_url) {
-            // Avoid duplicates
-            if (!car.images!.includes(row.image_url)) {
-                car.images!.push(row.image_url);
-            }
-        }
+    const images = Array.isArray(data) ? data : data.results || [];
+
+    if (images.length === 0) {
+      return [];
     }
 
-    return Array.from(carsMap.values());
+    const imageUrls = images
+      .map((img: any) => {
+        if (typeof img === 'string') {
+          return img;
+        }
+        return img.image_url || img.url || img.src || null;
+      })
+      .filter(Boolean);
+
+    return imageUrls;
   } catch (e) {
-      console.error('Error fetching all cars:', e);
+    console.error(`Error fetching images for car ${used_car_id}:`, e);
+    return [];
+  }
+}
+
+export async function getAllUsedCars(): Promise<UsedCar[]> {
+  try {
+    const response = await fetch(
+      `${API_URL}used_cars?sort_by=created_at&order=desc`,
+      {
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+        },
+      }
+    );
+
+    if (!response.ok) {
+      console.error(`Failed to fetch all cars: ${response.status}`);
       return [];
+    }
+
+    const data = await response.json();
+    const cars = Array.isArray(data) ? data : data.results || [];
+
+    const carsWithImages = await Promise.all(
+      cars.map(async (car: any) => {
+        const images = await getCarImages(car.used_car_id);
+        return {
+          ...car,
+          image_url: images.length > 0 ? images[0] : undefined,
+          images,
+        };
+      })
+    );
+
+    return carsWithImages;
+  } catch (e) {
+    console.error('Error fetching all cars:', e);
+    return [];
   }
 }
 
@@ -124,75 +144,72 @@ export type FetchCarsResult = {
   };
 };
 
-export async function getCars(options: FetchCarsOptions = {}): Promise<FetchCarsResult> {
-  // Build SQL Query dynamically
-  let sql = `
-    SELECT c.*, i.image_url 
-    FROM used_cars c 
-    LEFT JOIN car_images i ON c.used_car_id = i.used_car_id AND i.is_primary = 1
-  `;
-  
-  const whereClauses: string[] = [];
-  const params: any[] = [];
+export async function getCars(
+  options: FetchCarsOptions = {}
+): Promise<FetchCarsResult> {
+  const queryParams = new URLSearchParams();
 
   if (options.city) {
-    // Some pages may pass "Delhi" while data may contain "New Delhi" etc.
-    // Use a case-insensitive exact-or-contains match to keep filters forgiving.
-    whereClauses.push('(LOWER(c.city) = LOWER(?) OR LOWER(c.city) LIKE \'%\' || LOWER(?) || \'%\')');
-    params.push(options.city, options.city);
+    queryParams.append('city', options.city);
   }
   if (options.oem) {
-    whereClauses.push('c.oem = ?');
-    params.push(options.oem);
+    queryParams.append('oem', options.oem);
   }
   if (options.model) {
-      whereClauses.push('c.model = ?');
-      params.push(options.model);
+    queryParams.append('model', options.model);
   }
   if (options.body_type) {
-      whereClauses.push('c.body_type = ?');
-      params.push(options.body_type);
+    queryParams.append('body_type', options.body_type);
   }
   if (options.fuel_type) {
-      whereClauses.push('c.fuel_type = ?');
-      params.push(options.fuel_type);
+    queryParams.append('fuel_type', options.fuel_type);
   }
 
-  if (whereClauses.length > 0) {
-    sql += ' WHERE ' + whereClauses.join(' AND ');
-  }
+  const sortCol = options.sort_by === 'price' ? 'price' : 'created_at';
+  const sortOrder = options.order === 'asc' ? 'asc' : 'desc';
+  queryParams.append('sort_by', sortCol);
+  queryParams.append('order', sortOrder);
 
-  // Sorting
-  const sortCol = options.sort_by === 'price' ? 'c.price' : 'c.created_at';
-  const sortOrder = options.order === 'asc' ? 'ASC' : 'DESC';
-  sql += ` ORDER BY ${sortCol} ${sortOrder}`;
-
-  // Pagination
   const limit = options.limit || 24;
   const offset = options.offset || 0;
-  sql += ` LIMIT ? OFFSET ?`;
-  params.push(limit, offset);
+  queryParams.append('limit', limit.toString());
+  queryParams.append('offset', offset.toString());
 
   try {
-    const response = await fetch(QUERY_URL, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${TOKEN}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({ query: sql, params })
-    });
+    const response = await fetch(
+      `${API_URL}used_cars?${queryParams.toString()}`,
+      {
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+        },
+      }
+    );
 
     if (!response.ok) {
-      console.error(`Failed to fetch cars: ${response.status} ${response.statusText}`);
+      console.error(
+        `Failed to fetch cars: ${response.status} ${response.statusText}`
+      );
       return { success: false, results: [], meta: {} };
     }
 
     const data = await response.json();
+    const cars = Array.isArray(data) ? data : data.results || [];
+
+    const carsWithImages = await Promise.all(
+      cars.map(async (car: any) => {
+        const images = await getCarImages(car.used_car_id);
+        return {
+          ...car,
+          image_url: images.length > 0 ? images[0] : undefined,
+          images,
+        };
+      })
+    );
+
     return {
-        success: data.success,
-        results: data.results || [],
-        meta: data.meta || {}
+      success: true,
+      results: carsWithImages,
+      meta: data.meta || { total: cars.length },
     };
   } catch (error) {
     console.error('Error fetching cars:', error);
@@ -200,144 +217,132 @@ export async function getCars(options: FetchCarsOptions = {}): Promise<FetchCars
   }
 }
 
-export async function getFilterOptions(): Promise<{ oems: string[]; cities: string[]; bodyTypes: string[]; fuelTypes: string[] }> {
-    const oemsSql = 'SELECT DISTINCT oem FROM used_cars ORDER BY oem ASC';
-    const citiesSql = 'SELECT DISTINCT city FROM used_cars ORDER BY city ASC';
-    const bodyTypesSql = 'SELECT DISTINCT body_type FROM used_cars WHERE body_type IS NOT NULL AND body_type != "" ORDER BY body_type ASC';
-    const fuelTypesSql = 'SELECT DISTINCT fuel_type FROM used_cars WHERE fuel_type IS NOT NULL AND fuel_type != "" ORDER BY fuel_type ASC';
+export async function getFilterOptions(): Promise<{
+  oems: string[];
+  cities: string[];
+  bodyTypes: string[];
+  fuelTypes: string[];
+}> {
+  try {
+    const response = await fetch(`${API_URL}used_cars?limit=10000`, {
+      headers: {
+        Authorization: `Bearer ${TOKEN}`,
+      },
+    });
 
-    try {
-        const [oemsRes, citiesRes, bodyRes, fuelRes] = await Promise.all([
-            fetch(QUERY_URL, {
-                method: 'POST',
-                headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
-                body: JSON.stringify({ query: oemsSql, params: [] })
-            }),
-            fetch(QUERY_URL, {
-                method: 'POST',
-                headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
-                body: JSON.stringify({ query: citiesSql, params: [] })
-            }),
-            fetch(QUERY_URL, {
-                method: 'POST',
-                headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
-                body: JSON.stringify({ query: bodyTypesSql, params: [] })
-            }),
-            fetch(QUERY_URL, {
-                method: 'POST',
-                headers: { 'Authorization': `Bearer ${TOKEN}`, 'Content-Type': 'application/json' },
-                body: JSON.stringify({ query: fuelTypesSql, params: [] })
-            })
-        ]);
-
-        if (!oemsRes.ok || !citiesRes.ok || !bodyRes.ok || !fuelRes.ok) {
-            console.error('Failed to fetch filter options');
-            return { oems: [], cities: [], bodyTypes: [], fuelTypes: [] };
-        }
-
-        const oemsData = await oemsRes.json();
-        const citiesData = await citiesRes.json();
-        const bodyData = await bodyRes.json();
-        const fuelData = await fuelRes.json();
-
-        return {
-            oems: (oemsData.results || []).map((r: any) => r.oem).filter(Boolean),
-            cities: (citiesData.results || []).map((r: any) => r.city).filter(Boolean),
-            bodyTypes: (bodyData.results || []).map((r: any) => r.body_type).filter(Boolean),
-            fuelTypes: (fuelData.results || []).map((r: any) => r.fuel_type).filter(Boolean)
-        };
-    } catch (e) {
-        console.error('Error fetching filter options:', e);
-        return { oems: [], cities: [], bodyTypes: [], fuelTypes: [] };
+    if (!response.ok) {
+      console.error('Failed to fetch filter options');
+      return { oems: [], cities: [], bodyTypes: [], fuelTypes: [] };
     }
+
+    const data = await response.json();
+    const cars = Array.isArray(data) ? data : data.results || [];
+
+    const oemsSet = new Set<string>();
+    const citiesSet = new Set<string>();
+    const bodyTypesSet = new Set<string>();
+    const fuelTypesSet = new Set<string>();
+
+    for (const car of cars) {
+      if (car.oem) oemsSet.add(car.oem);
+      if (car.city) citiesSet.add(car.city);
+      if (car.body_type) bodyTypesSet.add(car.body_type);
+      if (car.fuel_type) fuelTypesSet.add(car.fuel_type);
+    }
+
+    return {
+      oems: Array.from(oemsSet).sort(),
+      cities: Array.from(citiesSet).sort(),
+      bodyTypes: Array.from(bodyTypesSet).sort(),
+      fuelTypes: Array.from(fuelTypesSet).sort(),
+    };
+  } catch (e) {
+    console.error('Error fetching filter options:', e);
+    return { oems: [], cities: [], bodyTypes: [], fuelTypes: [] };
+  }
 }
 
-export async function getCarDetails(used_car_id: number): Promise<UsedCar | null> {
-    // Fetch car and all its images
-    const sql = `
-        SELECT c.*, i.image_url
-        FROM used_cars c
-        LEFT JOIN car_images i ON c.used_car_id = i.used_car_id
-        WHERE c.used_car_id = ?
-        ORDER BY i.is_primary DESC, i.image_order ASC
-    `;
+export async function getCarDetails(
+  used_car_id: number
+): Promise<UsedCar | null> {
+  try {
+    const response = await fetch(
+      `${API_URL}used_cars?used_car_id=${used_car_id}&limit=1`,
+      {
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+        },
+      }
+    );
 
-    try {
-        const response = await fetch(QUERY_URL, {
-            method: 'POST',
-            headers: {
-                'Authorization': `Bearer ${TOKEN}`,
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({ query: sql, params: [used_car_id] })
-        });
+    if (!response.ok) return null;
 
-        if (!response.ok) return null;
-        
-        const data = await response.json();
-        const rows = data.results || [];
-        if (rows.length === 0) return null;
+    const data = await response.json();
+    const cars = Array.isArray(data) ? data : data.results || [];
+    if (cars.length === 0) return null;
 
-        // Combine rows into one object with images array
-        const car = { ...rows[0], images: [] as string[] };
-        // We might get multiple rows for the same car, each with a different image_url
-        // BUT the columns from 'c.*' are repeated.
-        
-        const images = new Set<string>();
-        for (const row of rows) {
-            if (row.image_url) {
-                images.add(row.image_url);
-            }
-        }
-        car.images = Array.from(images);
-        delete car.image_url; // Remove the single image_url field from the base object to avoid confusion
-
-        return car;
-    } catch (e) {
-        console.error('Error fetching car details:', e);
-        return null;
-    }
+    const car = cars[0];
+    const images = await getCarImages(used_car_id);
+    return {
+      ...car,
+      image_url: images.length > 0 ? images[0] : undefined,
+      images,
+    };
+  } catch (e) {
+    console.error('Error fetching car details:', e);
+    return null;
+  }
 }
 
 export async function getCarByRowId(id: number): Promise<UsedCar | null> {
-	// Fetch car (by internal row id) and all its images
-	const sql = `
-		SELECT c.*, i.image_url
-		FROM used_cars c
-		LEFT JOIN car_images i ON c.used_car_id = i.used_car_id
-		WHERE c.id = ?
-		ORDER BY i.is_primary DESC, i.image_order ASC
-	`;
+  try {
+    let response = await fetch(`${API_URL}used_cars/${id}`, {
+      headers: {
+        Authorization: `Bearer ${TOKEN}`,
+      },
+    });
 
-	try {
-		const response = await fetch(QUERY_URL, {
-			method: 'POST',
-			headers: {
-				'Authorization': `Bearer ${TOKEN}`,
-				'Content-Type': 'application/json',
-			},
-			body: JSON.stringify({ query: sql, params: [id] }),
-		});
+    if (!response.ok) {
+      response = await fetch(`${API_URL}used_cars?id=${id}&limit=1`, {
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+        },
+      });
+    }
 
-		if (!response.ok) return null;
+    if (!response.ok) {
+      console.error(
+        `Failed to fetch car by id ${id}: ${response.status} ${response.statusText}`
+      );
+      return null;
+    }
 
-		const data = await response.json();
-		const rows = data.results || [];
-		if (rows.length === 0) return null;
+    const data = await response.json();
 
-		const car = { ...rows[0], images: [] as string[] };
-		const images = new Set<string>();
-		for (const row of rows) {
-			if (row.image_url) images.add(row.image_url);
-		}
-		car.images = Array.from(images);
-		delete car.image_url;
+    let car;
+    if (Array.isArray(data)) {
+      car = data.length > 0 ? data[0] : null;
+    } else if (data.results && Array.isArray(data.results)) {
+      car = data.results.length > 0 ? data.results[0] : null;
+    } else {
+      car = data;
+    }
 
-		return car;
-	} catch (e) {
-		console.error('Error fetching car by row id:', e);
-		return null;
-	}
+    if (!car || !car.used_car_id) {
+      console.error(`Car data invalid for id ${id}:`, car);
+      return null;
+    }
+
+    const images = await getCarImages(car.used_car_id);
+    return {
+      ...car,
+      image_url: images.length > 0 ? images[0] : undefined,
+      images,
+    };
+  } catch (e) {
+    console.error(`Error fetching car by row id ${id}:`, e);
+    return null;
+  }
 }
 
 export function generateCarSlug(car: UsedCar): string {
@@ -348,8 +353,7 @@ export function generateCarSlug(car: UsedCar): string {
     car.model,
     car.myear.toString(),
     car.city,
-    car.id.toString()
+    car.id.toString(),
   ];
   return slugify(parts.join(' '));
 }
-
